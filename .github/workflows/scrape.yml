@@ -1,12 +1,11 @@
-name: Scrape
+name: Scrape Flock Safety Portals
 
 on:
   push:
   workflow_dispatch:
   schedule:
-  # Daily at 6:23 AM UTC
-  - cron: '23 6 * * *'
-  # For hourly at 42 minutes past the hour: '42 * * * *'
+    # Daily at 6:00 AM UTC
+    - cron: '0 6 * * *'
 
 permissions:
   contents: write
@@ -14,52 +13,47 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    if: ${{ !github.event.repository.is_template }}
     steps:
     - uses: actions/checkout@v4
-    - name: Create scrape.sh if it doesn't exist
+
+    - name: Set up Python 3.13
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.13"
+        cache: "pip"
+
+    - name: Install Python dependencies
       run: |
-        if [ ! -f "scrape.sh" ]; then
-          echo '#!/bin/bash' > scrape.sh
-          if [[ "$REPO_DESC" == http://* ]] || [[ "$REPO_DESC" == https://* ]]; then
-            echo "./download.sh '$REPO_DESC'" >> scrape.sh
-          else
-            echo "# ./download.sh 'https://www.example.com/'" >> scrape.sh
-          fi
-          chmod +x scrape.sh
-          echo "Created scrape.sh"
-          # And replace README.md
-          echo -e "# Scheduled scraper\n\nFor $REPO_DESC" > README.md 
-        fi
-      env:
-        REPO_DESC: ${{ github.event.repository.description }}
-    # Uncomment to use Python:
-    # - name: Set up Python 3.13
-    #   uses: actions/setup-python@v5
-    #   with:
-    #     python-version: "3.13"
-    #     cache: "pip"
-    # - name: Install dependencies
-    #   run: |
-    #     pip install -r requirements.txt
-    # Uncomment to use Playwright via shot-scraper (put shot-scraper in requirements.txt):
-    # - name: Cache Playwright browsers
-    #   uses: actions/cache@v4
-    #   with:
-    #     path: ~/.cache/ms-playwright/
-    #     key: ${{ runner.os }}-browsers
-    # - name: Install Playwright dependencies
-    #   run: |
-    #     shot-scraper install
-    - name: Run the scraper
+        pip install -r requirements.txt
+
+    - name: Install Playwright browsers and system deps
+      run: |
+        python3 -m playwright install chromium
+        python3 -m playwright install-deps chromium
+
+    - name: Install xvfb (virtual display for Playwright)
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y xvfb
+
+    - name: Run curl-based scraper (haveibeenflocked.com)
       run: |
         ./scrape.sh
-    - name: Commit and push
+
+    - name: Refresh WA agency list from haveibeenflocked.com
+      run: |
+        python3 scrape-flock.py --refresh-agencies
+
+    - name: Run Playwright scraper (all WA agencies via Xvfb)
+      run: |
+        xvfb-run -a python3 scrape-flock.py
+
+    - name: Commit and push changes
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
         git add -A
         timestamp=$(date -u)
-        git commit -m "${timestamp}" || exit 0
+        git diff --cached --quiet || git commit -m "${timestamp}"
         git pull --rebase
         git push
