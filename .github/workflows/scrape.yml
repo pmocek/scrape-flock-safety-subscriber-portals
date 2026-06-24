@@ -1,14 +1,17 @@
-name: Scrape Flock Safety Portals
+name: Flock Safety scraper
 
 on:
   push:
   workflow_dispatch:
   schedule:
-    # Daily at 6:00 AM UTC
-    - cron: '0 6 * * *'
+    # Daily at 6:23 AM UTC
+    - cron: '23 6 * * *'
 
 permissions:
   contents: write
+
+env:
+  PYTHON_VERSION: '3.13'
 
 jobs:
   scrape:
@@ -16,44 +19,47 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - name: Set up Python 3.13
+    - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-version: "3.13"
-        cache: "pip"
+        python-version: ${{ env.PYTHON_VERSION }}
 
     - name: Install Python dependencies
       run: |
         pip install -r requirements.txt
 
-    - name: Install Playwright browsers and system deps
+    - name: Cache Playwright browsers
+      uses: actions/cache@v4
+      id: playwright-cache
+      with:
+        path: ~/.cache/ms-playwright/
+        key: ${{ runner.os }}-playwright-chromium-${{ env.PYTHON_VERSION }}
+
+    - name: Install Playwright Chromium
+      if: steps.playwright-cache.outputs.cache-hit != 'true'
       run: |
         python3 -m playwright install chromium
+
+    - name: Install Playwright system deps
+      if: steps.playwright-cache.outputs.cache-hit != 'true'
+      run: |
+        sudo apt-get update -qq
         python3 -m playwright install-deps chromium
 
-    - name: Install xvfb (virtual display for Playwright)
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y xvfb
-
-    - name: Run curl-based scraper (haveibeenflocked.com)
+    - name: Run the scraper
       run: |
         ./scrape.sh
 
-    - name: Refresh WA agency list from haveibeenflocked.com
-      run: |
-        python3 scrape-flock.py --refresh-agencies
-
-    - name: Run Playwright scraper (all WA agencies via Xvfb)
-      run: |
-        xvfb-run -a python3 scrape-flock.py
-
-    - name: Commit and push changes
+    - name: Commit and push
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
         git add -A
-        timestamp=$(date -u)
-        git diff --cached --quiet || git commit -m "${timestamp}"
+        timestamp=$(date -u -Iseconds)
+        if git diff --cached --quiet; then
+          echo "Nothing changed — no commit"
+          exit 0
+        fi
+        git commit -m "${timestamp} UTC"
         git pull --rebase
         git push

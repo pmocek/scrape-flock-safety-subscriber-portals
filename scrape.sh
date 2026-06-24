@@ -1,24 +1,46 @@
-#!/bin/bash
+#!/usr/bin/env bash
+# Flock Safety Transparency Portal scraper
+# Downloads agency list + scrapes individual agency pages
+# Works both locally (with .venv) and in GitHub Actions CI
+set -euo pipefail
 
-# Flock Safety Transparency Portal - Git Scraper
-# Fetches agency list and individual agency transparency data
-# See https://simonwillison.net/2020/Oct/9/git-scraping/
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+cd "$SCRIPT_DIR"
 
-set -e
+echo "=== $(date -u -Iseconds): Scraping Flock Safety agencies ==="
 
-# 1. Agency list from haveibeenflocked.com (works, no Cloudflare)
+# 1. Agency list from haveibeenflocked.com (curl-based, no Cloudflare)
 ./download.sh 'https://haveibeenflocked.com/news/transparency-portals/'
 
-# 2. Individual Washington agency transparency portals
-# Note: These are behind Cloudflare. curl may get blocked.
-# Uncomment and test individually once a bypass is working:
-#
-# WA_AGENCIES=(
-#   "piedmont-ca-pd"
-# )
-# for slug in "${WA_AGENCIES[@]}"; do
-#   ./download.sh "https://transparency.flocksafety.com/${slug}"
-# done
+# 2. Determine Python and Playwright setup
+if [ -d ".venv" ]; then
+  # Local development — use virtualenv
+  PYTHON=".venv/bin/python3"
+else
+  # GitHub Actions — use system Python
+  PYTHON="python3"
+fi
 
-# 3. Future: Piedmont CA as test case
-# ./download.sh 'https://transparency.flocksafety.com/piedmont-ca-pd'
+# 3. Check for xvfb (needed for Playwright stealth to bypass Cloudflare)
+XVFB_RUN=""
+if command -v xvfb-run &>/dev/null; then
+  XVFB_RUN="xvfb-run -a"
+fi
+
+# 4. Run Playwright-based scraper for individual agency portals
+if $PYTHON -c "import playwright" 2>/dev/null; then
+  echo "Playwright available — scraping individual agency portals..."
+  $XVFB_RUN $PYTHON scrape-flock.py --refresh-agencies 2>&1 || echo "  (refresh-agencies step non-fatal)"
+
+  if [ -n "$XVFB_RUN" ]; then
+    # Full scrape with browser
+    $XVFB_RUN $PYTHON scrape-flock.py 2>&1 || echo "  (agency scrape step non-fatal)"
+  else
+    echo "  No Xvfb available — skipping browser-based agency scraping."
+    echo "  Only haveibeenflocked.com list will be updated."
+  fi
+else
+  echo "Playwright not installed — scraping haveibeenflocked.com agency list only."
+fi
+
+echo "=== Done: $(date -u -Iseconds) ==="

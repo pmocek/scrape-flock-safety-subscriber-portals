@@ -1,37 +1,37 @@
-# Flock Safety Transparency Portal Scraper
+# Flock Safety Transparency Portal scraper
 
-Git-scraping project that monitors Flock Safety subscriber transparency portals for Washington state agencies. Runs daily via GitHub Actions.
+Tracks Flock Safety subscriber data using the [git-scraping](https://simonwillison.net/2020/Oct/9/git-scraping/) pattern.
 
 ## What it does
 
-- Fetches the agency list from haveibeenflocked.com (curl-based)
-- Refreshes the list of Washington state agency slugs
-- Scrapes each WA agency's transparency portal via Playwright + Xvfb (bypasses Cloudflare)
-- Captures structured stats: cameras, vehicles detected, hotlist hits, searches, retention, agencies with access, policies
-- Saves raw HTML, extracted text, and parsed JSON per agency per day
-- Commits changes to git so you can track changes over time
+- Fetches the agency list from [haveibeenflocked.com](https://haveibeenflocked.com/news/transparency-portals/)
+- Scrapes individual agency transparency portals (`transparency.flocksafety.com/*`)
+- Extracts structured stats: cameras, vehicles, retention, searches, hotlist hits, external agencies with access
+- Commits any changes to git for change tracking over time
 
-## Data format
+## How it runs
 
-```
-data/YYYY-MM-DD/
-  _summary.json              # Run summary (OK/failed counts)
-  <agency-slug>/
-    page.html                # Raw page HTML
-    page.txt                 # Extracted plain text
-    stats.json               # Parsed stats
-```
+**Primary:** GitHub Actions — scheduled daily at 6:23 AM UTC via `.github/workflows/scrape.yml`.
+The Playwright-based scraper (`scrape-flock.py`) bypasses Cloudflare using a real (virtual) browser with stealth plugins.
 
-## Current Washington agencies tracked (~38)
+**Local development:** `./scrape.sh` also works locally with `.venv` (Playwright + Xvfb required).
 
-Arlington, Bonney Lake, Centralia, College Place, Des Moines, Eatonville, Edmonds, Ellensburg, Everett, Kent, Lake Stevens, Lakewood, Lynnwood, Marysville, Medina, Mill Creek, Monroe, Moses Lake, Mount Vernon, Newcastle, Olympia, Prosser, Puyallup, Renton, Richland, SeaTac, Selah, Shelton, Skamania County SO, Snohomish County SO, Spokane County SO, Stanwood, Sumner, Toppenish, Tukwila, Walla Walla, Yakima, Yelm
+## Files
 
-## Local dev
+| File | Purpose |
+|------|---------|
+| `scrape.sh` | Entry point — runs both the curl-based download and Playwright scrape |
+| `scrape-flock.py` | Playwright-based scraper for Cloudflare-protected agency pages |
+| `download.sh` | Simon Willison-style curl-based downloader |
+| `wa-agencies.json` | Refreshed list of WA agency slugs from haveibeenflocked.com |
+| `data/YYYY-MM-DD/` | Daily scrape output, one subdir per agency |
+| `.github/workflows/scrape.yml` | GitHub Actions workflow |
 
-```bash
-uv venv
-source .venv/bin/activate
-uv pip install -r requirements.txt
-python3 -m playwright install chromium
-xvfb-run -a python3 scrape-flock.py
-```
+## Output format
+
+Each agency scrape saves:
+- `page.html` — Full rendered HTML
+- `page.txt` — Extracted visible text
+- `stats.json` — Structured stats (cameras, vehicles, searches, retention, etc.)
+
+And `_summary.json` per run tracks success/failure per agency.
