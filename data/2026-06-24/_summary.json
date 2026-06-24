@@ -1,0 +1,13 @@
+{
+  "date": "2026-06-24",
+  "total": 1,
+  "ok": 1,
+  "failed": 0,
+  "results": [
+    {
+      "slug": "piedmont-ca-pd",
+      "success": true,
+      "error": null
+    }
+  ]
+}
