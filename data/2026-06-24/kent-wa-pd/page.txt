@@ -1,0 +1,98 @@
+Transparency Portal
+Visit Flock
+Kent WA PD
+Transparency Portal
+
+Last updated: Wed Jun 24 2026
+
+OVERVIEW
+
+The Kent Police Department uses Flock Safety ALPR cameras to locate missing or endangered persons (such as those associated with AMBER or Silver Alerts), to locate wanted suspects involved in felony crimes, to locate stolen vehicles or vehicles with stolen license plates, to identify vehicles believed to have been involved in crimes which are being investigated by Kent Police officers, and to canvass crime scenes for vehicles that may have been used by suspects to drive to or flee the scene.
+
+POLICIES
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by the Kent Police Department and is never sold to third parties.
+
+Prohibited Uses
+
+Civil immigration enforcement; automated traffic infraction ticketing; personal use; non-law enforcement purposes; harassment or intimidation; discrimination; usage based solely on a protected class (such as race, sex, or religion).
+
+Access Policy
+
+The system may only be accessed by Kent Police officers who have been trained in its use, for official and legitimate law enforcement purposes, and for a valid reason associated with an official case report or investigation.
+
+Hotlist Policy
+
+All "hotlist" hits are required to be verified by an officer prior to any law enforcement action being taken.
+USAGE
+
+Hotlists Alerted On
+
+Missing Persons; AMBER Alerts; Felony Warrants; Stolen Vehicles; Stolen Plates
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+19
+
+Sharing Network Data With
+
+Organizations granted access to Kent WA PD data.
+
+Auburn WA PD
+Cle Elum WA PD
+College Place WA PD
+Covington WA PD
+Des Moines WA PD
+East Wenatchee WA PD
+Enumclaw WA PD
+Grays Harbor County SO (WA)
+Mill Creek WA PD
+Port of Seattle WA PD
+Renton WA PD
+Sedro-Woolley WA PD
+Tukwila WA PD
+Tulalip Tribal Police Dept. (WA)
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+621,577
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+202
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+251
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+
+Provided by Flock Safety
