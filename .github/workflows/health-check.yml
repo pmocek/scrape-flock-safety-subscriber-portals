@@ -1,0 +1,40 @@
+name: Health check
+
+on:
+  schedule:
+    # Every hour at :53 — offset from scraper's :23 to avoid overlap
+    - cron: '53 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  PYTHON_VERSION: '3.13'
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Run health check
+      id: check
+      run: |
+        OUTPUT=$(python3 scripts/health-check.py 2>&1)
+        echo "$OUTPUT"
+        COMMIT_MSG=$(echo "$OUTPUT" | grep "^COMMIT_MSG:" | sed 's/^COMMIT_MSG: //')
+        echo "commit_msg=$COMMIT_MSG" >> "$GITHUB_OUTPUT"
+
+    - name: Commit and push
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        if git diff --cached --quiet; then
+          echo "Nothing changed — no commit"
+          exit 0
+        fi
+        git commit -m "${{ steps.check.outputs.commit_msg }}"
+        git pull --rebase
+        git push
