@@ -4,8 +4,13 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    # Daily at 6:23 AM UTC
-    - cron: '23 6 * * *'
+    # Staggered across the day — each run scrapes a batch
+    - cron: '23 2 * * *'   # 2:23 UTC → batch 1
+    - cron: '23 6 * * *'   # 6:23 UTC → batch 2
+    - cron: '23 10 * * *'  # 10:23 UTC → batch 3
+    - cron: '23 14 * * *'  # 14:23 UTC → batch 4
+    - cron: '23 18 * * *'  # 18:23 UTC → batch 5
+    - cron: '23 22 * * *'  # 22:23 UTC → batch 6
 
 permissions:
   contents: write
@@ -46,9 +51,22 @@ jobs:
         sudo apt-get update -qq
         python3 -m playwright install-deps chromium
 
+    - name: Determine batch
+      id: batch
+      run: |
+        if [ "${{ github.event_name }}" = "schedule" ]; then
+          HOUR=$(date -u +%H)
+          BATCH=$(( (HOUR / 4) + 1 ))
+          echo "batch=$BATCH" >> "$GITHUB_OUTPUT"
+          echo "Scheduled run — batch $BATCH of 6"
+        else
+          echo "batch=0" >> "$GITHUB_OUTPUT"
+          echo "Push/dispatch — full scrape"
+        fi
+
     - name: Run the scraper
       run: |
-        ./scrape.sh
+        ./scrape.sh --batch ${{ steps.batch.outputs.batch }} --total-batches 6
 
     - name: Commit and push
       run: |-

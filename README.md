@@ -11,8 +11,10 @@ Tracks Flock Safety subscriber data using the [git-scraping](https://simonwillis
 
 ## How it runs
 
-**Primary:** GitHub Actions — scheduled daily at 6:23 AM UTC via `.github/workflows/scrape.yml`.
-The Playwright-based scraper (`scrape-flock.py`) bypasses Cloudflare using a real (virtual) browser with stealth plugins.
+**Primary:** GitHub Actions — runs 6x daily (every 4 hours) via `.github/workflows/scrape.yml`.
+Each scheduled run scrapes a different batch of agencies so traffic is spread across the full day,
+avoiding burst detection. The Playwright-based scraper (`scrape-flock.py`) bypasses Cloudflare using
+a real (virtual) browser with stealth plugins.
 
 **Local development:** `./scrape.sh` also works locally with `.venv` (Playwright + Xvfb required).
 
@@ -24,14 +26,27 @@ The Playwright-based scraper (`scrape-flock.py`) bypasses Cloudflare using a rea
 | `scrape-flock.py` | Playwright-based scraper for Cloudflare-protected agency pages |
 | `download.sh` | Simon Willison-style curl-based downloader |
 | `wa-agencies.json` | Refreshed list of WA agency slugs from haveibeenflocked.com |
-| `data/YYYY-MM-DD/` | Daily scrape output, one subdir per agency |
+| `data/{slug}/` | Per-agency output, one subdir per agency (overwritten each run) |
 | `.github/workflows/scrape.yml` | GitHub Actions workflow |
 
 ## Output format
 
-Each agency scrape saves:
-- `page.html` — Full rendered HTML
-- `page.txt` — Extracted visible text
-- `stats.json` — Structured stats (cameras, vehicles, searches, retention, etc.)
+Each agency scrape saves into `data/{slug}/`:
+- `stats.jsonl` — Appended each run (one JSON line per snapshot, with `ts` key)
+- `page.html` — Full rendered HTML (overwritten)
+- `page.txt` — Extracted visible text (overwritten)
 
-And `_summary.json` per run tracks success/failure per agency.
+Files overwritten in place each run; `stats.jsonl` grows as an append-only log.
+Git commits only when data actually changes (`git add -A` + empty-diff check).
+
+## Batching (avoiding bursts)
+
+GitHub Actions runs the workflow 6 times per day (every 4 hours). Each
+scheduled run scrapes one batch of ~6 agencies so traffic is spread
+across 24 hours naturally without idle sleep in CI.
+
+On `push` or `workflow_dispatch`, the full agency list is scraped.
+
+To run a specific batch locally:
+
+    python3 scrape-flock.py --batch 3 --total-batches 6
