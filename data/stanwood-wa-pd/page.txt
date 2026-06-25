@@ -1,13 +1,13 @@
 Transparency Portal
 Visit Flock
-Toppenish WA PD
+Stanwood WA PD
 Transparency Portal
 
 Last updated: Thu Jun 25 2026
 
 OVERVIEW
 
-Toppenish WA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Toppenish WA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Toppenish WA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+Stanwood WA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Stanwood WA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Stanwood WA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
 
 POLICIES
 
@@ -21,7 +21,7 @@ Facial recognition, People, Gender, Race
 
 Acceptable Use Policy
 
-Data is used for law enforcement purposes only. Data is owned by Toppenish WA PD and is never sold to 3rd parties.
+Data is used for law enforcement purposes only. Data is owned by Stanwood WA PD and is never sold to 3rd parties.
 
 Prohibited Uses
 
@@ -46,24 +46,35 @@ Total Cameras
 
 Number of LPR and other cameras.
 
-25
-
-Hotlists Alerted On
-
-National and statewide hotlist sources.
-
-NCMEC Amber Alert
+12
 
 Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-83,703
+107,232
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-230
+19
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+3
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+ADDITIONAL INFO
+
+Recent Success Story
+
+Additional Info
 
 Provided by Flock Safety
