@@ -1,9 +1,0 @@
-{
-  "retention_days": 21,
-  "total_cameras": 17,
-  "hotlist_hits_30d": 83,
-  "searches_30d": 31,
-  "acceptable_use": "Data is used for law enforcement purposes only. Data is owned by Mill Creek WA PD and is never sold to 3rd parties.",
-  "prohibited_uses": "ALPR technology and data shall not be used for the sole purpose of immigration enforcement.",
-  "access_policy": "Access to the Mill Creek Flock Safety network is restricted to Snohomish County LE agencies who have completed and signed a Data Sharing Agreement. All inquiries must have valid LE nexus and state the reason for search. This data is audited and retained per WA State law.\nUSAGE"
-}
