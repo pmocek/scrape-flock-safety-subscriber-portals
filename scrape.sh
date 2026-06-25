@@ -33,8 +33,7 @@ if $PYTHON -c "import playwright" 2>/dev/null; then
   $XVFB_RUN $PYTHON scrape-flock.py --refresh-agencies 2>&1 || echo "  (refresh-agencies step non-fatal)"
 
   if [ -n "$XVFB_RUN" ]; then
-    # Full scrape with browser
-    $XVFB_RUN $PYTHON scrape-flock.py 2>&1 || echo "  (agency scrape step non-fatal)"
+    $XVFB_RUN $PYTHON scrape-flock.py "$@" 2>&1 || echo "  (agency scrape step non-fatal)"
   else
     echo "  No Xvfb available — skipping browser-based agency scraping."
     echo "  Only haveibeenflocked.com list will be updated."

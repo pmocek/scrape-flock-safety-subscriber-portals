@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-Flock Safety Transparency Portal scraper using Playwright + Xvfb.
-Bypasses Cloudflare by driving a real (virtual) browser.
+Flock Safety Transparency Portal scraper using Playwright.
 
 Usage:
-    python3 scrape-flock.py                    # Scrape all WA agencies
-    python3 scrape-flock.py --slug renton-wa-pd  # Single agency
-    python3 scrape-flock.py --refresh-agencies   # Update agency list
+    python3 scrape-flock.py                           # Scrape all WA agencies
+    python3 scrape-flock.py --slug renton-wa-pd       # Single agency
+    python3 scrape-flock.py --refresh-agencies        # Update agency list
+    python3 scrape-flock.py --batch 2 --total-batches 6   # Batch 2 of 6
 """
 
 import asyncio
@@ -14,8 +14,9 @@ import json
 import os
 import re
 import sys
+import time
 import argparse
-from datetime import date
+from datetime import datetime, timezone
 from pathlib import Path
 
 PLAYWRIGHT_OK = False
@@ -72,26 +73,22 @@ def parse_stats(text):
     grab_int(r'Number of Hotlist Hits\s*\n.*?\n\s*([\d,]+)', "hotlist_hits_30d")
     grab_int(r'Number of Searches\s*\n.*?\n\s*([\d,]+)', "searches_30d")
 
-    # Handle "Data Unavailable" values
     for key in ("hotlist_hits_30d", "searches_30d", "vehicles_30d"):
         if key not in stats:
             m = re.search(rf'{re.escape(key.replace("_"," ")).title()}\s*\n+\s*Data Unavailable', text, re.IGNORECASE)
             if m:
                 stats[key] = "Data Unavailable"
 
-    # External agencies
     m = re.search(r'(?:External )?[Aa]gencies\s*who\s*have\s*access\s*\n+\s*\n([\s\S]*?)(?:\n\n(?:\w|\d)\n|\Z)', text)
     if m:
         agencies = [a.strip() for a in m.group(1).split("\n") if a.strip() and len(a.strip()) > 3]
         stats["external_agencies_count"] = len(agencies)
         stats["external_agencies"] = agencies
 
-    # Hotlists alerted on
     m = re.search(r'Hotlists?\s*Alerted\s*On\s*\n+\s*\n([\s\S]*?)(?:\n\n\w|\Z)', text)
     if m:
         stats["hotlists"] = m.group(1).strip()
 
-    # Policies
     for key, label in [("detected", "What's Detected"), ("not_detected", "What's Not Detected"),
                         ("acceptable_use", "Acceptable Use Policy"),
                         ("prohibited_uses", "Prohibited Uses"),
@@ -101,7 +98,6 @@ def parse_stats(text):
         m = re.search(pat, text)
         if m:
             val = m.group(1).strip()
-            # Clean up if we grabbed too much
             if len(val) > 500:
                 val = val[:500]
             stats[key] = val
@@ -109,59 +105,79 @@ def parse_stats(text):
     return stats
 
 
-async def scrape_one_slug(slug, save_dir):
-    """Scrape one agency page and save results."""
+def save_stats_jsonl(slug_dir, stats, ts):
+    """Append a stats snapshot as a JSONL line."""
+    slug_dir.mkdir(parents=True, exist_ok=True)
+    line = json.dumps({"ts": ts, **stats}, default=str)
+    with open(slug_dir / "stats.jsonl", "a") as f:
+        f.write(line + "\n")
+
+
+async def scrape_one_slug(slug, save_dir, max_retries=3):
+    """Scrape one agency page and save results. Retries on failure."""
     url = f"https://transparency.flocksafety.com/{slug}"
     result = {"slug": slug, "url": url, "success": False}
 
-    p = await async_playwright().__aenter__()
-    browser = await p.chromium.launch(headless=False)
-    context = await browser.new_context(viewport={"width": 1920, "height": 1080})
-    page = await context.new_page()
+    for attempt in range(max_retries):
+        p = await async_playwright().__aenter__()
+        browser = await p.chromium.launch(headless=False)
+        context = await browser.new_context(viewport={"width": 1920, "height": 1080})
+        page = await context.new_page()
 
-    if STEALTH_OK:
-        stealth = playwright_stealth.Stealth()
-        await stealth.apply_stealth_async(page)
+        if STEALTH_OK:
+            stealth = playwright_stealth.Stealth()
+            await stealth.apply_stealth_async(page)
 
-    try:
-        await page.goto(url, wait_until="domcontentloaded", timeout=30000)
-        await page.wait_for_timeout(8000)
+        try:
+            await page.goto(url, wait_until="domcontentloaded", timeout=30000)
+            await page.wait_for_timeout(8000)
 
-        title = await page.title()
-        if "Just a moment" in title:
-            result["error"] = "Cloudflare"
-            print(f"  {slug}: BLOCKED")
-        else:
-            text = await page.inner_text("body")
-            html = await page.content()
+            title = await page.title()
+            if "Just a moment" in title:
+                if attempt < max_retries - 1:
+                    wait = (attempt + 1) * 15
+                    print(f"  {slug}: Cloudflare (attempt {attempt+1}), retrying in {wait}s...")
+                else:
+                    result["error"] = "Cloudflare"
+                    print(f"  {slug}: BLOCKED (after {max_retries} attempts)")
+            else:
+                text = await page.inner_text("body")
+                html = await page.content()
 
-            # Extract stats
-            stats = parse_stats(text)
-            result["success"] = True
-            result["stats"] = stats
-            result["title"] = title
+                stats = parse_stats(text)
+                result["success"] = True
+                result["stats"] = stats
+                result["title"] = title
 
-            # Save files
-            slug_dir = save_dir / slug
-            slug_dir.mkdir(parents=True, exist_ok=True)
+                slug_dir = save_dir / slug
+                slug_dir.mkdir(parents=True, exist_ok=True)
 
-            with open(slug_dir / "page.html", "w") as f:
-                f.write(html)
-            with open(slug_dir / "page.txt", "w") as f:
-                f.write(text)
-            with open(slug_dir / "stats.json", "w") as f:
-                json.dump(stats, f, indent=2)
+                ts = datetime.now(timezone.utc).isoformat()
+                save_stats_jsonl(slug_dir, stats, ts)
 
-            print(f"  {slug}: OK ({stats.get('vehicles_30d', '?')} vehicles, {stats.get('total_cameras', '?')} cameras)")
+                with open(slug_dir / "page.html", "w") as f:
+                    f.write(html)
+                with open(slug_dir / "page.txt", "w") as f:
+                    f.write(text)
 
-    except Exception as e:
-        result["error"] = str(e)
-        print(f"  {slug}: ERROR - {e}")
-    finally:
-        await page.close()
-        await context.close()
-        await browser.close()
-        await p.stop()
+                print(f"  {slug}: OK ({stats.get('vehicles_30d', '?')} vehicles, {stats.get('total_cameras', '?')} cameras)")
+                return result
+
+        except Exception as e:
+            if attempt < max_retries - 1:
+                wait = (attempt + 1) * 15
+                print(f"  {slug}: Error (attempt {attempt+1}): {e}, retrying in {wait}s...")
+            else:
+                result["error"] = str(e)
+                print(f"  {slug}: ERROR - {e}")
+        finally:
+            await page.close()
+            await context.close()
+            await browser.close()
+            await p.stop()
+
+        if attempt < max_retries - 1:
+            await asyncio.sleep((attempt + 1) * 15)
 
     return result
 
@@ -182,10 +198,10 @@ def refresh_agencies():
 
     slugs = set(re.findall(r"transparency\.flocksafety\.com/([a-zA-Z0-9_-]+)", html))
     agencies = sorted(s for s in slugs if "-wa-" in s.lower())
-    
+
     with open(AGENCIES_FILE, "w") as f:
         json.dump(agencies, f, indent=2)
-    
+
     print(f"Found {len(agencies)} WA agencies. Saved to {AGENCIES_FILE}")
     return agencies
 
@@ -195,7 +211,11 @@ def main():
     parser.add_argument("--slug", help="Single slug to scrape")
     parser.add_argument("--slugs-file", help="JSON file with list of slugs to scrape")
     parser.add_argument("--refresh-agencies", action="store_true", help="Update WA agency list")
-    parser.add_argument("--save-dir", default=None, help="Output directory (default: data/YYYY-MM-DD)")
+    parser.add_argument("--save-dir", default=None, help="Output directory (default: data/)")
+    parser.add_argument("--batch", type=int, default=0,
+                        help="Batch number to scrape (0 = all agencies)")
+    parser.add_argument("--total-batches", type=int, default=1,
+                        help="Total number of batches (used with --batch)")
     args = parser.parse_args()
 
     if args.refresh_agencies:
@@ -206,7 +226,6 @@ def main():
         print("ERROR: playwright not installed. Run: uv pip install playwright && python3 -m playwright install chromium")
         sys.exit(1)
 
-    # Determine slugs to scrape
     if args.slug:
         slugs = [args.slug]
     elif args.slugs_file:
@@ -215,30 +234,34 @@ def main():
     else:
         slugs = WA_SLUGS
 
-    # Determine save directory
-    save_dir = Path(args.save_dir) if args.save_dir else (PROJECT_DIR / "data" / date.today().isoformat())
+    # Apply batching
+    if args.batch > 0:
+        if args.batch > args.total_batches:
+            print(f"ERROR: batch {args.batch} > total-batches {args.total_batches}")
+            sys.exit(1)
+        chunk = len(slugs) // args.total_batches
+        start = (args.batch - 1) * chunk
+        end = start + chunk if args.batch < args.total_batches else len(slugs)
+        slugs = slugs[start:end]
+        print(f"Batch {args.batch}/{args.total_batches}: {len(slugs)} agencies")
+
+    save_dir = Path(args.save_dir) if args.save_dir else DATA_DIR
     save_dir.mkdir(parents=True, exist_ok=True)
 
-    print(f"Scraping {len(slugs)} agencies...")
+    total = len(slugs)
+    print(f"Scraping {total} agencies...")
+
+    start_time = time.time()
     results = []
+
     for i, slug in enumerate(slugs):
-        print(f"[{i+1}/{len(slugs)}]")
+        print(f"[{i+1}/{total}] {slug}")
         result = scrape_slug(slug, save_dir)
         results.append(result)
 
-    # Save run summary
     ok = sum(1 for r in results if r["success"])
-    summary = {
-        "date": date.today().isoformat(),
-        "total": len(results),
-        "ok": ok,
-        "failed": len(results) - ok,
-        "results": [{"slug": r["slug"], "success": r["success"], "error": r.get("error")} for r in results],
-    }
-    with open(save_dir / "_summary.json", "w") as f:
-        json.dump(summary, f, indent=2)
-
-    print(f"\nDone: {ok} OK, {len(results)-ok} failed")
+    elapsed = time.time() - start_time
+    print(f"\nDone: {ok}/{total} OK ({elapsed:.0f}s)")
 
 
 if __name__ == "__main__":
