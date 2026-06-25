@@ -156,9 +156,9 @@ def main():
     body_lines = []
 
     if data_changes:
-        changed = [s for s, d in data_changes if d and d != "no change"]
+        changed = [(s, d) for s, d in data_changes if d and d != "no change"]
         unchanged = [s for s, d in data_changes if d == "no change"]
-        new = [s for s, d in data_changes if d == "new" or d == "first snapshot"]
+        new = [(s, d) for s, d in data_changes if d == "new" or d == "first snapshot"]
 
         n_changed = len(changed)
         n_new = len(new)
