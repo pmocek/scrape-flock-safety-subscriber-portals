@@ -105,10 +105,10 @@ def parse_stats(text):
     return stats
 
 
-def save_stats_jsonl(slug_dir, stats, ts):
-    """Append a stats snapshot as a JSONL line."""
+def append_jsonl(slug_dir, data):
+    """Append a JSON line to stats.jsonl."""
     slug_dir.mkdir(parents=True, exist_ok=True)
-    line = json.dumps({"ts": ts, **stats}, default=str)
+    line = json.dumps(data, default=str)
     with open(slug_dir / "stats.jsonl", "a") as f:
         f.write(line + "\n")
 
@@ -153,7 +153,7 @@ async def scrape_one_slug(slug, save_dir, max_retries=3):
                 slug_dir.mkdir(parents=True, exist_ok=True)
 
                 ts = datetime.now(timezone.utc).isoformat()
-                save_stats_jsonl(slug_dir, stats, ts)
+                append_jsonl(slug_dir, {"ts": ts, **stats})
 
                 with open(slug_dir / "page.html", "w") as f:
                     f.write(html)
@@ -178,6 +178,12 @@ async def scrape_one_slug(slug, save_dir, max_retries=3):
 
         if attempt < max_retries - 1:
             await asyncio.sleep((attempt + 1) * 15)
+
+    if not result["success"]:
+        slug_dir = save_dir / slug
+        slug_dir.mkdir(parents=True, exist_ok=True)
+        ts = datetime.now(timezone.utc).isoformat()
+        append_jsonl(slug_dir, {"ts": ts, "error": result.get("error")})
 
     return result
 

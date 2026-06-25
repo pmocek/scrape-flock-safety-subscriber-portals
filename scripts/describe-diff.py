@@ -7,10 +7,8 @@ workflows where data files are the primary commit content.
 """
 
 import json
-import os
 import subprocess
 import sys
-from collections import defaultdict
 
 
 FIELD_LABELS = {
@@ -125,16 +123,27 @@ def main():
         curr = last_jsonl_line(staged_content)
 
         if prev is None and curr:
-            if head_content is None:
+            if "error" in curr:
+                data_changes.append((slug, f"blocked ({curr['error']})"))
+            elif head_content is None:
                 data_changes.append((slug, "new"))
             else:
                 data_changes.append((slug, "first snapshot"))
         elif prev and curr:
-            desc = describe_change(prev, curr)
-            if desc:
-                data_changes.append((slug, desc))
+            prev_err = "error" in prev
+            curr_err = "error" in curr
+            if prev_err and curr_err:
+                data_changes.append((slug, "still blocked"))
+            elif prev_err:
+                data_changes.append((slug, "recovered"))
+            elif curr_err:
+                data_changes.append((slug, f"blocked ({curr['error']})"))
             else:
-                data_changes.append((slug, "no change"))
+                desc = describe_change(prev, curr)
+                if desc:
+                    data_changes.append((slug, desc))
+                else:
+                    data_changes.append((slug, "no change"))
 
     # Detect old date directory deletions
     old_dirs = set()
