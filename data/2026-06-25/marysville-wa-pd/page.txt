@@ -1,0 +1,82 @@
+Transparency Portal
+Visit Flock
+Marysville WA PD
+Transparency Portal
+
+Last updated: Wed Jun 24 2026
+
+OVERVIEW
+
+The Marysville Police Department uses Flock Safety technology to capture objective evidence without compromising individual privacy. The Marysville Police Department uses retroactive searches to help generate case leads and solve crimes after they've occurred. Additionally, the Marysville Police Department utilizes real-time alerting of hotlist vehicles to capture wanted criminals who travel through our city to commit other crimes. To ensure proper usage and establish proper guardrails for the program, we have made the policies and usage statistics available to the public.
+
+POLICIES
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, people, gender, race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by the Marysville Police Department and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), or personal use.
+
+System Access History
+
+Flock data is only retained for 30 days. However, an audit trail of the users who accessed the system is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits (i.e., stolen vehicles, missing persons, etc.) are required to be human verified prior to action.
+
+Networking Sharing
+
+Marysville Police Department only shares with local and state law enforcement agencies within the State of Washington.
+
+Flock's Privacy and Ethics
+
+https://www.flocksafety.com/privacy-ethics
+USAGE
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Number of Marysville PD Owned Cameras
+
+Number of LPR and other cameras.
+
+31
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert
+
+Vehicles detected in the Last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+398,636
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+1,144
+ADDITIONAL INFO
+
+Full Automated License Plate Reader Policy Accessibility
+
+The City of Marysville Police Department takes community trust seriously. We have made all of our policies available online for inspection. To see the MPD policy that governs Automated License Plate Readers, see here: https://public.powerdms.com/MarysvillePD/tree/documents/3026517
+
+Provided by Flock Safety

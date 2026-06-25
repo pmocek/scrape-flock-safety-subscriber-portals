@@ -1,0 +1,14 @@
+{
+  "retention_days": 21,
+  "total_cameras": 19,
+  "vehicles_30d": 621577,
+  "hotlist_hits_30d": 202,
+  "searches_30d": 251,
+  "hotlists": "Missing Persons; AMBER Alerts; Felony Warrants; Stolen Vehicles; Stolen Plates",
+  "detected": "License Plates, Vehicles",
+  "not_detected": "Facial recognition, People, Gender, Race",
+  "acceptable_use": "Data is used for law enforcement purposes only. Data is owned by the Kent Police Department and is never sold to third parties.",
+  "prohibited_uses": "Civil immigration enforcement; automated traffic infraction ticketing; personal use; non-law enforcement purposes; harassment or intimidation; discrimination; usage based solely on a protected class (such as race, sex, or religion).",
+  "access_policy": "The system may only be accessed by Kent Police officers who have been trained in its use, for official and legitimate law enforcement purposes, and for a valid reason associated with an official case report or investigation.",
+  "hotlist_policy": "All \"hotlist\" hits are required to be verified by an officer prior to any law enforcement action being taken.\nUSAGE"
+}
