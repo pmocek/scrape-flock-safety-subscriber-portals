@@ -2,3 +2,4 @@
 {"ts": "2026-06-25T20:24:49.454985+00:00", "retention_days": 21, "detected": "License Plates, Vehicles, Bicycles, Trailers", "not_detected": "Facial recognition, People, Gender, Race", "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.\nUSAGE"}
 {"ts": "2026-06-25T23:48:06.066984+00:00", "retention_days": 21, "detected": "License Plates, Vehicles, Bicycles, Trailers", "not_detected": "Facial recognition, People, Gender, Race", "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.\nUSAGE"}
 {"ts": "2026-06-26T03:38:59.076164+00:00"}
+{"ts": "2026-06-26T05:07:23.092870+00:00", "error": "Cloudflare"}
