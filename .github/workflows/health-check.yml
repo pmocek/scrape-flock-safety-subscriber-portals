@@ -18,10 +18,37 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ env.PYTHON_VERSION }}
+
+    - name: Install Python dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Cache Playwright browsers
+      uses: actions/cache@v4
+      id: playwright-cache
+      with:
+        path: ~/.cache/ms-playwright/
+        key: ${{ runner.os }}-playwright-chromium-${{ env.PYTHON_VERSION }}
+
+    - name: Install Playwright Chromium
+      if: steps.playwright-cache.outputs.cache-hit != 'true'
+      run: |
+        python3 -m playwright install chromium
+
+    - name: Install Playwright system deps
+      if: steps.playwright-cache.outputs.cache-hit != 'true'
+      run: |
+        sudo apt-get update -qq
+        python3 -m playwright install-deps chromium
+
     - name: Run health check
       id: check
       run: |
-        OUTPUT=$(python3 scripts/health-check.py 2>&1)
+        OUTPUT=$(xvfb-run -a python3 scripts/health-check.py 2>&1)
         echo "$OUTPUT"
         COMMIT_MSG=$(echo "$OUTPUT" | grep "^COMMIT_MSG:" | sed 's/^COMMIT_MSG: //')
         echo "commit_msg=$COMMIT_MSG" >> "$GITHUB_OUTPUT"

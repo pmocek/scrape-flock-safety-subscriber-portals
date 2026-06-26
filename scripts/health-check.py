@@ -1,25 +1,24 @@
 #!/usr/bin/env python3
-"""Quick HTTP health check for each agency portal.
+"""Quick Playwright health check for each agency portal.
 
-Fast: uses urllib, no browser. Cloudflare is expected and recorded
-as 'blocked'.  Catches site-down events, DNS failures, or changes
-in the Cloudflare response that might signal a redesign.
+Reuses the same browser/context for all slugs in one run.
+Cloudflare blocks are detected the same way as the scraper
+(HTTP 429, "Just a moment" title, "Error 1015" body text).
 
 Saves to data/{slug}/health.jsonl (append-only).
 """
 
+import asyncio
 import json
 import sys
-import urllib.error
-import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
+
+from playwright.async_api import async_playwright
 
 PROJECT_DIR = Path(__file__).parent.parent.resolve()
 DATA_DIR = PROJECT_DIR / "data"
 AGENCIES_FILE = PROJECT_DIR / "wa-agencies.json"
-HAVEIBEENFLOCKED_URL = "https://haveibeenflocked.com/news/transparency-portals/"
-USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"
 
 WA_SLUGS = [
     "arlington-pd-wa", "bonney-lake-wa-pd", "centralia-pd-wa",
@@ -37,27 +36,32 @@ WA_SLUGS = [
 ]
 
 
-def check_slug(slug):
-    """Returns {'status': ..., 'detail': ...}."""
+def log_health(slug, data):
+    slug_dir = DATA_DIR / slug
+    slug_dir.mkdir(parents=True, exist_ok=True)
+    line = json.dumps(data, default=str)
+    with open(slug_dir / "health.jsonl", "a") as f:
+        f.write(line + "\n")
+
+
+async def check_slug(slug, page):
     url = f"https://transparency.flocksafety.com/{slug}"
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            body = resp.read(65536).decode("utf-8", errors="replace")
-            if "Just a moment" in body or "Checking your browser" in body:
-                return {"status": "blocked", "detail": "cloudflare"}
-            if resp.status >= 400:
-                return {"status": "error", "detail": f"http_{resp.status}"}
-            return {"status": "ok", "detail": f"http_{resp.status}"}
-    except urllib.error.HTTPError as e:
-        return {"status": "error", "detail": f"http_{e.code}"}
-    except urllib.error.URLError as e:
-        return {"status": "error", "detail": str(e.reason)}
+        response = await page.goto(url, wait_until="domcontentloaded", timeout=20000)
+        await page.wait_for_timeout(3000)
+        status = response.status if response else None
+        title = await page.title()
+        text = await page.inner_text("body")
+        if status == 429 or "Just a moment" in title or "Error 1015" in text:
+            return {"status": "blocked", "detail": "cloudflare"}
+        if status and status >= 400:
+            return {"status": "error", "detail": f"http_{status}"}
+        return {"status": "ok", "detail": f"http_{status}"}
     except Exception as e:
         return {"status": "error", "detail": str(e)}
 
 
-def main():
+async def main():
     if AGENCIES_FILE.exists():
         with open(AGENCIES_FILE) as f:
             slugs = json.load(f)
@@ -67,23 +71,27 @@ def main():
     ts = datetime.now(timezone.utc).isoformat()
     counts = {"ok": 0, "blocked": 0, "error": 0}
 
-    for i, slug in enumerate(slugs):
-        print(f"[{i+1}/{len(slugs)}] {slug} ...", end=" ", flush=True)
-        result = check_slug(slug)
-        counts[result["status"]] = counts.get(result["status"], 0) + 1
-        print(result["status"])
+    p = await async_playwright().__aenter__()
+    browser = await p.chromium.launch(headless=False)
+    context = await browser.new_context(viewport={"width": 1920, "height": 1080})
+    page = await context.new_page()
 
-        slug_dir = DATA_DIR / slug
-        slug_dir.mkdir(parents=True, exist_ok=True)
-        line = json.dumps({"ts": ts, **result})
-        with open(slug_dir / "health.jsonl", "a") as f:
-            f.write(line + "\n")
+    try:
+        for i, slug in enumerate(slugs):
+            print(f"[{i+1}/{len(slugs)}] {slug} ...", end=" ", flush=True)
+            result = await check_slug(slug, page)
+            counts[result["status"]] = counts.get(result["status"], 0) + 1
+            print(result["status"])
+            log_health(slug, {"ts": ts, **result})
+    finally:
+        await page.close()
+        await context.close()
+        await browser.close()
+        await p.stop()
 
     total = sum(counts.values())
     summary = ", ".join(f"{v} {k}" for k, v in sorted(counts.items()))
     print(f"\n  {total} checked ({summary})")
-
-    # Emit a commit-message line the workflow can capture
     print(f"COMMIT_MSG: health: {total} checked ({summary})", flush=True)
 
     if counts.get("error", 0) > len(slugs) // 2:
@@ -92,4 +100,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
