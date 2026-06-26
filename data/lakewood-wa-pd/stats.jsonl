@@ -1,3 +1,4 @@
 {"ts": "2026-06-25T19:41:36.291871+00:00", "retention_days": 21, "total_cameras": 58, "vehicles_30d": 0, "hotlist_hits_30d": 0, "searches_30d": 0, "hotlists": "National and statewide hotlist sources.", "detected": "License Plates, Vehicles", "not_detected": "Facial recognition, People, Gender, Race, Personal Information", "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use."}
 {"ts": "2026-06-26T03:36:10.932382+00:00"}
 {"ts": "2026-06-26T04:44:42.523814+00:00", "error": "Cloudflare"}
+{"ts": "2026-06-26T05:28:13.335323+00:00", "error": "Cloudflare"}
