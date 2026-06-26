@@ -1,11 +1,178 @@
-Error 1015 Ray ID: a1192cba4f2c26c8 • 2026-06-26 03:37:40 UTC
-You are being rate limited
-What happened?
+Transparency Portal
+Visit Flock
+Puyallup WA PD
+Transparency Portal
 
-The owner of this website (transparency.flocksafety.com) has banned you temporarily from accessing this website.
+Last updated: Thu Jun 25 2026
 
-Please see https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1015/ for more details.
+OVERVIEW
 
-Was this page helpful? Yes No
+The Puyallup Police Department uses Flock Safety technology to capture objective evidence without compromising individual privacy. Puyallup PD utilizes retroactive search tools to solve crimes after they've occurred. Additionally, Puyallup PD utilizes real time alerting of stolen vehicles, wanted criminals and missing persons to address crime and to serve our community. In an effort to ensure proper usage of this technology, PPD has made the below policies and usage statistics available to the public.
 
-Cloudflare Ray ID: a1192cba4f2c26c8 • Your IP: Click to reveal • Performance & security by Cloudflare
+POLICIES
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Puyallup PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlists are license plates entered into the system due to being: stolen, stolen plate, missing person, violent person, arrest warrants. Hotlist hits are required to be human verified prior to action.
+USAGE
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+45
+
+Sharing Network Data With
+
+Organizations granted access to Puyallup WA PD data.
+
+Aberdeen WA PD
+Adams County WA SO
+Arlington PD (WA)
+Auburn WA PD
+Benton County WA SO
+Black Diamond WA PD
+Brewster WA PD
+Centralia WA PD
+Chehalis WA PD
+Chelan County WA SO
+Cle Elum WA PD
+Clyde Hill WA PD
+College Place WA PD
+Columbia River Drug Task Force WA
+Covington WA PD
+Des Moines WA PD
+Douglas County WA SO
+East Wenatchee WA PD
+Eatonville WA PD [Inactive]
+Ellensburg WA PD
+Enumclaw WA PD
+Everett (WA) Police Department
+Federal Way WA PD
+Goldendale WA PD
+Grandview WA PD
+Granite Falls WA PD
+Grant County WA SO
+Grays Harbor County SO (WA)
+Kennewick WA PD
+Kent WA PD
+Kittitas County WA SO
+Kittitas WA PD
+Lake Stevens WA PD
+Lakewood WA PD
+Liberty Lake WA PD
+Lincoln County WA SO
+Lynnwood WA PD [Inactive]
+Mabton WA PD
+Marysville WA PD
+Mattawa WA PD
+Mill Creek WA PD
+Monroe WA PD
+Montesano WA PD
+Moses Lake WA PD
+Mount Vernon WA PD
+Mountlake Terrace WA PD
+Moxee WA PD
+Mukilteo WA PD
+Napavine WA PD
+Newcastle WA PD
+Olympia WA PD
+Orting WA PD
+Othello WA PD
+Port of Seattle WA PD
+Reardan WA PD
+Richland WA PD
+Richland WA PD
+SeaTac WA PD
+Sedro-Woolley WA PD
+Selah WA PD
+Shelton PD (WA)
+Snohomish County WA SO
+Snohomish WA PD
+Spokane County WA SO
+Spokane Tribal PD WA
+Spokane WA PD
+Stanwood WA PD
+Sumner WA PD
+Sunnyside WA PD
+Suquamish WA PD
+Toppenish WA PD
+Tukwila WA PD
+Tulalip Tribal Police Dept. (WA)
+Union Gap WA PD
+Walla Walla WA PD
+Wapato WA PD
+Warden WA PD
+Wenatchee WA PD
+West Richland WA PD
+Westport WA PD
+Yakima County WA SO
+Yakima WA PD
+Yelm WA PD
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+653,761
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+456
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+169
+ADDITIONAL INFO
+
+Glossary
+
+Amber Alert: Missing/Endangered child associated with a known vehicle
+
+Hotlist: A list comprised of vehicles added to the system for the purposes of recovering a missing person or intercepting a vehicle associated with a person of interest for reasons including warrants, stolen vehicles, stolen plates, violent offenses.
+
+NCMEC: National Center for Missing and Exploited Children
+
+NCIC: National Crime Information Center
+
+Recent Success Story
+
+On October 23, 2025, the Puyallup Police Department received a Flock Safety alert for a stolen vehicle. On this day, the department was testing a Drone as a First Responder (DFR) program. An autonomous "Air1" drone self dispatched to the alerting location and located the vehicle traveling westbound. A PPD officer briefly positioned behind the vehicle and deployed Starchase, a GPS tracking technology designed to reduce risks to officers and the public during vehicle eluding incidents. Once the suspect began driving recklessly to elude police intervention, officers did not pursue. Instead, the vehicle continued to be monitored using Starchase and Air1. The suspect later collided with another vehicle and fled on foot into a nearby business plaza, where he was located and taken into custody. This incident highlights how ALPR, DFR, and GPS tracking technologies can support more effective and safer responses by maintaining situational awareness while reducing the need for vehicle pursuits.
+
+Provided by Flock Safety

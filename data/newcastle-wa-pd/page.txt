@@ -1,11 +1,159 @@
-Error 1015 Ray ID: a1192c140e391910 • 2026-06-26 03:37:13 UTC
-You are being rate limited
-What happened?
+Transparency Portal
+Visit Flock
+Newcastle WA PD
+Transparency Portal
 
-The owner of this website (transparency.flocksafety.com) has banned you temporarily from accessing this website.
+Last updated: Fri Jun 26 2026
 
-Please see https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1015/ for more details.
+OVERVIEW
 
-Was this page helpful? Yes No
+The Newcastle Police Department is using Flock Automatic License Plate Readers (ALPRs) to help detect and reduce crime in our community. Flock ALPRs are stationary ALPR cameras located within Municipal - Right of Ways and are self-sufficient. They are powered by solar panels and send image information through government-standard encrypted cell signals. The ALPRs capture objective evidence without compromising on individual privacy. Newcastle Police Department utilizes retroactive searches to solve crimes after they have occurred. Additionally, Newcastle Police Department utilizes real time alerting of hotlist vehicles to capture wanted criminals and missing endangered children and adults.
 
-Cloudflare Ray ID: a1192c140e391910 • Your IP: Click to reveal • Performance & security by Cloudflare
+POLICIES
+
+What's Detected
+
+Rear License Plates, Rear of Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Newcastle PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and is only granted to authorized law enforcement personnel. While license plates, etc. are only retained for the agency's retention period, individual user activity (for internal auditing by Newcastle PD) is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+USAGE
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+0
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+0
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+Data Unavailable
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+99
+
+Sharing Network Data With
+
+Organizations granted access to Newcastle WA PD data.
+
+Aberdeen WA PD
+Adams County WA SO
+Arlington PD (WA)
+Auburn WA PD
+Benton County WA SO
+Brewster WA PD
+Chehalis WA PD
+Chelan County WA SO
+Cheney WA PD
+Cle Elum WA PD
+Clyde Hill WA PD
+College Place WA PD
+Columbia River Drug Task Force WA
+Colville WA Tribal Police
+Covington WA PD
+Des Moines WA PD
+Douglas County WA SO
+Dupont WA PD
+East Wenatchee WA PD
+Ellensburg WA PD
+Enumclaw WA PD
+Everett (WA) Police Department
+Federal Way WA PD
+Goldendale WA PD
+Granite Falls WA PD
+Grays Harbor County SO (WA)
+Issaquah WA PD
+Kent WA PD
+King County International Airport (WA)
+Kittitas County WA SO
+Kittitas WA PD
+Lake Stevens WA PD
+Lakewood WA PD
+Liberty Lake WA PD
+Lincoln County WA SO
+Lynnwood WA PD [Inactive]
+Maple Valley WA PD
+Marysville WA PD
+Mattawa WA PD
+Mill Creek WA PD
+Monroe WA PD
+Montesano WA PD
+Moses Lake WA PD
+Mount Vernon WA PD
+Mountlake Terrace WA PD
+Mukilteo WA PD
+Olympia WA PD
+Orting WA PD
+Othello WA PD
+Port of Seattle WA PD
+Puyallup WA PD
+Reardan WA PD
+Renton WA PD
+Richland WA PD
+SeaTac WA PD
+Sedro-Woolley WA PD
+Selah WA PD
+Shelton PD (WA)
+Snohomish County WA 911
+Snohomish County WA SO
+Snohomish WA PD
+Spokane County WA SO
+Spokane Tribal PD WA
+Spokane WA PD
+Stanwood WA PD
+Sumner WA PD
+Sunnyside WA PD
+Suquamish WA PD
+Toppenish WA PD
+Tukwila WA PD
+Tulalip Tribal Police Dept. (WA)
+Union Gap WA PD
+Walla Walla WA PD
+Wenatchee WA PD
+West Richland WA PD
+Westport WA PD
+Yakima County WA SO
+Yakima WA PD
+Yelm WA PD
+
+Provided by Flock Safety

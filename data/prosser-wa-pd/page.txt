@@ -1,11 +1,146 @@
-Error 1015 Ray ID: a1192c82f8031910 • 2026-06-26 03:37:31 UTC
-You are being rate limited
-What happened?
+Transparency Portal
+Visit Flock
+Prosser WA PD
+Transparency Portal
 
-The owner of this website (transparency.flocksafety.com) has banned you temporarily from accessing this website.
+Last updated: Thu Jun 25 2026
 
-Please see https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1015/ for more details.
+OVERVIEW
 
-Was this page helpful? Yes No
+The Prosser Police Department, along with hundreds of other agencies across the country, is using Flock Automatic License Plate Readers (ALPRs) to help detect and reduce crime in our community. Flock ALPRs are stationary ALPR cameras located within municipal rights-of-way. They are powered by solar panels and send image information through government-standard encrypted cell signals to a secure third-party database. The ALPRs capture objective evidence without compromising on individual privacy. The Prosser Police Department utilizes retroactive (after-the-fact) searches of the Flock camera data to solve crimes. Additionally, the Prosser Police Department utilizes real-time alerting of hotlist vehicles to capture wanted criminals and missing endangered children and adults. Access to the information captured by the City's Flock camera system is limited to a law enforcement-related "need-to-know" basis.
 
-Cloudflare Ray ID: a1192c82f8031910 • Your IP: Click to reveal • Performance & security by Cloudflare
+POLICIES
+
+Department Pollicy on Automated License Plate Readers
+
+https://www.cityofprosser.com/DocumentCenter/View/1942/Policy-470-Automated-License-Plate-Readers-PDF
+
+What's Detected
+
+Rear license plates, rear of vehicle
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Prosser WA PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Traffic enforcement, immigration enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), or personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely and only by authorized law enforcement personnel.
+
+Hotlist Policy
+
+Hotlist hits (i.e., stolen vehicles, missing persons, etc.) are required to be human verified prior to action.
+USAGE
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+20
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+0
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+Data Unavailable
+
+Sharing Network Data With
+
+Organizations granted access to Prosser WA PD data.
+
+Adams County WA SO
+Arlington PD (WA)
+Auburn WA PD
+Benton County WA SO
+Brewster WA PD
+Cheney WA PD
+Clyde Hill WA PD
+College Place WA PD
+Columbia River Drug Task Force WA
+Colville WA Tribal Police
+Covington WA PD
+Des Moines WA PD
+Douglas County WA SO
+East Wenatchee WA PD
+Ellensburg WA PD
+Everett (WA) Police Department
+Federal Way WA PD
+Goldendale WA PD
+Grandview WA PD
+Granger WA PD
+Granite Falls WA PD
+Grant County WA SO
+Grays Harbor County SO (WA)
+Kent WA PD
+Kittitas County WA SO
+Kittitas WA PD
+Lakewood WA PD
+Liberty Lake WA PD
+Lincoln County WA SO
+Marysville WA PD
+Mill Creek WA PD
+Montesano WA PD
+Moses Lake WA PD
+Mount Vernon WA PD
+Mountlake Terrace WA PD
+Moxee WA PD
+Mukilteo WA PD
+Newcastle WA PD
+Olympia WA PD
+Orting WA PD
+Othello WA PD
+Puyallup WA PD
+Reardan WA PD
+Richland WA PD
+SeaTac WA PD
+Sedro-Woolley WA PD
+Selah WA PD
+Spokane Tribal PD WA
+Spokane WA PD
+Stanwood WA PD
+Sumner WA PD
+Sunnyside WA PD
+Toppenish WA PD
+Tukwila WA PD
+Umatilla OR PD
+Walla Walla WA PD
+Wapato WA PD
+Wenatchee WA PD
+West Richland WA PD
+Yakima County WA SO
+Yakima WA PD
+Yelm WA PD
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+0
+
+Provided by Flock Safety
