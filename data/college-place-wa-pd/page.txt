@@ -3,7 +3,7 @@ Visit Flock
 College Place WA PD
 Transparency Portal
 
-Last updated: Thu Jun 25 2026
+Last updated: Fri Jun 26 2026
 
 OVERVIEW
 
@@ -58,7 +58,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-41,853
+44,019
 
 Number of Hotlist Hits
 
@@ -70,7 +70,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-8
+7
 ADDITIONAL INFO
 
 Recent Success Story
