@@ -209,7 +209,9 @@ async def scrape_one_slug(slug, save_dir, max_retries=3):
         slug_dir = save_dir / slug
         slug_dir.mkdir(parents=True, exist_ok=True)
         ts = datetime.now(timezone.utc).isoformat()
-        append_jsonl(slug_dir, {"ts": ts, "error": result.get("error")})
+        line = json.dumps({"ts": ts, "error": result.get("error")}, default=str)
+        with open(slug_dir / "blocked.jsonl", "a") as f:
+            f.write(line + "\n")
 
     return result
 
