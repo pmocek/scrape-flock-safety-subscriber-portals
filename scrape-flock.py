@@ -133,7 +133,9 @@ async def scrape_one_slug(slug, save_dir, max_retries=3):
             await page.wait_for_timeout(8000)
 
             title = await page.title()
-            if "Just a moment" in title:
+            text = await page.inner_text("body")
+            blocked = "Just a moment" in title or "Access denied" in title or "Error 1015" in text
+            if blocked:
                 if attempt < max_retries - 1:
                     wait = (attempt + 1) * 15
                     print(f"  {slug}: Cloudflare (attempt {attempt+1}), retrying in {wait}s...")
@@ -141,7 +143,6 @@ async def scrape_one_slug(slug, save_dir, max_retries=3):
                     result["error"] = "Cloudflare"
                     print(f"  {slug}: BLOCKED (after {max_retries} attempts)")
             else:
-                text = await page.inner_text("body")
                 html = await page.content()
 
                 stats = parse_stats(text)
