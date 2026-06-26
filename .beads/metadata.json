@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "scrape_flock_safety_subscriber_portals",
+  "project_id": "8f23619d-e66f-40b7-97d9-e8d715b8b0b2"
+}
