@@ -157,45 +157,39 @@ def main():
 
     if data_changes:
         changed = [(s, d) for s, d in data_changes if d and d != "no change"]
-        unchanged = [s for s, d in data_changes if d == "no change"]
         new = [(s, d) for s, d in data_changes if d == "new" or d == "first snapshot"]
 
-        n_changed = len(changed)
-        n_new = len(new)
-        n_total = len(data_changes)
+        if changed or new:
+            n_changed = len(changed)
+            n_new = len(new)
 
-        parts = []
-        if n_changed:
-            parts.append(f"{n_changed} with changes")
-        if n_new:
-            parts.append(f"{n_new} new")
-        n_unchanged = len(unchanged)
-        if n_unchanged:
-            parts.append(f"{n_unchanged} unchanged")
+            parts = []
+            if n_changed:
+                parts.append(f"{n_changed} with changes")
+            if n_new:
+                parts.append(f"{n_new} new")
 
-        subject = f"data: update {n_total} agencies ({', '.join(parts)})"
-        print(subject)
+            print(f"data: update {len(data_changes)} agencies ({', '.join(parts)})")
 
-        # Body: per-agency details for those with changes
-        if changed:
-            body_lines.append("")
-            body_lines.append("Changes:")
-            for slug, desc in changed:
-                body_lines.append(f"  {slug}: {desc}")
-        if new:
-            if not body_lines:
+            if changed:
                 body_lines.append("")
-            body_lines.append("")
-            body_lines.append("New:")
-            for slug, desc in new:
-                body_lines.append(f"  {slug}")
+                body_lines.append("Changes:")
+                for slug, desc in changed:
+                    body_lines.append(f"  {slug}: {desc}")
+            if new:
+                if not body_lines:
+                    body_lines.append("")
+                body_lines.append("")
+                body_lines.append("New:")
+                for slug, desc in new:
+                    body_lines.append(f"  {slug}")
 
     if old_dir_count:
         if body_lines:
             body_lines.append("")
         body_lines.append(f"Cleanup: removed {old_dir_count} old date-based directories")
 
-    if has_non_data and not data_changes:
+    if has_non_data and not body_lines:
         print("chore: update source files")
 
     if body_lines:

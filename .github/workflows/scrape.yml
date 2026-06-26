@@ -78,6 +78,10 @@ jobs:
           exit 0
         fi
         MSG=$(python3 scripts/describe-diff.py)
+        if [ -z "$MSG" ]; then
+          echo "Nothing meaningful changed — skipping commit"
+          exit 0
+        fi
         echo "Commit message:"
         echo "$MSG"
         git commit -m "$MSG"
