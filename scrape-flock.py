@@ -129,12 +129,12 @@ async def scrape_one_slug(slug, save_dir, max_retries=3):
             await stealth.apply_stealth_async(page)
 
         try:
-            await page.goto(url, wait_until="domcontentloaded", timeout=30000)
+            response = await page.goto(url, wait_until="domcontentloaded", timeout=30000)
             await page.wait_for_timeout(8000)
 
+            status = response.status if response else None
             title = await page.title()
-            text = await page.inner_text("body")
-            blocked = "Just a moment" in title or "Access denied" in title or "Error 1015" in text
+            blocked = status in (429, 503) or "Just a moment" in title
             if blocked:
                 if attempt < max_retries - 1:
                     wait = (attempt + 1) * 15
@@ -143,6 +143,7 @@ async def scrape_one_slug(slug, save_dir, max_retries=3):
                     result["error"] = "Cloudflare"
                     print(f"  {slug}: BLOCKED (after {max_retries} attempts)")
             else:
+                text = await page.inner_text("body")
                 html = await page.content()
 
                 stats = parse_stats(text)
