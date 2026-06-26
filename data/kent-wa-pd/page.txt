@@ -3,7 +3,7 @@ Visit Flock
 Kent WA PD
 Transparency Portal
 
-Last updated: Thu Jun 25 2026
+Last updated: Fri Jun 26 2026
 
 OVERVIEW
 
@@ -75,19 +75,19 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-622,352
+623,314
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-201
+198
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-262
+254
 
 Public Search Audit
 

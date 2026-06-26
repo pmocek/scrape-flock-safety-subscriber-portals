@@ -10,12 +10,15 @@ Usage:
 """
 
 import asyncio
+import csv
+import io
 import json
 import os
 import re
 import sys
 import time
 import argparse
+import urllib.parse
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -157,6 +160,23 @@ async def scrape_one_slug(slug, save_dir, max_retries=3):
 
                 slug_dir = save_dir / slug
                 slug_dir.mkdir(parents=True, exist_ok=True)
+
+                # Extract Public Search Audit CSV, if available
+                csv_link = await page.query_selector('a[download="public_search_audit.csv"]')
+                if csv_link:
+                    href = await csv_link.get_attribute("href")
+                    if href and href.startswith("data:text/csv;charset=utf-8,"):
+                        csv_content = urllib.parse.unquote(href[len("data:text/csv;charset=utf-8,"):])
+                        with open(slug_dir / "audit.csv", "w") as f:
+                            f.write(csv_content)
+                        reader = csv.DictReader(io.StringIO(csv_content))
+                        rows = list(reader)
+                        if rows:
+                            stats["audit_count"] = len(rows)
+                            dates = [r["searchDate"] for r in rows if r.get("searchDate")]
+                            if dates:
+                                stats["audit_date_min"] = min(dates)
+                                stats["audit_date_max"] = max(dates)
 
                 ts = datetime.now(timezone.utc).isoformat()
                 append_jsonl(slug_dir, {"ts": ts, **stats})

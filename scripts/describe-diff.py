@@ -18,6 +18,7 @@ FIELD_LABELS = {
     "searches_30d": "searches",
     "retention_days": "retention",
     "external_agencies_count": "ext_agencies",
+    "audit_count": "audit_entries",
 }
 
 
