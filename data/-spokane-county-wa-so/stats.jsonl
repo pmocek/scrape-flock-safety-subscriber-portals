@@ -4,3 +4,4 @@
 {"ts": "2026-06-26T03:38:59.076164+00:00"}
 {"ts": "2026-06-26T05:07:23.092870+00:00", "error": "Cloudflare"}
 {"ts": "2026-06-26T05:50:54.193020+00:00", "error": "Cloudflare"}
+{"ts": "2026-06-26T20:13:59.432987+00:00", "retention_days": 21, "detected": "License Plates, Vehicles, Bicycles, Trailers", "not_detected": "Facial recognition, People, Gender, Race", "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.\nUSAGE"}

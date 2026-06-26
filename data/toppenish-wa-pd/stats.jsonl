@@ -4,3 +4,4 @@
 {"ts": "2026-06-26T03:39:25.662028+00:00"}
 {"ts": "2026-06-26T05:10:57.821085+00:00", "error": "Cloudflare"}
 {"ts": "2026-06-26T05:54:29.230438+00:00", "error": "Cloudflare"}
+{"ts": "2026-06-26T20:14:26.325758+00:00", "retention_days": 21, "total_cameras": 25, "vehicles_30d": 83742, "hotlist_hits_30d": 206, "hotlists": "National and statewide hotlist sources.", "detected": "License Plates, Vehicles", "not_detected": "Facial recognition, People, Gender, Race", "acceptable_use": "Data is used for law enforcement purposes only. Data is owned by Toppenish WA PD and is never sold to 3rd parties.", "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.", "access_policy": "All system access requires a valid reason and is stored indefinitely.", "hotlist_policy": "Hotlist hits are required to be human verified prior to action.\nUSAGE"}

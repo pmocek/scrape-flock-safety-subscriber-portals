@@ -4,3 +4,4 @@
 {"ts": "2026-06-26T03:39:34.548537+00:00"}
 {"ts": "2026-06-26T05:12:09.395672+00:00", "error": "Cloudflare"}
 {"ts": "2026-06-26T05:55:40.863566+00:00", "error": "Cloudflare"}
+{"ts": "2026-06-26T20:14:35.172531+00:00", "retention_days": 21, "vehicles_30d": 582501, "hotlist_hits_30d": 565, "searches_30d": 170, "hotlists": "National and statewide hotlist sources.", "detected": "License Plates, Vehicles", "not_detected": "Facial recognition, People, Gender, Race", "acceptable_use": "Data is used for law enforcement purposes only. Data is owned by Tukwila Police Department and is never sold to 3rd parties.", "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.", "access_policy": "All system access requires a valid reason and is stored indefinitely.", "hotlist_policy": "Hotlist hits are required to be human verified prior to action.\nUSAGE"}

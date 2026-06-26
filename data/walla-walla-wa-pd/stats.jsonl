@@ -4,3 +4,4 @@
 {"ts": "2026-06-26T03:39:43.404705+00:00"}
 {"ts": "2026-06-26T05:13:20.966393+00:00", "error": "Cloudflare"}
 {"ts": "2026-06-26T05:56:52.534842+00:00", "error": "Cloudflare"}
+{"ts": "2026-06-26T20:14:44.156920+00:00", "vehicles_30d": 0, "hotlists": "National and statewide hotlist sources.", "detected": "License Plates, Vehicles", "not_detected": "Facial Recognition, People, Gender, Race", "acceptable_use": "Data is used for law enforcement purposes only. Data is owned by Walla Walla Police Department and is never sold to 3rd parties.", "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.", "access_policy": "All system access requires a valid reason and is stored indefinitely.", "hotlist_policy": "Hotlist hits are required to be human verified prior to action.\nUSAGE"}

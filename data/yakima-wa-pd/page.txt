@@ -1,11 +1,173 @@
-Error 1015 Ray ID: a1192fc108e926c8 • 2026-06-26 03:39:44 UTC
-You are being rate limited
-What happened?
+Transparency Portal
+Visit Flock
+Yakima WA PD
+Transparency Portal
 
-The owner of this website (transparency.flocksafety.com) has banned you temporarily from accessing this website.
+Last updated: Fri Jun 26 2026
 
-Please see https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1015/ for more details.
+OVERVIEW
 
-Was this page helpful? Yes No
+Yakima Police Department is committed to transparency and as such uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Yakima WA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, the Yakima Police Department utilizes real-time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
 
-Cloudflare Ray ID: a1192fc108e926c8 • Your IP: Click to reveal • Performance & security by Cloudflare
+POLICIES
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Yakima WA PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires an individual to be a member of the police department and a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+USAGE
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Sharing Network Data With
+
+Organizations granted access to Yakima WA PD data.
+
+Aberdeen WA PD
+Adams County WA SO
+Arlington PD (WA)
+Auburn WA PD
+Benton County WA SO
+Centralia WA PD
+Chehalis WA PD
+Chelan County WA SO
+Cheney WA PD
+Cle Elum WA PD
+Clyde Hill WA PD
+College Place WA PD
+Columbia River Drug Task Force WA
+Colville WA Tribal Police
+Covington WA PD
+Des Moines WA PD
+Douglas County WA SO
+Dupont WA PD
+East Wenatchee WA PD
+Eatonville WA PD [Inactive]
+Ellensburg WA PD
+Enumclaw WA PD
+Everett (WA) Police Department
+Federal Way WA PD
+Goldendale WA PD
+Grandview WA PD
+Granger WA PD
+Granite Falls WA PD
+Grant County WA SO
+Grays Harbor County SO (WA)
+Kennewick WA PD
+Kent WA PD
+King County International Airport (WA)
+Kittitas County WA SO
+Kittitas WA PD
+Lakewood WA PD
+Liberty Lake WA PD
+Lincoln County WA SO
+Lynnwood WA PD [Inactive]
+Mabton WA PD
+Marysville WA PD
+Mattawa WA PD
+Mill Creek WA PD
+Monroe WA PD
+Montesano WA PD
+Moses Lake WA PD
+Mount Vernon WA PD
+Mountlake Terrace WA PD
+Moxee WA PD
+Mukilteo WA PD
+Napavine WA PD
+Newcastle WA PD
+Olympia WA PD
+Orting WA PD
+Othello WA PD
+Port of Seattle WA PD
+Prosser WA PD
+Puyallup WA PD
+Reardan WA PD
+Renton WA PD
+Richland WA PD
+Richland WA PD
+SeaTac WA PD
+Sedro-Woolley WA PD
+Selah WA PD
+Shelton PD (WA)
+Snohomish County WA SO
+Spokane County WA SO
+Spokane Tribal PD WA
+Spokane WA PD
+Stanwood WA PD
+Sumner WA PD
+Sunnyside WA PD
+Suquamish WA PD
+Toppenish WA PD
+Town of Harrah WA
+Tukwila WA PD
+Tulalip Tribal Police Dept. (WA)
+Union Gap WA PD
+Walla Walla WA PD
+Wapato WA PD
+Warden WA PD
+Wenatchee WA PD
+West Richland WA PD
+Westport WA PD
+Yakima County WA SO
+Yelm WA PD
+Zillah WA PD
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+360,102
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+1,238
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+446
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+ADDITIONAL INFO
+
+ALPR POLICY
+
+https://yakimapolice.org/assets/Lexipol-461-ALPR-05052026.pdf
+
+Provided by Flock Safety
