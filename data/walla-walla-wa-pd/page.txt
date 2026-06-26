@@ -1,80 +1,11 @@
-Transparency Portal
-Visit Flock
-Walla Walla WA PD
-Transparency Portal
+Error 1015 Ray ID: a1192f89987d8714 • 2026-06-26 03:39:35 UTC
+You are being rate limited
+What happened?
 
-Last updated: Thu Jun 25 2026
+The owner of this website (transparency.flocksafety.com) has banned you temporarily from accessing this website.
 
-OVERVIEW
+Please see https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1015/ for more details.
 
-Walla Walla Police Department uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Walla Walla Police Department utilizes retroactive search to solve crimes after they've occurred. Additionally, Walla Walla Police Deaprtment utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+Was this page helpful? Yes No
 
-POLICIES
-
-What's Detected
-
-License Plates, Vehicles
-
-What's Not Detected
-
-Facial Recognition, People, Gender, Race
-
-Acceptable Use Policy
-
-Data is used for law enforcement purposes only. Data is owned by Walla Walla Police Department and is never sold to 3rd parties.
-
-Prohibited Uses
-
-Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
-
-Access Policy
-
-All system access requires a valid reason and is stored indefinitely.
-
-Hotlist Policy
-
-Hotlist hits are required to be human verified prior to action.
-USAGE
-
-Data Retention (in days)
-
-The number of days data is retained.
-
-30 days
-
-Number of Owned Cameras
-
-Number of LPR and other cameras.
-
-0
-
-Hotlists Alerted On
-
-National and statewide hotlist sources.
-
-NCMEC Amber Alert
-
-Vehicles Detected in the Last 20 Days
-
-Number of unique plate reads over the last 30 days.
-
-0
-
-Hotlist Hits in the Last 20 Days
-
-Total hotlist hits over the last 30 days.
-
-Data Unavailable
-
-Searches in the Last 20 Days
-
-Total user search sessions over the last 30 days.
-
-0
-ADDITIONAL INFO
-
-Walla Walla Police Department ALPR Policy
-
-Click here to view the full policy:https://public.powerdms.com/WallaWallaPD/documents/3199687
-
-Provided by Flock Safety
+Cloudflare Ray ID: a1192f89987d8714 • Your IP: Click to reveal • Performance & security by Cloudflare
