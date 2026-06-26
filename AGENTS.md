@@ -8,3 +8,4 @@
 
 - `describe-diff.py`: Changed/new were slug-only lists but unpacked as `(slug, desc)` tuples → ValueError. Fixed 2e9c37d.
 - `describe-diff.py`: Subject included "X unchanged" which reads confusingly ("update 8 agencies (8 unchanged)" means nothing changed but reads as contradiction). No longer emits "unchanged" in subject. Skip commit entirely when no meaningful change (all stats identical, no page/other file changes). Workflow guards against empty commit message. Fixed 85d66a7.
+- `scrape-flock.py`: Cloudflare Error 1015 rate-limit pages had title "Access denied | ... Cloudflare" which didn't match the "Just a moment" check. Pages were saved as if they were real data (empty stats, error HTML). Fixed by checking the HTTP response status code from `page.goto()`: 429 = rate limited, 503 = JS challenge. Title fallback only when response is None. Fixed ae67732.
