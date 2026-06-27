@@ -3,3 +3,4 @@
 {"ts": "2026-06-26T04:47:05.726080+00:00", "error": "Cloudflare"}
 {"ts": "2026-06-26T05:30:36.538498+00:00", "error": "Cloudflare"}
 {"ts": "2026-06-26T20:30:17.518171+00:00", "error": "Cloudflare"}
+{"ts": "2026-06-27T11:48:23.797123+00:00", "retention_days": 21, "vehicles_30d": 400301, "hotlist_hits_30d": 972, "hotlists": "National and statewide hotlist sources.", "detected": "License Plates, Vehicles", "not_detected": "Facial recognition, people, gender, race", "acceptable_use": "Data is used for law enforcement purposes only. Data is owned by the Marysville Police Department and is never sold to 3rd parties.", "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), or personal use.", "hotlist_policy": "Hotlist hits (i.e., stolen vehicles, missing persons, etc.) are required to be human verified prior to action."}

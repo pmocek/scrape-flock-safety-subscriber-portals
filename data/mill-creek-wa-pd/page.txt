@@ -1,11 +1,105 @@
-Error 1015 Ray ID: a1192b36e8328714 • 2026-06-26 03:36:38 UTC
-You are being rate limited
-What happened?
+Transparency Portal
+Visit Flock
+Mill Creek WA PD
+Transparency Portal
 
-The owner of this website (transparency.flocksafety.com) has banned you temporarily from accessing this website.
+Last updated: Fri Jun 26 2026
 
-Please see https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1015/ for more details.
+OVERVIEW
 
-Was this page helpful? Yes No
+The Mill Creek Police Department's Transparency Portal is a public facing online platform designed to provide community members with a clear understanding of how the department utilizes Automated License Plate Recognition [ALPR] technology from Flock Safety to further its mission to provide professional police services to the community we serve. The portal serves as a central hub for accountability and trust building, allowing residents to review the following information regarding the department's use of Flock.
 
-Cloudflare Ray ID: a1192b36e8328714 • Your IP: Click to reveal • Performance & security by Cloudflare
+POLICIES
+
+What Is Flock Safety?
+
+Camera network: Flock Safety installs and maintains a network of ALPR cameras throughout the City of Mill Creek.
+
+Data collection: Cameras capture license plate information, which is sent to an encrypted cloud storage with an established retention period.
+
+Integration with law enforcement: License plate data is then shared with existing law enforcement databases, such as the National Crime Information Center (NCIC), to detect current Law Enforcement Status (stolen vehicles, stolen plates, warrants, or missing persons).
+
+Crime solving: By providing a database of license plate information, the ALPR system helps police solve crimes faster by identifying vehicles with associated Law Enforcement Status.
+
+What Flock Safety is Not
+
+A traffic enforcement tool: The cameras are not traffic cameras, do not detect speeding, and cannot issue tickets for traffic infractions.
+
+A facial recognition system: The technology does not have facial recognition capabilities and does not capture biometric information.
+
+An immigration enforcement tool: Per the Mill Creek Police Department Policy and Data Sharing Agreement, the system is not to be utilized for immigration enforcement (see Prohibited use).
+
+An unlimited law enforcement data source: The system has network authorizations which allow agencies the ability to allow or prevent sharing with Federal, State, or local agencies (see Organizations granted access to MCPD data).
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Mill Creek WA PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+ALPR technology and data shall not be used for the sole purpose of immigration enforcement.
+
+Without another clearly articulated nexus to activity that is or would be criminal in Washington State, ALPR technology and data shall not be used to specifically target or track the movement of vehicles traveling to or from healthcare facilities, including but not limited to hospitals, clinics, mental health providers, and reproductive health care centers. This restriction applies irrespective of the vehicles origin, destination, or the medical services sought by the individuals.
+
+ALPR technology and data shall not be used for the sole purpose of monitoring individual or expressive activities protected by the First Amendment of the United States Constitution.
+
+ALPR technology and data shall not be used for personal use, harassment, and any other usages that are inconsistent with the Mill Creek Police Departments policy.
+
+Access Policy
+
+Access to the Mill Creek Flock Safety network is restricted to Snohomish County LE agencies who have completed and signed a Data Sharing Agreement. All inquiries must have valid LE nexus and state the reason for search. This data is audited and retained per WA State law.
+USAGE
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+17
+
+Sharing Network Data With
+
+Organizations granted access to Mill Creek WA PD data.
+
+Lake Stevens WA PD
+Monroe WA PD
+Mukilteo WA PD
+Snohomish County WA SO
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+281,692
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+53
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+34
+ADDITIONAL INFO
+
+Recent Events
+
+On March 26, 2026, at approximately 2:55 p.m., Mill Creek officers were alerted to a Flock ALPR hit associated with a stolen vehicle near 132nd Ave SE and 16th Ave SE. The vehicle was reported stolen on March 23, 2026, from within the City of Mill Creek. Officers located the vehicle in the parking lot of Fred Meyer and contacted the occupants, who were all detained during the investigation. Subsequently, the driver was arrested for possession of a stolen vehicle, and a passenger was arrested for unlawful possession of a short-barreled shotgun, which had been concealed in his waistband.
+
+On 02-24-26 Mill Creek officers were advised that Bothell PD had probable cause to arrest an individual for multiple counts of domestic violence assault. Bothell PD provided suspect information and a vehicle license plate to surrounding agencies. Mill Creek offices were alerted to a Flock hit on the suspect vehicle in the area of SR 527 and Mill Creek RD. Officers conducted an area check for the vehicle, which was located, and the suspect was arrested without incident.
+
+Shortly before midnight on November 18th, Mill Creek Police Officers received multiple Flock alerts for a stolen Amazon delivery van driving through the city. The van was stolen in Seattle while the driver was on his route. After a short pursuit and successful stop stick assist from Snohomish County Sheriff's Office, two subjects were taken into custody. The subjects were booked into Snohomish County Jail for Possession of a Stolen Vehicle, Possession of a Stolen Firearm, Unlawful Possession of a Firearm, Eluding Police, and Possessing Controlled Substances.
+
+Additional Info
+
+LPR Policy: https://millcreekwa.gov/police
+
+Provided by Flock Safety
