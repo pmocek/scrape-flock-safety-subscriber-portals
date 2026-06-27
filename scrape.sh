@@ -9,8 +9,8 @@ cd "$SCRIPT_DIR"
 
 echo "=== $(date -u -Iseconds): Scraping Flock Safety agencies ==="
 
-# 1. Agency list from haveibeenflocked.com (curl-based, no Cloudflare)
-./download.sh 'https://haveibeenflocked.com/news/transparency-portals/'
+# 1. Agency list from eyesonflock.com (curl-based, no Cloudflare)
+./download.sh 'https://eyesonflock.com/api/v1/data'
 
 # 2. Determine Python and Playwright setup
 if [ -d ".venv" ]; then
@@ -36,10 +36,10 @@ if $PYTHON -c "import playwright" 2>/dev/null; then
     $XVFB_RUN $PYTHON scrape-flock.py "$@" 2>&1 || echo "  (agency scrape step non-fatal)"
   else
     echo "  No Xvfb available — skipping browser-based agency scraping."
-    echo "  Only haveibeenflocked.com list will be updated."
+    echo "  Only eyesonflock.com list will be updated."
   fi
 else
-  echo "Playwright not installed — scraping haveibeenflocked.com agency list only."
+  echo "Playwright not installed — scraping eyesonflock.com agency list only."
 fi
 
 echo "=== Done: $(date -u -Iseconds) ==="

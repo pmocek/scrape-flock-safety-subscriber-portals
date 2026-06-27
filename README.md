@@ -4,7 +4,7 @@ Tracks Flock Safety subscriber data using the [git-scraping](https://simonwillis
 
 ## What it does
 
-- Fetches the agency list from [haveibeenflocked.com](https://haveibeenflocked.com/news/transparency-portals/)
+- Fetches the agency list from [eyesonflock.com](https://eyesonflock.com/)
 - Scrapes individual agency transparency portals (`transparency.flocksafety.com/*`) via Playwright
 - Extracts structured stats: cameras, vehicles, retention, searches, hotlist hits, external agencies with access
 - Extracts Public Search Audit CSV data where available
@@ -28,7 +28,7 @@ Tracks Flock Safety subscriber data using the [git-scraping](https://simonwillis
 | `scrape-flock.py` | Playwright-based scraper for Cloudflare-protected agency pages |
 | `scripts/describe-diff.py` | Generates semantic commit messages from staged `stats.jsonl` diffs |
 | `scripts/health-check.py` | Lightweight reachability check via `requests.get()` |
-| `download.sh` | Refreshes `wa-agencies.json` from haveibeenflocked.com |
+| `download.sh` | Refreshes `wa-agencies.json` from eyesonflock.com |
 | `wa-agencies.json` | Cached list of WA agency slugs |
 | `requirements.txt` | Python dependencies (playwright, playwright-stealth) |
 | `AGENTS.md` | Development notes and fix history for AI agents |

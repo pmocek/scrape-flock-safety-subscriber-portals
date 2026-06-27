@@ -21,18 +21,19 @@ DATA_DIR = PROJECT_DIR / "data"
 AGENCIES_FILE = PROJECT_DIR / "wa-agencies.json"
 
 WA_SLUGS = [
-    "arlington-pd-wa", "bonney-lake-wa-pd", "centralia-pd-wa",
-    "college-place-wa-pd", "des-moines-wa-pd", "eatonville-wa-pd",
-    "edmonds-wa-pd", "ellensburg-wa-pd", "everett-wa-pd", "kent-wa-pd",
+    "-spokane-county-wa-so", "arlington-pd-wa", "auburn-wa-pd",
+    "bonney-lake-wa-pd", "centralia-pd-wa", "college-place-wa-pd",
+    "des-moines-wa-pd", "eatonville-wa-pd", "edmonds-wa-pd",
+    "ellensburg-wa-pd", "everett-wa-pd", "kent-wa-pd",
     "lake-stevens-wa-pd", "lakewood-wa-pd", "lynnwood-wa-pd",
     "marysville-wa-pd", "medina-wa-pd", "mill-creek-wa-pd",
     "monroe-wa-pd", "moses-lake-wa-pd", "mount-vernon-wa-pd",
-    "newcastle-wa-pd", "olympia-wa-pd-", "prosser-wa-pd",
-    "puyallup-wa-pd", "renton-wa-pd", "richland-pd-wa", "seatac-wa-pd",
-    "selah-wa-pd", "shelton-pd-wa", "skamania-co-wa-so",
-    "snohomish-county-wa-so-", "-spokane-county-wa-so",
-    "stanwood-wa-pd", "sumner-wa-pd", "toppenish-wa-pd",
-    "tukwila-wa-pd", "walla-walla-wa-pd", "yakima-wa-pd", "yelm-wa-pd",
+    "mukilteo-wa-pd", "newcastle-wa-pd", "olympia-wa-pd-",
+    "prosser-wa-pd", "puyallup-wa-pd", "renton-wa-pd", "richland-pd-wa",
+    "seatac-wa-pd", "selah-wa-pd", "shelton-pd-wa", "skamania-co-wa-so",
+    "snohomish-county-wa-so-", "stanwood-wa-pd", "sultan-wa-pd",
+    "sumner-wa-pd", "toppenish-wa-pd", "tukwila-wa-pd",
+    "walla-walla-wa-pd", "yakima-wa-pd", "yelm-wa-pd",
 ]
 
 

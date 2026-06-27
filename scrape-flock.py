@@ -39,27 +39,33 @@ except ImportError:
 PROJECT_DIR = Path(__file__).parent.resolve()
 DATA_DIR = PROJECT_DIR / "data"
 AGENCIES_FILE = PROJECT_DIR / "wa-agencies.json"
-HAVEIBEENFLOCKED_URL = "https://haveibeenflocked.com/news/transparency-portals/"
+EYESONFLOCK_URL = "https://eyesonflock.com/api/v1/data"
+EYESONFLOCK_JSON_FILE = PROJECT_DIR / "eyesonflock.com-api-v1-data.json"
 
 WA_SLUGS = [
-    "arlington-pd-wa", "bonney-lake-wa-pd", "centralia-pd-wa",
-    "college-place-wa-pd", "des-moines-wa-pd", "eatonville-wa-pd",
-    "edmonds-wa-pd", "ellensburg-wa-pd", "everett-wa-pd", "kent-wa-pd",
+    "-spokane-county-wa-so", "arlington-pd-wa", "auburn-wa-pd",
+    "bonney-lake-wa-pd", "centralia-pd-wa", "college-place-wa-pd",
+    "des-moines-wa-pd", "eatonville-wa-pd", "edmonds-wa-pd",
+    "ellensburg-wa-pd", "everett-wa-pd", "kent-wa-pd",
     "lake-stevens-wa-pd", "lakewood-wa-pd", "lynnwood-wa-pd",
     "marysville-wa-pd", "medina-wa-pd", "mill-creek-wa-pd",
     "monroe-wa-pd", "moses-lake-wa-pd", "mount-vernon-wa-pd",
-    "newcastle-wa-pd", "olympia-wa-pd-", "prosser-wa-pd",
-    "puyallup-wa-pd", "renton-wa-pd", "richland-pd-wa", "seatac-wa-pd",
-    "selah-wa-pd", "shelton-pd-wa", "skamania-co-wa-so",
-    "snohomish-county-wa-so-", "-spokane-county-wa-so",
-    "stanwood-wa-pd", "sumner-wa-pd", "toppenish-wa-pd",
-    "tukwila-wa-pd", "walla-walla-wa-pd", "yakima-wa-pd", "yelm-wa-pd",
+    "mukilteo-wa-pd", "newcastle-wa-pd", "olympia-wa-pd-",
+    "prosser-wa-pd", "puyallup-wa-pd", "renton-wa-pd", "richland-pd-wa",
+    "seatac-wa-pd", "selah-wa-pd", "shelton-pd-wa", "skamania-co-wa-so",
+    "snohomish-county-wa-so-", "stanwood-wa-pd", "sultan-wa-pd",
+    "sumner-wa-pd", "toppenish-wa-pd", "tukwila-wa-pd",
+    "walla-walla-wa-pd", "yakima-wa-pd", "yelm-wa-pd",
 ]
 
 
 def parse_stats(text):
     """Extract structured stats from the transparency portal page."""
     stats = {}
+
+    lines = text.strip().split("\n")
+    if len(lines) >= 3:
+        stats["page_name"] = lines[2].strip()
 
     def grab_int(pattern, key):
         m = re.search(pattern, text, re.DOTALL)
@@ -82,9 +88,19 @@ def parse_stats(text):
             if m:
                 stats[key] = "Data Unavailable"
 
-    m = re.search(r'(?:External )?[Aa]gencies\s*who\s*have\s*access\s*\n+\s*\n([\s\S]*?)(?:\n\n(?:\w|\d)\n|\Z)', text)
-    if m:
-        agencies = [a.strip() for a in m.group(1).split("\n") if a.strip() and len(a.strip()) > 3]
+    agencies = []
+    for direction in ("Sharing Network Data With", "Receiving Network Data From"):
+        for m in re.finditer(
+            rf'(?:{re.escape(direction)})\s*\n+\s*\n'
+            r'(?:Organizations[^\n]*\.\s*\n+\s*\n)?'
+            r'([\s\S]*?)(?=\n\n[A-Z]|\Z)',
+            text
+        ):
+            lst = [a.strip() for a in m.group(1).split("\n") if a.strip() and len(a.strip()) > 3]
+            agencies.extend(lst)
+    if agencies:
+        seen = set()
+        agencies = [a for a in agencies if not (a in seen or seen.add(a))]
         stats["external_agencies_count"] = len(agencies)
         stats["external_agencies"] = agencies
 
@@ -106,6 +122,38 @@ def parse_stats(text):
             stats[key] = val
 
     return stats
+
+
+def _build_name_map(save_dir):
+    """Build name→slug mapping from scraped page.txt files."""
+    name_to_slug = {}
+    for slug_dir in sorted(save_dir.iterdir()):
+        if not slug_dir.is_dir():
+            continue
+        slug = slug_dir.name
+        txt_path = slug_dir / "page.txt"
+        if txt_path.exists():
+            text = txt_path.read_text()
+            lines = text.strip().split("\n")
+            if len(lines) >= 3:
+                name = lines[2].strip()
+                name_to_slug[name] = slug
+                name_to_slug[name.lower()] = slug
+    return name_to_slug
+
+
+def _name_to_slug(name):
+    """Heuristic conversion of agency display name to likely slug."""
+    name = re.sub(r'\s*\[Inactive\]', '', name).strip()
+    name = name.lower()
+    name = re.sub(r'\(wa\)', 'wa', name)
+    name = re.sub(r'\bpolice department\b', 'pd', name)
+    name = re.sub(r'\bpolice dept\.?\b', 'pd', name)
+    name = re.sub(r'[()]', '', name)
+    name = re.sub(r'[^\w\s-]', '', name)
+    name = re.sub(r'\s+', '-', name)
+    name = re.sub(r'-+', '-', name)
+    return name.strip('-')
 
 
 def append_jsonl(slug_dir, data):
@@ -222,16 +270,29 @@ def scrape_slug(slug, save_dir):
 
 
 def refresh_agencies():
-    """Fetch agency list from haveibeenflocked.com and save WA agencies."""
-    import urllib.request
-    req = urllib.request.Request(HAVEIBEENFLOCKED_URL, headers={
-        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"
-    })
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        html = resp.read().decode("utf-8", errors="replace")
+    """Fetch agency list from eyesonflock.com and save WA agencies."""
+    if EYESONFLOCK_JSON_FILE.exists():
+        print(f"Loading local eyesonflock data from {EYESONFLOCK_JSON_FILE}")
+        with open(EYESONFLOCK_JSON_FILE) as f:
+            data = json.load(f)
+    else:
+        print(f"Fetching eyesonflock data from {EYESONFLOCK_URL}")
+        import urllib.request
+        req = urllib.request.Request(EYESONFLOCK_URL, headers={
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"
+        })
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = json.load(resp)
 
-    slugs = set(re.findall(r"transparency\.flocksafety\.com/([a-zA-Z0-9_-]+)", html))
-    agencies = sorted(s for s in slugs if "-wa-" in s.lower())
+    agencies = []
+    for portal in data.get("portals", []):
+        if portal.get("state") == "WA":
+            url = portal.get("portal_url", "")
+            slug = url.split("/")[-1].strip()
+            if slug:
+                agencies.append(slug)
+
+    agencies = sorted(list(set(agencies)))
 
     with open(AGENCIES_FILE, "w") as f:
         json.dump(agencies, f, indent=2)
@@ -265,6 +326,9 @@ def main():
     elif args.slugs_file:
         with open(args.slugs_file) as f:
             slugs = json.load(f)
+    elif AGENCIES_FILE.exists():
+        with open(AGENCIES_FILE) as f:
+            slugs = json.load(f)
     else:
         slugs = WA_SLUGS
 
@@ -296,6 +360,45 @@ def main():
     ok = sum(1 for r in results if r["success"])
     elapsed = time.time() - start_time
     print(f"\nDone: {ok}/{total} OK ({elapsed:.0f}s)")
+
+    # Cross-agency discovery: find external agencies not yet scraped
+    discovered = set()
+    name_map = _build_name_map(save_dir)
+    known_slugs = set(WA_SLUGS)
+    try:
+        with open(AGENCIES_FILE) as f:
+            known_slugs.update(json.load(f))
+    except (FileNotFoundError, json.JSONDecodeError):
+        pass
+
+    for r in results:
+        if not r.get("success"):
+            continue
+        agencies = r.get("stats", {}).get("external_agencies", [])
+        for name in agencies:
+            slug = name_map.get(name) or name_map.get(name.lower())
+            if not slug:
+                heur = _name_to_slug(name)
+                if heur in known_slugs:
+                    slug = heur
+            if slug and slug not in known_slugs and slug not in discovered:
+                # Skip if already scraped (data dir exists)
+                if (save_dir / slug / "page.txt").exists():
+                    known_slugs.add(slug)
+                else:
+                    discovered.add(slug)
+
+    if discovered:
+        disc_list = sorted(discovered)
+        print(f"\nDiscovered {len(disc_list)} new agencies via sharing network:")
+        for s in disc_list:
+            print(f"  {s}")
+        for slug in disc_list:
+            print(f"[Discovery] {slug}")
+            result = scrape_slug(slug, save_dir)
+            results.append(result)
+        ok2 = sum(1 for r in results if r.get("success"))
+        print(f"\nDiscovery done: {ok2 - ok}/{len(disc_list)} OK")
 
 
 if __name__ == "__main__":
