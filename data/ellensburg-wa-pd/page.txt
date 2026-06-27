@@ -3,7 +3,7 @@ Visit Flock
 Ellensburg WA PD
 Transparency Portal
 
-Last updated: Fri Jun 26 2026
+Last updated: Sat Jun 27 2026
 
 OVERVIEW
 
@@ -48,7 +48,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-151,578
+152,722
 
 Flock indications in the last 30 days
 
@@ -60,7 +60,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-39
+38
 
 Public Search Audit
 

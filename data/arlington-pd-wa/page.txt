@@ -3,7 +3,7 @@ Visit Flock
 Arlington PD (WA)
 Transparency Portal
 
-Last updated: Fri Jun 26 2026
+Last updated: Sat Jun 27 2026
 
 OVERVIEW
 
@@ -60,13 +60,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-291,767
+292,302
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-288
+269
 
 Number of Searches
 
