@@ -3,7 +3,7 @@ Visit Flock
 SeaTac WA PD
 Transparency Portal
 
-Last updated: Fri Jun 26 2026
+Last updated: Sat Jun 27 2026
 
 OVERVIEW
 
@@ -67,7 +67,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-483,373
+486,264
 
 Number of Hotlist Hits
 
@@ -79,6 +79,6 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-262
+263
 
 Provided by Flock Safety
