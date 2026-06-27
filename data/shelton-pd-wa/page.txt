@@ -3,7 +3,7 @@ Visit Flock
 Shelton PD (WA)
 Transparency Portal
 
-Last updated: Fri Jun 26 2026
+Last updated: Sat Jun 27 2026
 
 OVERVIEW
 
@@ -135,19 +135,19 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-124,758
+125,468
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-81
+78
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-44
+48
 ADDITIONAL INFO
 
 Recent Success Story
