@@ -3,7 +3,7 @@ Visit Flock
 Medina WA PD
 Transparency Portal
 
-Last updated: Fri Jun 26 2026
+Last updated: Sat Jun 27 2026
 
 OVERVIEW
 
@@ -62,7 +62,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-56,806
+56,813
 
 Number of Hotlist Hits
 
@@ -74,7 +74,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-16
+17
 
 Receiving Network Data From
 

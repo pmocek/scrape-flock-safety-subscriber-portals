@@ -3,7 +3,7 @@ Visit Flock
 Marysville WA PD
 Transparency Portal
 
-Last updated: Sat Jun 27 2026
+Last updated: Sun Jun 28 2026
 
 OVERVIEW
 
@@ -66,13 +66,13 @@ Vehicles detected in the Last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-400,301
+402,343
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-972
+900
 ADDITIONAL INFO
 
 Full Automated License Plate Reader Policy Accessibility

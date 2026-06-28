@@ -3,7 +3,7 @@ Visit Flock
 Mill Creek WA PD
 Transparency Portal
 
-Last updated: Fri Jun 26 2026
+Last updated: Sat Jun 27 2026
 
 OVERVIEW
 
@@ -75,19 +75,19 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-281,692
+281,757
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-53
+46
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-34
+35
 ADDITIONAL INFO
 
 Recent Events
