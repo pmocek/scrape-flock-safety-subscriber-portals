@@ -3,7 +3,7 @@ Visit Flock
 Everett (WA) Police Department
 Transparency Portal
 
-Last updated: Fri Jun 26 2026
+Last updated: Sat Jun 27 2026
 
 OVERVIEW
 
@@ -56,19 +56,19 @@ Vehicles Detected in the Last 30 Days
 
 Number of unique plate reads over the last 30 days.
 
-688,092
+683,889
 
 Hotlist Hits in the Last 30 Days
 
 Total hotlist hits over the last 30 days.
 
-4,008
+3,862
 
 Searches in the Last 30 Days
 
 Total user search sessions over the last 30 days.
 
-277
+293
 
 Sharing Network Data With
 
