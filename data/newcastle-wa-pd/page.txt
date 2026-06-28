@@ -3,7 +3,7 @@ Visit Flock
 Newcastle WA PD
 Transparency Portal
 
-Last updated: Fri Jun 26 2026
+Last updated: Sun Jun 28 2026
 
 OVERVIEW
 
@@ -70,7 +70,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-99
+97
 
 Sharing Network Data With
 

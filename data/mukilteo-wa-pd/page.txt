@@ -1,13 +1,13 @@
 Transparency Portal
 Visit Flock
-Moses Lake WA PD
+Mukilteo WA PD
 Transparency Portal
 
 Last updated: Sun Jun 28 2026
 
 OVERVIEW
 
-Moses Lake WA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Moses Lake WA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Moses Lake WA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+Mukilteo WA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Mukilteo WA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Mukilteo WA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
 
 POLICIES
 
@@ -21,7 +21,7 @@ Facial recognition, People, Gender, Race
 
 Acceptable Use Policy
 
-Data is used for law enforcement purposes only. Data is owned by Moses Lake WA PD and is never sold to 3rd parties.
+Data is used for law enforcement purposes only. Data is owned by Mukilteo WA PD and is never sold to 3rd parties.
 
 Prohibited Uses
 
@@ -34,6 +34,10 @@ All system access requires a valid reason and is stored indefinitely.
 Hotlist Policy
 
 Hotlist hits are required to be human verified prior to action.
+
+City of Mukilteo Police Department Policy on License Plate Readers
+
+https://public.powerdms.com/MukilteoPolice/tree/documents/3204045
 USAGE
 
 Data Retention
@@ -46,25 +50,22 @@ Total Cameras
 
 Number of LPR and other cameras.
 
-13
+9
 
 Sharing Network Data With
 
-Organizations granted access to Moses Lake WA PD data.
+Organizations granted access to Mukilteo WA PD data.
 
-Adams County WA SO
-Airway Heights WA PD
 Arlington PD (WA)
 Auburn WA PD
 Benton County WA SO
 Brewster WA PD
-Centralia WA PD
 Chehalis WA PD
 Chelan County WA SO
 Cheney WA PD
-Cle Elum WA PD
 Clyde Hill WA PD
 College Place WA PD
+Columbia River Drug Task Force WA
 Covington WA PD
 Des Moines WA PD
 Douglas County WA SO
@@ -74,31 +75,26 @@ Enumclaw WA PD
 Everett (WA) Police Department
 Federal Way WA PD
 Goldendale WA PD
-Grandview WA PD
 Granite Falls WA PD
-Grant County WA SO
 Grays Harbor County SO (WA)
-Kennewick WA PD
 Kent WA PD
 King County International Airport (WA)
 Kittitas County WA SO
 Kittitas WA PD
+Lake Stevens WA PD
 Lakewood WA PD
 Liberty Lake WA PD
 Lincoln County WA SO
-Lynnwood WA PD [Inactive]
 Marysville WA PD
 Mattawa WA PD
 Mill Creek WA PD
 Monroe WA PD
 Montesano WA PD
+Moses Lake WA PD
 Mount Vernon WA PD
 Mountlake Terrace WA PD
-Moxee WA PD
-Mukilteo WA PD
 Newcastle WA PD
 Olympia WA PD
-Omak WA PD
 Orting WA PD
 Othello WA PD
 Port of Seattle WA PD
@@ -109,30 +105,30 @@ SeaTac WA PD
 Sedro-Woolley WA PD
 Selah WA PD
 Shelton PD (WA)
+Snohomish County WA 911
 Snohomish County WA SO
+Snohomish WA PD
 Spokane County WA SO
+Spokane Tribal PD WA
 Spokane WA PD
-Stanwood WA PD
+Sultan WA PD
 Sumner WA PD
 Sunnyside WA PD
 Suquamish WA PD
 Toppenish WA PD
 Tukwila WA PD
+Tulalip Tribal Police Dept. (WA)
 Union Gap WA PD
-Walla Walla WA PD
-Wapato WA PD
-Warden WA PD
 Wenatchee WA PD
 West Richland WA PD
 Westport WA PD
 Yakima County WA SO
 Yakima WA PD
 Yelm WA PD
-Zillah WA PD
 
 Receiving Network Data From
 
-Organizations sharing their data with Moses Lake WA PD.
+Organizations sharing their data with Mukilteo WA PD.
 
 Aberdeen WA PD
 Adams County WA SO
@@ -142,7 +138,10 @@ Auburn WA PD
 Centralia WA PD
 Chehalis WA PD
 Chelan County WA SO
+Cheney WA PD
 Cle Elum WA PD
+Clearwater County ID SO
+Clyde Hill WA PD
 College Place WA PD
 Columbia River Drug Task Force WA
 Colville WA Tribal Police
@@ -153,11 +152,11 @@ East Wenatchee WA PD
 Eatonville WA PD [Inactive]
 Ellensburg WA PD
 Federal Way WA PD
-Fort Worth TX PD
 Goldendale WA PD
 Grandview WA PD
+Granite Falls WA PD
 Grant County WA SO
-Kennewick WA PD
+Grays Harbor County SO (WA)
 Kittitas County WA SO
 Kittitas WA PD
 Lake Stevens WA PD
@@ -165,30 +164,36 @@ Lakewood WA PD
 Liberty Lake WA PD
 Mabton WA PD
 Marysville WA PD
+Mill Creek WA PD
+Monroe WA PD
 Montesano WA PD
+Moses Lake WA PD
+Mount Vernon WA PD
 Moxee WA PD
-Mukilteo WA PD
 Napavine WA PD
 Newcastle WA PD
 Olympia WA PD
-Omak WA PD
 Orting WA PD
 Othello WA PD
-Pacific WA PD
 Port of Seattle WA PD
 Prosser WA PD
 Puyallup WA PD
 Reardan WA PD
 Richland WA PD
+Sedro-Woolley WA PD
 Selah WA PD
 Shelton PD (WA)
 Skamania CO WA SO [Inactive]
 Spokane Tribal PD WA
+Spokane WA PD
+Stanwood WA PD
+Sultan WA PD
 Sumner WA PD
 Sunnyside WA PD
 Toppenish WA PD
 Town of Harrah WA
 Tukwila WA PD
+Tulalip Tribal Police Dept. (WA)
 Union Gap WA PD
 Walla Walla WA PD
 Wapato WA PD
@@ -198,7 +203,6 @@ West Richland WA PD
 Yakima County WA SO
 Yakima WA PD
 Yelm WA PD
-Zillah WA PD
 
 Hotlists Alerted On
 
@@ -210,19 +214,25 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-116,903
+168,959
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-47
+42
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-84
+7
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
 ADDITIONAL INFO
 
 Recent Success Story

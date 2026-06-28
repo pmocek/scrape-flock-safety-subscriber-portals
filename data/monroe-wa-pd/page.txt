@@ -3,7 +3,7 @@ Visit Flock
 Monroe WA PD
 Transparency Portal
 
-Last updated: Fri Jun 26 2026
+Last updated: Sun Jun 28 2026
 
 OVERVIEW
 
@@ -66,12 +66,12 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-283,121
+288,274
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-183
+161
 
 Provided by Flock Safety
