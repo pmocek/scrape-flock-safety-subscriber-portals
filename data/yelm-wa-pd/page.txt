@@ -3,7 +3,7 @@ Visit Flock
 Yelm WA PD
 Transparency Portal
 
-Last updated: Fri Jun 26 2026
+Last updated: Sun Jun 28 2026
 
 OVERVIEW
 
@@ -503,18 +503,18 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-115,951
+117,750
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-43
+37
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-10
+3
 
 Provided by Flock Safety

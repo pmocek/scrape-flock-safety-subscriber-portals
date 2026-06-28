@@ -3,7 +3,7 @@ Visit Flock
 Yakima WA PD
 Transparency Portal
 
-Last updated: Fri Jun 26 2026
+Last updated: Sun Jun 28 2026
 
 OVERVIEW
 
@@ -145,19 +145,19 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-360,102
+361,211
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,238
+1,005
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-446
+463
 
 Public Search Audit
 

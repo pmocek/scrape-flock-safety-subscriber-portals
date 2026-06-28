@@ -3,7 +3,7 @@ Visit Flock
 Sultan WA PD
 Transparency Portal
 
-Last updated: Sat Jun 27 2026
+Last updated: Sun Jun 28 2026
 
 OVERVIEW
 
@@ -77,7 +77,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-130,283
+132,190
 
 Number of Hotlist Hits
 

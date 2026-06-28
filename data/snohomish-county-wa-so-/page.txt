@@ -3,7 +3,7 @@ Visit Flock
 Snohomish County WA SO
 Transparency Portal
 
-Last updated: Sat Jun 27 2026
+Last updated: Sun Jun 28 2026
 
 OVERVIEW
 
@@ -73,19 +73,19 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-345,840
+347,121
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-419
+393
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-346
+349
 
 Public Search Audit
 
