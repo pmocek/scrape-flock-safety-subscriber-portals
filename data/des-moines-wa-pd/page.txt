@@ -3,7 +3,7 @@ Visit Flock
 Des Moines WA PD
 Transparency Portal
 
-Last updated: Sat Jun 27 2026
+Last updated: Sun Jun 28 2026
 
 OVERVIEW
 
@@ -143,13 +143,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-244,811
+244,731
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-124
+112
 
 Public Search Audit
 
@@ -161,7 +161,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-43
+46
 ADDITIONAL INFO
 
 Des Moines LPR Policy: Purpose and Scope
