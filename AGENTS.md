@@ -25,6 +25,7 @@
   - E) Indirect sharing chains (multi-hop BFS graph traversal up to 5 hops)
   Uses `eyesonflock.com-api-v1-data.json` for partner-name-to-slug matching and graph construction. Supports `--commit-body` flag.
 - `.github/workflows/scrape.yml`: Added "Detect NCIC contradictions" step after audit analysis. Captures `COMMIT_BODY:` lines from `ncic-contradiction.py --commit-body` and appends them as an "NCIC findings:" section in commit body.
+- `.github/workflows/health-check.yml`: GHA's default `bash -e` was swallowing script output when health-check.py exited with code 1 (>50% agencies unreachable). The `OUTPUT=$(...)` line triggered `-e` before `echo "$OUTPUT"` ran, losing all diagnostic output. Fixed by adding `|| true` and `continue-on-error: true` so output is always captured and commit step always runs.
 
 <!-- BEGIN BEADS INTEGRATION v:1 profile:minimal hash:970c3bf2 -->
 ## Beads Issue Tracker
