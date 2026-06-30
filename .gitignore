@@ -8,3 +8,8 @@ __pycache__/
 *.db
 .beads-credential-key
 .beads/proxieddb/
+
+# Downstream analysis — not part of the scraper
+/docs/
+/scripts/compile-evidence.py
+/scripts/generate-pra-requests.py
