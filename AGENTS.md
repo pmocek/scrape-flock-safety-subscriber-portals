@@ -17,6 +17,14 @@
 - `scrape-flock.py`: Added `_scan_immigration_reasons()` that scans audit CSV `reason`/`offenseType` fields for immigration terms (ICE, USBP, HSI, CBP, customs, border patrol, immigration). Results stored in `stats.jsonl` as `audit_immigration_entries` and `audit_immigration_reasons`.
 - `scripts/analyze-audit.py` (new): Categorizes all audit CSV search reasons into 26+ categories, flags DPA SB 6002 violation signals (immigration searches, on-behalf-of federal OSA patterns), vague/generic reasons, case-number-only reasons, and rare unique reasons. Supports `--commit-body` flag for CI workflow integration. Workflow runs it after each scrape and includes outlier findings in commit message body.
 - `.github/workflows/scrape.yml`: Added "Analyze audit CSVs" step after scraping. Captures `COMMIT_BODY:` lines from `analyze-audit.py --commit-body` and appends them to commit message body as an "Audit findings:" section.
+- `scripts/ncic-contradiction.py` (new): Detects NCIC hotlist / immigration enforcement contradictions (Maass contradiction) using 6 detection modes:
+  - A) Prohibits immigration + National hotlists = NCIC Immigration Violator File access
+  - B) No immigration prohibition at all
+  - C) Policy conflicts — prohibits immigration but shares data with non-prohibiting agencies
+  - D) Direct sharing backdoor to non-prohibiting partners
+  - E) Indirect sharing chains (multi-hop BFS graph traversal up to 5 hops)
+  Uses `eyesonflock.com-api-v1-data.json` for partner-name-to-slug matching and graph construction. Supports `--commit-body` flag.
+- `.github/workflows/scrape.yml`: Added "Detect NCIC contradictions" step after audit analysis. Captures `COMMIT_BODY:` lines from `ncic-contradiction.py --commit-body` and appends them as an "NCIC findings:" section in commit body.
 
 <!-- BEGIN BEADS INTEGRATION v:1 profile:minimal hash:970c3bf2 -->
 ## Beads Issue Tracker

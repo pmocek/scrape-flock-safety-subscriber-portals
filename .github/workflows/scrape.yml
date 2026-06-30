@@ -81,6 +81,19 @@ jobs:
           echo "EOF" >> "$GITHUB_OUTPUT"
         fi
 
+    - name: Detect NCIC contradictions
+      id: ncic
+      continue-on-error: true
+      run: |
+        OUTPUT=$(python3 scripts/ncic-contradiction.py --commit-body 2>&1)
+        echo "$OUTPUT"
+        COMMIT_BODY=$(echo "$OUTPUT" | grep "^COMMIT_BODY:" || true)
+        if [ -n "$COMMIT_BODY" ]; then
+          echo "commit_body<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$COMMIT_BODY" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+        fi
+
     - name: Commit and push
       run: |-
         git config user.name "Automated"
@@ -96,12 +109,22 @@ jobs:
           exit 0
         fi
         AUDIT_BODY="${{ steps.audit.outputs.commit_body }}"
+        NCIC_BODY="${{ steps.ncic.outputs.commit_body }}"
         echo "Commit message:"
         echo "$MSG"
+        BODY=""
         if [ -n "$AUDIT_BODY" ]; then
           echo "Audit findings:"
           echo "$AUDIT_BODY"
-          printf '%s\n' "$MSG" "" "Audit findings:" "$AUDIT_BODY" | git commit -F -
+          BODY="$BODY"$'\n'"Audit findings:"$'\n'"$AUDIT_BODY"
+        fi
+        if [ -n "$NCIC_BODY" ]; then
+          echo "NCIC findings:"
+          echo "$NCIC_BODY"
+          BODY="$BODY"$'\n'"NCIC findings:"$'\n'"$NCIC_BODY"
+        fi
+        if [ -n "$BODY" ]; then
+          printf '%s\n' "$MSG" "$BODY" | git commit -F -
         else
           git commit -m "$MSG"
         fi
