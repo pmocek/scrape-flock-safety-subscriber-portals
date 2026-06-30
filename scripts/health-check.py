@@ -95,6 +95,17 @@ async def main():
     print(f"\n  {total} checked ({summary})")
     print(f"COMMIT_MSG: health: {total} checked ({summary})", flush=True)
 
+    if counts.get("error", 0) or counts.get("blocked", 0):
+        for slug in slugs:
+            slug_dir = DATA_DIR / slug
+            hf = slug_dir / "health.jsonl"
+            if not hf.exists():
+                continue
+            with open(hf) as f:
+                last = json.loads(f.read().strip().split("\n")[-1])
+            if last["status"] in ("error", "blocked"):
+                print(f"COMMIT_BODY:  {slug}: {last['status']} ({last['detail']})")
+
     if counts.get("error", 0) > len(slugs) // 2:
         print("FATAL: >50% of agencies unreachable")
         sys.exit(1)

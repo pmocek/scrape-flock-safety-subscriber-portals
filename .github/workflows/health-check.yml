@@ -52,6 +52,10 @@ jobs:
         echo "$OUTPUT"
         COMMIT_MSG=$(echo "$OUTPUT" | grep "^COMMIT_MSG:" | sed 's/^COMMIT_MSG: //')
         echo "commit_msg=$COMMIT_MSG" >> "$GITHUB_OUTPUT"
+        COMMIT_BODY=$(echo "$OUTPUT" | grep "^COMMIT_BODY:" | sed 's/^COMMIT_BODY: //')
+        echo "commit_body<<EOF" >> "$GITHUB_OUTPUT"
+        echo "$COMMIT_BODY" >> "$GITHUB_OUTPUT"
+        echo "EOF" >> "$GITHUB_OUTPUT"
 
     - name: Commit and push
       run: |-
@@ -62,6 +66,10 @@ jobs:
           echo "Nothing changed — no commit"
           exit 0
         fi
-        git commit -m "${{ steps.check.outputs.commit_msg }}"
+        if [ -n "${{ steps.check.outputs.commit_body }}" ]; then
+          git commit -m "${{ steps.check.outputs.commit_msg }}" -m "${{ steps.check.outputs.commit_body }}"
+        else
+          git commit -m "${{ steps.check.outputs.commit_msg }}"
+        fi
         git pull --rebase
         git push
