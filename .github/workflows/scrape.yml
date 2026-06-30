@@ -68,6 +68,19 @@ jobs:
       run: |
         ./scrape.sh --batch ${{ steps.batch.outputs.batch }} --total-batches 6
 
+    - name: Analyze audit CSVs
+      id: audit
+      continue-on-error: true
+      run: |
+        OUTPUT=$(python3 scripts/analyze-audit.py --commit-body 2>&1)
+        echo "$OUTPUT"
+        COMMIT_BODY=$(echo "$OUTPUT" | grep "^COMMIT_BODY:" || true)
+        if [ -n "$COMMIT_BODY" ]; then
+          echo "commit_body<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$COMMIT_BODY" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+        fi
+
     - name: Commit and push
       run: |-
         git config user.name "Automated"
@@ -82,8 +95,15 @@ jobs:
           echo "Nothing meaningful changed — skipping commit"
           exit 0
         fi
+        AUDIT_BODY="${{ steps.audit.outputs.commit_body }}"
         echo "Commit message:"
         echo "$MSG"
-        git commit -m "$MSG"
+        if [ -n "$AUDIT_BODY" ]; then
+          echo "Audit findings:"
+          echo "$AUDIT_BODY"
+          printf '%s\n' "$MSG" "" "Audit findings:" "$AUDIT_BODY" | git commit -F -
+        else
+          git commit -m "$MSG"
+        fi
         git pull --rebase
         git push

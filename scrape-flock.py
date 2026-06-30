@@ -156,6 +156,27 @@ def _name_to_slug(name):
     return name.strip('-')
 
 
+IMMIGRATION_RE = re.compile(
+    r'(?i)\b(?:ice|usbp|hsi|customs|cbp)\b|border\s+patrol|\bimmigra'
+)
+
+
+def _scan_immigration_reasons(rows):
+    """Scan audit CSV rows for immigration-related search reasons."""
+    found = []
+    seen = set()
+    for row in rows:
+        for field in ("reason", "offenseType"):
+            val = row.get(field, "")
+            m = IMMIGRATION_RE.search(val)
+            if m:
+                key = val.strip().lower()
+                if key not in seen:
+                    seen.add(key)
+                    found.append(val.strip()[:120])
+    return found
+
+
 def append_jsonl(slug_dir, data):
     """Append a JSON line to stats.jsonl."""
     slug_dir.mkdir(parents=True, exist_ok=True)
@@ -225,6 +246,10 @@ async def scrape_one_slug(slug, save_dir, max_retries=3):
                             if dates:
                                 stats["audit_date_min"] = min(dates)
                                 stats["audit_date_max"] = max(dates)
+                            imm_reasons = _scan_immigration_reasons(rows)
+                            if imm_reasons:
+                                stats["audit_immigration_entries"] = len(imm_reasons)
+                                stats["audit_immigration_reasons"] = imm_reasons[:20]
 
                 ts = datetime.now(timezone.utc).isoformat()
                 append_jsonl(slug_dir, {"ts": ts, **stats})

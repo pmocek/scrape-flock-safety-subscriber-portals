@@ -19,6 +19,7 @@ FIELD_LABELS = {
     "retention_days": "retention",
     "external_agencies_count": "ext_agencies",
     "audit_count": "audit_entries",
+    "audit_immigration_entries": "immigr_search_entries",
 }
 
 
