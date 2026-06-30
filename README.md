@@ -7,7 +7,8 @@ Tracks Flock Safety subscriber data using the [git-scraping](https://simonwillis
 - Fetches the agency list from [eyesonflock.com](https://eyesonflock.com/)
 - Scrapes individual agency transparency portals (`transparency.flocksafety.com/*`) via Playwright
 - Extracts structured stats: cameras, vehicles, retention, searches, hotlist hits, external agencies with access
-- Extracts Public Search Audit CSV data where available
+- Extracts Public Search Audit CSV data where available; scans search reasons for immigration-related terms and potential Driver Privacy Act (SB 6002) violations
+- Analyzes all audit CSV reasons across agencies — categorizes them, flags federal agency references, vague entries, case-number-only reasons, and on-behalf-of (OSA) patterns
 - Detects Cloudflare blocks via HTTP status code (429) and body text ("Error 1015") — blocks are logged separately, not conflated with data
 - Commits meaningful changes to git for change tracking over time; skips commits when nothing changed (e.g. all agencies blocked)
 
@@ -15,8 +16,8 @@ Tracks Flock Safety subscriber data using the [git-scraping](https://simonwillis
 
 **Primary:** GitHub Actions — two scheduled workflows:
 
-- **Scraper** (`.github/workflows/scrape.yml`): runs 6x daily (every 4 hours), staggered batches to avoid burst detection. Each scheduled run scrapes ~6 agencies. Push/`workflow_dispatch` scrapes the full list.
-- **Health check** (`.github/workflows/health-check.yml`): runs hourly via `requests.get()` to detect prolonged outages. Fails loudly (exit 1) when >50% of agencies are unreachable.
+- **Scraper** (`.github/workflows/scrape.yml`): runs 6x daily (every 4 hours), staggered batches to avoid burst detection. Each scheduled run scrapes ~6 agencies. Push/`workflow_dispatch` scrapes the full list. After scraping, runs audit CSV analysis and appends outlier findings to the commit message body.
+- **Health check** (`.github/workflows/health-check.yml`): runs hourly via Playwright to detect prolonged outages. Lists errored/blocked agencies in the commit message body. Fails loudly (exit 1) when >50% of agencies are unreachable.
 
 **Local development:** `./scrape.sh` runs the full pipeline locally, wrapping `scrape-flock.py` (requires Playwright + Xvfb for browser-based scraping).
 
@@ -27,7 +28,8 @@ Tracks Flock Safety subscriber data using the [git-scraping](https://simonwillis
 | `scrape.sh` | Entry point — refreshes agency list, runs Playwright scraper |
 | `scrape-flock.py` | Playwright-based scraper for Cloudflare-protected agency pages |
 | `scripts/describe-diff.py` | Generates semantic commit messages from staged `stats.jsonl` diffs |
-| `scripts/health-check.py` | Lightweight reachability check via `requests.get()` |
+| `scripts/health-check.py` | Playwright-based health check; lists errored/blocked agencies in commit body |
+| `scripts/analyze-audit.py` | Categorizes audit CSV search reasons, flags DPA violations and outliers |
 | `download.sh` | Refreshes `wa-agencies.json` from eyesonflock.com |
 | `wa-agencies.json` | Cached list of WA agency slugs |
 | `requirements.txt` | Python dependencies (playwright, playwright-stealth) |
@@ -39,7 +41,7 @@ Each agency saves into `data/{slug}/`:
 
 | File | How it updates |
 |------|---------------|
-| `stats.jsonl` | Append-only — one JSON line per successful scrape with `ts` key and extracted stats fields |
+| `stats.jsonl` | Append-only — one JSON line per successful scrape with `ts` key, extracted stats, and `audit_immigration_entries`/`audit_immigration_reasons` if the audit CSV had immigration-related search reasons |
 | `page.html` | Overwritten — full rendered HTML of the portal page |
 | `page.txt` | Overwritten — visible text extracted from the page |
 | `audit.csv` | Overwritten — Public Search Audit CSV, if the agency publishes one |

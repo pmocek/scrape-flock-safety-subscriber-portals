@@ -1,11 +1,22 @@
 # Scraper notes for AI agents
 
-## Committed fixes
+## Commit conventions
+
+- **Atomic commits**: one logical change per commit
+- **Conventional Commits**: `feat:`, `fix:`, `chore:`, `docs:`, `refactor:`, etc.
+- **Commit body** includes audit outlier findings and health check error details when present
+- Update README for user-facing changes; update AGENTS.md for things not obvious from repo structure
+
+## Committed features
 
 - `describe-diff.py`: Changed/new were slug-only lists but unpacked as `(slug, desc)` tuples → ValueError. Fixed 2e9c37d.
 - `describe-diff.py`: Subject included "X unchanged" which reads confusingly ("update 8 agencies (8 unchanged)" means nothing changed but reads as contradiction). No longer emits "unchanged" in subject. Skip commit entirely when no meaningful change (all stats identical, no page/other file changes). Workflow guards against empty commit message. Fixed 85d66a7.
 - `scrape-flock.py`: Cloudflare Error 1015 rate-limit pages had title "Access denied | ... Cloudflare" which didn't match the "Just a moment" check. Pages were saved as if they were real data (empty stats, error HTML). Fixed by checking the HTTP response status code from `page.goto()`: 429 = rate limited. Also checks body text for "Error 1015" per Cloudflare docs (1XXX errors appear in HTML body, not status header). Fixed ae67732, 794d5ff.
 - `health-check.py`: Used `urllib.request.urlopen()` which gets Cloudflare-blocked. Ported to Playwright with headless browser, same detection logic as the scraper. Workflow updated to install Playwright deps and wrap with `xvfb-run`. Fixed in current session.
+- `health-check.py` / `.github/workflows/health-check.yml`: Commit message said "1 error" but didn't say which agency or what error. Fixed by emitting `COMMIT_BODY:` lines for each errored/blocked agency with slug and detail. Workflow captures them and passes as second `-m` to `git commit`. Commit now includes body like `edmonds-wa-pd: error (http_404)`.
+- `scrape-flock.py`: Added `_scan_immigration_reasons()` that scans audit CSV `reason`/`offenseType` fields for immigration terms (ICE, USBP, HSI, CBP, customs, border patrol, immigration). Results stored in `stats.jsonl` as `audit_immigration_entries` and `audit_immigration_reasons`.
+- `scripts/analyze-audit.py` (new): Categorizes all audit CSV search reasons into 26+ categories, flags DPA SB 6002 violation signals (immigration searches, on-behalf-of federal OSA patterns), vague/generic reasons, case-number-only reasons, and rare unique reasons. Supports `--commit-body` flag for CI workflow integration. Workflow runs it after each scrape and includes outlier findings in commit message body.
+- `.github/workflows/scrape.yml`: Added "Analyze audit CSVs" step after scraping. Captures `COMMIT_BODY:` lines from `analyze-audit.py --commit-body` and appends them to commit message body as an "Audit findings:" section.
 
 <!-- BEGIN BEADS INTEGRATION v:1 profile:minimal hash:970c3bf2 -->
 ## Beads Issue Tracker
