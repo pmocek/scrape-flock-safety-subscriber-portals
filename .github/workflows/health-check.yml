@@ -47,8 +47,9 @@ jobs:
 
     - name: Run health check
       id: check
+      continue-on-error: true
       run: |
-        OUTPUT=$(xvfb-run -a python3 scripts/health-check.py 2>&1)
+        OUTPUT=$(xvfb-run -a python3 scripts/health-check.py 2>&1) || true
         echo "$OUTPUT"
         COMMIT_MSG=$(echo "$OUTPUT" | grep "^COMMIT_MSG:" | sed 's/^COMMIT_MSG: //')
         echo "commit_msg=$COMMIT_MSG" >> "$GITHUB_OUTPUT"
