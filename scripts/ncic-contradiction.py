@@ -179,21 +179,6 @@ def _resolve_partners(
 
 # ── graph building ───────────────────────────────────────────────
 
-def _resolve_partners(
-    slug: str, eof_data: dict, name_to_slug: dict[str, str]
-) -> list[str]:
-    """Return list of known slugs this agency shares data with."""
-    portal = eof_data.get(slug)
-    if not portal:
-        return []
-    partners: list[str] = []
-    for raw_name in portal.get("organizations_shared_with", []):
-        key = raw_name.lower().strip()
-        mapped = name_to_slug.get(key)
-        if mapped and mapped != slug:
-            partners.append(mapped)
-    return partners
-
 
 def build_sharing_graph(
     slugs: set[str], eof_data: dict, name_to_slug: dict[str, str]
