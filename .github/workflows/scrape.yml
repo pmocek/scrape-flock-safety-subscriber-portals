@@ -2,7 +2,17 @@ name: Flock Safety scraper
 
 on:
   push:
+    paths-ignore:
+      - 'data/**'
+      - '**.md'
+      - '.beads/**'
+      - '.gitignore'
   workflow_dispatch:
+    inputs:
+      full_scrape:
+        description: 'Run full scrape of all agencies (batch 0)'
+        type: boolean
+        default: false
   schedule:
     # Staggered across the day — each run scrapes a batch
     - cron: '23 2 * * *'   # 2:23 UTC → batch 1
@@ -54,14 +64,14 @@ jobs:
     - name: Determine batch
       id: batch
       run: |
-        if [ "${{ github.event_name }}" = "schedule" ]; then
+        if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.full_scrape }}" = "true" ]; then
+          echo "batch=0" >> "$GITHUB_OUTPUT"
+          echo "Manual dispatch — full scrape requested"
+        else
           HOUR=$(date -u +%H)
           BATCH=$(( (10#$HOUR / 4) + 1 ))
           echo "batch=$BATCH" >> "$GITHUB_OUTPUT"
-          echo "Scheduled run — batch $BATCH of 6"
-        else
-          echo "batch=0" >> "$GITHUB_OUTPUT"
-          echo "Push/dispatch — full scrape"
+          echo "${{ github.event_name }} run — batch $BATCH of 6"
         fi
 
     - name: Run the scraper
