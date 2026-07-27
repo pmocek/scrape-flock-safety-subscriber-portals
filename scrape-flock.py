@@ -442,12 +442,23 @@ def main():
         print(f"\nDiscovered {len(disc_list)} new agencies via sharing network:")
         for s in disc_list:
             print(f"  {s}")
-        for slug in disc_list:
+
+        # Update wa-agencies.json with discovered slugs so they enter batched rotation
+        all_agencies = sorted(list(known_slugs.union(discovered)))
+        with open(AGENCIES_FILE, "w") as f:
+            json.dump(all_agencies, f, indent=2)
+        print(f"Updated {AGENCIES_FILE} with {len(all_agencies)} total agencies for batched scraping.")
+
+        # Scrape a small sample (max 5) inline; remaining will be scraped via batch schedule
+        max_inline = 5
+        to_scrape = disc_list[:max_inline]
+        print(f"Scraping initial sample of {len(to_scrape)} discovered agencies inline...")
+        for slug in to_scrape:
             print(f"[Discovery] {slug}")
             result = scrape_slug(slug, save_dir)
             results.append(result)
         ok2 = sum(1 for r in results if r.get("success"))
-        print(f"\nDiscovery done: {ok2 - ok}/{len(disc_list)} OK")
+        print(f"\nInline discovery sample done: {ok2 - ok}/{len(to_scrape)} OK")
 
 
 if __name__ == "__main__":
