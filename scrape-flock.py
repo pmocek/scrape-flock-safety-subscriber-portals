@@ -293,10 +293,22 @@ async def scrape_one_slug(slug, save_dir, max_retries=3):
                 result["error"] = str(e)
                 print(f"  {slug}: ERROR - {e}")
         finally:
-            await page.close()
-            await context.close()
-            await browser.close()
-            await p.stop()
+            try:
+                await page.close()
+            except Exception:
+                pass
+            try:
+                await context.close()
+            except Exception:
+                pass
+            try:
+                await browser.close()
+            except Exception:
+                pass
+            try:
+                await p.stop()
+            except Exception:
+                pass
 
         if attempt < max_retries - 1:
             await asyncio.sleep((attempt + 1) * 15)
@@ -313,8 +325,12 @@ async def scrape_one_slug(slug, save_dir, max_retries=3):
 
 
 def scrape_slug(slug, save_dir):
-    """Sync wrapper."""
-    return asyncio.run(scrape_one_slug(slug, save_dir))
+    """Sync wrapper with defensive crash protection."""
+    try:
+        return asyncio.run(scrape_one_slug(slug, save_dir))
+    except Exception as e:
+        print(f"  {slug}: UNHANDLED ERROR - {e}")
+        return {"slug": slug, "url": f"https://transparency.flocksafety.com/{slug}", "success": False, "error": str(e)}
 
 
 def refresh_agencies():
