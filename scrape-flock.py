@@ -125,8 +125,31 @@ def parse_stats(text):
 
 
 def _build_name_map(save_dir):
-    """Build name→slug mapping from scraped page.txt files."""
+    """Build name→slug mapping from eyesonflock data and scraped page.txt files."""
     name_to_slug = {}
+    if EYESONFLOCK_JSON_FILE.exists():
+        try:
+            with open(EYESONFLOCK_JSON_FILE) as f:
+                data = json.load(f)
+            for p in data.get("portals", []):
+                url = p.get("portal_url", "")
+                slug = url.split("/")[-1].strip() if url else ""
+                if not slug:
+                    continue
+                city = (p.get("city") or "").strip().lower()
+                state = (p.get("state") or "").strip().lower()
+                name = (p.get("name") or "").strip().lower()
+                if city:
+                    name_to_slug[city] = slug
+                    if state:
+                        name_to_slug[f"{city} {state}"] = slug
+                        name_to_slug[f"{city} ({state})"] = slug
+                        name_to_slug[f"{city}, {state}"] = slug
+                if name:
+                    name_to_slug[name] = slug
+        except Exception:
+            pass
+
     for slug_dir in sorted(save_dir.iterdir()):
         if not slug_dir.is_dir():
             continue
@@ -401,16 +424,17 @@ def main():
             continue
         agencies = r.get("stats", {}).get("external_agencies", [])
         for name in agencies:
-            slug = name_map.get(name) or name_map.get(name.lower())
-            if not slug:
-                heur = _name_to_slug(name)
-                if heur in known_slugs:
-                    slug = heur
-            if slug and slug not in known_slugs and slug not in discovered:
-                # Skip if already scraped (data dir exists)
+            clean_name = re.sub(r'\s*\[.*?\]', '', name).strip()
+            slug = (
+                name_map.get(name)
+                or name_map.get(name.lower())
+                or name_map.get(clean_name.lower())
+                or _name_to_slug(name)
+            )
+            if slug and len(slug) > 3 and slug not in ("additional-info",):
                 if (save_dir / slug / "page.txt").exists():
                     known_slugs.add(slug)
-                else:
+                elif slug not in known_slugs and slug not in discovered:
                     discovered.add(slug)
 
     if discovered:
