@@ -1,15 +1,49 @@
 Transparency Portal
-Visit Flock
+Community Impact
+Policy & Trust
+Visit Flock.com
 Stanwood WA PD
 Transparency Portal
 
-Last updated: Sun Jun 28 2026
+Last updated: Fri Jul 31 2026
 
-OVERVIEW
+Overview
 
 Stanwood WA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Stanwood WA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Stanwood WA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
 
-POLICIES
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+12
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+118,499
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+0
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+109
+Policy & Trust
 
 What's Detected
 
@@ -34,47 +68,11 @@ All system access requires a valid reason and is stored indefinitely.
 Hotlist Policy
 
 Hotlist hits are required to be human verified prior to action.
-USAGE
-
-Data Retention
-
-The number of days data is retained.
-
-21 days
-
-Total Cameras
-
-Number of LPR and other cameras.
-
-12
-
-Vehicles detected in the last 30 days
-
-Number of unique plate reads over the last 30 days.
-
-105,794
-
-Number of Hotlist Hits
-
-Total hotlist hits over the last 30 days.
-
-11
-
-Number of Searches
-
-Total user search sessions over the last 30 days.
-
-3
 
 Public Search Audit
 
 Download to view searches performed over the last 30 days.
 
 Download CSV
-ADDITIONAL INFO
-
-Recent Success Story
-
-Additional Info
 
 Provided by Flock Safety

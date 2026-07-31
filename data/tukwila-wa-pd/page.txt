@@ -1,40 +1,18 @@
 Transparency Portal
-Visit Flock
+Community Impact
+Policy & Trust
+Visit Flock.com
 Tukwila WA PD
 Transparency Portal
 
-Last updated: Sun Jun 28 2026
+Last updated: Fri Jul 31 2026
 
-OVERVIEW
+Overview
 
 Tukwila Police Department uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Tukwila Police Department utilizes retroactive searches to solve crimes after they've occurred. Additionally, Tukwila WA PD utilizes real-time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
 
-POLICIES
-
-What's Detected
-
-License Plates, Vehicles
-
-What's Not Detected
-
-Facial recognition, People, Gender, Race
-
-Acceptable Use Policy
-
-Data is used for law enforcement purposes only. Data is owned by Tukwila Police Department and is never sold to 3rd parties.
-
-Prohibited Uses
-
-Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
-
-Access Policy
-
-All system access requires a valid reason and is stored indefinitely.
-
-Hotlist Policy
-
-Hotlist hits are required to be human verified prior to action.
-USAGE
+Community Impact
+Data & Usage Summary
 
 Data Retention
 
@@ -47,6 +25,30 @@ LPR Cameras
 Number of LPR cameras only.
 
 29
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+593,451
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+112
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert, Washington Crime Information Center (WACIC)
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+1,776
 
 Sharing Network Data With
 
@@ -107,7 +109,6 @@ Port of Seattle WA PD
 Puyallup WA PD
 Reardan WA PD
 Renton WA PD
-Richland WA PD
 SeaTac WA PD
 Sedro-Woolley WA PD
 Selah WA PD
@@ -134,30 +135,31 @@ Westport WA PD
 Yakima County WA SO
 Yakima WA PD
 Yelm WA PD
+Policy & Trust
 
-Hotlists Alerted On
+What's Detected
 
-National and statewide hotlist sources.
+License Plates, Vehicles
 
-NCMEC Amber Alert
+What's Not Detected
 
-Vehicles detected in the last 30 days
+Facial recognition, People, Gender, Race
 
-Number of unique plate reads over the last 30 days.
+Acceptable Use Policy
 
-585,252
+Data is used for law enforcement purposes only. Data is owned by Tukwila Police Department and is never sold to 3rd parties.
 
-Number of Hotlist Hits
+Prohibited Uses
 
-Total hotlist hits over the last 30 days.
+Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
 
-493
+Access Policy
 
-Number of Searches
+All system access requires a valid reason and is stored indefinitely.
 
-Total user search sessions over the last 30 days.
+Hotlist Policy
 
-175
+Hotlist hits are required to be human verified prior to action.
 
 Public Search Audit
 

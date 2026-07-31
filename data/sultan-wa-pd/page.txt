@@ -1,15 +1,74 @@
 Transparency Portal
-Visit Flock
+Community Impact
+Policy & Trust
+Visit Flock.com
 Sultan WA PD
 Transparency Portal
 
-Last updated: Sun Jun 28 2026
+Last updated: Fri Jul 31 2026
 
-OVERVIEW
+Overview
 
 Sultan WA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Sultan WA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Sultan WA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
 
-POLICIES
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+6
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+138,783
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+0
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+19
+
+Sharing Network Data With
+
+Organizations granted access to Sultan WA PD data.
+
+Arlington PD (WA)
+Everett (WA) Police Department
+Granite Falls WA PD
+Lake Stevens WA PD
+Lynnwood WA PD [Inactive]
+Marysville WA PD
+Mill Creek WA PD
+Monroe WA PD
+Mountlake Terrace WA PD
+Mukilteo WA PD
+Snohomish County WA 911
+Snohomish County WA SO
+Snohomish WA PD
+Tulalip Tribal Police Dept. (WA)
+Policy & Trust
 
 What's Detected
 
@@ -34,61 +93,5 @@ All system access requires a valid reason and is stored indefinitely.
 Hotlist Policy
 
 Hotlist hits are required to be human verified prior to action.
-USAGE
-
-Data Retention
-
-The number of days data is retained.
-
-21 days
-
-Total Cameras
-
-Number of LPR and other cameras.
-
-6
-
-Sharing Network Data With
-
-Organizations granted access to Sultan WA PD data.
-
-Arlington PD (WA)
-Everett (WA) Police Department
-Granite Falls WA PD
-Lake Stevens WA PD
-Lynnwood WA PD [Inactive]
-Marysville WA PD
-Mill Creek WA PD
-Monroe WA PD
-Mountlake Terrace WA PD
-Mukilteo WA PD
-Snohomish County WA 911
-Snohomish County WA SO
-Snohomish WA PD
-Tulalip Tribal Police Dept. (WA)
-
-Hotlists Alerted On
-
-National and statewide hotlist sources.
-
-NCMEC Amber Alert
-
-Unique Vehicles Detected
-
-Number of unique plate reads over the last 30 days.
-
-132,190
-
-Number of Hotlist Hits
-
-Total hotlist hits over the last 30 days.
-
-48
-
-Number of Searches
-
-Total user search sessions over the last 30 days.
-
-0
 
 Provided by Flock Safety

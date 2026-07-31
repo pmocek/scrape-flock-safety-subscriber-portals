@@ -2,14 +2,14 @@ Transparency Portal
 Community Impact
 Policy & Trust
 Visit Flock.com
-Sumner WA PD
+Sunnyside WA PD
 Transparency Portal
 
 Last updated: Fri Jul 31 2026
 
 Overview
 
-Sumner WA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Sumner WA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Sumner WA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals, locate stolen vehicles, and vehicles listed in AMBER/SILVER alerts . In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+Sunnyside WA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Sunnyside WA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Sunnyside WA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
 
 Community Impact
 Data & Usage Summary
@@ -24,19 +24,25 @@ Total Cameras
 
 Number of LPR and other cameras.
 
-12
+46
 
-Vehicles detected in the last 30 days
+LPR Cameras
+
+Number of LPR cameras only.
+
+39
+
+Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-218,794
+105,286
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-25
+19
 
 Hotlists Alerted On
 
@@ -48,13 +54,12 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-513
+567
 
 Sharing Network Data With
 
-Organizations granted access to Sumner WA PD data.
+Organizations granted access to Sunnyside WA PD data.
 
-Aberdeen WA PD
 Adams County WA SO
 Arlington PD (WA)
 Auburn WA PD
@@ -62,6 +67,7 @@ Benton County WA SO
 Brewster WA PD
 Centralia WA PD
 Chehalis WA PD
+Chelan County WA SO
 Cheney WA PD
 Cle Elum WA PD
 Clyde Hill WA PD
@@ -70,13 +76,15 @@ Columbia River Drug Task Force WA
 Colville WA Tribal Police
 Covington WA PD
 Des Moines WA PD
+Douglas County WA SO
 East Wenatchee WA PD
-Eatonville WA PD [Inactive]
 Ellensburg WA PD
 Enumclaw WA PD
 Everett (WA) Police Department
 Federal Way WA PD
+Goldendale WA PD
 Grandview WA PD
+Granger WA PD
 Granite Falls WA PD
 Grant County WA SO
 Grays Harbor County SO (WA)
@@ -88,9 +96,11 @@ Kittitas WA PD
 Lake Stevens WA PD
 Lakewood WA PD
 Liberty Lake WA PD
+Lincoln County WA SO
 Lynnwood WA PD [Inactive]
 Mabton WA PD
 Marysville WA PD
+Mattawa WA PD
 Mill Creek WA PD
 Monroe WA PD
 Montesano WA PD
@@ -99,7 +109,6 @@ Mount Vernon WA PD
 Mountlake Terrace WA PD
 Moxee WA PD
 Mukilteo WA PD
-Napavine WA PD
 Newcastle WA PD
 Olympia WA PD
 Orting WA PD
@@ -109,16 +118,18 @@ Prosser WA PD
 Puyallup WA PD
 Reardan WA PD
 Renton WA PD
+Richland WA PD
 SeaTac WA PD
 Sedro-Woolley WA PD
 Selah WA PD
 Shelton PD (WA)
 Snohomish County WA 911
-Snohomish WA PD
+Snohomish County WA SO
 Spokane County WA SO
+Spokane Tribal PD WA
 Spokane WA PD
 Stanwood WA PD
-Sunnyside WA PD
+Sumner WA PD
 Suquamish WA PD
 Toppenish WA PD
 Town of Harrah WA
@@ -130,9 +141,95 @@ Wapato WA PD
 Warden WA PD
 Wenatchee WA PD
 West Richland WA PD
+Westport WA PD
 Yakima County WA SO
 Yakima WA PD
 Yelm WA PD
+Zillah WA PD
+
+Receiving Network Data From
+
+Organizations sharing their data with Sunnyside WA PD.
+
+Aberdeen WA PD
+Adams County WA SO
+Arlington PD (WA)
+Auburn WA PD
+Bannock County ID SO
+Carson City NV SO
+Centralia WA PD
+Chehalis WA PD
+Chelan County WA SO
+Cheney WA PD
+Cle Elum WA PD
+Clearwater County ID SO
+College Place WA PD
+Columbia River Drug Task Force WA
+Colville WA Tribal Police
+Covington WA PD
+Des Moines WA PD
+Douglas County WA SO
+East Wenatchee WA PD
+Eatonville WA PD [Inactive]
+Ellensburg WA PD
+Federal Way WA PD
+Goldendale WA PD
+Grandview WA PD
+Granger WA PD
+Grant County WA SO
+Grants Pass OR PD
+Grays Harbor County SO (WA)
+Idaho Falls ID PD
+Jerome County ID SO
+Kennewick WA PD
+Kent WA PD
+Kittitas County WA SO
+Kittitas WA PD
+Lake Stevens WA PD
+Lakewood WA PD
+Liberty Lake WA PD
+Lincoln County WA SO
+Mabton WA PD
+Marysville WA PD
+Montesano WA PD
+Moses Lake WA PD
+Mount Vernon WA PD
+Moxee WA PD
+Mukilteo WA PD
+Napavine WA PD
+Newcastle WA PD
+Olympia WA PD
+Orting WA PD
+Othello WA PD
+Pacific WA PD
+Pocatello ID PD
+Port of Seattle WA PD
+Prosser WA PD
+Puyallup WA PD
+Reardan WA PD
+Reno NV PD
+Sedro-Woolley WA PD
+Selah WA PD
+Shelton PD (WA)
+Skamania CO WA SO [Inactive]
+Spokane Tribal PD WA
+Spokane WA PD
+Sumner WA PD
+Sun Valley PD ID
+Toppenish WA PD
+Town of Harrah WA
+Tukwila WA PD
+Twin Falls ID PD
+Union Gap WA PD
+Walla Walla WA PD
+Wapato WA PD
+Warden WA PD
+Wenatchee WA PD
+West Richland WA PD
+Yakima County WA SO
+Yakima WA PD
+Yelm WA PD
+Zillah WA PD
 Policy & Trust
 
 What's Detected
@@ -145,7 +242,7 @@ Facial recognition, People, Gender, Race
 
 Acceptable Use Policy
 
-Data is used for law enforcement purposes only. Data is owned by Sumner WA PD and is never sold to 3rd parties.
+Data is used for law enforcement purposes only. Data is owned by Sunnyside WA PD and is never sold to 3rd parties.
 
 Prohibited Uses
 
