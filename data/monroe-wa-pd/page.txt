@@ -1,15 +1,49 @@
 Transparency Portal
-Visit Flock
+Community Impact
+Policy & Trust
+Visit Flock.com
 Monroe WA PD
 Transparency Portal
 
-Last updated: Sun Jun 28 2026
+Last updated: Thu Jul 30 2026
 
-OVERVIEW
+Overview
 
 The Monroe PD uses Flock Safety technology to capture objective evidence without compromising individual privacy. The Monroe PD uses retroactive searches to help generate case leads and solve crimes after they've occurred. Additionally, the Monroe PD utilizes real-time alerting of hotlist vehicles to capture wanted criminals who travel through our city to commit other crimes.
 
-POLICIES
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Number of Monroe PD Owned Flock Cameras
+
+Number of LPR and other cameras.
+
+20
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+309,127
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert, Washington Crime Information Center (WACIC)
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+461
+Policy & Trust
 
 What's Detected
 
@@ -27,51 +61,8 @@ Prohibited Uses
 
 Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e., race, sex, religion), or personal use.
 
-System Access History
-
-Flock data is only retained for 30 days. However, an audit trail of the users who accessed the system is stored indefinitely.
-
 Hotlist Policy
 
 Hotlist hits (i.e., stolen vehicles, missing persons, etc.) are required to be human verified prior to action.
-
-Flock's Privacy & Ethics
-
-https://www.flocksafety.com/privacy-ethics
-
-Network Sharing
-
-Monroe PD only shares with local and state law enforcement agencies within Snohomish County
-USAGE
-
-Data Retention
-
-The number of days data is retained.
-
-21 days
-
-Number of Monroe PD Owned Flock Cameras
-
-Number of LPR and other cameras.
-
-20
-
-Hotlists Alerted On
-
-National and statewide hotlist sources.
-
-NCMEC Amber Alert
-
-Vehicles detected in the last 30 days
-
-Number of unique plate reads over the last 30 days.
-
-288,274
-
-Number of Hotlist Hits
-
-Total hotlist hits over the last 30 days.
-
-161
 
 Provided by Flock Safety
