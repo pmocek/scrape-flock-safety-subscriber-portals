@@ -26,6 +26,14 @@
   Uses `eyesonflock.com-api-v1-data.json` for partner-name-to-slug matching and graph construction. Supports `--commit-body` flag.
 - `.github/workflows/scrape.yml`: Added "Detect NCIC contradictions" step after audit analysis. Captures `COMMIT_BODY:` lines from `ncic-contradiction.py --commit-body` and appends them as an "NCIC findings:" section in commit body.
 - `.github/workflows/health-check.yml`: GHA's default `bash -e` was swallowing script output when health-check.py exited with code 1 (>50% agencies unreachable). The `OUTPUT=$(...)` line triggered `-e` before `echo "$OUTPUT"` ran, losing all diagnostic output. Fixed by adding `|| true` and `continue-on-error: true` so output is always captured and commit step always runs.
+- `scrape-flock.py` / AGENTS.md: `refresh_agencies()` overwrote `wa-agencies.json` with only eyesonflock.com's 41 WA slugs on every run, discarding slugs added by cross-agency spidering. eyesonflock is a third-party aggregator with ~16% miss rate (8+ real portals not indexed). Fixed by removing `refresh_agencies()` from the daily workflow; eyesonflock API data still downloaded for name-to-slug mapping (NCIC analysis), but no longer used as authoritative agency source.
+
+## Agency list source
+
+`wa-agencies.json` grows organically through sharing-network spidering.
+- eyesonflock API data (`eyesonflock.com-api-v1-data.json`) still downloaded daily for name-to-slug mapping (used by NCIC contradiction detection)
+- `refresh_agencies()` (reloading from eyesonflock) no longer runs in the daily scrape workflow
+- Initial seed from eyesonflock happened once at project setup; periodic eyesonflock comparison for brand-new agencies would be a separate task
 
 <!-- BEGIN BEADS INTEGRATION v:1 profile:minimal hash:970c3bf2 -->
 ## Beads Issue Tracker

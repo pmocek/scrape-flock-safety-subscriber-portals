@@ -30,7 +30,8 @@ fi
 # 4. Run Playwright-based scraper for individual agency portals
 if $PYTHON -c "import playwright" 2>/dev/null; then
   echo "Playwright available — scraping individual agency portals..."
-  $XVFB_RUN $PYTHON scrape-flock.py --refresh-agencies 2>&1 || echo "  (refresh-agencies step non-fatal)"
+  echo "  (wa-agencies.json grows organically through cross-agency spidering;"
+  echo "   eyesonflock data already downloaded above for name-to-slug mapping.)"
 
   if [ -n "$XVFB_RUN" ]; then
     $XVFB_RUN $PYTHON scrape-flock.py "$@" 2>&1 || echo "  (agency scrape step non-fatal)"
