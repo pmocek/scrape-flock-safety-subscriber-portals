@@ -23,27 +23,31 @@ jobs:
       with:
         python-version: ${{ env.PYTHON_VERSION }}
 
-    - name: Install Python dependencies
+    - name: Install uv and create venv
       run: |
-        pip install -r requirements.txt
+        curl -LsSf https://astral.sh/uv/install.sh | sh
+        uv venv --python ${{ env.PYTHON_VERSION }}
+        uv pip install -r requirements.txt
+        echo "playwright-version=$(uv pip show playwright 2>/dev/null | grep '^Version:' | awk '{print $2}')" >> "$GITHUB_OUTPUT"
+      id: uv-setup
 
     - name: Cache Playwright browsers
       uses: actions/cache@v4
       id: playwright-cache
       with:
         path: ~/.cache/ms-playwright/
-        key: ${{ runner.os }}-playwright-chromium-${{ env.PYTHON_VERSION }}
+        key: ${{ runner.os }}-playwright-${{ steps.uv-setup.outputs.playwright-version }}
 
     - name: Install Playwright Chromium
       if: steps.playwright-cache.outputs.cache-hit != 'true'
       run: |
-        python3 -m playwright install chromium
+        .venv/bin/python3 -m playwright install chromium
 
     - name: Install Playwright system deps
       if: steps.playwright-cache.outputs.cache-hit != 'true'
       run: |
         sudo apt-get update -qq
-        python3 -m playwright install-deps chromium
+        .venv/bin/python3 -m playwright install-deps chromium
 
     - name: Run health check
       id: check
