@@ -39,9 +39,12 @@ jobs:
       with:
         python-version: ${{ env.PYTHON_VERSION }}
 
-    - name: Install Python dependencies
+    - name: Install uv and create venv
       run: |
-        pip install -r requirements.txt
+        curl -LsSf https://astral.sh/uv/install.sh | sh
+        export PATH="$HOME/.cargo/bin:$PATH"
+        uv venv --python ${{ env.PYTHON_VERSION }}
+        uv pip install -r requirements.txt
 
     - name: Cache Playwright browsers
       uses: actions/cache@v4
@@ -53,13 +56,13 @@ jobs:
     - name: Install Playwright Chromium
       if: steps.playwright-cache.outputs.cache-hit != 'true'
       run: |
-        python3 -m playwright install chromium
+        .venv/bin/python3 -m playwright install chromium
 
     - name: Install Playwright system deps
       if: steps.playwright-cache.outputs.cache-hit != 'true'
       run: |
         sudo apt-get update -qq
-        python3 -m playwright install-deps chromium
+        .venv/bin/python3 -m playwright install-deps chromium
 
     - name: Determine batch
       id: batch
