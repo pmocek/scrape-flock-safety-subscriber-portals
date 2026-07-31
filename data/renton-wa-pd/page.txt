@@ -1,15 +1,67 @@
 Transparency Portal
-Visit Flock
+Community Impact
+Policy & Trust
+Visit Flock.com
 Renton WA PD
 Transparency Portal
 
-Last updated: Sun Jun 28 2026
+Last updated: Fri Jul 31 2026
 
-OVERVIEW
+Overview
 
 Renton WA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Renton WA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Renton WA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
 
-POLICIES
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+23
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+0
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+0
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+Data Unavailable
+
+Sharing Network Data With
+
+Organizations granted access to Renton WA PD data.
+
+Auburn WA PD
+Des Moines WA PD
+Enumclaw WA PD
+Mill Creek WA PD
+Port of Seattle WA PD
+Snohomish County WA SO
+Tukwila WA PD
+Policy & Trust
 
 What's Detected
 
@@ -34,55 +86,6 @@ All system access requires a valid reason and is stored indefinitely.
 Hotlist Policy
 
 Hotlist hits are required to be human verified prior to action.
-USAGE
-
-Data Retention
-
-The number of days data is retained.
-
-21 days
-
-Total Cameras
-
-Number of LPR and other cameras.
-
-23
-
-Sharing Network Data With
-
-Organizations granted access to Renton WA PD data.
-
-Auburn WA PD
-Des Moines WA PD
-Enumclaw WA PD
-Mill Creek WA PD
-Port of Seattle WA PD
-Snohomish County WA SO
-Tukwila WA PD
-
-Hotlists Alerted On
-
-National and statewide hotlist sources.
-
-NCMEC Amber Alert
-
-Unique Vehicles Detected
-
-Number of unique plate reads over the last 30 days.
-
-0
-
-Number of Hotlist Hits
-
-Total hotlist hits over the last 30 days.
-
-Data Unavailable
-
-Number of Searches
-
-Total user search sessions over the last 30 days.
-
-0
 
 Public Search Audit
 

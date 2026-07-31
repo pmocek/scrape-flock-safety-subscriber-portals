@@ -1,40 +1,24 @@
 Transparency Portal
-Visit Flock
+Community Impact
+Policy & Trust
+More Info
+Visit Flock.com
 Puyallup WA PD
 Transparency Portal
 
-Last updated: Sun Jun 28 2026
+Last updated: Thu Jul 30 2026
 
-OVERVIEW
+Overview
 
 The Puyallup Police Department uses Flock Safety technology to capture objective evidence without compromising individual privacy. Puyallup PD utilizes retroactive search tools to solve crimes after they've occurred. Additionally, Puyallup PD utilizes real time alerting of stolen vehicles, wanted criminals and missing persons to address crime and to serve our community. In an effort to ensure proper usage of this technology, PPD has made the below policies and usage statistics available to the public.
 
-POLICIES
+Community Impact
+Featured Success Stories
 
-What's Detected
+Recent Success Story
 
-License Plates, Vehicles
-
-What's Not Detected
-
-Facial recognition, People, Gender, Race
-
-Acceptable Use Policy
-
-Data is used for law enforcement purposes only. Data is owned by Puyallup PD and is never sold to 3rd parties.
-
-Prohibited Uses
-
-Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), personal use.
-
-Access Policy
-
-All system access requires a valid reason and is stored indefinitely.
-
-Hotlist Policy
-
-Hotlists are license plates entered into the system due to being: stolen, stolen plate, missing person, violent person, arrest warrants. Hotlist hits are required to be human verified prior to action.
-USAGE
+On October 23, 2025, the Puyallup Police Department received a Flock Safety alert for a stolen vehicle. On this day, the department was testing a Drone as a First Responder (DFR) program. An autonomous "Air1" drone self dispatched to the alerting location and located the vehicle traveling westbound. A PPD officer briefly positioned behind the vehicle and deployed Starchase, a GPS tracking technology designed to reduce risks to officers and the public during vehicle eluding incidents. Once the suspect began driving recklessly to elude police intervention, officers did not pursue. Instead, the vehicle continued to be monitored using Starchase and Air1. The suspect later collided with another vehicle and fled on foot into a nearby business plaza, where he was located and taken into custody. This incident highlights how ALPR, DFR, and GPS tracking technologies can support more effective and safer responses by maintaining situational awareness while reducing the need for vehicle pursuits.
+Data & Usage Summary
 
 Data Retention
 
@@ -47,6 +31,30 @@ Total Cameras
 Number of LPR and other cameras.
 
 45
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+661,504
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+222
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+1,159
 
 Sharing Network Data With
 
@@ -107,7 +115,7 @@ Orting WA PD
 Othello WA PD
 Port of Seattle WA PD
 Reardan WA PD
-Richland WA PD
+Renton WA PD
 Richland WA PD
 SeaTac WA PD
 Sedro-Woolley WA PD
@@ -135,31 +143,32 @@ Westport WA PD
 Yakima County WA SO
 Yakima WA PD
 Yelm WA PD
+Policy & Trust
 
-Hotlists Alerted On
+What's Detected
 
-National and statewide hotlist sources.
+License Plates, Vehicles
 
-NCMEC Amber Alert
+What's Not Detected
 
-Vehicles detected in the last 30 days
+Facial recognition, People, Gender, Race
 
-Number of unique plate reads over the last 30 days.
+Acceptable Use Policy
 
-652,440
+Data is used for law enforcement purposes only. Data is owned by Puyallup PD and is never sold to 3rd parties.
 
-Number of Hotlist Hits
+Prohibited Uses
 
-Total hotlist hits over the last 30 days.
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), personal use.
 
-327
+Access Policy
 
-Number of Searches
+All system access requires a valid reason and is stored indefinitely.
 
-Total user search sessions over the last 30 days.
+Hotlist Policy
 
-164
-ADDITIONAL INFO
+Hotlists are license plates entered into the system due to being: stolen, stolen plate, missing person, violent person, arrest warrants. Hotlist hits are required to be human verified prior to action.
+More Info
 
 Glossary
 
@@ -170,9 +179,5 @@ Hotlist: A list comprised of vehicles added to the system for the purposes of re
 NCMEC: National Center for Missing and Exploited Children
 
 NCIC: National Crime Information Center
-
-Recent Success Story
-
-On October 23, 2025, the Puyallup Police Department received a Flock Safety alert for a stolen vehicle. On this day, the department was testing a Drone as a First Responder (DFR) program. An autonomous "Air1" drone self dispatched to the alerting location and located the vehicle traveling westbound. A PPD officer briefly positioned behind the vehicle and deployed Starchase, a GPS tracking technology designed to reduce risks to officers and the public during vehicle eluding incidents. Once the suspect began driving recklessly to elude police intervention, officers did not pursue. Instead, the vehicle continued to be monitored using Starchase and Air1. The suspect later collided with another vehicle and fled on foot into a nearby business plaza, where he was located and taken into custody. This incident highlights how ALPR, DFR, and GPS tracking technologies can support more effective and safer responses by maintaining situational awareness while reducing the need for vehicle pursuits.
 
 Provided by Flock Safety

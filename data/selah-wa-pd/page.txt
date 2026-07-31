@@ -1,40 +1,18 @@
 Transparency Portal
-Visit Flock
+Community Impact
+Policy & Trust
+Visit Flock.com
 Selah WA PD
 Transparency Portal
 
-Last updated: Sun Jun 28 2026
+Last updated: Fri Jul 31 2026
 
-OVERVIEW
+Overview
 
 Selah WA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Selah WA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Selah WA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
 
-POLICIES
-
-What's Detected
-
-License Plates, Vehicles
-
-What's Not Detected
-
-Facial recognition, People, Gender, Race
-
-Acceptable Use Policy
-
-Data is used for law enforcement purposes only. Data is owned by Selah WA PD and is never sold to 3rd parties.
-
-Prohibited Uses
-
-Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
-
-Access Policy
-
-All system access requires a valid reason and is stored indefinitely.
-
-Hotlist Policy
-
-Hotlist hits are required to be human verified prior to action.
-USAGE
+Community Impact
+Data & Usage Summary
 
 Data Retention
 
@@ -48,29 +26,29 @@ Number of LPR and other cameras.
 
 16
 
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+83,543
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+6
+
 Hotlists Alerted On
 
 National and statewide hotlist sources.
 
 NCMEC Amber Alert
 
-Vehicles detected in the last 30 days
-
-Number of unique plate reads over the last 30 days.
-
-83,072
-
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-23
-
-Number of Searches
-
-Total user search sessions over the last 30 days.
-
-14
+56
 
 Sharing Network Data With
 
@@ -131,7 +109,6 @@ Prosser WA PD
 Puyallup WA PD
 Reardan WA PD
 Renton WA PD
-Richland WA PD
 SeaTac WA PD
 Sedro-Woolley WA PD
 Shelton PD (WA)
@@ -157,5 +134,30 @@ Yakima County WA SO
 Yakima WA PD
 Yelm WA PD
 Zillah WA PD
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Selah WA PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
 
 Provided by Flock Safety

@@ -1,15 +1,50 @@
 Transparency Portal
-Visit Flock
+Community Impact
+Policy & Trust
+More Info
+Visit Flock.com
 Richland WA PD
 Transparency Portal
 
-Last updated: Sun Jun 28 2026
+Last updated: Thu Jul 30 2026
 
-OVERVIEW
+Overview
 
 The Richland Police Department, along with hundreds of other agencies across the country, is using Flock Automatic License Plate Readers (ALPRs) to help detect and reduce crime in our community. Flock ALPRs are stationary ALPR cameras located within municipal rights-of-way. They are powered by solar panels and send image information through government-standard encrypted cell signals to a secure third-party database. The ALPRs capture objective evidence without compromising on individual privacy. The Richland Police Department utilizes retroactive (after-the-fact) searches of the Flock camera data to solve crimes. Additionally, the Richland Police Department utilizes real-time alerting of hotlist vehicles to capture wanted criminals and missing endangered children and adults. Access to the information captured by the City's Flock camera system is limited to a law enforcement-related "need-to-know" basis.
 
-POLICIES
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+2
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+0
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+Data Unavailable
+Policy & Trust
 
 What's Detected
 
@@ -34,38 +69,7 @@ All system access requires a valid reason and is stored indefinitely and only by
 Hotlist Policy
 
 Hotlist hits (i.e., stolen vehicles, missing persons, etc.) are required to be human verified prior to action.
-USAGE
-
-Data Retention
-
-The number of days data is retained.
-
-21 days
-
-Total Cameras
-
-Number of LPR and other cameras.
-
-10
-
-Hotlists Alerted On
-
-National and statewide hotlist sources.
-
-NCMEC Amber Alert
-
-Vehicles detected in the last 30 days
-
-Number of unique plate reads over the last 30 days.
-
-0
-
-Number of Hotlist Hits
-
-Total hotlist hits over the last 30 days.
-
-Data Unavailable
-ADDITIONAL INFO
+More Info
 
 Link to Richland Police Department's Lexipol Policy
 
