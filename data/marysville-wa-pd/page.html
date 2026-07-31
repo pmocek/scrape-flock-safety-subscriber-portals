@@ -6,6 +6,7 @@
 --tp-color-bg-inverse:#091F14;
 --tp-color-primary-main:#1A3E2B;
 --tp-color-primary-contrast:#FFFFFF;
+--tp-color-navigation-active:rgba(21, 29, 32, 0.35);
 --tp-color-text-primary:#000000;
 --tp-color-text-secondary:#35494F;
 --tp-color-text-muted:#6B7577;
@@ -15,62 +16,124 @@
 --tp-color-divider:#EBE9E1;
 --tp-color-marker:#E1DFD3;
 --tp-color-divider-inverse:#1E2E23;
---tp-color-action-primary:#304833;
+--tp-color-action-primary:#3D5E45;
 --tp-color-action-primary-hover:#3D5E45;
 --tp-color-action-primary-text:#FFFFFF;
 --tp-color-overview-text:#000000;
 --tp-color-body-content:#000000;
 --tp-color-access-scrollbar-thumb:#5F838F;
+--tp-color-tooltip-surface:#202A2E;
+--tp-color-section-heading:#406038;
+--tp-color-widget-heading:#304833;
+--tp-color-activity-border:#304833;
+--tp-color-impact-banner:#304833;
+--tp-color-policy-surface:#304833;
+--tp-color-news-surface:#F3F2EB;
+--tp-color-card-border:#536E47;
+--tp-color-soft-card-border:#EBE9E1;
+--tp-color-row-divider:#D2D5CE;
+--tp-color-resource-heading:#3F5E36;
+--tp-color-meta-surface:#E5EBEE;
+--tp-color-meta-border:rgba(53, 73, 79, 0.4);
+--tp-color-meta-text:#35494F;
+--tp-color-subtle-text:#929292;
+--tp-color-kicker-text:#9C9C9C;
+--tp-color-fact-surface:#E1F8E8;
+--tp-color-fact-border:rgba(23, 105, 47, 0.4);
+--tp-color-fact-text:#17692F;
+--tp-color-compliance-divider:rgba(48, 72, 51, 0.2);
 
 }
 @media (prefers-color-scheme: dark){
   :root:not([data-tp-theme]){
     
---tp-color-bg-default:#091F14;
---tp-color-bg-paper:#0C2719;
---tp-color-bg-inverse:#FAF9F5;
---tp-color-primary-main:#1A3E2B;
---tp-color-primary-contrast:#FFFFFF;
---tp-color-text-primary:#FFFFFF;
---tp-color-text-secondary:rgba(255, 255, 255, 0.84);
---tp-color-text-muted:rgba(255, 255, 255, 0.65);
---tp-color-text-link:#8FB89A;
---tp-color-text-inverse:#FFFFFF;
---tp-color-text-inverse-muted:rgba(255, 255, 255, 0.65);
---tp-color-divider:#1E2E23;
---tp-color-marker:#25452C;
---tp-color-divider-inverse:#1E2E23;
+--tp-color-bg-default:#151D20;
+--tp-color-bg-paper:#253338;
+--tp-color-bg-inverse:#F9FDFF;
+--tp-color-primary-main:#18372F;
+--tp-color-primary-contrast:#F9FDFF;
+--tp-color-navigation-active:rgba(21, 29, 32, 0.35);
+--tp-color-text-primary:#EAF0F4;
+--tp-color-text-secondary:#C3D2D7;
+--tp-color-text-muted:#98B0B8;
+--tp-color-text-link:#9FCCC0;
+--tp-color-text-inverse:#F9FDFF;
+--tp-color-text-inverse-muted:#C4D2BC;
+--tp-color-divider:#2E4045;
+--tp-color-marker:#3D5E45;
+--tp-color-divider-inverse:#35494F;
 --tp-color-action-primary:#3D5E45;
---tp-color-action-primary-hover:#3D5E45;
---tp-color-action-primary-text:#FFFFFF;
---tp-color-overview-text:rgba(255, 255, 255, 0.84);
---tp-color-body-content:rgba(255, 255, 255, 0.84);
---tp-color-access-scrollbar-thumb:#FFFFFF;
+--tp-color-action-primary-hover:#108062;
+--tp-color-action-primary-text:#F9FDFF;
+--tp-color-overview-text:#EAF0F4;
+--tp-color-body-content:#EAF0F4;
+--tp-color-access-scrollbar-thumb:#35494F;
+--tp-color-tooltip-surface:#202A2E;
+--tp-color-section-heading:#C4D2BC;
+--tp-color-widget-heading:#C4D2BC;
+--tp-color-activity-border:#3D5E45;
+--tp-color-impact-banner:#1B4B3F;
+--tp-color-policy-surface:#0F2922;
+--tp-color-news-surface:#1E292B;
+--tp-color-card-border:#35494F;
+--tp-color-soft-card-border:#2E4045;
+--tp-color-row-divider:#35494F;
+--tp-color-resource-heading:#9FCCC0;
+--tp-color-meta-surface:#2A3C41;
+--tp-color-meta-border:#5F838F;
+--tp-color-meta-text:#C3D2D7;
+--tp-color-subtle-text:#A9BDC4;
+--tp-color-kicker-text:#A9BDC4;
+--tp-color-fact-surface:#18372F;
+--tp-color-fact-border:#409981;
+--tp-color-fact-text:#C7E7DD;
+--tp-color-compliance-divider:#35494F;
 
   }
 }
 :root[data-tp-theme="dark"]{
   
---tp-color-bg-default:#091F14;
---tp-color-bg-paper:#0C2719;
---tp-color-bg-inverse:#FAF9F5;
---tp-color-primary-main:#1A3E2B;
---tp-color-primary-contrast:#FFFFFF;
---tp-color-text-primary:#FFFFFF;
---tp-color-text-secondary:rgba(255, 255, 255, 0.84);
---tp-color-text-muted:rgba(255, 255, 255, 0.65);
---tp-color-text-link:#8FB89A;
---tp-color-text-inverse:#FFFFFF;
---tp-color-text-inverse-muted:rgba(255, 255, 255, 0.65);
---tp-color-divider:#1E2E23;
---tp-color-marker:#25452C;
---tp-color-divider-inverse:#1E2E23;
+--tp-color-bg-default:#151D20;
+--tp-color-bg-paper:#253338;
+--tp-color-bg-inverse:#F9FDFF;
+--tp-color-primary-main:#18372F;
+--tp-color-primary-contrast:#F9FDFF;
+--tp-color-navigation-active:rgba(21, 29, 32, 0.35);
+--tp-color-text-primary:#EAF0F4;
+--tp-color-text-secondary:#C3D2D7;
+--tp-color-text-muted:#98B0B8;
+--tp-color-text-link:#9FCCC0;
+--tp-color-text-inverse:#F9FDFF;
+--tp-color-text-inverse-muted:#C4D2BC;
+--tp-color-divider:#2E4045;
+--tp-color-marker:#3D5E45;
+--tp-color-divider-inverse:#35494F;
 --tp-color-action-primary:#3D5E45;
---tp-color-action-primary-hover:#3D5E45;
---tp-color-action-primary-text:#FFFFFF;
---tp-color-overview-text:rgba(255, 255, 255, 0.84);
---tp-color-body-content:rgba(255, 255, 255, 0.84);
---tp-color-access-scrollbar-thumb:#FFFFFF;
+--tp-color-action-primary-hover:#108062;
+--tp-color-action-primary-text:#F9FDFF;
+--tp-color-overview-text:#EAF0F4;
+--tp-color-body-content:#EAF0F4;
+--tp-color-access-scrollbar-thumb:#35494F;
+--tp-color-tooltip-surface:#202A2E;
+--tp-color-section-heading:#C4D2BC;
+--tp-color-widget-heading:#C4D2BC;
+--tp-color-activity-border:#3D5E45;
+--tp-color-impact-banner:#1B4B3F;
+--tp-color-policy-surface:#0F2922;
+--tp-color-news-surface:#1E292B;
+--tp-color-card-border:#35494F;
+--tp-color-soft-card-border:#2E4045;
+--tp-color-row-divider:#35494F;
+--tp-color-resource-heading:#9FCCC0;
+--tp-color-meta-surface:#2A3C41;
+--tp-color-meta-border:#5F838F;
+--tp-color-meta-text:#C3D2D7;
+--tp-color-subtle-text:#A9BDC4;
+--tp-color-kicker-text:#A9BDC4;
+--tp-color-fact-surface:#18372F;
+--tp-color-fact-border:#409981;
+--tp-color-fact-text:#C7E7DD;
+--tp-color-compliance-divider:#35494F;
 
 }
 :root[data-tp-theme="light"]{
@@ -80,6 +143,7 @@
 --tp-color-bg-inverse:#091F14;
 --tp-color-primary-main:#1A3E2B;
 --tp-color-primary-contrast:#FFFFFF;
+--tp-color-navigation-active:rgba(21, 29, 32, 0.35);
 --tp-color-text-primary:#000000;
 --tp-color-text-secondary:#35494F;
 --tp-color-text-muted:#6B7577;
@@ -89,22 +153,43 @@
 --tp-color-divider:#EBE9E1;
 --tp-color-marker:#E1DFD3;
 --tp-color-divider-inverse:#1E2E23;
---tp-color-action-primary:#304833;
+--tp-color-action-primary:#3D5E45;
 --tp-color-action-primary-hover:#3D5E45;
 --tp-color-action-primary-text:#FFFFFF;
 --tp-color-overview-text:#000000;
 --tp-color-body-content:#000000;
 --tp-color-access-scrollbar-thumb:#5F838F;
+--tp-color-tooltip-surface:#202A2E;
+--tp-color-section-heading:#406038;
+--tp-color-widget-heading:#304833;
+--tp-color-activity-border:#304833;
+--tp-color-impact-banner:#304833;
+--tp-color-policy-surface:#304833;
+--tp-color-news-surface:#F3F2EB;
+--tp-color-card-border:#536E47;
+--tp-color-soft-card-border:#EBE9E1;
+--tp-color-row-divider:#D2D5CE;
+--tp-color-resource-heading:#3F5E36;
+--tp-color-meta-surface:#E5EBEE;
+--tp-color-meta-border:rgba(53, 73, 79, 0.4);
+--tp-color-meta-text:#35494F;
+--tp-color-subtle-text:#929292;
+--tp-color-kicker-text:#9C9C9C;
+--tp-color-fact-surface:#E1F8E8;
+--tp-color-fact-border:rgba(23, 105, 47, 0.4);
+--tp-color-fact-text:#17692F;
+--tp-color-compliance-divider:rgba(48, 72, 51, 0.2);
 
 }
-html,body{margin:0 !important;padding:0 !important;background:var(--tp-color-bg-default);}</style><script type="text/javascript" async="" src="https://edge.fullstory.com/s/fs.js" crossorigin="anonymous"></script><script type="text/javascript" src="https://cdn.segment.com/next-integrations/integrations/vendor/commons.59560acdd69ed701c941.js.gz" async="" status="loaded"></script><script type="text/javascript" src="https://cdn.segment.com/next-integrations/integrations/fullstory/3.1.0/fullstory.dynamic.js.gz" async="" status="loaded"></script></head><body style="margin:0px !important"><div data-tp-root="true" style="background-color:var(--tp-color-bg-default);min-height:100vh"><style>
-[data-tp-root=&quot;true&quot;]{
+html,body{margin:0 !important;padding:0 !important;background:var(--tp-color-bg-default);}</style><script type="text/javascript" async="" src="https://edge.fullstory.com/s/fs.js" crossorigin="anonymous"></script><script type="text/javascript" src="https://cdn.segment.com/next-integrations/integrations/vendor/commons.59560acdd69ed701c941.js.gz" async="" status="loaded"></script><script type="text/javascript" src="https://cdn.segment.com/next-integrations/integrations/fullstory/3.1.0/fullstory.dynamic.js.gz" async="" status="loaded"></script><script src="/cdn-cgi/challenge-platform/scripts/precursor/main.js"></script></head><body style="margin:0px !important"><div data-tp-root="true" style="background-color:var(--tp-color-bg-default);min-height:100vh"><style>
+[data-tp-root="true"]{
   
 --tp-color-bg-default:#FAF9F5;
 --tp-color-bg-paper:#FFFFFF;
 --tp-color-bg-inverse:#091F14;
 --tp-color-primary-main:#1A3E2B;
 --tp-color-primary-contrast:#FFFFFF;
+--tp-color-navigation-active:rgba(21, 29, 32, 0.35);
 --tp-color-text-primary:#000000;
 --tp-color-text-secondary:#35494F;
 --tp-color-text-muted:#6B7577;
@@ -114,71 +199,134 @@ html,body{margin:0 !important;padding:0 !important;background:var(--tp-color-bg-
 --tp-color-divider:#EBE9E1;
 --tp-color-marker:#E1DFD3;
 --tp-color-divider-inverse:#1E2E23;
---tp-color-action-primary:#304833;
+--tp-color-action-primary:#3D5E45;
 --tp-color-action-primary-hover:#3D5E45;
 --tp-color-action-primary-text:#FFFFFF;
 --tp-color-overview-text:#000000;
 --tp-color-body-content:#000000;
 --tp-color-access-scrollbar-thumb:#5F838F;
+--tp-color-tooltip-surface:#202A2E;
+--tp-color-section-heading:#406038;
+--tp-color-widget-heading:#304833;
+--tp-color-activity-border:#304833;
+--tp-color-impact-banner:#304833;
+--tp-color-policy-surface:#304833;
+--tp-color-news-surface:#F3F2EB;
+--tp-color-card-border:#536E47;
+--tp-color-soft-card-border:#EBE9E1;
+--tp-color-row-divider:#D2D5CE;
+--tp-color-resource-heading:#3F5E36;
+--tp-color-meta-surface:#E5EBEE;
+--tp-color-meta-border:rgba(53, 73, 79, 0.4);
+--tp-color-meta-text:#35494F;
+--tp-color-subtle-text:#929292;
+--tp-color-kicker-text:#9C9C9C;
+--tp-color-fact-surface:#E1F8E8;
+--tp-color-fact-border:rgba(23, 105, 47, 0.4);
+--tp-color-fact-text:#17692F;
+--tp-color-compliance-divider:rgba(48, 72, 51, 0.2);
 
 }
 @media (prefers-color-scheme: dark){
-  [data-tp-root=&quot;true&quot;]:not([data-tp-theme]){
+  [data-tp-root="true"]:not([data-tp-theme]){
     
---tp-color-bg-default:#091F14;
---tp-color-bg-paper:#0C2719;
---tp-color-bg-inverse:#FAF9F5;
---tp-color-primary-main:#1A3E2B;
---tp-color-primary-contrast:#FFFFFF;
---tp-color-text-primary:#FFFFFF;
---tp-color-text-secondary:rgba(255, 255, 255, 0.84);
---tp-color-text-muted:rgba(255, 255, 255, 0.65);
---tp-color-text-link:#8FB89A;
---tp-color-text-inverse:#FFFFFF;
---tp-color-text-inverse-muted:rgba(255, 255, 255, 0.65);
---tp-color-divider:#1E2E23;
---tp-color-marker:#25452C;
---tp-color-divider-inverse:#1E2E23;
+--tp-color-bg-default:#151D20;
+--tp-color-bg-paper:#253338;
+--tp-color-bg-inverse:#F9FDFF;
+--tp-color-primary-main:#18372F;
+--tp-color-primary-contrast:#F9FDFF;
+--tp-color-navigation-active:rgba(21, 29, 32, 0.35);
+--tp-color-text-primary:#EAF0F4;
+--tp-color-text-secondary:#C3D2D7;
+--tp-color-text-muted:#98B0B8;
+--tp-color-text-link:#9FCCC0;
+--tp-color-text-inverse:#F9FDFF;
+--tp-color-text-inverse-muted:#C4D2BC;
+--tp-color-divider:#2E4045;
+--tp-color-marker:#3D5E45;
+--tp-color-divider-inverse:#35494F;
 --tp-color-action-primary:#3D5E45;
---tp-color-action-primary-hover:#3D5E45;
---tp-color-action-primary-text:#FFFFFF;
---tp-color-overview-text:rgba(255, 255, 255, 0.84);
---tp-color-body-content:rgba(255, 255, 255, 0.84);
---tp-color-access-scrollbar-thumb:#FFFFFF;
+--tp-color-action-primary-hover:#108062;
+--tp-color-action-primary-text:#F9FDFF;
+--tp-color-overview-text:#EAF0F4;
+--tp-color-body-content:#EAF0F4;
+--tp-color-access-scrollbar-thumb:#35494F;
+--tp-color-tooltip-surface:#202A2E;
+--tp-color-section-heading:#C4D2BC;
+--tp-color-widget-heading:#C4D2BC;
+--tp-color-activity-border:#3D5E45;
+--tp-color-impact-banner:#1B4B3F;
+--tp-color-policy-surface:#0F2922;
+--tp-color-news-surface:#1E292B;
+--tp-color-card-border:#35494F;
+--tp-color-soft-card-border:#2E4045;
+--tp-color-row-divider:#35494F;
+--tp-color-resource-heading:#9FCCC0;
+--tp-color-meta-surface:#2A3C41;
+--tp-color-meta-border:#5F838F;
+--tp-color-meta-text:#C3D2D7;
+--tp-color-subtle-text:#A9BDC4;
+--tp-color-kicker-text:#A9BDC4;
+--tp-color-fact-surface:#18372F;
+--tp-color-fact-border:#409981;
+--tp-color-fact-text:#C7E7DD;
+--tp-color-compliance-divider:#35494F;
 
   }
 }
-[data-tp-root=&quot;true&quot;][data-tp-theme=&quot;dark&quot;]{
+[data-tp-root="true"][data-tp-theme="dark"]{
   
---tp-color-bg-default:#091F14;
---tp-color-bg-paper:#0C2719;
---tp-color-bg-inverse:#FAF9F5;
---tp-color-primary-main:#1A3E2B;
---tp-color-primary-contrast:#FFFFFF;
---tp-color-text-primary:#FFFFFF;
---tp-color-text-secondary:rgba(255, 255, 255, 0.84);
---tp-color-text-muted:rgba(255, 255, 255, 0.65);
---tp-color-text-link:#8FB89A;
---tp-color-text-inverse:#FFFFFF;
---tp-color-text-inverse-muted:rgba(255, 255, 255, 0.65);
---tp-color-divider:#1E2E23;
---tp-color-marker:#25452C;
---tp-color-divider-inverse:#1E2E23;
+--tp-color-bg-default:#151D20;
+--tp-color-bg-paper:#253338;
+--tp-color-bg-inverse:#F9FDFF;
+--tp-color-primary-main:#18372F;
+--tp-color-primary-contrast:#F9FDFF;
+--tp-color-navigation-active:rgba(21, 29, 32, 0.35);
+--tp-color-text-primary:#EAF0F4;
+--tp-color-text-secondary:#C3D2D7;
+--tp-color-text-muted:#98B0B8;
+--tp-color-text-link:#9FCCC0;
+--tp-color-text-inverse:#F9FDFF;
+--tp-color-text-inverse-muted:#C4D2BC;
+--tp-color-divider:#2E4045;
+--tp-color-marker:#3D5E45;
+--tp-color-divider-inverse:#35494F;
 --tp-color-action-primary:#3D5E45;
---tp-color-action-primary-hover:#3D5E45;
---tp-color-action-primary-text:#FFFFFF;
---tp-color-overview-text:rgba(255, 255, 255, 0.84);
---tp-color-body-content:rgba(255, 255, 255, 0.84);
---tp-color-access-scrollbar-thumb:#FFFFFF;
+--tp-color-action-primary-hover:#108062;
+--tp-color-action-primary-text:#F9FDFF;
+--tp-color-overview-text:#EAF0F4;
+--tp-color-body-content:#EAF0F4;
+--tp-color-access-scrollbar-thumb:#35494F;
+--tp-color-tooltip-surface:#202A2E;
+--tp-color-section-heading:#C4D2BC;
+--tp-color-widget-heading:#C4D2BC;
+--tp-color-activity-border:#3D5E45;
+--tp-color-impact-banner:#1B4B3F;
+--tp-color-policy-surface:#0F2922;
+--tp-color-news-surface:#1E292B;
+--tp-color-card-border:#35494F;
+--tp-color-soft-card-border:#2E4045;
+--tp-color-row-divider:#35494F;
+--tp-color-resource-heading:#9FCCC0;
+--tp-color-meta-surface:#2A3C41;
+--tp-color-meta-border:#5F838F;
+--tp-color-meta-text:#C3D2D7;
+--tp-color-subtle-text:#A9BDC4;
+--tp-color-kicker-text:#A9BDC4;
+--tp-color-fact-surface:#18372F;
+--tp-color-fact-border:#409981;
+--tp-color-fact-text:#C7E7DD;
+--tp-color-compliance-divider:#35494F;
 
 }
-[data-tp-root=&quot;true&quot;][data-tp-theme=&quot;light&quot;]{
+[data-tp-root="true"][data-tp-theme="light"]{
   
 --tp-color-bg-default:#FAF9F5;
 --tp-color-bg-paper:#FFFFFF;
 --tp-color-bg-inverse:#091F14;
 --tp-color-primary-main:#1A3E2B;
 --tp-color-primary-contrast:#FFFFFF;
+--tp-color-navigation-active:rgba(21, 29, 32, 0.35);
 --tp-color-text-primary:#000000;
 --tp-color-text-secondary:#35494F;
 --tp-color-text-muted:#6B7577;
@@ -188,18 +336,729 @@ html,body{margin:0 !important;padding:0 !important;background:var(--tp-color-bg-
 --tp-color-divider:#EBE9E1;
 --tp-color-marker:#E1DFD3;
 --tp-color-divider-inverse:#1E2E23;
---tp-color-action-primary:#304833;
+--tp-color-action-primary:#3D5E45;
 --tp-color-action-primary-hover:#3D5E45;
 --tp-color-action-primary-text:#FFFFFF;
 --tp-color-overview-text:#000000;
 --tp-color-body-content:#000000;
 --tp-color-access-scrollbar-thumb:#5F838F;
+--tp-color-tooltip-surface:#202A2E;
+--tp-color-section-heading:#406038;
+--tp-color-widget-heading:#304833;
+--tp-color-activity-border:#304833;
+--tp-color-impact-banner:#304833;
+--tp-color-policy-surface:#304833;
+--tp-color-news-surface:#F3F2EB;
+--tp-color-card-border:#536E47;
+--tp-color-soft-card-border:#EBE9E1;
+--tp-color-row-divider:#D2D5CE;
+--tp-color-resource-heading:#3F5E36;
+--tp-color-meta-surface:#E5EBEE;
+--tp-color-meta-border:rgba(53, 73, 79, 0.4);
+--tp-color-meta-text:#35494F;
+--tp-color-subtle-text:#929292;
+--tp-color-kicker-text:#9C9C9C;
+--tp-color-fact-surface:#E1F8E8;
+--tp-color-fact-border:rgba(23, 105, 47, 0.4);
+--tp-color-fact-text:#17692F;
+--tp-color-compliance-divider:rgba(48, 72, 51, 0.2);
 
 }
-[data-tp-root=&quot;true&quot;]{margin:0 !important;padding:0 !important;background:var(--tp-color-bg-default);}</style><header style="background-color:var(--tp-color-primary-main);color:var(--tp-color-primary-contrast)"><div style="box-sizing:border-box;width:100%;min-height:64px;padding-left:24px;padding-right:24px;display:flex;align-items:center;justify-content:space-between;gap:15px"><a href="https://www.flocksafety.com/?utm_medium=transparency_portal&amp;utm_source=Marysville%20WA%20PD" target="_blank" rel="noreferrer noopener" style="color:inherit;text-decoration:none;display:flex;align-items:center"><span style="display:inline-flex;align-items:center;gap:10px;min-width:0;height:18px"><span role="img" aria-label="Flock Safety" style="display:inline-flex"><svg xmlns="http://www.w3.org/2000/svg" width="73.1" height="17" viewBox="0 0 86 20" fill="none" aria-hidden="true" focusable="false" style="display:block;flex-shrink:0"><path d="M75.7022 0.00195312C75.7765 0.00195312 75.8369 0.0612676 75.8369 0.13427V9.99869C75.8369 10.3363 76.2715 10.4846 76.4853 10.2177L80.4869 5.20108C80.5124 5.16914 80.5519 5.15089 80.5938 5.15089L83.9888 5.14633C84.1027 5.14633 84.1654 5.27408 84.0957 5.36077L79.4574 11.1736C79.4179 11.2215 79.4179 11.2899 79.4574 11.3378L85.497 18.9095C85.5667 18.9962 85.5039 19.124 85.3901 19.124H81.6743C81.6325 19.124 81.593 19.1057 81.5674 19.0738L77.4752 14.0161C77.1801 13.6511 76.6131 13.6579 76.3296 14.0321L75.9833 14.486C75.8904 14.6092 75.8393 14.7598 75.8393 14.9127V18.9917C75.8393 19.0647 75.7788 19.124 75.7045 19.124H72.7207C72.6464 19.124 72.5859 19.0647 72.5859 18.9917V0.13427C72.5859 0.0612676 72.6464 0.00195312 72.7207 0.00195312H75.7045H75.7022Z" fill="white"></path><path d="M60.5231 12.1478C60.5231 14.9972 62.0429 16.6489 64.2668 16.6489C65.9422 16.6489 66.9879 15.6063 67.4248 14.144C67.4504 14.0619 67.5433 14.0208 67.62 14.0596L70.1599 15.3189C70.2203 15.3485 70.2482 15.417 70.2273 15.4786C69.4604 17.6915 67.3109 19.4207 64.2668 19.4207C60.1978 19.4207 57.2651 16.4641 57.2651 12.1478C57.2651 7.83159 60.1955 4.875 64.2668 4.875C67.2854 4.875 69.3814 6.52668 70.1715 8.71218C70.1924 8.77377 70.1669 8.83993 70.1088 8.87187L67.62 10.2019C67.5433 10.2429 67.4457 10.2019 67.4201 10.1198C66.9833 8.68252 65.9399 7.61943 64.2644 7.61943C62.0405 7.61943 60.5208 9.29848 60.5208 12.1478H60.5231Z" fill="white"></path><path d="M55.2949 12.1478C55.2949 16.4892 52.446 19.4207 48.4304 19.4207C44.4149 19.4207 41.5659 16.4915 41.5659 12.1478C41.5659 7.80421 44.4149 4.875 48.4304 4.875C52.446 4.875 55.2949 7.80421 55.2949 12.1478ZM44.8471 12.1478C44.8471 14.9972 46.2321 16.7287 48.4281 16.7287C50.6241 16.7287 52.0091 14.9972 52.0091 12.1478C52.0091 9.29848 50.6241 7.56696 48.4281 7.56696C46.2321 7.56696 44.8471 9.29848 44.8471 12.1478Z" fill="white"></path><path d="M38.6796 0.00195312C38.7539 0.00195312 38.8144 0.0612676 38.8144 0.13427V18.9939C38.8144 19.0669 38.7539 19.1263 38.6796 19.1263H35.6958C35.6215 19.1263 35.561 19.0669 35.561 18.9939V0.13427C35.561 0.0612676 35.6215 0.00195312 35.6958 0.00195312H38.6796Z" fill="white"></path><path d="M23.2656 18.9939C23.2656 19.0669 23.2052 19.1263 23.1308 19.1263H19.9844C19.91 19.1263 19.8496 19.0669 19.8496 18.9939V0.13427C19.8496 0.0612676 19.91 0.00195312 19.9844 0.00195312H32.7095C32.7839 0.00195312 32.8443 0.0612676 32.8443 0.13427V2.85132C32.8443 2.92432 32.7839 2.98364 32.7095 2.98364H23.9906C23.5909 2.98364 23.2656 3.30302 23.2656 3.69541V7.46871C23.2656 7.8611 23.5909 8.18048 23.9906 8.18048H31.1619C31.2362 8.18048 31.2966 8.2398 31.2966 8.3128V11.0299C31.2966 11.1029 31.2362 11.1622 31.1619 11.1622H23.9906C23.5909 11.1622 23.2656 11.4816 23.2656 11.8739V18.9939Z" fill="white"></path><path d="M11.9419 2.26318H13.048V3.35365C13.048 5.21521 11.512 6.72544 9.62273 6.72544H8.5166V5.63497C8.5166 3.77342 10.0526 2.26318 11.9419 2.26318Z" fill="white"></path><path d="M8.14957 19.1266L7.38039 0H4.58021L4.15263 7.4622C4.13172 7.83405 3.66696 8.00059 3.40902 7.72911L1.54068 5.77402L0 8.25381L3.42528 12.5883C3.68787 12.9191 3.81568 13.3297 3.79244 13.7472L3.4857 19.1266H8.14724H8.14957Z" fill="white"></path></svg></span><span aria-hidden="true" style="width:1px;height:17px;background-color:var(--tp-color-text-inverse-muted);opacity:0.65;flex-shrink:0"></span><span style="font-family:&quot;Denim INK&quot;,&quot;Inter&quot;,sans-serif;font-weight:500;font-size:24px;line-height:1;letter-spacing:-0.24px;color:var(--tp-color-text-inverse-muted)">Transparency Portal</span></span></a><a href="https://www.flocksafety.com/?utm_medium=transparency_portal&amp;utm_source=Marysville%20WA%20PD" target="_blank" rel="noreferrer noopener" style="display:inline-flex;align-items:center;justify-content:center;width:fit-content;padding:8px 12px;border:none;border-radius:10.73px;background-color:var(--tp-color-action-primary);color:var(--tp-color-action-primary-text);text-decoration:none;white-space:nowrap;text-align:center;font-family:&quot;Denim&quot;,&quot;Denim INK&quot;,&quot;Inter&quot;,sans-serif;font-size:15px;font-style:normal;font-weight:450;line-height:20.25px;letter-spacing:-0.15px">Visit Flock</a></div></header><div id="reportContent" style="box-sizing:border-box;width:100%;margin-left:auto;margin-right:auto;max-width:1273px;padding-left:24px;padding-right:24px;padding-top:60px;padding-bottom:60px"><div style="margin-bottom:24px"><div style="display:flex;flex-direction:row;align-items:center;gap:24px"><div aria-hidden="true" style="width:120px;height:120px;border-radius:8px;flex-shrink:0;background-color:var(--tp-color-bg-paper);border:1px solid var(--tp-color-divider);display:flex;align-items:center;justify-content:center"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 48 48" fill="none" aria-hidden="true" focusable="false"><path d="M26.2554 4.7498C24.9585 3.75007 23.0415 3.75007 21.7446 4.7498C16.6967 8.64094 11.6074 10.1491 7.94389 10.5572H7.05555C5.36803 10.5572 4 11.8239 4 13.3864V20.1038C4 28.0848 8.44049 35.503 15.75 39.7329L22.3806 43.57C23.3714 44.1433 24.6286 44.1433 25.6194 43.57L32.25 39.7329C39.5595 35.503 44 28.0848 44 20.1038V13.3864C44 11.8239 42.632 10.5572 40.9444 10.5572H40.0561C36.3926 10.1491 31.3033 8.64094 26.2554 4.7498Z" fill="#35494F"></path><path d="M23.6586 29.461L28.3429 32.2941C29.2008 32.8134 30.2505 32.0458 30.0247 31.0751L28.7831 25.7474L32.9256 22.158C33.6819 21.5033 33.2755 20.2617 32.2822 20.1827L26.8304 19.7199L24.6971 14.6857C24.3133 13.7714 23.0039 13.7714 22.6202 14.6857L20.4868 19.7086L15.035 20.1714C14.0417 20.2504 13.6354 21.492 14.3916 22.1467L18.5341 25.7361L17.2925 31.0638C17.0668 32.0345 18.1165 32.8021 18.9743 32.2828L23.6586 29.461Z" fill="white"></path></svg></div><div><h1 style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:44px;line-height:1;letter-spacing:-1.32px;color:var(--tp-color-text-primary);margin:0">Marysville WA PD<br>Transparency Portal</h1><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:14px;line-height:20px;color:var(--tp-color-text-secondary);margin:8px 0 0">Last updated: <span title="2026-06-28T10:09:16.021Z">Sun Jun 28 2026</span></p></div></div></div><div id="overview" style="margin-bottom:24px"><h3 style="font-family:&quot;Inter&quot;,sans-serif;font-weight:500;font-size:12px;line-height:14.4px;letter-spacing:0.96px;text-transform:uppercase;color:var(--tp-color-text-secondary);margin:0;margin-bottom:8px">Overview</h3><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:14px;line-height:20px;color:var(--tp-color-overview-text);margin:0;white-space:pre-line">The Marysville Police Department uses Flock Safety technology to capture objective evidence without compromising individual privacy. The Marysville Police Department uses retroactive searches to help generate case leads and solve crimes after they've occurred. Additionally, the Marysville Police Department utilizes real-time alerting of hotlist vehicles to capture wanted criminals who travel through our city to commit other crimes. To ensure proper usage and establish proper guardrails for the program, we have made the policies and usage statistics available to the public.</p></div><style>
-                    .tpMainStack { display: flex; flex-direction: column; gap: 24px; }
-                    @media (min-width: 900px) { .tpMainStack { flex-direction: row; } }
-                </style><div class="tpMainStack"><div id="policies" style="flex:1 1 0;min-width:0"><h3 style="font-family:&quot;Inter&quot;,sans-serif;font-weight:500;font-size:12px;line-height:14.4px;letter-spacing:0.96px;text-transform:uppercase;color:var(--tp-color-text-secondary);margin:0;margin-bottom:16px">Policies</h3><div style="display:flex;flex-direction:column;gap:16px"><div style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:8px"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:24px;color:var(--tp-color-text-primary);margin:0">What's Detected</p><div style="display:flex;flex-direction:row;gap:16px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:16px;line-height:26px;letter-spacing:0.1px;color:var(--tp-color-body-content);white-space:pre-line">License Plates, Vehicles</div></div></div></div><div style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:8px"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:24px;color:var(--tp-color-text-primary);margin:0">What's Not Detected</p><div style="display:flex;flex-direction:row;gap:16px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:16px;line-height:26px;letter-spacing:0.1px;color:var(--tp-color-body-content);white-space:pre-line">Facial recognition, people, gender, race</div></div></div></div><div style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:8px"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:24px;color:var(--tp-color-text-primary);margin:0">Acceptable Use Policy</p><div style="display:flex;flex-direction:row;gap:16px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:16px;line-height:26px;letter-spacing:0.1px;color:var(--tp-color-body-content);white-space:pre-line">Data is used for law enforcement purposes only. Data is owned by the Marysville Police Department and is never sold to 3rd parties.</div></div></div></div><div style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:8px"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:24px;color:var(--tp-color-text-primary);margin:0">Prohibited Uses</p><div style="display:flex;flex-direction:row;gap:16px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:16px;line-height:26px;letter-spacing:0.1px;color:var(--tp-color-body-content);white-space:pre-line">Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), or personal use.</div></div></div></div><div style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:8px"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:24px;color:var(--tp-color-text-primary);margin:0">System Access History</p><div style="display:flex;flex-direction:row;gap:16px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:16px;line-height:26px;letter-spacing:0.1px;color:var(--tp-color-body-content);white-space:pre-line">Flock data is only retained for 30 days. However, an audit trail of the users who accessed the system is stored indefinitely.</div></div></div></div><div style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:8px"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:24px;color:var(--tp-color-text-primary);margin:0">Hotlist Policy</p><div style="display:flex;flex-direction:row;gap:16px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:16px;line-height:26px;letter-spacing:0.1px;color:var(--tp-color-body-content);white-space:pre-line">Hotlist hits (i.e., stolen vehicles, missing persons, etc.) are required to be human verified prior to action.</div></div></div></div><div style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:8px"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:24px;color:var(--tp-color-text-primary);margin:0">Networking Sharing</p><div style="display:flex;flex-direction:row;gap:16px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:16px;line-height:26px;letter-spacing:0.1px;color:var(--tp-color-body-content);white-space:pre-line">Marysville Police Department only shares with local and state law enforcement agencies within the State of Washington. </div></div></div></div><div style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:8px"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:24px;color:var(--tp-color-text-primary);margin:0">Flock's Privacy and Ethics</p><div style="display:flex;flex-direction:row;gap:16px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:16px;line-height:26px;letter-spacing:0.1px;color:var(--tp-color-body-content);white-space:pre-line"><a href="https://www.flocksafety.com/privacy-ethics" target="_blank" rel="noreferrer noopener" style="color:var(--tp-color-text-link);text-decoration:underline;text-decoration-skip-ink:none">https://www.flocksafety.com/privacy-ethics</a></div></div></div></div></div></div><div id="usage" style="flex:1 1 0;min-width:0"><h3 style="font-family:&quot;Inter&quot;,sans-serif;font-weight:500;font-size:12px;line-height:14.4px;letter-spacing:0.96px;text-transform:uppercase;color:var(--tp-color-text-secondary);margin:0;margin-bottom:16px">Usage</h3><div style="display:flex;flex-direction:column;gap:16px"><div style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:8px"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:24px;color:var(--tp-color-text-primary);margin:0">Data Retention</p><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:14px;line-height:20px;color:var(--tp-color-text-secondary);margin:0 0 8px">The number of days data is retained.</p><div style="display:flex;flex-direction:row;gap:16px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:28px;line-height:34px;letter-spacing:-0.56px;color:var(--tp-color-text-primary);white-space:normal">21 days</div></div></div></div><div style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:8px"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:24px;color:var(--tp-color-text-primary);margin:0">Number of Marysville PD Owned Cameras</p><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:14px;line-height:20px;color:var(--tp-color-text-secondary);margin:0 0 8px">Number of LPR and other cameras.</p><div style="display:flex;flex-direction:row;gap:16px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:28px;line-height:34px;letter-spacing:-0.56px;color:var(--tp-color-text-primary);white-space:normal">31</div></div></div></div><div style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:8px"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:24px;color:var(--tp-color-text-primary);margin:0">Hotlists Alerted On</p><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:14px;line-height:20px;color:var(--tp-color-text-secondary);margin:0 0 8px">National and statewide hotlist sources.</p><div style="display:flex;flex-direction:row;gap:16px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:16px;line-height:26px;letter-spacing:0.1px;color:var(--tp-color-body-content);white-space:pre-line">NCMEC Amber Alert</div></div></div></div><div style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:8px"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:24px;color:var(--tp-color-text-primary);margin:0">Vehicles detected in the Last 30 days</p><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:14px;line-height:20px;color:var(--tp-color-text-secondary);margin:0 0 8px">Number of unique plate reads over the last 30 days.</p><div style="display:flex;flex-direction:row;gap:16px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:28px;line-height:34px;letter-spacing:-0.56px;color:var(--tp-color-text-primary);white-space:normal">402,343</div></div></div></div><div style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:8px"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:24px;color:var(--tp-color-text-primary);margin:0">Number of Hotlist Hits</p><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:14px;line-height:20px;color:var(--tp-color-text-secondary);margin:0 0 8px">Total hotlist hits over the last 30 days.</p><div style="display:flex;flex-direction:row;gap:16px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:28px;line-height:34px;letter-spacing:-0.56px;color:var(--tp-color-text-primary);white-space:normal">900</div></div></div></div></div></div></div><div id="additionalInfo" style="margin-top:24px"><h3 style="font-family:&quot;Inter&quot;,sans-serif;font-weight:500;font-size:12px;line-height:14.4px;letter-spacing:0.96px;text-transform:uppercase;color:var(--tp-color-text-secondary);margin:0;margin-bottom:16px">Additional Info</h3><div style="display:flex;flex-direction:column;gap:16px"><div style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:8px"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:24px;color:var(--tp-color-text-primary);margin:0">Full Automated License Plate Reader Policy Accessibility</p><div style="display:flex;flex-direction:row;gap:16px;align-items:flex-start"><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:16px;line-height:26px;letter-spacing:0.1px;color:var(--tp-color-body-content);white-space:pre-line">The City of Marysville Police Department takes community trust seriously. We have made all of our policies available online for inspection. To see the MPD policy that governs Automated License Plate Readers, see here: <a href="https://public.powerdms.com/MarysvillePD/tree/documents/3026517" target="_blank" rel="noreferrer noopener" style="color:var(--tp-color-text-link);text-decoration:underline;text-decoration-skip-ink:none">https://public.powerdms.com/MarysvillePD/tree/documents/3026517</a></div></div></div></div></div></div></div><footer style="padding:0 24px 32px;text-align:center"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:14px;line-height:20px;color:var(--tp-color-text-secondary);margin:0">Provided by <a href="https://www.flocksafety.com/?utm_medium=transparency_portal&amp;utm_source=Marysville%20WA%20PD" target="_blank" rel="noreferrer noopener" style="color:var(--tp-color-text-link);text-decoration:underline;text-decoration-skip-ink:none">Flock Safety</a></p></footer><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/Sn2m8PgcFXDidA2AhTvB0gZJolX33IIK/analytics.min.js"></script><script>
+
+    [data-tp-root="true"] * { box-sizing: border-box; }
+    [data-tp-root="true"] .tpHeaderNav {
+        display: flex;
+        align-items: center;
+        gap: 9px;
+        margin-right: auto;
+    }
+    [data-tp-root="true"] .tpHeaderNav a {
+        display: inline-flex;
+        height: 32px;
+        padding: 0 12px;
+        align-items: center;
+        justify-content: center;
+        border-radius: 10.73px;
+        color: var(--tp-color-text-inverse);
+        font: 500 15px/20.25px "Denim", "Inter", sans-serif;
+        letter-spacing: -0.15px;
+        text-decoration: none;
+        white-space: nowrap;
+    }
+    [data-tp-root="true"] .tpHeaderNav a[aria-current="location"],
+    [data-tp-root="true"] .tpHeaderNav a:hover,
+    [data-tp-root="true"] .tpHeaderNav a:focus-visible { background: var(--tp-color-navigation-active); }
+    [data-tp-root="true"] .tpHeaderMenu { display: none; position: relative; }
+    [data-tp-root="true"] .tpHeaderMenu summary {
+        display: flex;
+        width: 40px;
+        height: 40px;
+        padding: 10px;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 4px;
+        border-radius: 8px;
+        cursor: pointer;
+        list-style: none;
+    }
+    [data-tp-root="true"] .tpHeaderMenu summary::-webkit-details-marker { display: none; }
+    [data-tp-root="true"] .tpHeaderMenu summary:hover,
+    [data-tp-root="true"] .tpHeaderMenu summary:focus-visible,
+    [data-tp-root="true"] .tpHeaderMenu[open] summary { background: var(--tp-color-navigation-active); }
+    [data-tp-root="true"] .tpHeaderMenu summary > span {
+        display: block;
+        width: 20px;
+        height: 2px;
+        border-radius: 1px;
+        background: var(--tp-color-text-inverse);
+        transition: transform 120ms ease, opacity 120ms ease;
+    }
+    [data-tp-root="true"] .tpHeaderMenu[open] summary > span:first-child {
+        transform: translateY(6px) rotate(45deg);
+    }
+    [data-tp-root="true"] .tpHeaderMenu[open] summary > span:nth-child(2) { opacity: 0; }
+    [data-tp-root="true"] .tpHeaderMenu[open] summary > span:last-child {
+        transform: translateY(-6px) rotate(-45deg);
+    }
+    [data-tp-root="true"] .tpMobileNav {
+        position: absolute;
+        top: calc(100% + 8px);
+        right: 0;
+        display: flex;
+        width: 224px;
+        padding: 8px;
+        flex-direction: column;
+        gap: 4px;
+        border: 1px solid rgba(255, 255, 255, 0.18);
+        border-radius: 10px;
+        background: var(--tp-color-primary-main);
+        box-shadow: 0 12px 28px rgba(0, 0, 0, 0.24);
+    }
+    [data-tp-root="true"] .tpMobileNav a {
+        display: flex;
+        min-height: 40px;
+        padding: 8px 12px;
+        align-items: center;
+        border-radius: 8px;
+        color: var(--tp-color-text-inverse);
+        font: 500 15px/20.25px "Denim", "Inter", sans-serif;
+        letter-spacing: -0.15px;
+        text-decoration: none;
+    }
+    [data-tp-root="true"] .tpMobileNav a[aria-current="location"],
+    [data-tp-root="true"] .tpMobileNav a:hover,
+    [data-tp-root="true"] .tpMobileNav a:focus-visible { background: var(--tp-color-navigation-active); }
+
+    [data-tp-root="true"] .tpPortalSection {
+        width: 100%;
+        scroll-margin-top: 88px;
+    }
+    [data-tp-root="true"] .tpOverview h3 {
+        margin: 0 0 8px;
+        color: var(--tp-color-overview-text);
+        font: 600 16px/28px "Inter", sans-serif;
+    }
+    [data-tp-root="true"] .tpOverview p {
+        margin: 0;
+        color: var(--tp-color-overview-text);
+        font: 400 16px/26px "Inter", sans-serif;
+        letter-spacing: 0.1px;
+        white-space: pre-line;
+    }
+    [data-tp-root="true"] .tpHero {
+        position: relative;
+        width: 100%;
+        height: clamp(270px, 29.375vw, 423px);
+        overflow: hidden;
+        background: var(--tp-color-bg-paper);
+    }
+    [data-tp-root="true"] .tpHeroImage,
+    [data-tp-root="true"] .tpHeroOverlay {
+        position: absolute;
+        inset: 0;
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+    [data-tp-root="true"] .tpHeroImage { object-fit: cover; }
+    [data-tp-root="true"] .tpHeroOverlay {
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.23) 15.941%, rgba(102, 102, 102, 0.01) 78.616%);
+    }
+    [data-tp-root="true"] .tpHeroOverlay--map {
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.45) 19.326%, rgba(102, 102, 102, 0.25) 167.38%);
+    }
+    [data-tp-root="true"] .tpHeroContent {
+        position: relative;
+        z-index: 1;
+        display: flex;
+        width: 100%;
+        max-width: 1440px;
+        height: 100%;
+        margin: 0 auto;
+        padding: 0 clamp(24px, 6.9445vw, 100px) 50px;
+        align-items: flex-end;
+    }
+    [data-tp-root="true"] .tpHeroTitleRow {
+        display: flex;
+        min-width: 0;
+        align-items: center;
+        gap: 24px;
+    }
+    [data-tp-root="true"] .tpHeroLogo {
+        --tp-color-bg-paper: #FFFFFF;
+        --tp-color-text-secondary: #35494F;
+        display: flex;
+        width: 145px;
+        height: 145px;
+        flex: 0 0 145px;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        border: 1.45px solid #D3DEE2;
+        border-radius: 11.6px;
+        background: var(--tp-color-bg-paper);
+        box-shadow: 0 8.529px 15.993px rgba(0, 0, 0, 0.39);
+    }
+    [data-tp-root="true"] .tpHeroLogoImage {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    [data-tp-root="true"] .tpHeroLogo svg { width: 88px; height: 88px; }
+    [data-tp-root="true"] .tpHeroText {
+        flex: 1 1 auto;
+        min-width: 0;
+        color: var(--tp-color-text-inverse);
+        filter: drop-shadow(0 8px 7.5px rgba(0, 0, 0, 0.39));
+    }
+    [data-tp-root="true"] .tpHeroText h1 {
+        max-width: 920px;
+        margin: 0;
+        color: inherit;
+        font: 600 60px/65px "Denim INK", "Denim", "Inter", sans-serif;
+        letter-spacing: -1.8px;
+    }
+    [data-tp-root="true"] .tpHeroText p {
+        margin: 16px 0 0;
+        color: inherit;
+        font: 400 14px/20px "Inter", sans-serif;
+    }
+    [data-tp-root="true"] .tpSectionInner {
+        width: 100%;
+        max-width: 1289px;
+        margin: 0 auto;
+        padding: 60px 24px;
+    }
+    [data-tp-root="true"] .tpSectionTitle {
+        width: 100%;
+        margin: 0 0 60px;
+        color: var(--tp-color-section-heading);
+        font: 500 60px/normal "Denim INK", "Denim", "Inter", sans-serif;
+        letter-spacing: -1.8px;
+        text-align: center;
+    }
+    [data-tp-root="true"] .tpCommunityContent,
+    [data-tp-root="true"] .tpDataSummaryStack,
+    [data-tp-root="true"] .tpPolicyStack,
+    [data-tp-root="true"] .tpMoreInfoStack {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    [data-tp-root="true"] .tpEditorialRow {
+        display: grid;
+        grid-template-columns: minmax(0, 789fr) minmax(0, 436fr);
+        gap: 16px;
+        align-items: start;
+    }
+    [data-tp-root="true"] .tpEditorialRowSingle { grid-template-columns: minmax(0, 1fr); }
+    [data-tp-root="true"] .tpSuccessStoryCollection,
+    [data-tp-root="true"] .tpSuccessStoryList {
+        display: flex;
+        min-width: 0;
+        flex-direction: column;
+    }
+    [data-tp-root="true"] .tpSuccessStoryCollection > h3 {
+        margin: 0;
+        color: var(--tp-color-body-content);
+        font: 500 30px/normal "Denim INK", "Denim", "Inter", sans-serif;
+        letter-spacing: -0.9px;
+    }
+    [data-tp-root="true"] .tpSuccessStoryList [data-tp-presentation="text"] {
+        padding: 16px 0 !important;
+        border: 0 !important;
+        border-bottom: 1px solid var(--tp-color-compliance-divider) !important;
+        border-radius: 0 !important;
+        background: transparent !important;
+    }
+    [data-tp-root="true"] .tpSuccessStoryList [data-tp-presentation="text"] .tpEntryHeader > p:first-child {
+        color: var(--tp-color-body-content) !important;
+        font: 500 20px/28px "Denim INK", "Denim", "Inter", sans-serif !important;
+        letter-spacing: 0 !important;
+    }
+    [data-tp-root="true"] .tpNewsFeed {
+        height: 100%;
+        padding: 24px;
+        border-radius: 16px;
+        background: var(--tp-color-news-surface);
+        color: var(--tp-color-body-content);
+    }
+    [data-tp-root="true"] .tpNewsFeed > h3 {
+        margin: 0 0 16px;
+        font: 500 30px/normal "Denim INK", "Denim", "Inter", sans-serif;
+        letter-spacing: -0.9px;
+    }
+    [data-tp-root="true"] .tpNewsFeedList {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+    [data-tp-root="true"] .tpNewsCard {
+        display: flex;
+        min-height: 205px;
+        padding: 16px;
+        flex-direction: column;
+        gap: 10px;
+        border: 1px solid var(--tp-color-soft-card-border);
+        border-radius: 8px;
+        background: var(--tp-color-bg-paper);
+    }
+    [data-tp-root="true"] .tpNewsMeta,
+    [data-tp-root="true"] .tpNewsFooter {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+    }
+    [data-tp-root="true"] .tpNewsMeta span {
+        min-height: 32px;
+        padding: 6px 12px;
+        border: 1px solid var(--tp-color-meta-border);
+        border-radius: 360px;
+        background: var(--tp-color-meta-surface);
+        color: var(--tp-color-meta-text);
+        font: 500 12px/18px "Inter", sans-serif;
+        text-transform: uppercase;
+    }
+    [data-tp-root="true"] .tpNewsDate {
+        color: var(--tp-color-subtle-text);
+        font: 400 14px/28px "Inter", sans-serif;
+    }
+    [data-tp-root="true"] .tpNewsHeadline { display: flex; flex-direction: column; gap: 8px; }
+    [data-tp-root="true"] .tpNewsHeadline p {
+        margin: 0;
+        color: var(--tp-color-kicker-text);
+        font: 500 12px/18px "Inter", sans-serif;
+        text-transform: uppercase;
+    }
+    [data-tp-root="true"] .tpNewsHeadline h4 {
+        margin: 0;
+        color: var(--tp-color-body-content);
+        font: 500 20px/28px "Denim INK", "Denim", "Inter", sans-serif;
+        letter-spacing: -0.2px;
+    }
+    [data-tp-root="true"] .tpNewsFooter {
+        min-height: 32px;
+        margin-top: auto;
+        font: 500 12px/18px "Inter", sans-serif;
+        text-transform: uppercase;
+    }
+    [data-tp-root="true"] .tpNewsSource {
+        display: inline-flex;
+        height: 24px;
+        padding: 2px 8px;
+        align-items: center;
+        gap: 4px;
+        border: 1px solid var(--tp-color-meta-border);
+        border-radius: 360px;
+        color: var(--tp-color-meta-text);
+    }
+    [data-tp-root="true"] .tpNewsSourceIcon {
+        display: inline-flex;
+        width: 18px;
+        height: 18px;
+        align-items: center;
+        justify-content: center;
+    }
+    [data-tp-root="true"] .tpNewsSourceIcon svg { display: block; width: 15px; height: 14px; }
+    [data-tp-root="true"] .tpNewsFooter a {
+        padding: 6px 12px;
+        border-radius: 10.73px;
+        background: var(--tp-color-action-primary);
+        color: var(--tp-color-action-primary-text);
+        font: 500 15px/20.25px "Denim", "Inter", sans-serif;
+        letter-spacing: -0.15px;
+        text-decoration: none;
+        text-transform: none;
+    }
+
+    [data-tp-root="true"] .tpDataSummarySurface {
+        display: flex;
+        padding: 24px;
+        flex-direction: column;
+        gap: 16px;
+        border-radius: 16px;
+        background: var(--tp-color-news-surface);
+    }
+    [data-tp-root="true"] .tpDataSummarySurface > h3,
+    [data-tp-root="true"] .tpMythFactList > h3 {
+        margin: 0;
+        color: var(--tp-color-body-content);
+        font: 500 30px/normal "Denim INK", "Denim", "Inter", sans-serif;
+        letter-spacing: -0.9px;
+    }
+    [data-tp-root="true"] .tpResponsivePair {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+        gap: 16px;
+        align-items: stretch;
+    }
+    [data-tp-root="true"] .tpResponsivePairSingle { grid-template-columns: minmax(0, 1fr); }
+
+    [data-tp-root="true"] .tpImpactBanner {
+        display: flex;
+        align-items: stretch;
+        justify-content: center;
+        gap: 10px;
+        min-height: 246px;
+        margin-bottom: 44px;
+        padding: 48px 0;
+        border-radius: 20px;
+        background: var(--tp-color-impact-banner);
+        text-align: center;
+    }
+    [data-tp-root="true"] .tpImpactBannerItem {
+        display: flex;
+        flex: 1 1 0;
+        min-width: 0;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 24px;
+    }
+    [data-tp-root="true"] .tpImpactBannerSingle .tpImpactBannerItem { flex: 0 1 auto; }
+    [data-tp-root="true"] .tpImpactBannerValue {
+        color: var(--tp-color-text-inverse);
+        font: 500 60px/1 "Inter", "Denim", sans-serif;
+        letter-spacing: -1.98px;
+    }
+    [data-tp-root="true"] .tpImpactBannerLabel {
+        color: var(--tp-color-text-inverse);
+        font: 400 15px/1.35 "Denim", "Inter", sans-serif;
+        letter-spacing: -0.15px;
+        text-transform: uppercase;
+    }
+    [data-tp-root="true"] .tpImpactBannerDivider {
+        width: 1px;
+        align-self: stretch;
+        background: rgba(255, 255, 255, 0.2);
+    }
+
+    [data-tp-root="true"] .tpEntryHeader { min-width: 0; }
+    [data-tp-root="true"] [data-tp-presentation="text"],
+    [data-tp-root="true"] [data-tp-presentation="metric"],
+    [data-tp-root="true"] [data-tp-presentation="accessTable"],
+    [data-tp-root="true"] [data-tp-presentation="csv"] {
+        min-width: 0;
+        padding: 16px !important;
+        border: 1px solid var(--tp-color-soft-card-border) !important;
+        border-radius: 8px !important;
+        background: var(--tp-color-bg-paper) !important;
+        color: var(--tp-color-body-content) !important;
+    }
+    [data-tp-root="true"] [data-tp-presentation="text"] .tpEntryHeader > p:first-child,
+    [data-tp-root="true"] [data-tp-presentation="metric"] .tpEntryHeader > p:first-child,
+    [data-tp-root="true"] [data-tp-presentation="accessTable"] .tpEntryHeader > p:first-child,
+    [data-tp-root="true"] [data-tp-presentation="csv"] .tpEntryHeader > p:first-child {
+        color: var(--tp-color-body-content) !important;
+        font: 600 16px/28px "Inter", sans-serif !important;
+    }
+    [data-tp-root="true"] .tpEntryHeader > p + p {
+        margin-top: 2px !important;
+        color: var(--tp-color-body-content) !important;
+        font: 400 14px/20px "Inter", sans-serif !important;
+    }
+    [data-tp-root="true"] [data-tp-presentation="metric"] > div > div:last-child > div:last-child {
+        color: var(--tp-color-text-primary) !important;
+        font: 600 36px/41.4px "Inter", sans-serif !important;
+        letter-spacing: -0.72px !important;
+    }
+    [data-tp-root="true"] [data-tp-entry-type="numberOfOwnedLprCameras"] > div > div:last-child > div:last-child {
+        color: var(--tp-color-text-primary) !important;
+    }
+    [data-tp-root="true"] [data-tp-presentation="text"] > div > div:last-child > div:last-child,
+    [data-tp-root="true"] [data-tp-presentation="accessTable"] > div > div:last-child > div:last-child {
+        color: var(--tp-color-body-content) !important;
+    }
+
+    [data-tp-root="true"] .tpWidgetCard {
+        padding: 16px;
+        border: 1px solid var(--tp-color-soft-card-border);
+        border-radius: 8px;
+        background: var(--tp-color-bg-paper);
+        color: var(--tp-color-body-content);
+    }
+    [data-tp-root="true"] .tpActivitySummaryWidget {
+        border-color: var(--tp-color-activity-border);
+        background: transparent;
+    }
+    [data-tp-root="true"] .tpMetricTableWidget {
+        position: relative;
+        padding-right: 32px;
+    }
+    [data-tp-root="true"] .tpActivityScrollContainer {
+        position: relative;
+        min-width: 0;
+        margin-top: 16px;
+        padding-right: 28px;
+    }
+    [data-tp-root="true"] .tpWidgetHeader h3 {
+        margin: 0;
+        color: var(--tp-color-body-content);
+        font: 600 16px/28px "Inter", sans-serif;
+    }
+    [data-tp-root="true"] .tpWidgetHeader p {
+        margin: 2px 0 0;
+        color: var(--tp-color-body-content);
+        font: 400 14px/20px "Inter", sans-serif;
+    }
+    [data-tp-root="true"] .tpActivityValue {
+        margin-top: 16px;
+    }
+    [data-tp-root="true"] .tpActivityValue strong {
+        color: var(--tp-color-widget-heading);
+        font: 500 60px/1.15 "Inter", sans-serif;
+        letter-spacing: -1.2px;
+    }
+    [data-tp-root="true"] .tpMetricTableWidget ol {
+        margin: 16px 0 0;
+        padding-left: 28px;
+        color: var(--tp-color-body-content);
+    }
+    [data-tp-root="true"] .tpActivityRows {
+        max-height: 240px;
+        margin: 0;
+        padding-left: 28px;
+        overflow-x: hidden;
+        overflow-y: auto;
+        color: var(--tp-color-body-content);
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+    }
+    [data-tp-root="true"] .tpActivityRows::-webkit-scrollbar { display: none; }
+    [data-tp-root="true"] .tpActivityRows li,
+    [data-tp-root="true"] .tpMetricTableWidget li {
+        min-height: 48px;
+        padding: 11px 0 10px 4px;
+        border-bottom: 1px solid var(--tp-color-row-divider);
+        font: 400 16px/26px "Inter", sans-serif;
+    }
+    [data-tp-root="true"] .tpActivityRows li {
+        display: list-item;
+        padding-right: 4px;
+    }
+    [data-tp-root="true"] .tpActivityRowContent {
+        display: grid;
+        min-width: 0;
+        grid-template-columns: minmax(0, 1fr) auto;
+        align-items: center;
+        gap: 12px;
+    }
+    [data-tp-root="true"] .tpActivityRowLabelContainer {
+        position: relative;
+        min-width: 0;
+    }
+    [data-tp-root="true"] .tpActivityRowLabel {
+        display: block;
+        min-width: 0;
+        overflow-x: auto;
+        white-space: nowrap;
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+    }
+    [data-tp-root="true"] .tpActivityRowLabel::-webkit-scrollbar { display: none; }
+    [data-tp-root="true"] .tpActivityRowScrollTrack {
+        position: absolute;
+        right: 0;
+        bottom: -3px;
+        left: 0;
+        display: none;
+        height: 2px;
+        overflow: hidden;
+        border-radius: 999px;
+        background: var(--tp-color-row-divider);
+        pointer-events: none;
+    }
+    [data-tp-root="true"] .tpActivityRowScrollThumb {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        border-radius: 999px;
+        background: var(--tp-color-access-scrollbar-thumb);
+    }
+    [data-tp-root="true"] .tpActivityRowValue { font-weight: 600; }
+    [data-tp-root="true"] .tpMetricTableWidget li:last-child { border-bottom: 0; }
+    [data-tp-root="true"] .tpMetricTableRowContent {
+        display: flex;
+        min-width: 0;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+    }
+    [data-tp-root="true"] .tpMetricTableRowContent strong { white-space: nowrap; }
+
+    [data-tp-root="true"] .tpAccessPair [data-tp-access-table="true"] { margin-top: 0; }
+
+    [data-tp-root="true"] .tpPolicySection {
+        background: var(--tp-color-policy-surface);
+        color: var(--tp-color-text-inverse);
+    }
+    [data-tp-root="true"] .tpPolicySection .tpSectionInner { padding-top: 48px; padding-bottom: 96px; }
+    [data-tp-root="true"] .tpPolicySection .tpSectionTitle {
+        width: calc(100% - 6px);
+        color: var(--tp-color-text-inverse);
+    }
+    [data-tp-root="true"] .tpPolicyStack { width: calc(100% - 6px); }
+    [data-tp-root="true"] .tpComplianceWidget {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 16px;
+        padding: 24px 0;
+        color: var(--tp-color-text-inverse);
+    }
+    [data-tp-root="true"] .tpComplianceItem {
+        display: flex;
+        min-width: 0;
+        padding: 20px 0;
+        flex-direction: column;
+        gap: 42px;
+    }
+    [data-tp-root="true"] .tpComplianceHeading {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+    }
+    [data-tp-root="true"] .tpComplianceHeading img {
+        display: block;
+        width: 64px;
+        height: 64px;
+    }
+    [data-tp-root="true"] .tpComplianceHeading h3,
+    [data-tp-root="true"] .tpComplianceItem p {
+        margin: 0;
+        color: inherit;
+        font-family: "Inter", sans-serif;
+    }
+    [data-tp-root="true"] .tpComplianceHeading h3 {
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 28px;
+        letter-spacing: 0;
+    }
+    [data-tp-root="true"] .tpComplianceItem p {
+        max-width: 294px;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 26px;
+        letter-spacing: 0.1px;
+    }
+
+    [data-tp-root="true"] .tpMythFactList {
+        display: flex;
+        padding: 24px;
+        flex-direction: column;
+        gap: 16px;
+        border-radius: 16px;
+        background: var(--tp-color-news-surface);
+        color: var(--tp-color-body-content);
+    }
+    [data-tp-root="true"] .tpMythFactList > h3 {
+        font-size: 30px;
+        line-height: normal;
+        letter-spacing: -0.9px;
+    }
+    [data-tp-root="true"] .tpMythFactCards {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 16px;
+        align-items: stretch;
+    }
+    [data-tp-root="true"] .tpMythFactCard {
+        padding: 16px;
+        border: 1px solid var(--tp-color-soft-card-border);
+        border-radius: 8px;
+        background: var(--tp-color-bg-paper);
+    }
+    [data-tp-root="true"] .tpMythFactStatement { display: flex; flex-direction: column; gap: 4px; }
+    [data-tp-root="true"] .tpFactStatement { gap: 6px; }
+    [data-tp-root="true"] .tpMythFactStatement p {
+        margin: 0;
+        color: var(--tp-color-body-content);
+        font: 400 16px/26px "Inter", sans-serif;
+        letter-spacing: 0.1px;
+    }
+    [data-tp-root="true"] .tpMythFactCard hr {
+        height: 1px;
+        margin: 16px 0;
+        border: 0;
+        background: var(--tp-color-row-divider);
+    }
+    [data-tp-root="true"] .tpChip {
+        display: inline-flex;
+        width: fit-content;
+        height: 24px;
+        padding: 2px 8px;
+        align-items: center;
+        justify-content: center;
+        border-radius: 360px;
+        font: 500 14px/20px "Inter", sans-serif;
+    }
+    [data-tp-root="true"] .tpMythChip {
+        border: 1px solid var(--tp-color-meta-border);
+        background: var(--tp-color-meta-surface);
+        color: var(--tp-color-meta-text);
+    }
+    [data-tp-root="true"] .tpFactChip {
+        border: 1px solid var(--tp-color-fact-border);
+        background: var(--tp-color-fact-surface);
+        color: var(--tp-color-fact-text);
+    }
+
+    [data-tp-root="true"] .tpMoreInfoSection .tpSectionInner { padding-top: 60px; padding-bottom: 144px; }
+
+    @media (max-width: 899px) {
+        [data-tp-root="true"] .tpHeaderDivider { display: none; }
+        [data-tp-root="true"] .tpHeaderNav { display: none; }
+        [data-tp-root="true"] .tpHeaderMenu { display: block; flex: 0 0 auto; }
+        [data-tp-root="true"] .tpBrandTitle { display: none; }
+        [data-tp-root="true"] .tpHeaderAction { margin-left: auto; }
+        [data-tp-root="true"] .tpSectionInner { padding: 48px 20px; }
+        [data-tp-root="true"] .tpHero { height: 270px; }
+        [data-tp-root="true"] .tpHeroContent { padding: 0 20px 24px; }
+        [data-tp-root="true"] .tpHeroTitleRow { gap: 16px; }
+        [data-tp-root="true"] .tpHeroLogo { width: 72px; height: 72px; flex-basis: 72px; border-radius: 8px; }
+        [data-tp-root="true"] .tpHeroLogo svg { width: 48px; height: 48px; }
+        [data-tp-root="true"] .tpHeroText h1 { font-size: 30px; line-height: 34px; letter-spacing: -0.9px; }
+        [data-tp-root="true"] .tpHeroText p { margin-top: 8px; }
+        [data-tp-root="true"] .tpSectionTitle { margin-bottom: 32px; font-size: 36px; line-height: 40px; }
+        [data-tp-root="true"] .tpEditorialRow,
+        [data-tp-root="true"] .tpResponsivePair { grid-template-columns: minmax(0, 1fr); }
+        [data-tp-root="true"] .tpComplianceWidget { grid-template-columns: minmax(0, 1fr); }
+        [data-tp-root="true"] .tpComplianceItem { gap: 24px; }
+        [data-tp-root="true"] .tpComplianceItem p { max-width: none; }
+        [data-tp-root="true"] .tpMythFactCards { grid-template-columns: minmax(0, 1fr); }
+        [data-tp-root="true"] .tpPolicyStack,
+        [data-tp-root="true"] .tpPolicySection .tpSectionTitle { width: 100%; }
+        [data-tp-root="true"] .tpNewsFeed { height: auto; }
+        [data-tp-root="true"] .tpNewsFeed > h3 { font-size: 30px; }
+        [data-tp-root="true"] .tpSuccessStoryCollection > h3 { font-size: 30px; }
+        [data-tp-root="true"] .tpActivityValue strong { font-size: 48px; }
+    }
+[data-tp-root="true"]{margin:0 !important;padding:0 !important;background:var(--tp-color-bg-default);}</style><header style="background-color:var(--tp-color-primary-main);color:var(--tp-color-primary-contrast);position:sticky;top:0;z-index:20"><div style="box-sizing:border-box;width:100%;min-height:66px;padding-bottom:2px;padding-left:24px;padding-right:24px;display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap"><a href="https://www.flocksafety.com/?utm_medium=transparency_portal&amp;utm_source=Marysville%20WA%20PD" target="_blank" rel="noreferrer noopener" style="color:inherit;text-decoration:none;display:flex;align-items:center"><span style="display:inline-flex;align-items:center;gap:8px;min-width:0;height:18px"><span role="img" aria-label="Flock Safety" style="display:inline-flex"><svg xmlns="http://www.w3.org/2000/svg" width="74.82" height="17.4" viewBox="0 0 86 20" fill="none" aria-hidden="true" focusable="false" style="display:block;flex-shrink:0"><path d="M75.7022 0.00195312C75.7765 0.00195312 75.8369 0.0612676 75.8369 0.13427V9.99869C75.8369 10.3363 76.2715 10.4846 76.4853 10.2177L80.4869 5.20108C80.5124 5.16914 80.5519 5.15089 80.5938 5.15089L83.9888 5.14633C84.1027 5.14633 84.1654 5.27408 84.0957 5.36077L79.4574 11.1736C79.4179 11.2215 79.4179 11.2899 79.4574 11.3378L85.497 18.9095C85.5667 18.9962 85.5039 19.124 85.3901 19.124H81.6743C81.6325 19.124 81.593 19.1057 81.5674 19.0738L77.4752 14.0161C77.1801 13.6511 76.6131 13.6579 76.3296 14.0321L75.9833 14.486C75.8904 14.6092 75.8393 14.7598 75.8393 14.9127V18.9917C75.8393 19.0647 75.7788 19.124 75.7045 19.124H72.7207C72.6464 19.124 72.5859 19.0647 72.5859 18.9917V0.13427C72.5859 0.0612676 72.6464 0.00195312 72.7207 0.00195312H75.7045H75.7022Z" fill="white"></path><path d="M60.5231 12.1478C60.5231 14.9972 62.0429 16.6489 64.2668 16.6489C65.9422 16.6489 66.9879 15.6063 67.4248 14.144C67.4504 14.0619 67.5433 14.0208 67.62 14.0596L70.1599 15.3189C70.2203 15.3485 70.2482 15.417 70.2273 15.4786C69.4604 17.6915 67.3109 19.4207 64.2668 19.4207C60.1978 19.4207 57.2651 16.4641 57.2651 12.1478C57.2651 7.83159 60.1955 4.875 64.2668 4.875C67.2854 4.875 69.3814 6.52668 70.1715 8.71218C70.1924 8.77377 70.1669 8.83993 70.1088 8.87187L67.62 10.2019C67.5433 10.2429 67.4457 10.2019 67.4201 10.1198C66.9833 8.68252 65.9399 7.61943 64.2644 7.61943C62.0405 7.61943 60.5208 9.29848 60.5208 12.1478H60.5231Z" fill="white"></path><path d="M55.2949 12.1478C55.2949 16.4892 52.446 19.4207 48.4304 19.4207C44.4149 19.4207 41.5659 16.4915 41.5659 12.1478C41.5659 7.80421 44.4149 4.875 48.4304 4.875C52.446 4.875 55.2949 7.80421 55.2949 12.1478ZM44.8471 12.1478C44.8471 14.9972 46.2321 16.7287 48.4281 16.7287C50.6241 16.7287 52.0091 14.9972 52.0091 12.1478C52.0091 9.29848 50.6241 7.56696 48.4281 7.56696C46.2321 7.56696 44.8471 9.29848 44.8471 12.1478Z" fill="white"></path><path d="M38.6796 0.00195312C38.7539 0.00195312 38.8144 0.0612676 38.8144 0.13427V18.9939C38.8144 19.0669 38.7539 19.1263 38.6796 19.1263H35.6958C35.6215 19.1263 35.561 19.0669 35.561 18.9939V0.13427C35.561 0.0612676 35.6215 0.00195312 35.6958 0.00195312H38.6796Z" fill="white"></path><path d="M23.2656 18.9939C23.2656 19.0669 23.2052 19.1263 23.1308 19.1263H19.9844C19.91 19.1263 19.8496 19.0669 19.8496 18.9939V0.13427C19.8496 0.0612676 19.91 0.00195312 19.9844 0.00195312H32.7095C32.7839 0.00195312 32.8443 0.0612676 32.8443 0.13427V2.85132C32.8443 2.92432 32.7839 2.98364 32.7095 2.98364H23.9906C23.5909 2.98364 23.2656 3.30302 23.2656 3.69541V7.46871C23.2656 7.8611 23.5909 8.18048 23.9906 8.18048H31.1619C31.2362 8.18048 31.2966 8.2398 31.2966 8.3128V11.0299C31.2966 11.1029 31.2362 11.1622 31.1619 11.1622H23.9906C23.5909 11.1622 23.2656 11.4816 23.2656 11.8739V18.9939Z" fill="white"></path><path d="M11.9419 2.26318H13.048V3.35365C13.048 5.21521 11.512 6.72544 9.62273 6.72544H8.5166V5.63497C8.5166 3.77342 10.0526 2.26318 11.9419 2.26318Z" fill="white"></path><path d="M8.14957 19.1266L7.38039 0H4.58021L4.15263 7.4622C4.13172 7.83405 3.66696 8.00059 3.40902 7.72911L1.54068 5.77402L0 8.25381L3.42528 12.5883C3.68787 12.9191 3.81568 13.3297 3.79244 13.7472L3.4857 19.1266H8.14724H8.14957Z" fill="white"></path></svg></span><span class="tpBrandTitle" style="font-family:&quot;Denim INK&quot;,&quot;Inter&quot;,sans-serif;font-weight:500;font-size:24px;line-height:1;letter-spacing:-0.24px;width:207px;color:var(--tp-color-text-inverse-muted)">Transparency Portal</span></span></a><span class="tpHeaderDivider" aria-hidden="true" style="width:0;height:24px;margin-right:-1px;border-left:1px solid var(--tp-color-text-inverse-muted);flex-shrink:0"></span><nav class="tpHeaderNav" aria-label="Transparency portal sections"><a data-tp-section-link="true" href="#community-impact" aria-current="location" data-tp-section-history-bound="true" data-tp-section-link-bound="true">Community Impact</a><a data-tp-section-link="true" href="#policy-and-trust" data-tp-section-link-bound="true">Policy &amp; Trust</a><a data-tp-section-link="true" href="#more-info" data-tp-section-link-bound="true">More Info</a></nav><a class="tpHeaderAction" href="https://www.flocksafety.com/?utm_medium=transparency_portal&amp;utm_source=Marysville%20WA%20PD" target="_blank" rel="noreferrer noopener" style="display:inline-flex;align-items:center;justify-content:center;width:fit-content;padding:0 12px;border:none;border-radius:10.73px;background-color:var(--tp-color-action-primary);color:var(--tp-color-action-primary-text);text-decoration:none;white-space:nowrap;text-align:center;font-family:&quot;Denim&quot;,&quot;Denim INK&quot;,&quot;Inter&quot;,sans-serif;font-size:15px;font-style:normal;font-weight:500;line-height:20.25px;letter-spacing:-0.15px;height:32px">Visit Flock.com</a><details class="tpHeaderMenu" data-tp-mobile-menu="true"><summary aria-label="Transparency portal section navigation"><span aria-hidden="true"></span><span aria-hidden="true"></span><span aria-hidden="true"></span></summary><nav class="tpMobileNav" aria-label="Transparency portal sections"><a data-tp-section-link="true" href="#community-impact" aria-current="location" data-tp-section-link-bound="true">Community Impact</a><a data-tp-section-link="true" href="#policy-and-trust" data-tp-section-link-bound="true">Policy &amp; Trust</a><a data-tp-section-link="true" href="#more-info" data-tp-section-link-bound="true">More Info</a></nav></details></div></header><main id="reportContent"><section class="tpHero" aria-labelledby="tpPortalTitle"><img class="tpHeroImage" src="https://prod-flock-org-files-public.s3.us-east-1.amazonaws.com/transparencyReport/a964aaac-2626-4148-b741-36a0de22b4ad" alt="" aria-hidden="true"><span class="tpHeroOverlay tpHeroOverlay--map" aria-hidden="true"></span><div class="tpHeroContent"><div class="tpHeroTitleRow"><div class="tpHeroLogo"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 48 48" fill="none" aria-hidden="true" focusable="false"><path d="M26.2554 4.7498C24.9585 3.75007 23.0415 3.75007 21.7446 4.7498C16.6967 8.64094 11.6074 10.1491 7.94389 10.5572H7.05555C5.36803 10.5572 4 11.8239 4 13.3864V20.1038C4 28.0848 8.44049 35.503 15.75 39.7329L22.3806 43.57C23.3714 44.1433 24.6286 44.1433 25.6194 43.57L32.25 39.7329C39.5595 35.503 44 28.0848 44 20.1038V13.3864C44 11.8239 42.632 10.5572 40.9444 10.5572H40.0561C36.3926 10.1491 31.3033 8.64094 26.2554 4.7498Z" fill="var(--tp-color-text-secondary)"></path><path d="M23.6586 29.461L28.3429 32.2941C29.2008 32.8134 30.2505 32.0458 30.0247 31.0751L28.7831 25.7474L32.9256 22.158C33.6819 21.5033 33.2755 20.2617 32.2822 20.1827L26.8304 19.7199L24.6971 14.6857C24.3133 13.7714 23.0039 13.7714 22.6202 14.6857L20.4868 19.7086L15.035 20.1714C14.0417 20.2504 13.6354 21.492 14.3916 22.1467L18.5341 25.7361L17.2925 31.0638C17.0668 32.0345 18.1165 32.8021 18.9743 32.2828L23.6586 29.461Z" fill="var(--tp-color-bg-paper)"></path></svg></div><div class="tpHeroText"><h1 id="tpPortalTitle">Marysville WA PD<br>Transparency Portal</h1><p>Last updated: <span title="2026-07-30T10:36:42.457Z">Thu Jul 30 2026</span></p></div></div></div></section><div style="box-sizing:border-box;width:100%;margin-left:auto;margin-right:auto;max-width:1273px;padding-left:24px;padding-right:24px;padding-top:60px;padding-bottom:0"><div class="tpOverview" id="overview" style="margin-bottom:24px"><h3>Overview</h3><p>The Marysville Police Department uses Flock Safety technology to capture objective evidence without compromising individual privacy. The Marysville Police Department uses retroactive searches to help generate case leads and solve crimes after they've occurred. Additionally, the Marysville Police Department utilizes real-time alerting of hotlist vehicles to capture wanted criminals who travel through our city to commit other crimes. To ensure proper usage and establish proper guardrails for the program, we have made the policies and usage statistics available to the public.</p></div></div><section class="tpPortalSection tpCommunitySection" id="community-impact" aria-labelledby="community-impact-heading"><div class="tpSectionInner"><h2 class="tpSectionTitle" id="community-impact-heading">Community Impact</h2><div class="tpCommunityContent"><div class="tpDataSummarySurface"><h3>Data &amp; Usage Summary</h3><div class="tpDataSummaryStack"><div data-tp-entry-type="dataRetentionInDays" data-tp-presentation="metric" style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:16px"><div class="tpEntryHeader"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:28px;color:var(--tp-color-text-primary);margin:0">Data Retention</p><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:14px;line-height:20px;color:var(--tp-color-text-secondary);margin:2px 0 0">The number of days data is retained.</p></div><div style="display:flex;flex-direction:row;gap:8px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:36px;line-height:41.4px;letter-spacing:-0.72px;color:var(--tp-color-text-primary);white-space:normal">21 days</div></div></div></div><div class="tpResponsivePair tpResponsivePairSingle "><div data-tp-entry-type="numberOfOwnedCameras" data-tp-presentation="metric" style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:16px"><div class="tpEntryHeader"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:28px;color:var(--tp-color-text-primary);margin:0">Number of Marysville PD Owned Cameras</p><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:14px;line-height:20px;color:var(--tp-color-text-secondary);margin:2px 0 0">Number of LPR and other cameras.</p></div><div style="display:flex;flex-direction:row;gap:8px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:36px;line-height:41.4px;letter-spacing:-0.72px;color:var(--tp-color-text-primary);white-space:normal">31</div></div></div></div></div><div class="tpResponsivePair tpResponsivePairSingle "><div data-tp-entry-type="plateReadsInLast30Days" data-tp-presentation="metric" style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:16px"><div class="tpEntryHeader"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:28px;color:var(--tp-color-text-primary);margin:0">Vehicles detected in the Last 30 days</p><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:14px;line-height:20px;color:var(--tp-color-text-secondary);margin:2px 0 0">Number of unique plate reads over the last 30 days.</p></div><div style="display:flex;flex-direction:row;gap:8px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:36px;line-height:41.4px;letter-spacing:-0.72px;color:var(--tp-color-text-primary);white-space:normal">419,616</div></div></div></div></div><div class="tpResponsivePair  "><div data-tp-entry-type="hotlistSources" data-tp-presentation="text" style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:16px"><div class="tpEntryHeader"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:28px;color:var(--tp-color-text-primary);margin:0">Hotlists Alerted On</p><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:14px;line-height:20px;color:var(--tp-color-text-secondary);margin:2px 0 0">National and statewide hotlist sources.</p></div><div style="display:flex;flex-direction:row;gap:8px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:16px;line-height:26px;letter-spacing:0.1px;color:var(--tp-color-body-content);white-space:pre-line">NCMEC Amber Alert, Washington Crime Information Center (WACIC)</div></div></div></div><div data-tp-entry-type="plateHitsInLast30Days" data-tp-presentation="metric" style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:16px"><div class="tpEntryHeader"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:28px;color:var(--tp-color-text-primary);margin:0">Number of Hotlist Hits</p><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:14px;line-height:20px;color:var(--tp-color-text-secondary);margin:2px 0 0">Total hotlist hits over the last 30 days.</p></div><div style="display:flex;flex-direction:row;gap:8px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:36px;line-height:41.4px;letter-spacing:-0.72px;color:var(--tp-color-text-primary);white-space:normal">2,440</div></div></div></div></div></div></div></div></div></section><section class="tpPortalSection tpPolicySection" id="policy-and-trust" aria-labelledby="policy-and-trust-heading"><div class="tpSectionInner"><h2 class="tpSectionTitle" id="policy-and-trust-heading">Policy &amp; Trust</h2><div class="tpPolicyStack"><div class="tpResponsivePair  "><div data-tp-presentation="text" style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:16px"><div class="tpEntryHeader"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:28px;color:var(--tp-color-text-primary);margin:0">What's Detected</p></div><div style="display:flex;flex-direction:row;gap:8px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:16px;line-height:26px;letter-spacing:0.1px;color:var(--tp-color-body-content);white-space:pre-line">License Plates, Vehicles</div></div></div></div><div data-tp-presentation="text" style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:16px"><div class="tpEntryHeader"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:28px;color:var(--tp-color-text-primary);margin:0">What's Not Detected</p></div><div style="display:flex;flex-direction:row;gap:8px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:16px;line-height:26px;letter-spacing:0.1px;color:var(--tp-color-body-content);white-space:pre-line">Facial recognition, people, gender, race</div></div></div></div></div><div class="tpResponsivePair  "><div data-tp-presentation="text" style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:16px"><div class="tpEntryHeader"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:28px;color:var(--tp-color-text-primary);margin:0">Acceptable Use Policy</p></div><div style="display:flex;flex-direction:row;gap:8px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:16px;line-height:26px;letter-spacing:0.1px;color:var(--tp-color-body-content);white-space:pre-line">Data is used for law enforcement purposes only. Data is owned by the Marysville Police Department and is never sold to 3rd parties.</div></div></div></div><div data-tp-presentation="text" style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:16px"><div class="tpEntryHeader"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:28px;color:var(--tp-color-text-primary);margin:0">Prohibited Uses</p></div><div style="display:flex;flex-direction:row;gap:8px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:16px;line-height:26px;letter-spacing:0.1px;color:var(--tp-color-body-content);white-space:pre-line">Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), or personal use.</div></div></div></div></div><div data-tp-presentation="text" style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:16px"><div class="tpEntryHeader"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:28px;color:var(--tp-color-text-primary);margin:0">Hotlist Policy</p></div><div style="display:flex;flex-direction:row;gap:8px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:16px;line-height:26px;letter-spacing:0.1px;color:var(--tp-color-body-content);white-space:pre-line">Hotlist hits (i.e., stolen vehicles, missing persons, etc.) are required to be human verified prior to action.</div></div></div></div></div></div></section><section class="tpPortalSection tpMoreInfoSection" id="more-info" aria-labelledby="more-info-heading"><div class="tpSectionInner"><h2 class="tpSectionTitle" id="more-info-heading">More Info</h2><div class="tpMoreInfoStack"><div data-tp-presentation="text" style="padding:16px;background-color:var(--tp-color-bg-paper);border-radius:8px;border:1px solid var(--tp-color-divider)"><div style="display:flex;flex-direction:column;gap:16px"><div class="tpEntryHeader"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:600;font-size:16px;line-height:28px;color:var(--tp-color-text-primary);margin:0">Full Automated License Plate Reader Policy Accessibility</p></div><div style="display:flex;flex-direction:row;gap:8px;align-items:flex-start"><div aria-hidden="true" style="width:4px;min-width:4px;align-self:stretch;background-color:var(--tp-color-marker)"></div><div style="flex:1;min-width:0;font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:16px;line-height:26px;letter-spacing:0.1px;color:var(--tp-color-body-content);white-space:pre-line">The City of Marysville Police Department takes community trust seriously. We have made all of our policies available online for inspection. To see the MPD policy that governs Automated License Plate Readers, see here: <a href="https://public.powerdms.com/MarysvillePD/tree/documents/3026517" target="_blank" rel="noreferrer noopener" style="color:var(--tp-color-text-link);text-decoration:underline;text-decoration-skip-ink:none">https://public.powerdms.com/MarysvillePD/tree/documents/3026517</a></div></div></div></div></div></div></section></main><footer style="padding:0 24px 32px;text-align:center"><p style="font-family:&quot;Inter&quot;,sans-serif;font-weight:400;font-size:14px;line-height:20px;color:var(--tp-color-text-secondary);margin:0">Provided by <a href="https://www.flocksafety.com/?utm_medium=transparency_portal&amp;utm_source=Marysville%20WA%20PD" target="_blank" rel="noreferrer noopener" style="color:var(--tp-color-text-link);text-decoration:underline;text-decoration-skip-ink:none">Flock Safety</a></p></footer><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/Sn2m8PgcFXDidA2AhTvB0gZJolX33IIK/analytics.min.js"></script><script>
 !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on","addSourceMiddleware","addIntegrationMiddleware","setAnonymousId","addDestinationMiddleware"];analytics.factory=function(e){return function(){var t=Array.prototype.slice.call(arguments);t.unshift(e);analytics.push(t);return analytics}};for(var e=0;e<analytics.methods.length;e++){var key=analytics.methods[e];analytics[key]=analytics.factory(key)}analytics.load=function(key,e){var t=document.createElement("script");t.type="text/javascript";t.async=!0;t.src="https://cdn.segment.com/analytics.js/v1/" + key + "/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n);analytics._loadOptions=e};
     analytics._writeKey="Sn2m8PgcFXDidA2AhTvB0gZJolX33IIK";
     analytics.SNIPPET_VERSION="4.13.2";
@@ -207,7 +1066,7 @@ html,body{margin:0 !important;padding:0 !important;background:var(--tp-color-bg-
     analytics.page();
 }}();
 </script></div><script>(function(){
-// Static HTML cannot keep React event handlers, so this restores overflow tooltips and the custom access-table scrollbar.
+// Static HTML cannot keep React event handlers, so this restores overflow cues, tooltips, and custom scrollbars.
 function initPortalEnhancements(root){
   var tooltipMaxWidth = 280;
   var tooltipViewportPadding = 12;
@@ -215,12 +1074,106 @@ function initPortalEnhancements(root){
   var scrollbarThumbPadding = 4;
   var scope = root && typeof root.querySelectorAll === "function" ? root : document;
   var boundTables = [];
+  var boundScrollContainers = [];
+  var boundHorizontalScrollContainers = [];
+  var cleanupTasks = [];
+
+  function addListener(target, eventName, listener){
+    target.addEventListener(eventName, listener);
+    cleanupTasks.push(function(){ target.removeEventListener(eventName, listener); });
+  }
+
+  function registerResizeObserver(observer){
+    cleanupTasks.push(function(){ observer.disconnect(); });
+  }
+
+  function getSectionLinks(){
+    return Array.prototype.slice.call(scope.querySelectorAll("[data-tp-section-link='true']"));
+  }
+
+  function setCurrentSectionHref(currentHref){
+    getSectionLinks().forEach(function(sectionLink){
+      if (sectionLink.getAttribute("href") === currentHref) {
+        sectionLink.setAttribute("aria-current", "location");
+      } else {
+        sectionLink.removeAttribute("aria-current");
+      }
+    });
+  }
+
+  function syncCurrentSectionLink(){
+    var sectionLinks = getSectionLinks();
+    var currentHref = sectionLinks[0] && sectionLinks[0].getAttribute("href");
+    for (var sectionLinkIndex = 0; sectionLinkIndex < sectionLinks.length; sectionLinkIndex += 1) {
+      if (sectionLinks[sectionLinkIndex].getAttribute("href") === window.location.hash) {
+        currentHref = window.location.hash;
+        break;
+      }
+    }
+    setCurrentSectionHref(currentHref);
+  }
+
+  syncCurrentSectionLink();
+
+  var sectionLinks = getSectionLinks();
+  var sectionNavigationState = sectionLinks[0];
+  if (sectionNavigationState && sectionNavigationState.getAttribute("data-tp-section-history-bound") !== "true") {
+    sectionNavigationState.setAttribute("data-tp-section-history-bound", "true");
+    cleanupTasks.push(function(){ sectionNavigationState.removeAttribute("data-tp-section-history-bound"); });
+    addListener(window, "hashchange", syncCurrentSectionLink);
+    addListener(window, "popstate", syncCurrentSectionLink);
+  }
+
+  sectionLinks.forEach(function(link){
+    if (link.getAttribute("data-tp-section-link-bound") === "true") {
+      return;
+    }
+    link.setAttribute("data-tp-section-link-bound", "true");
+    cleanupTasks.push(function(){ link.removeAttribute("data-tp-section-link-bound"); });
+
+    function handleSectionLinkClick(event){
+      var href = link.getAttribute("href");
+      if (!href || href.charAt(0) !== "#") {
+        return;
+      }
+
+      if (event.defaultPrevented || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) {
+        return;
+      }
+
+      var target = scope.querySelector(href);
+      if (!(target instanceof HTMLElement)) {
+        return;
+      }
+
+      event.preventDefault();
+      setCurrentSectionHref(href);
+      target.scrollIntoView({ block: "start" });
+
+      var mobileMenu = link.closest("[data-tp-mobile-menu='true']");
+      if (mobileMenu instanceof HTMLDetailsElement) {
+        mobileMenu.open = false;
+      }
+
+      if (window.location.protocol !== "about:" && window.location.hash !== href) {
+        window.history.pushState(null, "", href);
+      }
+    }
+
+    addListener(link, "click", handleSectionLinkClick);
+  });
 
   function handleResize(){
     boundTables.forEach(function(boundTable){
       boundTable.updateTruncation();
       boundTable.updateScrollbar();
       boundTable.updateActiveTooltip();
+    });
+    boundScrollContainers.forEach(function(boundScrollContainer){
+      boundScrollContainer.updateScrollbar();
+    });
+    boundHorizontalScrollContainers.forEach(function(boundScrollContainer){
+      boundScrollContainer.updateScrollbar();
     });
   }
 
@@ -230,6 +1183,7 @@ function initPortalEnhancements(root){
       return;
     }
     table.setAttribute("data-tp-bound", "true");
+    cleanupTasks.push(function(){ table.removeAttribute("data-tp-bound"); });
 
     var viewport = table.querySelector("[data-tp-access-viewport='true']");
     var track = table.querySelector("[data-tp-scrollbar-track='true']");
@@ -322,16 +1276,18 @@ function initPortalEnhancements(root){
       }
       // Replace the native title tooltip only after the custom truncated-value tooltip can take over.
       cell.removeAttribute("title");
-      cell.addEventListener("mouseenter", function(){ showTooltip(cell); });
-      cell.addEventListener("mouseleave", hideTooltip);
-      cell.addEventListener("focus", function(){ showTooltip(cell); });
-      cell.addEventListener("blur", hideTooltip);
+      function showCellTooltip(){ showTooltip(cell); }
+      addListener(cell, "mouseenter", showCellTooltip);
+      addListener(cell, "mouseleave", hideTooltip);
+      addListener(cell, "focus", showCellTooltip);
+      addListener(cell, "blur", hideTooltip);
     });
 
-    viewport.addEventListener("scroll", function(){
+    function handleTableScroll(){
       updateScrollbar();
       updateActiveTooltip();
-    });
+    }
+    addListener(viewport, "scroll", handleTableScroll);
 
     // Fonts, container width, and responsive layout can all change truncation after the first render.
     if (typeof ResizeObserver === "function") {
@@ -346,6 +1302,7 @@ function initPortalEnhancements(root){
           resizeObserver.observe(cell);
         }
       });
+      registerResizeObserver(resizeObserver);
     }
 
     updateTruncation();
@@ -357,9 +1314,123 @@ function initPortalEnhancements(root){
     });
   });
 
-  if (boundTables.length > 0) {
-    window.addEventListener("resize", handleResize);
+  scope.querySelectorAll("[data-tp-scroll-container='true']").forEach(function(container){
+    if (container.getAttribute("data-tp-scroll-bound") === "true") {
+      return;
+    }
+    container.setAttribute("data-tp-scroll-bound", "true");
+    cleanupTasks.push(function(){ container.removeAttribute("data-tp-scroll-bound"); });
+
+    var viewport = container.querySelector("[data-tp-scroll-viewport='true']");
+    var track = container.querySelector("[data-tp-scrollbar-track='true']");
+    var thumb = container.querySelector("[data-tp-scrollbar-thumb='true']");
+
+    if (!(viewport instanceof HTMLElement) || !(track instanceof HTMLElement) || !(thumb instanceof HTMLElement)) {
+      return;
+    }
+
+    function updateScrollbar(){
+      var clientHeight = viewport.clientHeight;
+      var scrollHeight = viewport.scrollHeight;
+      var scrollTop = viewport.scrollTop;
+      var canScroll = scrollHeight > clientHeight + 1;
+
+      if (!canScroll) {
+        track.style.display = "none";
+        return;
+      }
+
+      track.style.display = "block";
+      var proportionalHeight = (clientHeight / scrollHeight) * clientHeight;
+      var thumbHeight = Math.min(
+        clientHeight - scrollbarThumbPadding * 2,
+        Math.max(scrollbarThumbMinHeight, proportionalHeight)
+      );
+      var maxThumbTravel = Math.max(0, clientHeight - scrollbarThumbPadding * 2 - thumbHeight);
+      var scrollProgress = scrollTop / Math.max(1, scrollHeight - clientHeight);
+
+      thumb.style.height = thumbHeight + "px";
+      thumb.style.top = scrollbarThumbPadding + maxThumbTravel * scrollProgress + "px";
+    }
+
+    addListener(viewport, "scroll", updateScrollbar);
+
+    if (typeof ResizeObserver === "function") {
+      var resizeObserver = new ResizeObserver(updateScrollbar);
+      resizeObserver.observe(viewport);
+      Array.prototype.forEach.call(viewport.children, function(child){
+        if (child instanceof HTMLElement) {
+          resizeObserver.observe(child);
+        }
+      });
+      registerResizeObserver(resizeObserver);
+    }
+
+    updateScrollbar();
+    boundScrollContainers.push({ updateScrollbar: updateScrollbar });
+  });
+
+  scope.querySelectorAll("[data-tp-horizontal-scroll-container='true']").forEach(function(container){
+    if (container.getAttribute("data-tp-horizontal-scroll-bound") === "true") {
+      return;
+    }
+    container.setAttribute("data-tp-horizontal-scroll-bound", "true");
+    cleanupTasks.push(function(){ container.removeAttribute("data-tp-horizontal-scroll-bound"); });
+
+    var viewport = container.querySelector("[data-tp-horizontal-scroll-viewport='true']");
+    var track = container.querySelector("[data-tp-horizontal-scrollbar-track='true']");
+    var thumb = container.querySelector("[data-tp-horizontal-scrollbar-thumb='true']");
+
+    if (!(viewport instanceof HTMLElement) || !(track instanceof HTMLElement) || !(thumb instanceof HTMLElement)) {
+      return;
+    }
+
+    function updateScrollbar(){
+      var clientWidth = viewport.clientWidth;
+      var scrollWidth = viewport.scrollWidth;
+      var scrollLeft = viewport.scrollLeft;
+      var canScroll = scrollWidth > clientWidth + 1;
+
+      viewport.tabIndex = canScroll ? 0 : -1;
+      if (!canScroll) {
+        track.style.display = "none";
+        return;
+      }
+
+      track.style.display = "block";
+      var thumbWidth = Math.min(clientWidth, Math.max(24, (clientWidth / scrollWidth) * clientWidth));
+      var maxThumbTravel = Math.max(0, clientWidth - thumbWidth);
+      var scrollProgress = scrollLeft / Math.max(1, scrollWidth - clientWidth);
+
+      thumb.style.width = thumbWidth + "px";
+      thumb.style.transform = "translateX(" + maxThumbTravel * scrollProgress + "px)";
+    }
+
+    addListener(viewport, "scroll", updateScrollbar);
+
+    if (typeof ResizeObserver === "function") {
+      var resizeObserver = new ResizeObserver(updateScrollbar);
+      resizeObserver.observe(viewport);
+      registerResizeObserver(resizeObserver);
+    }
+
+    updateScrollbar();
+    boundHorizontalScrollContainers.push({ updateScrollbar: updateScrollbar });
+  });
+
+  if (boundTables.length > 0 || boundScrollContainers.length > 0 || boundHorizontalScrollContainers.length > 0) {
+    addListener(window, "resize", handleResize);
   }
+
+  return function cleanupPortalEnhancements(){
+    for (var cleanupIndex = cleanupTasks.length - 1; cleanupIndex >= 0; cleanupIndex -= 1) {
+      try {
+        cleanupTasks[cleanupIndex]();
+      } catch (error) {
+        // Cleanup is best-effort so one stale browser node cannot block the remaining disposers.
+      }
+    }
+  };
 }
-initPortalEnhancements(document);})();</script><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;ed82637605264d3d8dcb57f96b6d8450&quot;,&quot;server_timing&quot;:{&quot;name&quot;:{&quot;cfCacheStatus&quot;:true,&quot;cfEdge&quot;:true,&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfSpeedBrain&quot;:true},&quot;location_startswith&quot;:null}}" crossorigin="anonymous"></script>
+initPortalEnhancements(document);})();</script><script>window.__CF$cv$params={r:'a23b42e4dbdd9304',t:'MTc4NTQ4NjgzOA==',u:'019fb74f07e8796391fa8b9c4630c408',ut:'XjXpdmxMglu5UkH9cmZh0yp8oIOuvhJH5H.wiKB_KV8-1785486838-1.2.1.1-zC7ugf2SkUjJdrPAeryYSAm.mxGePsnHmnBmGh7zm1LMO4ig9w0TSDdf0BMQ4V_GorAFhgBBR4Y6hwog68ByZiMWOomGdd.TZdfqO3UlJXc',i:60};(function(){if(!document.body)return;var s=document.createElement('script');s.src='/cdn-cgi/challenge-platform/scripts/precursor/main.js';document.head.appendChild(s);})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;ed82637605264d3d8dcb57f96b6d8450&quot;}" crossorigin="anonymous"></script>
 </body></html>

@@ -1,15 +1,50 @@
 Transparency Portal
-Visit Flock
+Community Impact
+Policy & Trust
+More Info
+Visit Flock.com
 Marysville WA PD
 Transparency Portal
 
-Last updated: Sun Jun 28 2026
+Last updated: Thu Jul 30 2026
 
-OVERVIEW
+Overview
 
 The Marysville Police Department uses Flock Safety technology to capture objective evidence without compromising individual privacy. The Marysville Police Department uses retroactive searches to help generate case leads and solve crimes after they've occurred. Additionally, the Marysville Police Department utilizes real-time alerting of hotlist vehicles to capture wanted criminals who travel through our city to commit other crimes. To ensure proper usage and establish proper guardrails for the program, we have made the policies and usage statistics available to the public.
 
-POLICIES
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Number of Marysville PD Owned Cameras
+
+Number of LPR and other cameras.
+
+31
+
+Vehicles detected in the Last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+419,616
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert, Washington Crime Information Center (WACIC)
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+2,440
+Policy & Trust
 
 What's Detected
 
@@ -27,53 +62,10 @@ Prohibited Uses
 
 Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), or personal use.
 
-System Access History
-
-Flock data is only retained for 30 days. However, an audit trail of the users who accessed the system is stored indefinitely.
-
 Hotlist Policy
 
 Hotlist hits (i.e., stolen vehicles, missing persons, etc.) are required to be human verified prior to action.
-
-Networking Sharing
-
-Marysville Police Department only shares with local and state law enforcement agencies within the State of Washington.
-
-Flock's Privacy and Ethics
-
-https://www.flocksafety.com/privacy-ethics
-USAGE
-
-Data Retention
-
-The number of days data is retained.
-
-21 days
-
-Number of Marysville PD Owned Cameras
-
-Number of LPR and other cameras.
-
-31
-
-Hotlists Alerted On
-
-National and statewide hotlist sources.
-
-NCMEC Amber Alert
-
-Vehicles detected in the Last 30 days
-
-Number of unique plate reads over the last 30 days.
-
-402,343
-
-Number of Hotlist Hits
-
-Total hotlist hits over the last 30 days.
-
-900
-ADDITIONAL INFO
+More Info
 
 Full Automated License Plate Reader Policy Accessibility
 

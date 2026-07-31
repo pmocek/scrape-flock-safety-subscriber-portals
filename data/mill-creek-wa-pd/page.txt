@@ -1,35 +1,68 @@
 Transparency Portal
-Visit Flock
+Community Impact
+Policy & Trust
+More Info
+Visit Flock.com
 Mill Creek WA PD
 Transparency Portal
 
-Last updated: Sat Jun 27 2026
+Last updated: Thu Jul 30 2026
 
-OVERVIEW
+Overview
 
 The Mill Creek Police Department's Transparency Portal is a public facing online platform designed to provide community members with a clear understanding of how the department utilizes Automated License Plate Recognition [ALPR] technology from Flock Safety to further its mission to provide professional police services to the community we serve. The portal serves as a central hub for accountability and trust building, allowing residents to review the following information regarding the department's use of Flock.
 
-POLICIES
+Community Impact
+Featured Success Stories
 
-What Is Flock Safety?
+Recent Events
 
-Camera network: Flock Safety installs and maintains a network of ALPR cameras throughout the City of Mill Creek.
+On March 26, 2026, at approximately 2:55 p.m., Mill Creek officers were alerted to a Flock ALPR hit associated with a stolen vehicle near 132nd Ave SE and 16th Ave SE. The vehicle was reported stolen on March 23, 2026, from within the City of Mill Creek. Officers located the vehicle in the parking lot of Fred Meyer and contacted the occupants, who were all detained during the investigation. Subsequently, the driver was arrested for possession of a stolen vehicle, and a passenger was arrested for unlawful possession of a short-barreled shotgun, which had been concealed in his waistband.
 
-Data collection: Cameras capture license plate information, which is sent to an encrypted cloud storage with an established retention period.
+On 02-24-26 Mill Creek officers were advised that Bothell PD had probable cause to arrest an individual for multiple counts of domestic violence assault. Bothell PD provided suspect information and a vehicle license plate to surrounding agencies. Mill Creek offices were alerted to a Flock hit on the suspect vehicle in the area of SR 527 and Mill Creek RD. Officers conducted an area check for the vehicle, which was located, and the suspect was arrested without incident.
 
-Integration with law enforcement: License plate data is then shared with existing law enforcement databases, such as the National Crime Information Center (NCIC), to detect current Law Enforcement Status (stolen vehicles, stolen plates, warrants, or missing persons).
+Shortly before midnight on November 18th, Mill Creek Police Officers received multiple Flock alerts for a stolen Amazon delivery van driving through the city. The van was stolen in Seattle while the driver was on his route. After a short pursuit and successful stop stick assist from Snohomish County Sheriff's Office, two subjects were taken into custody. The subjects were booked into Snohomish County Jail for Possession of a Stolen Vehicle, Possession of a Stolen Firearm, Unlawful Possession of a Firearm, Eluding Police, and Possessing Controlled Substances.
+Data & Usage Summary
 
-Crime solving: By providing a database of license plate information, the ALPR system helps police solve crimes faster by identifying vehicles with associated Law Enforcement Status.
+30 Days
 
-What Flock Safety is Not
+The number of days data is retained.
 
-A traffic enforcement tool: The cameras are not traffic cameras, do not detect speeding, and cannot issue tickets for traffic infractions.
+21 days
 
-A facial recognition system: The technology does not have facial recognition capabilities and does not capture biometric information.
+17
 
-An immigration enforcement tool: Per the Mill Creek Police Department Policy and Data Sharing Agreement, the system is not to be utilized for immigration enforcement (see Prohibited use).
+Number of LPR and other cameras.
 
-An unlimited law enforcement data source: The system has network authorizations which allow agencies the ability to allow or prevent sharing with Federal, State, or local agencies (see Organizations granted access to MCPD data).
+17
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+288,407
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+55
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+371
+
+Everett PD
+
+Organizations granted access to Mill Creek WA PD data.
+
+Lake Stevens WA PD
+Monroe WA PD
+Mukilteo WA PD
+Snohomish County WA SO
+Policy & Trust
 
 Acceptable Use Policy
 
@@ -48,55 +81,7 @@ ALPR technology and data shall not be used for personal use, harassment, and any
 Access Policy
 
 Access to the Mill Creek Flock Safety network is restricted to Snohomish County LE agencies who have completed and signed a Data Sharing Agreement. All inquiries must have valid LE nexus and state the reason for search. This data is audited and retained per WA State law.
-USAGE
-
-Data Retention
-
-The number of days data is retained.
-
-21 days
-
-Total Cameras
-
-Number of LPR and other cameras.
-
-17
-
-Sharing Network Data With
-
-Organizations granted access to Mill Creek WA PD data.
-
-Lake Stevens WA PD
-Monroe WA PD
-Mukilteo WA PD
-Snohomish County WA SO
-
-Unique Vehicles Detected
-
-Number of unique plate reads over the last 30 days.
-
-281,757
-
-Number of Hotlist Hits
-
-Total hotlist hits over the last 30 days.
-
-46
-
-Number of Searches
-
-Total user search sessions over the last 30 days.
-
-35
-ADDITIONAL INFO
-
-Recent Events
-
-On March 26, 2026, at approximately 2:55 p.m., Mill Creek officers were alerted to a Flock ALPR hit associated with a stolen vehicle near 132nd Ave SE and 16th Ave SE. The vehicle was reported stolen on March 23, 2026, from within the City of Mill Creek. Officers located the vehicle in the parking lot of Fred Meyer and contacted the occupants, who were all detained during the investigation. Subsequently, the driver was arrested for possession of a stolen vehicle, and a passenger was arrested for unlawful possession of a short-barreled shotgun, which had been concealed in his waistband.
-
-On 02-24-26 Mill Creek officers were advised that Bothell PD had probable cause to arrest an individual for multiple counts of domestic violence assault. Bothell PD provided suspect information and a vehicle license plate to surrounding agencies. Mill Creek offices were alerted to a Flock hit on the suspect vehicle in the area of SR 527 and Mill Creek RD. Officers conducted an area check for the vehicle, which was located, and the suspect was arrested without incident.
-
-Shortly before midnight on November 18th, Mill Creek Police Officers received multiple Flock alerts for a stolen Amazon delivery van driving through the city. The van was stolen in Seattle while the driver was on his route. After a short pursuit and successful stop stick assist from Snohomish County Sheriff's Office, two subjects were taken into custody. The subjects were booked into Snohomish County Jail for Possession of a Stolen Vehicle, Possession of a Stolen Firearm, Unlawful Possession of a Firearm, Eluding Police, and Possessing Controlled Substances.
+More Info
 
 Additional Info
 

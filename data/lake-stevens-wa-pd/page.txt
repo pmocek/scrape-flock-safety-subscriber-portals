@@ -1,15 +1,55 @@
 Transparency Portal
-Visit Flock
+Community Impact
+Policy & Trust
+Visit Flock.com
 Lake Stevens WA PD
 Transparency Portal
 
-Last updated: Sat Jun 27 2026
+Last updated: Thu Jul 30 2026
 
-OVERVIEW
+Overview
 
 Lake Stevens WA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Lake Stevens WA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Lake Stevens WA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
 
-POLICIES
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+4
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+103,901
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+118
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert, Washington Crime Information Center (WACIC)
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+109
+Policy & Trust
 
 What's Detected
 
@@ -34,55 +74,5 @@ All system access requires a valid reason and is stored indefinitely.
 Hotlist Policy
 
 Hotlist hits are required to be human verified prior to action.
-
-Flock's Privacy and Ethics
-
-https://www.flocksafety.com/privacy-ethics
-
-Internal ALPR Policy
-
-https://public.powerdms.com/LAKESTEVENS/tree/documents/1341303
-USAGE
-
-Data Retention
-
-The number of days data is retained.
-
-21 days
-
-Total Cameras
-
-Number of LPR and other cameras.
-
-4
-
-Hotlists Alerted On
-
-National and statewide hotlist sources.
-
-NCMEC Amber Alert
-
-Unique Vehicles Detected
-
-Number of unique plate reads over the last 30 days.
-
-99,070
-
-Number of Hotlist Hits
-
-Total hotlist hits over the last 30 days.
-
-62
-
-Number of Searches
-
-Total user search sessions over the last 30 days.
-
-26
-ADDITIONAL INFO
-
-Recent Success Story
-
-Additional Info
 
 Provided by Flock Safety

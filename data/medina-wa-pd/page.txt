@@ -1,15 +1,68 @@
 Transparency Portal
-Visit Flock
+Community Impact
+Policy & Trust
+More Info
+Visit Flock.com
 Medina WA PD
 Transparency Portal
 
-Last updated: Sat Jun 27 2026
+Last updated: Thu Jul 30 2026
 
-OVERVIEW
+Overview
 
 Medina WA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Medina WA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Medina WA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
 
-POLICIES
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+23
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+57,513
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+6
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert, Washington Crime Information Center (WACIC)
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+28
+
+Sharing Network Data With
+
+Organizations granted access to Medina WA PD data.
+
+Medina WA PD is not sharing data with any partner networks.
+
+Receiving Network Data From
+
+Organizations sharing their data with Medina WA PD.
+
+Kent WA PD
+Policy & Trust
 
 What's Detected
 
@@ -34,53 +87,7 @@ All system access requires a valid reason and is stored indefinitely.
 Hotlist Policy
 
 A positive match by an LPR system does not constitute reasonable suspicion to conduct a traffic stop on the vehicle. The officer must develop their own independent reasonable suspicion or personally verify that the license plate affixed to the vehicle matches the license plate show in the LPR system image. Finally, the officer must confirm that the license plate affixed to the vehicle is currently listed in an approved database.
-USAGE
-
-Data Retention
-
-The number of days data is retained.
-
-21 days
-
-Total Cameras
-
-Number of LPR and other cameras.
-
-23
-
-Sharing Network Data With
-
-Organizations granted access to Medina WA PD data.
-
-Hotlists Alerted On
-
-National and statewide hotlist sources.
-
-NCMEC Amber Alert
-
-Vehicles detected in the last 30 days
-
-Number of unique plate reads over the last 30 days.
-
-56,813
-
-Number of Hotlist Hits
-
-Total hotlist hits over the last 30 days.
-
-Data Unavailable
-
-Number of Searches
-
-Total user search sessions over the last 30 days.
-
-17
-
-Receiving Network Data From
-
-Organizations sharing their data with Medina WA PD.
-
-ADDITIONAL INFO
+More Info
 
 Full Transparency Portal
 
