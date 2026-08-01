@@ -73,21 +73,34 @@ def parse_stats(text):
             if m:
                 stats[key] = "Data Unavailable"
 
-    agencies = []
-    for direction in ("Sharing Network Data With", "Receiving Network Data From"):
+    shares_with = []
+    receives_from = []
+    for direction, field in (
+        ("Sharing Network Data With", "shares_data_with"),
+        ("Receiving Network Data From", "receives_data_from"),
+    ):
+        items = []
         for m in re.finditer(
             rf'(?:{re.escape(direction)})\s*\n+\s*\n'
             r'(?:Organizations[^\n]*\.\s*\n+\s*\n)?'
             r'([\s\S]*?)(?=\n\n[A-Z]|\Z)',
             text
         ):
-            lst = [a.strip() for a in m.group(1).split("\n") if a.strip() and len(a.strip()) > 3]
-            agencies.extend(lst)
-    if agencies:
+            items = [a.strip() for a in m.group(1).split("\n") if a.strip() and len(a.strip()) > 3]
+        if items:
+            stats[field] = items
+            if field == "shares_data_with":
+                shares_with.extend(items)
+            else:
+                receives_from.extend(items)
+
+    # Union for backward compatibility (cross-agency spidering)
+    all_agencies = shares_with + receives_from
+    if all_agencies:
         seen = set()
-        agencies = [a for a in agencies if not (a in seen or seen.add(a))]
-        stats["external_agencies_count"] = len(agencies)
-        stats["external_agencies"] = agencies
+        all_agencies = [a for a in all_agencies if not (a in seen or seen.add(a))]
+        stats["external_agencies_count"] = len(all_agencies)
+        stats["external_agencies"] = all_agencies
 
     m = re.search(r'Hotlists?\s*Alerted\s*On\s*\n+\s*\n([\s\S]*?)(?:\n\n\w|\Z)', text)
     if m:

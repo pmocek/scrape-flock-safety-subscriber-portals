@@ -1,40 +1,18 @@
 Transparency Portal
-Visit Flock
+Community Impact
+Policy & Trust
+Visit Flock.com
 Yelm WA PD
 Transparency Portal
 
-Last updated: Sun Jun 28 2026
+Last updated: Fri Jul 31 2026
 
-OVERVIEW
+Overview
 
 Yelm WA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Yelm WA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Yelm WA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
 
-POLICIES
-
-What's Detected
-
-License Plates, Vehicles
-
-What's Not Detected
-
-Facial recognition, People, Gender, Race
-
-Acceptable Use Policy
-
-Data is used for law enforcement purposes only. Data is owned by Yelm WA PD and is never sold to 3rd parties.
-
-Prohibited Uses
-
-Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
-
-Access Policy
-
-All system access requires a valid reason and is stored indefinitely.
-
-Hotlist Policy
-
-Hotlist hits are required to be human verified prior to action.
-USAGE
+Community Impact
+Data & Usage Summary
 
 Data Retention
 
@@ -47,6 +25,30 @@ Total Cameras
 Number of LPR and other cameras.
 
 8
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+17,093
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+3
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert, Washington Crime Information Center (WACIC)
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+64
 
 Sharing Network Data With
 
@@ -112,7 +114,6 @@ Prosser WA PD
 Puyallup WA PD
 Reardan WA PD
 Renton WA PD
-Richland WA PD
 SeaTac WA PD
 Sedro-Woolley WA PD
 Selah WA PD
@@ -148,7 +149,6 @@ Organizations sharing their data with Yelm WA PD.
 Aberdeen WA PD
 Adams County WA SO
 Addison TX PD
-Airway Heights WA PD
 Alachua FL PD
 Allen TX PD
 Alvin ISD TX PD
@@ -157,7 +157,6 @@ Angleton PD TX
 Anna TX PD
 Anthony TX PD
 Apopka FL PD
-Aransas Pass TX PD
 Arcola TX PD
 Arlington PD (WA)
 Arlington TX PD
@@ -169,7 +168,6 @@ Bannock County ID SO
 Bay County FL SO
 Beaumont TX PD
 Bellville TX PD
-Bloomfield NM PD
 Bogata TX PD
 Bosque County TX SO
 Bradford County FL SO
@@ -177,16 +175,12 @@ Brevard County FL SO
 Buckeye AZ PD
 Cactus TX PD
 Caldwell CO TX SO
-Capitan NM PD
-Carlsbad NM PD
-Carrollton TX PD
 Carson City NV SO
 Castle Hills TX PD
 Castroville TX PD
 Celina TX PD
 Centralia WA PD
 Chambers County TX SO
-Chaves County NM SO
 Chehalis WA PD
 Chelan County WA SO
 Cheney WA PD
@@ -212,7 +206,6 @@ Crowell TX PD
 Crowley TX PD
 CSX Railroad PD
 Cumby TX PD
-Curry Co NM SO
 Cypress Fairbanks ISD (TX) PD
 Dallas TX PD
 Davenport FL PD
@@ -229,11 +222,11 @@ Dumas TX PD
 East Tawakoni TX PD
 East Wenatchee WA PD
 Eatonville WA PD [Inactive]
+Ector County TX SO
 Edinburg TX PD
 Ellensburg WA PD
 Erath County TX SO
 Escambia County FL SO
-Espanola NM PD
 Falfurrias TX PD
 Farmersville TX PD
 Federal Way WA PD
@@ -274,11 +267,9 @@ Harris County Const TX Pct 4
 Harris County Const TX Pct 5
 Harris County TX SO
 Hays County TX SO
-Heath TX DPS
 Hendry County FL SO
 High Springs FL PD
 Hillsborough County FL SO
-Hobbs NM PD
 Holly Hill FL PD
 Holmes County FL SO
 Horizon TX PD
@@ -303,6 +294,7 @@ Johnson County TX SO
 Keller TX PD
 Kendall County TX SO
 Kennewick WA PD
+Kent WA PD
 Killeen TX PD
 Kittitas County WA SO
 Kittitas WA PD
@@ -318,9 +310,7 @@ Lancaster TX PD
 Lantana FL PD
 Largo FL PD
 Las Vegas Metro Police Department - NV
-Las Vegas NM PD
 Lavon TX PD
-Lea County NM SO
 Leander TX PD
 Leon County FL SO
 Liberty County FL SO
@@ -345,6 +335,7 @@ Martin County FL SO
 Marysville WA PD
 McKinney TX PD
 Meadows Place TX PD
+Memorial Villages TX PD
 Mesquite TX PD
 Miami Gardens FL PD
 Miami-Dade FL SO
@@ -352,12 +343,10 @@ Midland County TX SO
 Mineral County NV SO
 Miramar FL PD
 Missouri City TX PD
-Mohave County AZ SO
 Monahans TX PD
 Montesano WA PD
 Montgomery County TX SO
 Moore County TX SO
-Mora County NM SO (Wagon Mound)
 Moses Lake WA PD
 Mount Vernon WA PD
 Moxee WA PD
@@ -389,7 +378,6 @@ Pasco County FL SO
 Payson AZ PD
 Pearland TX PD
 Pensacola FL PD
-Pinecrest FL PD
 Plant City FL PD
 Pocatello ID PD
 Polk County FL SO
@@ -406,11 +394,9 @@ Reardan WA PD
 Red River TX SO
 Reno NV PD
 Reno TX PD
-Richland WA PD
 Richmond TX PD
 Riviera Beach FL PD
 Robstown TX PD
-Rockport TX PD
 Roman Forest TX PD
 Round Rock TX PD
 Rusk CO TX SO
@@ -420,7 +406,6 @@ San Luis AZ PD
 Santa Rosa County FL SO
 Sarasota County FL SO
 Sarasota FL PD
-Sealy TX PD
 Sedro-Woolley WA PD
 Seguin TX PD
 Selah WA PD
@@ -429,7 +414,6 @@ Shelton PD (WA)
 Skamania CO WA SO [Inactive]
 Snowflake-Taylor AZ PD
 Snyder TX PD
-Socorro County NM SO
 Somerton AZ PD
 Sour Lake TX PD
 South Miami FL PD
@@ -453,7 +437,6 @@ Terrell TX PD
 Texas Department of Criminal Justice
 Texas Financial Crimes Intelligence Center
 Texas Medical Center PD
-The Colony TX PD
 Titusville FL PD
 Tolleson AZ PD
 Tomball TX PD
@@ -492,29 +475,30 @@ Windcrest TX PD
 Yakima County WA SO
 Yakima WA PD
 Yelm WA PD
+Policy & Trust
 
-Hotlists Alerted On
+What's Detected
 
-National and statewide hotlist sources.
+License Plates, Vehicles
 
-NCMEC Amber Alert
+What's Not Detected
 
-Unique Vehicles Detected
+Facial recognition, People, Gender, Race
 
-Number of unique plate reads over the last 30 days.
+Acceptable Use Policy
 
-117,750
+Data is used for law enforcement purposes only. Data is owned by Yelm WA PD and is never sold to 3rd parties.
 
-Number of Hotlist Hits
+Prohibited Uses
 
-Total hotlist hits over the last 30 days.
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
 
-37
+Access Policy
 
-Number of Searches
+All system access requires a valid reason and is stored indefinitely.
 
-Total user search sessions over the last 30 days.
+Hotlist Policy
 
-3
+Hotlist hits are required to be human verified prior to action.
 
 Provided by Flock Safety
