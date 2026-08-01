@@ -409,19 +409,45 @@ def main():
     else:
         slugs = WA_SLUGS
 
-    # Apply batching
+    save_dir = Path(args.save_dir) if args.save_dir else DATA_DIR
+    save_dir.mkdir(parents=True, exist_ok=True)
+
+    # Apply batching — cap per batch at ~10 to avoid Cloudflare burst detection
     if args.batch > 0:
+        # Filter slugs that are already confirmed non-existent (blocked, no data)
+        active = []
+        skipped_blocked = 0
+        for s in slugs:
+            d = save_dir / s
+            if d.exists() and not (d / "page.txt").exists() and (d / "blocked.jsonl").exists():
+                skipped_blocked += 1
+            else:
+                active.append(s)
+        if skipped_blocked:
+            print(f"  Skipped {skipped_blocked} already-blocked slugs (no page.txt data)")
+        slugs = active
+
         if args.batch > args.total_batches:
             print(f"ERROR: batch {args.batch} > total-batches {args.total_batches}")
             sys.exit(1)
-        chunk = len(slugs) // args.total_batches
-        start = (args.batch - 1) * chunk
-        end = start + chunk if args.batch < args.total_batches else len(slugs)
-        slugs = slugs[start:end]
-        print(f"Batch {args.batch}/{args.total_batches}: {len(slugs)} agencies")
 
-    save_dir = Path(args.save_dir) if args.save_dir else DATA_DIR
-    save_dir.mkdir(parents=True, exist_ok=True)
+        # Cap per batch: if total is too large, only scrape the first N of this batch
+        max_per_batch = 8
+        if len(slugs) > args.total_batches * max_per_batch:
+            chunk = max(len(slugs) // args.total_batches, 1)
+            start = (args.batch - 1) * chunk
+            end = start + chunk if args.batch < args.total_batches else len(slugs)
+            slugs = slugs[start:end]
+            if len(slugs) > max_per_batch:
+                slugs = slugs[:max_per_batch]
+                print(f"  Batch capped at first {max_per_batch} of {chunk} available")
+        else:
+            chunk = max(len(slugs) // args.total_batches, 1)
+            start = (args.batch - 1) * chunk
+            end = start + chunk if args.batch < args.total_batches else len(slugs)
+            slugs = slugs[start:end]
+
+        print(f"Batch {args.batch}/{args.total_batches}: {len(slugs)} agencies to scrape")
 
     total = len(slugs)
     print(f"Scraping {total} agencies...")
