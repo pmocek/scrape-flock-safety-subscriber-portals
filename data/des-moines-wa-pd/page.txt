@@ -1,40 +1,23 @@
 Transparency Portal
-Visit Flock
+Community Impact
+Policy & Trust
+More Info
+Visit Flock.com
 Des Moines WA PD
 Transparency Portal
 
-Last updated: Sun Jun 28 2026
+Last updated: Fri Jul 31 2026
 
-OVERVIEW
+Overview
 
-Des Moines WA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Des Moines WA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Des Moines WA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+The Des Moines Police Department uses Flock Safety automated license plate reader technology to support criminal investigations and enhance public safety while maintaining appropriate privacy protections. Authorized personnel may conduct searches following a crime and receive real time alerts involving stolen vehicles, missing or endangered persons, qualifying felony or gross misdemeanor warrants, and vehicles connected to felony or gross misdemeanor investigations.
 
-POLICIES
+The department’s use of this technology is governed by policy, training, access controls, audits, and data retention requirements. It complies with Washington’s Driver Privacy Act, ESSB 6002, and applicable requirements and guidance from the Washington State Attorney General’s Office.
 
-What's Detected
+As part of our commitment to transparency and responsible use, the department has made its policies and usage statistics available below
 
-License Plates, Vehicles
-
-What's Not Detected
-
-Facial recognition, People, Gender, Race
-
-Acceptable Use Policy
-
-Data is used for law enforcement purposes only. Data is owned by Des Moines WA PD and is never sold to 3rd parties.
-
-Prohibited Uses
-
-Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
-
-Access Policy
-
-All system access requires a valid reason and is stored indefinitely.
-
-Hotlist Policy
-
-Hotlist hits are required to be human verified prior to action.
-USAGE
+Community Impact
+Data & Usage Summary
 
 Data Retention
 
@@ -47,6 +30,30 @@ Total Cameras
 Number of LPR and other cameras.
 
 14
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+250,260
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+66
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert, Washington Crime Information Center (WACIC)
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+464
 
 Sharing Network Data With
 
@@ -99,6 +106,7 @@ Mountlake Terrace WA PD
 Moxee WA PD
 Mukilteo WA PD
 Newcastle WA PD
+Normandy Park WA PD
 Olympia WA PD
 Orting WA PD
 Othello WA PD
@@ -106,7 +114,6 @@ Port of Seattle WA PD
 Puyallup WA PD
 Reardan WA PD
 Renton WA PD
-Richland WA PD
 SeaTac WA PD
 Sedro-Woolley WA PD
 Selah WA PD
@@ -132,40 +139,62 @@ Westport WA PD
 Yakima County WA SO
 Yakima WA PD
 Yelm WA PD
+Policy & Trust
 
-Hotlists Alerted On
+What's Detected
 
-National and statewide hotlist sources.
+License Plates, Vehicles
 
-NCMEC Amber Alert
+What's Not Detected
 
-Vehicles detected in the last 30 days
+Facial recognition, People, Gender, Race
 
-Number of unique plate reads over the last 30 days.
+Prohibited Uses
 
-244,731
+DMPD Policy 432.7 Restrictions on Collection and Use of ALPR Data
 
-Number of Hotlist Hits
+The Department shall not use an automated license plate reader system or ALPR data for:
 
-Total hotlist hits over the last 30 days.
+-Immigration investigations or enforcement, as provided in RCW 10.93.160.
+-Investigations involving protected health care services under Chapter 7.115 RCW.
+-Tracking or otherwise monitoring activity protected by the state and federal constitutions
 
-112
+The Department shall not collect ALPR data on, immediately surrounding, or providing access to or from:
+-Facilities providing protected health care services.
+-Facilities conducting immigration matters, as defined in RCW 19.154.020.
+-Elementary or secondary schools.
+-Places of worship.
+-Courts.
+-Food banks.
+
+Access Policy
+
+To support the mission of the Des Moines Police Department, approved DMPD personnel may access:
+
+a. Data in any of the following databases maintained by either a federal or Washington State agency:
+-The WA State department of licensing
+-The state criminal justice information system
+-The federal bureau of investigations kidnappings and missing persons list
+-The national center for missing and exploited children (NCMEC) list
+-The Washington missing persons list
+
+OR
+
+b. License plate numbers or vehicle characteristics that have been entered into a state or local automated license plate reader system database or entered in order to perform a search, upon an officer's determination that the license plate numbers or vehicle characteristics are relevant and material to an investigation of a vehicle that is:
+-Stolen
+-Associated with a missing or endangered person
+-Registered to an individual for whom there is an outstanding felony or gross misdemeanor warrant
+-Related to or involved in a felony or gross misdemeanor criminal investigation
 
 Public Search Audit
 
 Download to view searches performed over the last 30 days.
 
 Download CSV
+More Info
 
-Number of Searches
+Des Moines ALPR Policy
 
-Total user search sessions over the last 30 days.
-
-46
-ADDITIONAL INFO
-
-Des Moines LPR Policy: Purpose and Scope
-
-Automated License Plate Reader (ALPR) technology, also known as License Plate Recognition, provides automated detection of license plates. ALPR is used by the Des Moines Police Department to convert data associated with vehicle license plates for official law enforcement purposes, including identifying stolen or wanted vehicles, stolen license plates and missing persons.
+Our entire APLR policy can be found at this link https://www.desmoineswa.gov/departments/police/f_l_o_c_k_transparency_portal
 
 Provided by Flock Safety
