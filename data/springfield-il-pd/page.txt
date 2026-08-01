@@ -1,0 +1,259 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock.com
+Springfield IL PD
+Transparency Portal
+
+Last updated: Sat Aug 01 2026
+
+Overview
+
+Springfield IL PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Springfield IL PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Springfield IL PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+
+Community Impact
+Data & Usage Summary
+
+Data retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+140
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+611,363
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+1,423
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCIC, Illinois Leads, NCMEC Amber Alert
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+28,891
+
+External Law Enforcement Organizations with access
+
+Organizations granted access to Springfield IL PD data.
+
+Athens IL PD
+Attorney General of Illinois - Medicare Fraud Division
+Aurora IL PD
+Bensenville IL PD
+Bloomington IL PD
+Boone County IL SO
+Braidwood IL PD
+Bureau Co. IL SO
+Burnham IL PD
+Calumet Park IL PD
+Canton IL PD
+Carbondale IL PD
+Carol Stream IL PD
+Carpentersville IL PD
+Cary IL PD
+Champaign IL PD
+Channahon IL PD
+Charleston IL PD
+Chatham IL PD
+Cherry Valley IL PD
+Chicago IL PD
+Clark Co. IL Sheriff's Dept.
+Cortland IL PD
+Crawford County IL SO
+Crest Hill IL PD
+Crete IL PD
+Crystal Lake IL PD
+Danville IL PD
+Darien IL PD
+Decatur IL PD
+Des Plaines IL PD
+Douglas County IL SO
+DuPage Co IL Prosecutor Office
+East Peoria IL PD
+Effingham IL PD
+Elmhurst IL PD
+Elmwood Park IL PD
+Energy IL PD
+Eureka IL PD
+Forest Preserve District Will County PD (IL)
+Fox Lake IL PD
+Fulton County IL SO
+Fulton IL PD
+Glenwood IL PD
+Grayslake IL PD
+Greenfield IL PD
+Gurnee IL PD
+Hanover Park IL PD
+Harrisburg IL PD
+Harwood Heights IL PD
+Henry County IL SO
+Herrin IL PD
+Hickory Hills IL PD
+Highland Park IL PD
+Hodgkins IL PD
+Illinois Attorney General
+Illinois Department of Natural Resources
+Illinois State Police
+Illinois Statewide Auto Theft Taskforce
+Inverness IL PD
+Itasca IL PD
+Jacksonville IL PD
+Justice IL PD
+Kane County Forest Preserve IL PD
+Kane County IL SO
+Kankakee County IL SO
+Kankakee IL PD
+Kansas IL PD
+KenCom Public Safety Dispatch
+Kewanee IL PD
+Knox County IL SO
+La Grange IL PD
+Ladd IL PD
+Lake Bluff IL PD
+Lake County IL SO
+Lake Forest IL PD
+LaSalle Co. IL SO - New
+Lawrence County IL SO
+Lee County IL SO
+Lewis University IL PD
+Lincoln Land Community College IL PD
+Lisle IL PD
+Livingston County IL SO
+Lombard IL PD
+Loves Park IL PD
+Lyons IL PD
+Macon County IL SO
+Manteno IL PD
+Marion IL PD
+Marshall County IL SO
+Matteson IL PD
+McDonough County IL SO
+Mclean County IL SO
+Menard County IL SO
+Mendota IL PD
+Metro East Auto Theft (IL)
+Midlothian IL PD
+Minooka IL PD
+Moline IL PD
+Monticello IL PD
+Morgan County IL SO
+Morton Grove IL PD
+Morton IL PD
+Mt. Zion IL PD
+Mundelein IL PD
+Normal IL PD
+Northbrook IL PD
+O'Fallon IL PD
+Oakwood IL PD
+Ogle County IL SO
+Oswego IL PD
+Ottawa IL PD
+Palos Heights IL PD
+Palos Hills IL PD
+Palos Park IL PD
+Park Forest IL PD
+Pecatonica IL PD
+Pekin IL PD
+Peoria County IL SO
+Peoria IL PD
+Pike County IL SO
+Quincy IL PD
+Rantoul IL PD
+Richland Community College Campus IL PD
+Riverside IL PD
+Riverton IL PD
+Robinson IL PD
+Rochester IL PD
+Rock Island County IL SO
+Rock Island IL PD
+Rockdale IL PD
+Rockford IL PD
+Rolling Meadows IL PD
+Romeoville IL PD
+Roselle IL PD
+Sangamon County IL SO
+Sauk Village IL PD
+Schuyler Co. IL SO
+Shelby County IL SO
+Sherman IL PD
+Shorewood IL PD
+Skokie IL PD
+South Elgin IL PD
+Southern Illinois University IL PD
+Southern View IL PD
+Springfield Park District IL PD
+St. Charles IL PD
+Sterling IL PD
+Streamwood IL PD
+Streator IL PD
+Sullivan IL PD
+Summit IL PD
+Taylorville IL PD
+Tazewell County IL SO
+Tinley Park IL PD
+University of Illinois Urbana-Champaign IL PD
+University of Illinois- Springfield
+University Park IL PD
+Vandalia IL PD
+Vernon Hills IL PD
+Village of Manhattan IL PD
+Village of Pingree Grove IL PD
+Virden IL PD
+Warrenville IL PD
+Washington IL PD
+Wauconda IL PD
+Waukegan IL PD
+West Chicago IL PD
+Westmont IL PD
+Will County IL SO
+Williamson Co. IL SO
+Willow Springs IL PD
+Wilmette IL PD
+Winnebago County IL SO
+Wood Dale IL PD
+Zion IL PD
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Springfield IL PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Officers will verify all ALPR activations prior to taking enforcement action.
+
+Provided by Flock Safety
