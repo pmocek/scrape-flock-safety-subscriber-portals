@@ -14,31 +14,19 @@ on:
         type: boolean
         default: false
   schedule:
-    # Hourly — 24 batches per day for faster catch-up
+    # Every 2 hours — 12 batches per day
     - cron: '23 0 * * *'   # batch 1
-    - cron: '23 1 * * *'   # batch 2
-    - cron: '23 2 * * *'   # batch 3
-    - cron: '23 3 * * *'   # batch 4
-    - cron: '23 4 * * *'   # batch 5
-    - cron: '23 5 * * *'   # batch 6
-    - cron: '23 6 * * *'   # batch 7
-    - cron: '23 7 * * *'   # batch 8
-    - cron: '23 8 * * *'   # batch 9
-    - cron: '23 9 * * *'   # batch 10
-    - cron: '23 10 * * *'  # batch 11
-    - cron: '23 11 * * *'  # batch 12
-    - cron: '23 12 * * *'  # batch 13
-    - cron: '23 13 * * *'  # batch 14
-    - cron: '23 14 * * *'  # batch 15
-    - cron: '23 15 * * *'  # batch 16
-    - cron: '23 16 * * *'  # batch 17
-    - cron: '23 17 * * *'  # batch 18
-    - cron: '23 18 * * *'  # batch 19
-    - cron: '23 19 * * *'  # batch 20
-    - cron: '23 20 * * *'  # batch 21
-    - cron: '23 21 * * *'  # batch 22
-    - cron: '23 22 * * *'  # batch 23
-    - cron: '23 23 * * *'  # batch 24
+    - cron: '23 2 * * *'   # batch 2
+    - cron: '23 4 * * *'   # batch 3
+    - cron: '23 6 * * *'   # batch 4
+    - cron: '23 8 * * *'   # batch 5
+    - cron: '23 10 * * *'  # batch 6
+    - cron: '23 12 * * *'  # batch 7
+    - cron: '23 14 * * *'  # batch 8
+    - cron: '23 16 * * *'  # batch 9
+    - cron: '23 18 * * *'  # batch 10
+    - cron: '23 20 * * *'  # batch 11
+    - cron: '23 22 * * *'  # batch 12
 
 permissions:
   contents: write
@@ -91,14 +79,14 @@ jobs:
           echo "Manual dispatch — full scrape requested"
         else
           HOUR=$(date -u +%H)
-          BATCH=$(( 10#$HOUR + 1 ))
+          BATCH=$(( (10#$HOUR / 2) + 1 ))
           echo "batch=$BATCH" >> "$GITHUB_OUTPUT"
-          echo "${{ github.event_name }} run — batch $BATCH of 24"
+          echo "${{ github.event_name }} run — batch $BATCH of 12"
         fi
 
     - name: Run the scraper
       run: |
-        ./scrape.sh --batch ${{ steps.batch.outputs.batch }} --total-batches 24
+        ./scrape.sh --batch ${{ steps.batch.outputs.batch }} --total-batches 12
 
     - name: Analyze audit CSVs
       id: audit
