@@ -1,0 +1,216 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+More Info
+Visit Flock.com
+Sterling Heights MI PD
+Transparency Portal
+
+Last updated: Mon Aug 03 2026
+
+Overview
+
+Sterling Heights MI PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Sterling Heights MI PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Sterling Heights MI PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+
+Community Impact
+Featured Success Stories
+
+Success Story
+
+In October 2023 a subject went into House of Chan and stole the tip jar off the counter. Employees were able to provide a description of a possible vehicle and suspect. The Detective was able to search FLOCK based on vehicle description and partial plate. A suspect was identified and charged with Larceny in a Building (4 year felony).
+
+Success Story
+
+In July 2025 Officers responded to a physical assault at Dream Market. Two suspects were fighting with a victim in the parking lot after a verbal altercation. The suspects left the scene. With only a vehicle description a road officer was able to track the vehicle down in FLOCK and the suspects were identified. Court proceedings pending.
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+24
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+421
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert, Wisconsin DOJ, MI LEIN
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Sterling Heights MI PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+More Info
+
+External organizations with access
+
+1842
+
+Sterling Heights License Plate Reader Policy
+
+STERLING HEIGHTS POLICE DEPARTMENT
+GENERAL ORDER
+
+
+GENERAL ORDER NUMBER: 6.81
+SUBJECT: AUTOMATED LICENSE PLATE READERS (ALPR)
+DATE OF ISSUE: 11/25/2025
+EFFECTIVE DATE: 11/25/2025
+RESCINDS: 03/19/2025
+
+POLICY
+
+It is the policy of the Sterling Heights Police Department to utilize ALPR technology to capture and store digital license plate data and images while recognizing the established privacy rights of the public. The data and images gathered provide information and investigative resources to employees. The use and access of such systems and information shall be for law enforcement purposes only and in compliance with all applicable training, policies, procedures, rules, regulations, and laws.
+
+PURPOSE
+
+This purpose of this policy is to establish a minimum set of binding guidelines to govern the use of Automated License Plate Reader to include data collection, management and use of LPR data, and maintenance of LPR equipment.
+
+AUTHORITY
+
+Sterling Heights Police Department Manual of Rules, Articles I, II, and VI. Title 18 of the United States Code Chapter 123.2721 - Prohibition on release and use of certain personal information from State motor vehicle records.
+
+DEFINITIONS
+
+Automated License Plate Reader (ALPR) System equipment consisting of cameras, computers, and computer software used to automatically recognize and interpret the characters on motor vehicle license plates. Digital images captured by the cameras are converted into data which is processed through the ALPR system.
+
+Hot List A list of license plates associated with vehicles of interest compiled from one or more databases including, but not limited to: National Crime Information Center (NCIC), Michigan Secretary of State, local BOLOs, etc.
+
+Vehicles of Interest Vehicles including, but not limited to, vehicles which are reported as stolen, display stolen plates or tags, are linked to missing and/or wanted persons, and vehicles flagged by the Secretary of State or other Law Enforcement agencies.
+
+Hit An alert from the ALPR system that a scanned license plate number may be in the NCIC or other law enforcement database for a specific reason such as, but not limited to: stolen car, wanted and/or missing person, terrorist related activity, and AMBER alerts.
+
+ALPR Administrator The Chief’s designee(s), serves as the ALPR Administrator for the department.
+
+PROCEDURES
+
+Training:
+
+No member of the Sterling Heights Police Department shall access ALPR data without first completing department approved training.
+
+ALPR Administrator shall be responsible for planning and implementing all department approved training concerning the ALPR.
+
+Automated License Plate Reader Confidentiality:
+
+Use of the ALPR system, software, associated databases, and data is restricted exclusively to the Department’s law enforcement functions. Information obtained from the ALPR, software, associated databases, and data shall not be used for personal reasons or for reasons inconsistent with the Department’s law enforcement functions under any circumstances.
+
+Misuse or abuse of the ALPR system, software, associated databases, or data may be subject to criminal prosecution, civil liability, and/or administrative sanctions, up to and including termination, pursuant to and consistent with the relevant collective bargaining agreements and Department policies.
+
+Information obtained from the ALPR system, software, associated databases, and data shall not be disseminated to the public except as authorized by law.
+
+Information obtained from the ALPR system, software, associated databases, and data may be disseminated to other law enforcement agencies or officers when it is to be used for law enforcement related functions, providing all of the following criteria are met:
+
+The law enforcement agency makes an official written request for the ALPR data through LEIN or via department email.
+The agency’s identity, the person requesting the data, and the intended purpose must be documented in such a manner as to demonstrate compliance with this policy and retained on file with the vendor’s software.
+A supervisor must approve the request.
+
+Automated License Plate Reader Use:
+
+The ALPR system, software, associated databases, and data may be used in conjunction with any routine patrol operation or criminal investigation. Reasonable suspicion or probable cause is not required before using an ALPR.
+
+Officers shall be aware the ALPR system will not have access to real time data. Hot lists, NCIC, LEIN, etc. are updated on a regular basis, but not continually, therefore there may be a delay in entries and removals.
+
+Upon receiving an alert, officers should verify the plate and the state of issuance match the hot list alert in the ALPR system.
+
+Officers should then conduct a check of the plate in question in LEIN/NCIC to verify the entry.
+
+Upon locating the vehicle officers shall visually verify that the license plate on the vehicle matches that of the image captured by the ALPR and the LEIN/NCIC check before proceeding with any investigative or enforcement action.
+
+Officers are reminded that an alert alone shall not be the basis for police action. For example, if a vehicle is entered into the system because of its association with a wanted individual, Officers should attempt to visually match the driver to the description of the wanted subject prior to making the stop or should have another legal basis for making the stop.
+
+Restrictions of Automated License Plate Reader Use:
+
+The ALPR system shall only be used for official and legitimate law enforcement purposes. Only sworn police personnel and dispatchers shall have access to the ALPR system.
+
+The ALPR system shall not be used for the sole purpose of immigration
+enforcement.
+
+Invasion of Privacy: Except when done pursuant to a court order such as a search warrant, it is a violation of this policy to utilize the ALPR to record license plates on private property. The exception is license plates on private property that are exposed to public view.
+
+Harassment or Intimidation: It is a violation of this policy to use the ALPR system to harass and/or intimidate any individual or group.
+
+Personal Use: It is a violation of this policy to use the ALPR system for any personal purpose.
+
+RESPONSIBILITY
+
+Automated License Plate Reader Administration:
+
+The Chief of Police or designee is responsible for administrative oversight of the ALPR system operations and shall be responsible for the following:
+
+Ensuring access, collection, secure storage, and retention of ALPR data and associated media files are within policy guidelines.
+Ensuring ALPR reads and alerts or hits that are acted upon in the field or associated with arrests, investigations, and/or prosecutions are documented in the vendor’s database.
+Ensuring that ALPR system audits are conducted on an annual basis. System audits shall be designed to ensure the integrity of data captured, stored, and/or retained and shall include a review of password security and system usage.
+Ensuring that each employee who uses or has access to the ALPR system has completed department approved training and is certified to have access to the Law Enforcement Information Network (LEIN).
+
+ALPR system repairs (hardware or software) shall be made by the current ALPR system vendor or a vendor approved by the Chief of Police.
+
+
+Data Retention and Accountability:
+
+1. All ALPR data will be stored on the current Vendor’s server for a period of thirty (30) days. After thirty days the data shall be purged unless it has become, or it is reasonable to believe it will become, evidence in a criminal or civil action or is subject to a lawful action or order to produce records. In such circumstances, the applicable data shall be transferred to another digital media and stored according to current procedures.
+
+2. All saved data shall be closely safeguarded and protected by both procedural and technological means. The Department will observe the following safeguards regarding access to and use of stored data:
+
+a. All requests for access to historical ALPR data shall be logged in the ALPR system and the reason for the access must be recorded. The appropriate Sterling Heights Police Department case or incident number shall be documented in the request.
+b. All ALPR data downloaded to a mobile workstation shall be accessible only through a login/password protected system capable of documenting all access of information by name, date, and time.
+
+Administrative Audits:
+
+1. It is the responsibility of the Chief of Police to ensure that an audit is conducted of ALPR detection browsing inquires at least once during each calendar year. The Sterling Heights Police Department will audit a sampling of the ALPR system utilization from the prior twelve (12) month period to verify proper use in accordance with this General Order. The audit shall randomly select at least ten (10) detection browsing inquiries conducted by Sterling Heights Police Department employees during the time period selected to determine if each meets the requirements of this General Order.
+
+The audit shall be performed and documented by the ALPR Administrator in the form of a Memorandum to the Chief of Police. The memorandum shall include any data errors found so that such errors can be corrected. After review by the Chief of Police, the memorandum any associated documentation shall be filed in accordance with current Michigan State Police record retention policy.
+
+Damage to ALPR Camera:
+
+If an officer is dispatched to or locates a damaged ALPR camera, they shall write a case report or note it on a UD-10.
+
+An Evidence Technician shall respond to take photographs of the damaged pole and/or camera.
+
+The current vendor, FLOCK, requests the damaged pole and/or camera to be left closest to the location it was originally placed.
+
+The OO shall notify the Captain of Administration via email of the damaged pole and/or camera and provide the case number.
+
+The Captain of Administration or their designee shall notify FLOCK via email (support@flocksafety.com) or by phone (866-901-1781) and work with City Hall to have the pole and/or camera replaced.
+
+
+
+
+
+_________________________
+Andrew Satterfield
+Chief of Police
+
+
+Provided by Flock Safety
