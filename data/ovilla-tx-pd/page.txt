@@ -1,0 +1,1120 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock.com
+Ovilla TX PD
+Transparency Portal
+
+Last updated: Sun Aug 02 2026
+
+Overview
+
+Ovilla TX PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Ovilla TX PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Ovilla TX PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+
+Community Impact
+Featured Success Stories
+
+Recent Success Story
+
+Over the past few years, our FLOCK system has provided crucial data to assist our department in locating multiple critical missing persons. In addition, it has assisted in identifying numerous suspects who committed criminal offenses within our City.
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+1
+
+LPR Cameras
+
+Number of LPR cameras only.
+
+1
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+23,969
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+30
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCIC, NCMEC Amber Alert
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+37
+
+Sharing Network Data With
+
+Organizations granted access to Ovilla TX PD data.
+
+[Federal] US Postal Inspection Service
+1st Judicial District
+District Attorney's Office TX
+47th District Attorney's Office TX
+Abilene TX PD
+Addison TX PD
+Aldine ISD PD TX
+Allen TX PD
+Altoona IA PD
+Alvarado TX PD
+Alvin ISD TX PD
+Alvin TX PD
+Amarillo TX PD
+Angleton PD TX
+Anna TX PD
+Anthony TX PD
+Aransas Pass TX PD
+Arcola TX PD
+Argyle TX PD
+Arlington County VA PD
+Arlington TX PD
+Armstrong County TX SO
+Arp TX PD
+Athens TX PD
+Aubrey TX PD
+Austin County TX SO
+Azle TX PD
+Balch Springs TX PD
+Bartonville TX PD
+Bastrop County TX SO
+Bastrop TX PD
+Bay City TX PD
+Baylor Scott & White PD (TX)
+Bayou Vista TX PD
+Baytown TX PD
+Beaumont TX PD
+Bedford TX PD
+Bee Cave TX PD
+Bell CO TX SO
+Bellaire TX PD
+Bellville TX PD
+Belton TX PD
+Bertram TX PD
+Bexar County TX SO
+Big Spring PD TX
+Blue Mound TX PD
+Boerne TX PD
+Bogata TX PD
+Borger TX PD
+Bosque County TX SO
+Boyd TX PD
+Brazos County TX SO
+Brigham City UT PD
+Brownsville TX PD
+Bryan TX PD
+Buda TX PD
+Bulverde TX PD
+Burleson TX PD
+Burnet County TX SO
+Cactus TX PD
+Caldwell CO TX SO
+Caldwell County TX Constable's Pct 2
+Cameron CO TX SO
+Canadian County OK SO
+Canton TX PD
+Canyon TX PD
+Carrollton TX PD
+Carson County TX SO
+Cass County TX SO
+Castle Hills TX PD
+Castroville TX PD
+Cedar Hill TX PD
+Cedar Park TX PD
+Celina TX PD
+Chambers County TX SO
+Cibolo TX PD
+City of Oak Ridge North TX PD
+City of West TX PD
+Clay County TX SO
+Cleburne TX PD
+Cleveland County OK SO
+Coastal Bend College Campus PD
+Cockrell Hill TX PD
+Coke County TX SO
+College Station TX PD
+Colleyville PD TX
+Collin County TX SO
+Colorado City TX PD
+Commerce TX ISD PD
+Concho County TX SO
+Conroe TX PD
+Converse TX PD
+Cooke County TX SO
+Coppell TX PD
+Corinth City Marshal [inactive]
+Corinth TX PD
+Corsicana TX PD
+Crandall TX PD
+Crane County SO TX
+Cross Roads TX PD
+Crowell TX PD
+Crowley TX PD
+Cumby TX PD
+Cypress Fairbanks ISD (TX) PD
+Dallam County TX SO
+Dallas Area Rapid Transit PD TX
+Dallas County TX SO
+Dallas TX PD
+Dalworthington Gardens TX PD
+Decatur TX PD
+Deer Park TX PD
+Denison TX PD
+Denton County TX SO
+Denton TX PD
+DeSoto TX PD
+DFW Airport PD TX
+Diboll TX PD
+Dickinson TX PD
+Donley County TX SO
+Dublin TX PD
+Dumas TX PD
+Duncanville TX PD
+Eagle Pass TX PD
+East Tawakoni TX PD
+East Texas Auto Theft Task Force
+Ector County Environmental Enforcement (TX)
+Ector County TX SO
+Edinburg TX PD
+El Paso TX PD
+Elgin TX PD
+Ellis County TX SO
+Elm Ridge TX PD
+Erath County TX SO
+Euless TX PD
+Falfurrias TX PD
+Fannin County TX SO
+Farmers Branch TX PD
+Farmersville TX PD
+Floyd County TX SO
+Forest Hill TX PD
+Forney TX PD
+Fort Bend County Const TX Pct 4 (inactive)
+Fort Bend County TX District Attorney's Office
+Fort Bend County TX Environmental Health
+Fort Stockton TX PD
+Fort Worth TX PD
+Franklin County TX SO
+Franklin County Water District TX
+Friendswood TX PD
+Frisco TX PD
+Fulshear TX PD
+Galena Park ISD TX PD
+Galveston County TX SO
+Galveston TX PD
+Garland TX PD
+Glasscock County TX SO
+Granbury TX PD
+Grand Prairie TX PD
+Grapeland TX PD Inactive
+Grapevine TX PD
+Gray County TX SO
+Grayson County TX SO
+Groesbeck TX PD
+Guadalupe County TX SO
+Gun Barrel TX PD
+Haltom City TX PD
+Hardin County SO TX
+Harris County Const TX Pct 1
+Harris County Const TX Pct 2
+Harris County Const TX Pct 3
+Harris County Const TX Pct 4
+Harris County Const TX Pct 5
+Harris County TX SO
+Harrison County TX SO
+Hartley County TX SO
+Haskell County TX SO
+Hays County TX SO
+Heath TX DPS
+Hedwig Village TX PD
+Henderson TX PD
+Hewitt TX PD
+Hickory Creek TX PD
+Hidalgo County TX SO
+Highland Park TX PD
+Highland Village TX
+Hitchcock TX PD
+Holland TX PD
+Hondo TX PD
+Hopkins County TX SO
+Horizon TX PD
+Houston Arson Bureau TX
+Houston Metro Transit Authority (TX)
+Houston TX PD
+Howard County TX SO
+Huffman ISD TX PD
+Humble ISD PD TX
+Humble TX PD
+Hunt County TX SO
+Hurst TX PD
+Hutchins TX PD
+Hutto TX PD
+Ingleside TX PD
+Iowa Colony TX PD
+Irving TX PD
+Jacinto City TX PD
+Jack County TX SO
+Jasper TX PD
+Jefferson TX ISD PD
+Jersey Village TX PD
+Johnson County TX SO
+Junction City KS PD
+Katy TX PD
+Kaufman County Constable PCT 2
+Kaufman County TX SO
+Kaufman TX PD
+Keller TX PD
+Kemah TX PD
+Kendall County TX SO
+Killeen TX PD
+Kingsville TX PD
+Kleberg TX County Attorney's Task Force
+Kyle TX PD
+La Marque TX PD
+La Porte TX PD
+La Vernia TX PD
+Lago Vista TX PD
+Lake Jackson TX PD
+Lake Travis ISD TX PD [Inactive]
+Lake Worth TX PD
+Lakeview TX PD
+Lakeway TX PD
+Lamar County TX SO
+Lamar University TX PD
+Lancaster TX PD
+Lavon TX PD
+League City TX PD
+Leander TX PD
+Lee County TX SO
+Leon County TX SO
+Lewisville TX PD
+Liberty Hill TX PD
+Limestone County TX SO
+Lindale TX PD
+Lindsay TX PD
+Little Elm TX PD
+Live Oak TX PD
+Livingston TX PD
+Llano TX PD
+Lockney TX PD
+Lubbock County TX SO
+Lubbock TX PD
+Lufkin TX PD
+Luling TX PD
+Lumberton TX PD
+Mabank ISD TX PD
+Mabank TX PD
+Magnolia PD TX
+Manor TX PD
+Mansfield TX PD
+Manvel TX PD
+Marble Falls TX PD
+Marshall TX PD
+Martin County TX SO
+Maverick County TX SO
+Maypearl TX PD
+McKinney TX PD
+Meadows Place TX PD
+Melissa TX PD
+Memorial Villages TX PD
+Mesquite TX PD
+Methodist Health System PD (TX)
+Mexia TX PD
+Miami Township OH PD (Clermont)
+Midland County Hospital District PD TX
+Midland County TX SO
+Midland TX PD
+Midlothian TX PD
+Milam County TX SO
+Mineola TX PD
+Mineral Wells TX PD
+Missouri City TX PD
+Monahans TX PD
+Mont Belvieu TX PD
+Montague County TX SO
+Montgomery County Constable
+Precinct 3 (TX)
+Montgomery County Constable
+Precinct 4 (TX)
+Montgomery County TX SO
+Montgomery TX PD
+Moore County TX SO
+Moore OK PD
+Morgan's Point PD TX
+Morgan's Point Resort TX PD
+Mount Vernon TX ISD PD
+Mount Vernon TX PD
+Murphy TX PD
+Muskogee OK PD
+Nash TX PD
+New York State Police NY
+Nichols Hills OK PD
+Nixon TX PD [Inactive]
+Nolanville TX PD
+North Richland Hills TX PD
+Northlake TX PD
+Oak Point TX PD
+Ochiltree County TX SO
+Odessa TX PD
+Onalaska TX PD
+Palestine TX PD
+Pampa TX PD
+Pantego TX PD
+Paris TX PD
+Parker County TX SO
+Pasadena TX PD
+Pearland TX PD
+Pflugerville TX PD
+Pharr TX PD
+Plano TX PD
+Polk County TX SO
+Ponder TX PD
+Port Aransas TX PD
+Port Isabel TX PD
+Port Neches PD (TX)
+Portland TX PD
+Poteet TX PD
+Potter County TX SO
+Presidio TX PD
+Princeton TX PD
+Prosper TX PD
+Purcell OK PD
+Queen City TX PD
+Rains County TX SO
+Randall County TX SO
+Reagan County TX SO
+Red Oak PD TX
+Red River TX SO
+Reeves CO TX SO
+Regional Vehicle Burglary Suppression Taskforce TX
+Reno TX PD
+Richardson TX PD
+Richland Hills TX PD
+Richmond TX PD
+River Oaks TX PD
+Roanoke TX PD
+Robertson County TX SO
+Robeson County NC SO
+Robstown TX PD
+Rockport TX PD
+Rockwall County TX SO
+Rockwall TX PD
+Roman Forest TX PD
+Rosebud TX PD
+Rosenberg TX PD
+Round Rock TX PD
+Rowlett PD TX
+Royse City TX PD
+Rusk CO TX SO
+Sachse TX PD
+Saginaw TX PD
+Salado TX PD Inactive
+San Angelo TX PD
+San Antonio TX PD
+San Benito TX PD
+Sansom Park TX PD
+Santa Rosa PD TX
+Schertz TX PD
+Scurry County TX SO
+Seabrook TX PD
+Seagoville TX PD
+Sealy TX PD
+Seguin TX PD
+Selma TX PD
+Shenandoah TX PD
+Sherman TX PD
+Smith County TX SO
+Snyder TX PD
+Sour Lake TX PD
+South Houston TX PD
+South Plains Auto Theft Task Force TX
+Southmayd TX PD
+Splendora TX PD
+Spring Valley Village TX PD
+Stephenville TX PD
+Sterling County TX SO
+Sulphur Springs TX PD
+Sunnyvale TX PD
+Sunset Valley TX PD
+Tarleton State University TX PD
+Tarrant County TX SO
+Tarrant Regional Water District TX PD
+Taylor County TX SO
+Temple TX PD
+Terrell TX PD
+Texarkana TX PD
+Texas Christian University PD TX
+Texas City TX PD
+Texas Department of Criminal Justice
+Texas Department of Public Safety
+Texas Financial Crimes Intelligence Center
+Texas Medical Center PD
+The Colony TX PD
+Thrall City PD TX
+Tomball TX PD
+Trophy Club TX PD
+Tulia TX PD
+TX - Alpine PD
+TX - Alvin College Campus PD
+TX - Bangs PD
+TX - Baylor County SO
+TX - Bee County SO
+TX - Bellmead PD
+TX - Brazoria County
+TX - Brookshire PD
+TX - Bullard PD
+TX - Caddo Mills PD
+TX - Caldwell PD
+TX - City of Agua Dulce
+TX - City of Bandera
+TX - City of Orange
+TX - City of Town of Pecos
+TX - Clear Lake Shores PD
+TX - Clute PD
+TX - Collinsville PD
+TX - Commerce PD
+TX - Cuero PD
+TX - Duncanville Independent School District
+TX - Eastland County SO
+TX - Eastland PD
+TX - Fate Department of Public Safety
+TX - Gatesville PD
+TX - Groves PD
+TX - Gunter PD
+TX - Hallettsville PD
+TX - Hallsville PD
+TX - Hollywood Park PD
+TX - Horseshoe Bay PD
+TX - Howe PD
+TX - Irion County SO
+TX - Jefferson County SO
+TX - Jones County SO
+TX - Joshua PD
+TX - Kermit PD
+TX - Krugerville PD
+TX - Lee College Campus PD
+TX - Leonard PD
+TX - Liberty County SO
+TX - Liberty PD
+TX - Loving County SO
+TX - Milford PD
+TX - Mount Enterprise PD
+TX - Mustang Ridge PD
+TX - Nederland PD
+TX - Newton County SO
+TX - Olmos Park PD
+TX - Palmer PD
+TX - Prairie View A & M University Campus PD
+TX - Riesel PD
+TX - Robinson PD
+TX - San Saba County SO
+TX - Seymour PD
+TX - Shelby County SO
+TX - Silsbee PD
+TX - Sinton PD
+TX - Somervell County SO
+TX - Stephens County SO
+TX - Swisher County SO
+TX - Trinity County SO
+TX - Vidor PD
+TX - Wink PD
+TX - Young County SO
+TX Alcoholic Beverage Commission (TABC)
+Tye TX PD
+Tyler TX PD
+Union Pacific Railroad PD
+University of North Texas at Denton PD (TX)
+University of Texas at Dallas TX PD
+University of Texas at Tyler PD
+University of Texas Permian Basin PD
+University of TX (UTA)- Arlington PD
+University Park TX PD
+UT Southwestern Medical Center TX
+Van Alstyne TX PD
+Vandalia OH PD
+Venus TX PD
+Waller County TX SO
+Waller TX PD
+Wallis TX PD
+Ward County TX SO
+Watauga TX PD
+Waxahachie TX PD
+Weatherford College Campus PD TX
+Webster TX PD
+West Columbia PD TX
+West Tawakoni TX PD
+Westworth Village TX PD
+Wharton PD TX
+Wheeler County TX SO
+White Settlement ISD TX PD
+White Settlement TX PD
+Wichita Falls TX PD
+Willis TX PD
+Wilmer TX PD
+Wilson County TX SO
+Windcrest TX PD
+Winkler County TX SO
+Winnsboro TX PD
+Wolfforth TX PD
+Wylie TX PD
+
+Receiving Network Data From
+
+Organizations sharing their data with Ovilla TX PD.
+
+[DEACTIVATED] - DNU
+1st Judicial District
+District Attorney's Office TX
+47th District Attorney's Office TX
+Addison TX PD
+Adrian MI PD
+Akron OH PD
+Alcoa TN PD
+Aldine ISD PD TX
+Allen TX PD
+Alvarado TX PD
+Alvin ISD TX PD
+Alvin TX PD
+Amarillo TX PD
+Anderson IN PD
+Andrews TX PD [Inactive]
+Angelina County TX SO
+Angleton PD TX
+Anna TX PD
+Anthony TX PD
+Aransas Pass TX PD
+Arcola TX PD
+Argyle TX PD
+Arlington TX PD
+Armstrong County TX SO
+Arp TX PD
+Ashburne Glen
+Athens TX PD
+Aubrey TX PD
+Austin County TX SO
+Avon IN PD
+Azle TX PD
+Balch Springs TX PD
+Baldwin County GA SO
+Bartlett TN PD
+Bartonville TX PD
+Bastrop County TX SO
+Bastrop TX PD
+Bay City TX PD
+Bayou Vista TX PD
+Baytown TX PD
+Beaumont TX PD
+Bedford TX PD
+Bee Cave TX PD
+Bellaire TX PD
+Bellville TX PD
+Belton TX PD
+Benton County AR SO
+Bertram TX PD
+Bexar County TX SO
+Blue Mound TX PD
+Boerne TX PD
+Bogata TX PD
+Borger TX PD
+Bosque County TX SO
+Boyd TX PD
+Brazoria County Const Pct 3 (TX)
+Brazoria County TX SO - Flex (Do Not Share)
+Brownsville TX PD
+Bryan TX PD
+Bryson Manor Estates (TX)
+Buda TX PD
+Bulverde TX PD
+Burleson TX PD
+Burnet County TX SO
+Cactus TX PD
+Caldwell CO TX SO
+Caldwell County TX Constable's Pct 2
+Cameron CO TX SO
+Canadian County OK SO
+Canyon TX PD
+Carrollton TX PD
+Carson County TX SO
+Cass County TX SO
+Castle Hills TX PD
+Castroville TX PD
+Cedar Hill TX PD
+Cedar Park TX PD
+Celina TX PD
+Chambers County TX SO
+Channelview ISD PD TX
+Chanute KS PD
+Cibolo TX PD
+City of Oak Ridge North TX PD
+City of West TX PD
+Clay County TX SO
+Clearwater FL PD
+Cleburne TX PD
+Coastal Bend College Campus PD
+Cobb County GA PD
+Cockrell Hill TX PD
+Coffeyville KS PD
+Coke County TX SO
+College Station TX PD
+Colleyville PD TX
+Collier County FL SO
+Collin County TX Public Works
+Commerce TX ISD PD
+Concho County TX SO
+Conroe TX PD
+Conyers GA PD
+Cooke County TX SO
+Coppell TX PD
+Corinth TX PD
+Corsicana TX PD
+Crandall TX PD
+Crane County SO TX
+Crowell TX PD
+Crowley TX PD
+Cumby TX PD
+Cypress Fairbanks ISD (TX) PD
+Dallam County TX SO
+Dallas Area Rapid Transit PD TX
+Dallas TX PD
+Dalworthington Gardens TX PD
+Deactivated Users
+Deer Park TX PD
+Denison TX PD
+Denton County TX SO
+Denton TX PD
+DeSoto TX PD
+DFW Airport PD TX
+Diboll TX PD
+Dickinson TX PD
+Donley County TX SO
+Dumas TX PD
+Duncanville TX PD
+Dyer County TN SO
+Dyersburg TN PD
+Eagle Pass TX PD
+East Tawakoni TX PD
+Ector County Environmental Enforcement (TX)
+Ector County Hospital District PD (TX)
+Ector County TX SO
+Edinburg TX PD
+El Campo TX PD
+El Paso TX PD
+Elgin TX PD
+Ellis County TX SO
+Elm Ridge TX PD
+Erath County TX SO
+Euless TX PD
+Falfurrias TX PD
+Fannin County TX SO
+Farmers Branch TX PD
+Farmersville TX PD
+Floyd County TX SO
+Forest Hill TX PD
+Forney TX PD
+Forrest County MS SO
+Fort Bend County Const TX Pct 1
+Fort Bend County Const TX Pct 4 (inactive)
+Fort Bend County TX Environmental Health
+Fort Bend County TX SO
+Fort Stockton TX PD
+Fort Worth TX PD
+Franklin County TX SO
+Franklin County Water District TX
+Friendswood TX PD
+Frisco TX PD
+Fulshear TX PD
+Galena Park ISD TX PD
+Galveston County TX SO
+Galveston TX PD
+Garland TX PD
+Georgetown TX PD
+Glasscock County TX SO
+Glen Eagles
+Granbury TX PD
+Grand Prairie TX PD
+Granite Shoals PD TX
+Grapevine TX PD
+Gray County TX SO
+Grayson County TX SO
+Greenwood Independent School District TX
+Groesbeck TX PD
+Guadalupe County TX SO
+Gun Barrel TX PD
+Haltom City TX PD
+Harris County Const TX Pct 1
+Harris County Const TX Pct 2
+Harris County Const TX Pct 3
+Harris County Const TX Pct 4
+Harris County Const TX Pct 5
+Harris County TX SO
+Harrison County TX SO
+Hartley County TX SO
+Hays County TX SO
+Heath TX DPS
+Hedwig Village TX PD
+Henderson TX PD
+Hickory Creek TX PD
+Highland Park TX PD
+Highland Village TX
+Hitchcock TX PD
+Holland TX PD
+Hopkins County TX SO
+Horizon TX PD
+Houston Housing Authority TX
+Houston Metro Transit Authority (TX)
+Houston TX PD
+Huffman ISD TX PD
+Humble ISD PD TX
+Humble TX PD
+Hunt County TX SO
+Hurst TX PD
+Hutchins TX PD
+Hutto TX PD
+Ingleside TX PD
+Iowa Colony TX PD
+Irving TX PD
+Jack County TX SO
+Jasper County IN SO
+Jasper TX PD
+Jefferson TX ISD PD
+Jersey Village TX PD
+Jim Wells County Constable Precinct 3 TX
+Johnson County TX SO
+Katy TX PD
+Kaufman County Constable PCT 2
+Kaufman County TX SO
+Kaufman TX PD
+Keller TX PD
+Kemah TX PD
+Kendall County TX SO
+Killeen TX PD
+Kleberg TX County Attorney's Task Force
+Kyle TX PD
+La Marque TX PD
+La Porte TX PD
+La Vernia TX PD
+Lafayette County MS SO
+Lafourche Parish LA SO
+Lake Jackson TX PD
+Lake Travis ISD TX PD [Inactive]
+Lake Worth TX PD
+Lakeview TX PD
+Lakeway TX PD
+Lamar County MS SO
+Lamar County TX SO
+Lamar University TX PD
+Lancaster TX PD
+Lantana Fresh Water District TX
+Lauderdale County TN SO
+Lavon TX PD
+Lawrenceville GA PD
+League City TX PD
+Leander TX PD
+Leon County TX SO
+Lewisville TX PD
+Liberty Hill TX PD
+Lindale TX PD
+Lindsay TX PD
+Little Elm TX PD
+Little Flock AR PD
+Live Oak TX PD
+Livingston TX PD
+Llano TX PD
+Lubbock County TX SO
+Lufkin TX PD
+Luling TX PD
+Lumberton TX PD
+Mabank ISD TX PD
+Mabank TX PD
+Magnolia PD TX
+Malvern AR PD
+Manor TX PD
+Mansfield TX PD
+Manvel TX PD
+Marble Falls TX PD
+Marshall County OK SO
+Marshall TX PD
+Martin County TX SO
+McKinney TX PD
+Meadows Place TX PD
+Melissa TX PD
+Memorial Villages TX PD
+Mesquite TX PD
+Methodist Health System PD (TX)
+Mexia TX PD
+Midland County Hospital District PD TX
+Midland County TX SO
+Midland TX ISD
+Midlothian TX PD
+Mineola TX PD
+Mineral Wells TX PD
+Missouri City TX PD
+MOCIC
+Monahans TX PD
+Monroe GA PD
+Mont Belvieu TX PD
+Montague County TX SO
+Montgomery County Constable
+Precinct 3 (TX)
+Montgomery County TX SO
+Montgomery ISD TX PD
+Montgomery TX PD
+Moore County TX SO
+Morgan's Point PD TX
+Morgan's Point Resort TX PD
+Mount Vernon TX ISD PD
+Mount Vernon TX PD
+Murphy TX PD
+Nash TX PD
+Nassau Bay TX PD
+New Berlin TX Marshal's Office [Inactive]
+New Braunfels TX PD
+Nixon TX PD [Inactive]
+Nolanville TX PD
+North Richland Hills TX PD
+Northlake TX PD
+Oak Point TX PD
+Ochiltree County TX SO
+Odessa TX PD
+Onalaska TX PD
+Orange Beach AL PD
+Orange County FL SO
+Palestine TX PD
+Pampa TX PD
+Panola County TX SO
+Pantego TX PD
+Paris TX PD
+Pasadena TX PD
+Pearland TX PD
+Peotone IL PD
+Pharr TX PD
+Pittsboro IN PD
+Plano TX PD
+Pocahontas AR PD
+Polk County TX SO
+Ponder TX PD
+Port Aransas TX PD
+Port Neches PD (TX)
+Portland TX PD
+Potter County TX SO
+Presidio TX PD
+Princeton TX PD
+Prosper TX PD
+Queen City TX PD
+Rains County TX SO
+Randall County TX SO
+Reagan County TX SO
+Red Oak PD TX
+Red River TX SO
+Reeves CO TX SO
+Regional Vehicle Burglary Suppression Taskforce TX
+Reno TX PD
+Rice University TX PD
+Richardson TX PD
+Richland Hills TX PD
+Richmond TX PD
+River Oaks TX PD
+Riverbend - Houston (TX)
+Roanoke TX PD
+Robertson County TX SO
+Robstown TX PD
+Rockport TX PD
+Rockwall County TX SO
+Rockwall TX PD
+Roman Forest TX PD
+Rosebud TX PD
+Rosenberg TX PD
+Round Rock TX PD
+Rowlett PD TX
+Rusk CO TX SO
+Sachse TX PD
+Saginaw TX PD
+Salado TX PD Inactive
+San Antonio TX PD
+San Benito TX PD
+San Patricio County TX SO
+Sansom Park TX PD
+Sarasota FL PD
+Schertz TX PD
+Scurry County TX SO
+Seabrook TX PD
+Seagoville TX PD
+Sealy TX PD
+Sedgwick KS PD
+Seguin TX PD
+Selma TX PD
+Shenandoah TX PD
+Sherman TX PD
+Smith County TX SO
+Snyder TX PD
+Sour Lake TX PD
+South Plains Auto Theft Task Force TX
+Southaven MS PD
+Southmayd TX PD
+Splendora TX PD
+Spring Branch TX ISD PD
+Spring ISD TX PD
+Spring Valley Village TX PD
+Stafford TX PD
+Stephenville TX PD
+Sterling County TX SO
+Sugar Land TX PD
+Sulphur Springs TX PD
+Sumner County TN SO
+Sunnyvale TX PD
+Sunset Valley TX PD
+Tarleton State University TX PD
+Tarrant County TX SO
+Tarrant Regional Water District TX PD
+Taylor County TX SO
+Temple TX PD
+Terrell TX PD
+Texarkana TX PD
+Texas Christian University PD TX
+Texas City TX PD
+Texas Department of Criminal Justice
+Texas Financial Crimes Intelligence Center
+Texas Medical Center PD
+The Colony TX PD
+Thrall City PD TX
+Titusville FL PD
+Tomball TX PD
+Travis County TX SO
+Trophy Club TX PD
+Trumann AR PD
+TX - Alpine PD
+TX - Alvin College Campus PD
+TX - Bangs PD
+TX - Baylor County SO
+TX - Bee County SO
+TX - Bellmead PD
+TX - Brazoria County
+TX - Brookshire PD
+TX - Bullard PD
+TX - Caddo Mills PD
+TX - Caldwell PD
+TX - City of Agua Dulce
+TX - City of Bandera
+TX - City of Town of Pecos
+TX - Clear Lake Shores PD
+TX - Clute PD
+TX - Collinsville PD
+TX - Commerce PD
+TX - Cuero PD
+TX - Duncanville Independent School District
+TX - Eastland County SO
+TX - Eastland PD
+TX - Gatesville PD
+TX - Groves PD
+TX - Gunter PD
+TX - Hallsville PD
+TX - Hollywood Park PD
+TX - Irion County SO
+TX - Jefferson County SO
+TX - Lee College Campus PD
+TX - Liberty County SO
+TX - Liberty PD
+TX - Loving County SO
+TX - Mount Enterprise PD
+TX - Mustang Ridge PD
+TX - Palmer PD
+TX - Robinson PD
+TX - San Saba County SO
+TX - Seymour PD
+TX - Shelby County SO
+TX - Silsbee PD
+TX - Sinton PD
+TX - Somervell County SO
+TX - Trinity County SO
+TX - Vidor PD
+TX - Wink PD
+TX- La Villa PD
+Tye TX PD
+Tyler Junior College Campus PD TX
+Tyler TX ISD PD
+Tyler TX PD
+Union Pacific Railroad PD
+Universal City TX PD
+University of Houston Downtown TX PD
+University of North Texas at Denton PD (TX)
+University of Texas at Dallas TX PD
+University of Texas at Tyler PD
+University of Texas Permian Basin PD
+University of TX (UTA)- Arlington PD
+University Park TX PD
+UT Southwestern Medical Center TX
+Van Alstyne TX PD
+Venus TX PD
+Villa Park IL PD
+Villages of Tour 18
+Waller County TX SO
+Waller TX PD
+Wallis TX PD
+Ward County TX SO
+Watauga TX PD
+Waxahachie TX PD
+Weatherford College Campus PD TX
+Webster TX PD
+West Columbia PD TX
+West Tawakoni TX PD
+Westworth Village TX PD
+Wharton PD TX
+White Settlement ISD TX PD
+White Settlement TX PD
+Wichita Falls TX PD
+Willis TX PD
+Wilson County TX SO
+Windcrest TX PD
+Winnsboro TX PD
+Wolfforth TX PD
+Wylie TX PD
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Ovilla TX PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+
+Provided by Flock Safety
