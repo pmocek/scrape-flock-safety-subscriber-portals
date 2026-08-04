@@ -1,0 +1,87 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+More Info
+Visit Flock.com
+Bridgewater VA PD
+Transparency Portal
+
+Last updated: Mon Aug 03 2026
+
+Overview
+
+Bridgewater PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Bridgewater PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Bridgewater PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+
+Community Impact
+Featured Success Stories
+
+Recent Success Stories
+
+- BPD had a rash of catalytic converters stolen in town as well around the surrounding areas. Through the work of our police department and the Flock service, we were able to identify the vehicle and track down the suspect through the cameras, ultimately leading to an arrest, multiple charges in 6 jurisdictions, and seizing $26,000 in cash from the offender from stolen catalytic sales.
+
+- Another recent crime involved a check fraud at a local bank; using the Flock service we were able to identify the vehicle from the little information that was provided from the teller and identify the vehicle owner and suspect within 20 minutes of the incident.
+
+-August 2023 Success Story: An expensive motorcycle helmet was stolen from outside of the 7-11 convenience store in Bridgewater. The stores cameras were only able to capture part of the truck, giving us the color and body style. Using our Flock camera system, we were able to observe a truck matching the color and body style leaving the town on Dinkel Avenue. Using the license plate from the Flock footage, we were able to identify the vehicle’s owner. Officers went to the suspects home retrieved the helmet. This case was solved, and the property was returned to its rightful owner.
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+5
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+70,669
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert, NCIC - VSP
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+44
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Bridgewater PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+More Info
+
+External Organizations with Access
+
+We currently do share data with other law enforcement agencies and for a complete list please contact our department.
+
+Provided by Flock Safety
