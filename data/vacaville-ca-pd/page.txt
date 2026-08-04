@@ -2,11 +2,11 @@ Transparency Portal
 Community Impact
 Policy & Trust
 More Info
-Visit Flock.com
+Visit Flock
 Vacaville CA PD
 Transparency Portal
 
-Last updated: Mon Aug 03 2026
+Last updated: Tue Aug 04 2026
 
 Overview
 
@@ -31,13 +31,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-1,594,367
+1,596,541
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-1,278
+1,252
 
 Hotlists Alerted On
 
@@ -49,7 +49,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-19,943
+19,965
 
 Sharing Network Data With
 
@@ -141,6 +141,7 @@ Roseville CA PD
 Sacramento CA DA
 Sacramento County CA SO
 San Bruno CA PD
+San Diego County District Attorney
 San Francisco CA PD
 San Francisco District Attorney CA
 San Leandro CA PD

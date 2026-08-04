@@ -2,11 +2,11 @@ Transparency Portal
 Community Impact
 Policy & Trust
 More Info
-Visit Flock.com
+Visit Flock
 VA - George Mason University Campus PD
 Transparency Portal
 
-Last updated: Mon Aug 03 2026
+Last updated: Tue Aug 04 2026
 
 Overview
 
@@ -31,7 +31,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-76,040
+75,715
 
 Number of Searches
 
@@ -49,7 +49,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-45
+46
 Policy & Trust
 
 What's Detected
