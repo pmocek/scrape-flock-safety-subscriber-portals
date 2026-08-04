@@ -2,11 +2,11 @@ Transparency Portal
 Community Impact
 Policy & Trust
 More Info
-Visit Flock.com
+Visit Flock
 Sterling Heights MI PD
 Transparency Portal
 
-Last updated: Mon Aug 03 2026
+Last updated: Tue Aug 04 2026
 
 Overview
 
@@ -15,13 +15,15 @@ Sterling Heights MI PD uses Flock Safety technology to capture objective evidenc
 Community Impact
 Featured Success Stories
 
-Success Story
+Department Searches for July, 2026
 
-In October 2023 a subject went into House of Chan and stole the tip jar off the counter. Employees were able to provide a description of a possible vehicle and suspect. The Detective was able to search FLOCK based on vehicle description and partial plate. A suspect was identified and charged with Larceny in a Building (4 year felony).
+When an incident occurs, multiple officers could be performing a search on the same vehicle. With that in mind, there were 266 searches to assist in hit and run accidents, 72 searches for stolen vehicles, 29 searches related to robberies, and 17 searches to assist in locating missing or endangered persons.
 
-Success Story
+Flock was utilized in locating and arresting a subject that had committed a bank robbery while driving a stolen vehicle from another jurisdiction. The arrested subject was from another state so the quick utilization of Flock, allowed an arrest prior to the suspect fleeing the state.
 
-In July 2025 Officers responded to a physical assault at Dream Market. Two suspects were fighting with a victim in the parking lot after a verbal altercation. The suspects left the scene. With only a vehicle description a road officer was able to track the vehicle down in FLOCK and the suspects were identified. Court proceedings pending.
+Flock was utilized in identifying suspects that had committed a strong armed robbery of an elderly victim of jewelry. The same suspects had committed the same type of robbery in a neighboring jurisdiction.
+
+Flock was utilized to apprehend a subject that was committing aggravated stalking. Flock allowed the officers to apprehend the suspect and give the victim a sense of relief.
 Data & Usage Summary
 
 Data Retention
@@ -40,7 +42,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-421
+429
 
 Hotlists Alerted On
 
