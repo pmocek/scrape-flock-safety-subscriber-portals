@@ -1,0 +1,92 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+More Info
+Visit Flock.com
+Green Bay WI PD
+Transparency Portal
+
+Last updated: Mon Aug 03 2026
+
+Overview
+
+The Green Bay Police Department (GBPD) is using Flock Automatic License Plate Readers (ALPRs) to help detect and reduce crime in our community. Flock ALPRs are stationary ALPR cameras located within Municipal - Right of Ways and are self-sufficient. They are powered by solar panels and send image information through government-standard encrypted cell signals. The ALPRs capture objective evidence without compromising individual privacy. The GBPD utilizes retroactive searches to solve crimes after they have occurred. These cameras are not used for traffic enforcement. Additionally, GBPD utilizes real-time alerting of hotlist vehicles to capture wanted criminals and missing endangered children and adults. To ensure proper usage and guardrails are in place, the GBPD has our policies and usage statistics available to the public here on the GBPD website at www.gbpolice.org under Inside GBPD.
+
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+46
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+462,388
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+454
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCIC, NCMEC Amber Alert, Wisconsin DOJ
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+9,634
+
+Sharing Network Data With
+
+Organizations granted access to Green Bay WI PD data.
+
+Brown County WI SO
+De Pere WI PD
+University of Wisconsin - Green Bay WI PD
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Green Bay WI PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+More Info
+
+ALPR and Police Policies Access:
+
+https://www.greenbaywi.gov/1223/Policy-Manual
+
+Provided by Flock Safety
