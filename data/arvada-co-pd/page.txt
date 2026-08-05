@@ -1,0 +1,342 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+More Info
+Visit Flock
+Arvada CO PD
+Transparency Portal
+
+Last updated: Wed Aug 05 2026
+
+Overview
+
+The Arvada Police Department utilizes Flock Automated License Plate Reader (ALPR) cameras to support criminal investigations and enhance community safety. These stationary cameras only capture still images of license plates as well as key vehicle characteristics, including color, make, and unique identifying features such as bumper/window stickers, top/back racks, or tool boxes. This information is often crucial when suspects remove or alter license plates to avoid detection. By allowing investigators to search for distinctive vehicle traits, ALPR technology helps us more efficiently identify suspects, recover stolen vehicles, and solve crimes, often without escalating encounters or putting the public at additional risk.
+
+
+The Arvada Police Department is committed to protecting individual privacy and ensuring all technology is used lawfully and responsibly. Our ALPR practices operate within clear constitutional boundaries and are guided by long-standing principles of public safety, accountability, and transparency. In accordance with department policy, all Flock data and images are automatically deleted after 30 days, unless they are preserved as evidence in an active investigation. This limited retention period ensures an appropriate balance between investigative effectiveness and privacy protections.
+
+
+Community Impact
+Featured Success Stories
+
+Recent Success Stories
+
+The summaries below provide real examples of how ALPR data has contributed to arrests, vehicle recoveries and investigative breakthroughs, including violent crime cases. These examples also demonstrate how the system is used responsibly, including instances where alerts helped exonerate someone and prevent unnecessary enforcement action.
+
+
+Cases are listed in chronological order, beginning with the most recent.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AR26002067 | Jan. 28, 2026 | Suspicious Incident
+
+Police received a report that an individual was seen dragging what appeared to be a person into a minivan. Officers responded but were unable to locate the vehicle. During an area canvass, investigators obtained surveillance video showing a white male exiting a gray minivan on West 57th Avenue. The male placed a backpack on a bench inside Wolff Park, returned to the vehicle, then appeared to drag an unconscious or possibly deceased person to the rear and opposite side of the minivan before placing the individual back inside and driving westbound.
+
+Based on the video, the situation appeared extremely concerning and potentially involved a homicide. Investigators searched Flock ALPR cameras in the area and located the minivan. Using the captured license plate, officers contacted the registered owner and determined the driver had picked up a family member experiencing substance abuse issues and initially wanted to drop him in the park to sleep. The driver then became concerned and transported the family member to a hospital for medical attention, which investigators confirmed with hospital staff.
+
+Impact: ALPR technology allowed investigators to quickly identify the vehicle and determine that no crime had occurred. Without ALPR data, the incident could have remained an active and resource-intensive investigation involving a suspected body disposal.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AR2600018 | Jan. 1, 2026 | Auto Theft
+
+
+A Flock alert identified a stolen vehicle at Home Depot. The vehicle was later located near Harkins Theatre, and the suspect was taken into custody.
+
+
+Impact: ALPR provided real-time location information that led to rapid recovery of the vehicle and the arrest of the suspect.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AR25022781 | Dec. 26, 2025 | Recovered Stolen Vehicle
+
+
+A Flock alert notified officers that a stolen vehicle was in the area. When officers attempted contact, the suspects fled and crashed before fleeing on foot. Evidence was recovered from the scene, and the investigation continued.
+
+
+Impact: ALPR allowed officers to quickly locate a stolen vehicle, resulting in recovery and additional investigative evidence.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AR25022515 | Dec. 21, 2025 | Felony Menacing
+
+
+An ALPR camera alerted officers to a vehicle connected to a hit-and-run investigation. Officers attempted contact with the suspect, who produced an edged weapon and barricaded himself inside the van. After negotiations, the suspect surrendered and was jailed on felony menacing and related charges.
+
+
+Impact: ALPR helped officers locate a suspect and resolve a dangerous situation safely.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AR25017866 | Oct. 11, 2025 | Carjacking / Attempted Homicide
+
+
+After a shooting, suspects stole the victim’s vehicle. The Jefferson County Sheriff’s Office monitored Flock alerts and was notified when the vehicle passed a camera. Deputies located and pursued the vehicle, ultimately arresting both suspects.
+
+
+Impact: Regional ALPR collaboration enabled rapid cross-jurisdictional identification and arrest in a violent felony case.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AR25017405 | Oct. 4, 2025 | Attempted Murder
+
+
+Detectives investigated a shooting involving two vehicles. Through interviews, one vehicle was determined to be uninvolved. The suspect vehicle was identified using ALPR data. Investigators noted that the ALPR identification was the first critical lead in the case. Without it, the investigation likely would have stalled. The identification ultimately led to the arrest of the shooter.
+
+
+Impact: ALPR served as the key investigative breakthrough that led to a successful arrest in a shooting case.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AR25008595 | May 22, 2025 | Vehicular Assault
+
+
+A teenage couple became involved in an argument. During the incident, the female jumped onto the hood of a white Chevrolet, fell off and was run over, sustaining serious injuries including a broken pelvis. The driver fled. Officers used Flock cameras in the area to identify the vehicle and obtain a license plate number. That information allowed investigators to locate and later charge the driver.
+
+
+Impact: ALPR data quickly identified a fleeing vehicle in a serious injury case, resulting in the arrest of a suspect.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AR25007636 | May 8, 2025 | Fatal Hit-and-Run
+
+
+A person using a personal mobility chair was struck and killed by a pickup truck whose driver fled the scene. Investigators searched nearby Flock cameras and quickly identified a possible suspect vehicle and license plate. Additional ALPR data helped investigators determine it was not with the registered owner, leading to identification and arrest of the suspect.
+
+
+Impact: ALPR provided critical early leads in a fatal crash investigation, accelerating suspect identification.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AR25022885 | April 28, 2025 | Auto Theft (Exclusionary Use)
+
+
+A Flock alert indicated a stolen vehicle at Home Depot. Officers contacted the driver inside the store. The investigation revealed the driver had permission to possess the vehicle and that the stolen entry from another jurisdiction was incorrect. The alert allowed officers to safely resolve the issue without incident.
+
+
+Impact: ALPR enabled officers to clear a records error and prevent unnecessary escalation.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AR25007074 | April 28, 2025 | Auto Theft (Exclusionary Use)
+
+
+A Flock alert identified a stolen work van traveling on Ralston Road. Before initiating a stop, officers contacted the registered owner, who confirmed he was driving the vehicle and had mistakenly reported it stolen.
+
+
+Impact: ALPR allowed officers to verify information before taking enforcement action, preventing an unnecessary stop.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AR25006276 | April 15, 2025 | Auto Theft / Felony Menacing
+
+
+An officer received a Flock alert while patrolling for a stolen vehicle. The vehicle was found occupied at an apartment complex. The female driver was arrested for First-Degree Motor Vehicle Theft. A second stolen vehicle parked next to it was also recovered. Evidence related to a felony menacing case involving a firearm from the previous night was recovered from one of the vehicles.
+
+
+Impact: One ALPR alert led to two stolen vehicle recoveries, an arrest and evidence recovery tied to a violent crime.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AR25004818 | March 22, 2025 | Felony Warrants
+
+
+An ALPR alert identified a stolen license plate. Officers located the vehicle and contacted the occupants. Both were arrested on outstanding felony warrants.
+
+
+Impact: ALPR facilitated the safe apprehension of wanted individuals.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AR25002192 | Feb. 7, 2025 | Auto Theft
+
+
+An ALPR alert identified a stolen vehicle. The suspect was located and charged with motor vehicle theft and drug possession.
+
+
+Impact: ALPR supported vehicle recovery and the arrest of the suspect.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AR25000692 | Jan. 13, 2025 | Armed Carjacking (Juvenile Suspects)
+
+
+Juveniles pistol-whipped a driver at a Lakewood gas station and stole his Jeep at gunpoint. Shortly after, a Flock camera later detected the stolen Jeep in Arvada. Officers located the vehicle, and after a brief pursuit, safely stopped it. Three juvenile suspects were taken into custody. A .40-caliber Glock handgun equipped with an illegal auto switch was recovered. Two suspects were linked to additional auto theft investigations.
+
+
+Impact: ALPR detection enabled rapid identification and safe apprehension of armed carjacking suspects.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AR24018646 | Nov. 1, 2024 | Auto Theft
+
+
+An ALPR alert identified a stolen vehicle. Contact with the occupants resulted in one arrest for motor vehicle theft and another arrest on outstanding warrants.
+
+
+Impact: ALPR contributed to stolen vehicle recovery and the arrest of wanted individuals.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AR24015422 | Sept. 8, 2024 | Vehicular Assault
+
+
+Following a vehicle sale dispute, a suspect intentionally struck a motorcyclist. Investigators searched ALPR cameras for a matching vehicle description. The search identified the suspect vehicle, including matching damage. Later that day, another agency recovered the vehicle, and the driver was arrested.
+
+
+Impact: ALPR provided rapid suspect vehicle identification in an intentional assault case.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AR23012579 | Aug. 8, 2023 | At-Risk Adult / Cybercrime Investigation
+
+
+An ALPR alert identified a vehicle connected to an active investigation involving theft from an at-risk adult, identity theft and a theft series. Officers contacted the suspects based on the alert, and charges were filed.
+
+
+Impact: ALPR helped investigators locate suspects involved in financial exploitation of a vulnerable community member.
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Number of ALPR cameras
+
+Number of LPR and other cameras.
+
+16
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+675,705
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+214
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCIC, NCMEC Amber Alert, Colorado Crime Information Center (CCIC)
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+6,974
+
+Sharing Network Data With
+
+Organizations granted access to Arvada CO PD data.
+
+Adams County CO SO
+Arapahoe County CO SO
+Aurora CO PD
+Avon CO PD
+Boulder CO PD
+Boulder County CO SO
+Brighton CO PD
+Broomfield CO PD
+Castle Rock CO PD
+Chaffee County CO SO
+Cherry Hills Village CO PD
+Clear Creek County CO SO
+CO - Colorado Bureau of Investigation
+CO - Keenesburg PD
+CO - Rangely PD
+Colorado State Parks
+Colorado State Patrol
+Commerce City CO PD
+Custer County CO SO
+Dacono CO PD
+Douglas County CO SO
+Douglas County Open Spaces & Natural Resources CO
+Durango CO PD
+Edgewater CO PD
+El Paso CO SO
+Elizabeth CO PD
+Englewood CO PD
+Firestone CO PD
+Fountain CO PD
+Fraser/Winter Park CO PD
+Frederick CO PD
+Garfield County CO SO
+Georgetown CO PD
+Glenwood Springs CO PD
+Golden CO PD
+Grand County CO SO
+Grand Junction CO PD
+Greeley CO PD
+Gunnison County CO SO
+Hotchkiss CO PD
+Hudson CO PD
+Idaho Springs CO PD
+Jefferson County Attorney's Office (CO)
+Jefferson County CO SO
+Johnstown CO PD
+Lafayette CO PD
+Lakewood CO PD
+Larimer County CO SO
+Lochbuie CO PD
+Lone Tree CO PD
+Loveland CO PD
+Mead CO PD
+Mesa County CO SO
+Moffat County SO CO
+Montrose CO PD
+Morrison CO PD
+Mountain Village PD (CO)
+Parker CO PD
+Pueblo CO PD
+Routt County CO SO
+Salida CO PD
+Silt CO PD
+Summit County Sheriff's Office (CO)
+Thornton CO PD
+Timnath CO PD
+Town of Lyons CO
+Town of Superior CO PD
+University of Colorado Anschutz Medical Campus CO PD
+Vail CO PD
+Weld County CO SO
+Westminster CO PD
+Windsor CO PD
+Policy & Trust
+
+Acceptable use policy
+
+All ALPR data and images are used solely for official law enforcement purposes, including preventing and investigating crime. Because this information may contain sensitive details, it is not available for public review. All data is owned by the Arvada Police Department and is never sold to any third party.
+
+Prohibited uses
+
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), personal use, or for any other use prohibited by related Department policies and/or state and federal laws.
+
+Access policy
+
+Persons approved to access ALPR data under Department policy are permitted to access the data for legitimate law enforcement purposes only, such as when the data relate to a specific criminal investigation or department-related civil or administrative action. ALPR system audits are conducted on a regular basis. Such audits will ensure that the ALPR system is used only by authorized personnel, and that the ALPR data is administered, managed, and stored in compliance with all applicable security and authentication requirements and applicable law.
+
+
+Hotlist policy
+
+Hotlists are databases of license plates linked to stolen vehicles, wanted persons, AMBER Alerts, and other law-enforcement alerts. They may also include locally created lists or plates manually added by authorized users for active investigations. Hotlists help officers identify vehicles connected to crimes or safety concerns and support both investigative work and officer safety. Hotlist leads must be verified by a human prior to any official actions.
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+More Info
+
+Arvada Police Department ALPR Policy
+
+The Arvada Police Department's ALPR policy (Policy Manual 460) is available for public review on our website (https://public.powerdms.com/APD10/documents/819542). The policy outlines how ALPR data is collected, accessed, used, and retained. The Arvada Police Department remains dedicated to transparency, responsible technology use, and safeguarding the trust of the community we serve.
+
+Provided by Flock Safety
