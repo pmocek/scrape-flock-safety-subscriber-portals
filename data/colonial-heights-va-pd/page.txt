@@ -1,0 +1,78 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+Colonial Heights VA PD
+Transparency Portal
+
+Last updated: Tue Aug 04 2026
+
+Overview
+
+Colonial Heights VA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Colonial Heights VA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Colonial Heights VA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+13
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+293,663
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+219
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert, NCIC - VSP
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+918
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Colonial Heights VA PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+
+Provided by Flock Safety

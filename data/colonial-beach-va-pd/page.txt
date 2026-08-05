@@ -1,0 +1,164 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+More Info
+Visit Flock
+Colonial Beach VA PD
+Transparency Portal
+
+Last updated: Tue Aug 04 2026
+
+Overview
+
+Colonial Beach VA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Colonial Beach VA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Colonial Beach VA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+4
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+27,570
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+12
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert, NCIC - VSP
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+7
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Colonial Beach VA PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+More Info
+
+Additional Information
+
+Automated License Plate Readers (ALPRs)
+427.1 VERSION
+Review Date Effective Date Approving Authority Revised Date
+12/1/23 05/11/2023 Les J. Parsons, Chief of
+
+Police
+
+12/9/24
+
+427.2 PURPOSE AND SCOPE
+The purpose of this policy is to provide guidance for the capture, storage and use of digital data
+obtained through the use of Automated License Plate Reader (ALPR) technology.
+427.3 POLICY
+The policy of the Colonial Beach Police Department is to utilize ALPR technology to capture and
+store digital license plate data and images while recognizing the established privacy rights of the
+public.
+All data and images gathered by the ALPR are for the official use of this department. Because
+such data may contain confidential information, it is not open to public review.
+427.4 ADMINISTRATION
+The ALPR technology, also known as License Plate Recognition (LPR), allows for the automated
+detection of license plates. It is used by the Colonial Beach Police Department to convert data
+associated with vehicle license plates for official law enforcement purposes, including identifying
+stolen or wanted vehicles, stolen license plates and missing persons. It may also be used to
+gather information related to active warrants, homeland security, electronic surveillance, suspect
+interdiction and stolen property recovery.
+All installation and maintenance of ALPR equipment, as well as ALPR data retention and access,
+shall be managed by the Patrol Operations Commander. The Patrol Operations Commander will
+assign members under his/her command to administer the day-to-day operation of the ALPR
+equipment and data.
+427.5 OPERATIONS
+Use of an ALPR is restricted to the purposes outlined below. Department members shall not use,
+or allow others to use, the equipment or database records for any unauthorized purpose.
+(a) An ALPR shall only be used for official law enforcement business.
+(b) An ALPR may be used in conjunction with any routine patrol operation or criminal
+investigation. Reasonable suspicion or probable cause is not required before using
+an ALPR.
+(c) While an ALPR may be used to canvass license plates around any crime scene,
+particular consideration should be given to using ALPR-equipped vehicles to canvass
+areas around homicides, shootings and other major incidents. Partial license plates
+reported during major crimes should be entered into the ALPR system in an attempt
+to identify suspect vehicles.
+(d) No member of this department shall operate ALPR equipment or access ALPR data
+without first completing department-approved training.
+(e) No ALPR operator may access confidential department, state or federal data unless
+authorized to do so.
+(f) If practicable, the officer should verify an ALPR response through the appropriate
+official law enforcement database before taking enforcement action that is based
+solely on an ALPR alert.
+
+427.6 DATA COLLECTION AND RETENTION
+The Patrol Operations Commander is responsible for ensuring systems and processes are in
+place for the proper collection and retention of ALPR data. Data will be transferred from vehicles
+to the designated storage in accordance with department procedures.
+All stored ALPR data should be retained in accordance with the established records retention
+schedule. Thereafter, ALPR data should be purged unless it has become, or it is reasonable to
+believe it will become, evidence in a criminal or civil action or is subject to a discovery request
+or other lawful action to produce records. In those circumstances, the applicable data should be
+downloaded onto portable media and booked into evidence.
+427.7 ACCOUNTABILITY
+All data will be closely safeguarded and protected by both procedural and technological means.
+The Colonial Beach Police Department will observe the following safeguards regarding access
+to and use of stored data:
+(a) All ALPR data downloaded to the mobile workstation and in storage shall be accessible
+only through a login/password-protected system capable of documenting all access
+of information by name, date and time.
+(b) Members approved to access ALPR data under these guidelines are permitted to
+access the data for legitimate law enforcement purposes only, such as when the data
+relate to a specific criminal investigation or department-related civil or administrative
+action.
+(c) ALPR system audits should be conducted on a regular basis.
+427.8 RELEASING ALPR DATA
+The ALPR data may be shared only with other law enforcement or prosecutorial agencies
+for official law enforcement purposes or as otherwise permitted by law, using the following
+procedures: (a) The agency makes a written request for the ALPR data that includes:
+1. The name of the agency.
+2. The name of the person requesting.
+3. The intended purpose of obtaining the information.
+(b) The request is reviewed by the Patrol Operations Commander.
+(c) The approved request is retained on file.
+Requests for ALPR data by non-law enforcement or non-prosecutorial agencies will be processed
+as provided in the Records Maintenance and Release Policy.
+
+Provided by Flock Safety
