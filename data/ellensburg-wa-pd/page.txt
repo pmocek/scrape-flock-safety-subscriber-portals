@@ -1,11 +1,11 @@
 Transparency Portal
 Community Impact
 Policy & Trust
-Visit Flock.com
+Visit Flock
 Ellensburg WA PD
 Transparency Portal
 
-Last updated: Mon Aug 03 2026
+Last updated: Tue Aug 04 2026
 
 Overview
 
@@ -30,19 +30,19 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-163,533
+163,635
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-44
+45
 
 Flock indications in the last 30 days
 
 Total hotlist hits over the last 30 days.
 
-102
+106
 Policy & Trust
 
 What's Detected
