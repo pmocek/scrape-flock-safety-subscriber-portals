@@ -1,0 +1,182 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+Urbandale IA PD
+Transparency Portal
+
+Last updated: Wed Aug 05 2026
+
+Overview
+
+Urbandale IA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Urbandale IA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Urbandale IA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+28
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+426,804
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+163
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCIC, NCMEC Amber Alert
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+5,938
+
+Sharing Network Data With
+
+Organizations granted access to Urbandale IA PD data.
+
+Altoona IA PD
+Ankeny IA PD
+Anoka County MN SO
+AR - Alma PD
+Arnolds Park IA PD
+Bettendorf IA PD
+Blue Springs MO PD
+Branson MO PD
+Burlington IA PD
+Camanche IA PD
+Cape Girardeau MO PD
+Carlisle IA PD
+Carter Lake IA PD
+Cedar County IA SO
+Cedar Rapids IA PD
+Chatham IL PD
+Clarke County IA SO
+Clay County MO SO
+Clear Lake IA PD
+Clinton IA PD
+Clive IA PD
+Coralville IA PD
+Council Bluffs IA PD
+Davenport IA PD
+Des Moines IA PD
+DeWitt IA PD
+Dubuque IA PD
+Earlham IA PD
+El Dorado KS PD
+Excelsior Springs MO PD
+Fremont County IA SO
+Fridley MN PD
+Glenwood IA PD
+Grant County WI SO
+Greene County MO SO
+Greenfield WI PD
+Greenwood AR PD
+Hopkins MN PD
+Houston TX PD
+IA - Eldridge PD
+IA - Storm Lake PD
+Indianola IA PD
+Iowa Department of Corrections
+Iowa Department of Public Safety (IA)
+Iowa State University IA PD
+Jasper County Sheriff IA
+Johnston IA PD
+Justice IL PD
+Kankakee County IL SO
+Kearney NE PD
+Lansing IL PD
+Le Mars IA PD
+Lee's Summit MO PD
+Madison SD PD
+Mar Mac IA PD
+Marcus IA PD
+Marshall County IA SO
+Marshalltown IA PD
+MOCIC
+Mounds View MN PD
+New York State Police NY
+Newton IA PD
+North Liberty IA PD
+Norwalk IA PD
+Odessa MO PD
+Oelwein IA PD
+Osceola IA PD
+Pea Ridge AR PD
+Pleasant Hill IA PD
+Polk City IA PD
+Polk County Conservation IA
+Pottawattamie County IA SO
+Richmond MO PD
+Rock County WI SO
+Russellville AR PD
+Sarpy County NE SO
+Sauk Village IL PD
+Sergeant Bluff IA PD
+Sioux City IA PD
+Springfield MO PD
+Texas Financial Crimes Intelligence Center
+Tipton IA PD
+University of Iowa PD (IA)
+Wapello County IA SO
+Warren County IA SO
+Washington IA PD
+Waukee IA PD
+Waukon IA PD
+West Des Moines IA PD
+West Hennepin MN Public Safety Department
+Whiting IA PD
+WI Department of Justice
+Woodbury County IA SO
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Urbandale IA PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+
+Provided by Flock Safety
