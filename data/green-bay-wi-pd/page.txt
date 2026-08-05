@@ -2,11 +2,11 @@ Transparency Portal
 Community Impact
 Policy & Trust
 More Info
-Visit Flock.com
+Visit Flock
 Green Bay WI PD
 Transparency Portal
 
-Last updated: Mon Aug 03 2026
+Last updated: Tue Aug 04 2026
 
 Overview
 
@@ -31,13 +31,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-462,388
+460,015
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-454
+472
 
 Hotlists Alerted On
 
