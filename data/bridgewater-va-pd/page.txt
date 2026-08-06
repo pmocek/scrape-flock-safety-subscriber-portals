@@ -2,11 +2,11 @@ Transparency Portal
 Community Impact
 Policy & Trust
 More Info
-Visit Flock.com
+Visit Flock
 Bridgewater VA PD
 Transparency Portal
 
-Last updated: Mon Aug 03 2026
+Last updated: Wed Aug 05 2026
 
 Overview
 
@@ -40,7 +40,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-70,669
+69,937
 
 Hotlists Alerted On
 
@@ -52,7 +52,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-44
+37
 Policy & Trust
 
 What's Detected
