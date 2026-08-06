@@ -1,11 +1,11 @@
 Transparency Portal
 Community Impact
 Policy & Trust
-Visit Flock.com
+Visit Flock
 College Station TX PD
 Transparency Portal
 
-Last updated: Mon Aug 03 2026
+Last updated: Wed Aug 05 2026
 
 Overview
 
@@ -77,13 +77,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-741,882
+738,366
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-276
+285
 
 Hotlists Alerted On
 
@@ -95,7 +95,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-7,660
+7,499
 
 Sharing Network Data With
 
@@ -373,7 +373,6 @@ Manvel TX PD
 Marble Falls TX PD
 Marshall TX PD
 Martin County TX SO
-Maverick County TX SO
 Maypearl TX PD
 McKinney TX PD
 Meadows Place TX PD
@@ -1101,6 +1100,8 @@ Orlando FL PD
 Ouachita Parish LA SO
 Oviedo FL PD
 Ovilla TX PD
+Owner's Association of Patriot Estates
+Inc (TX)
 Oxford AL PD
 Palatka FL PD
 Palestine TX PD
