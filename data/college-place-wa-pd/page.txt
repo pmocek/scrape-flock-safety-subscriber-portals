@@ -1,11 +1,11 @@
 Transparency Portal
 Community Impact
 Policy & Trust
-Visit Flock.com
+Visit Flock
 College Place WA PD
 Transparency Portal
 
-Last updated: Mon Aug 03 2026
+Last updated: Thu Aug 06 2026
 
 Overview
 
@@ -30,7 +30,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-71,924
+71,123
 
 Number of Searches
 
