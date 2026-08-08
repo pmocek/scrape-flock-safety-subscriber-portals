@@ -6,7 +6,7 @@ Visit Flock
 Jacksonville AR PD
 Transparency Portal
 
-Last updated: Fri Aug 07 2026
+Last updated: Sat Aug 08 2026
 
 Overview
 
@@ -37,13 +37,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-127,364
+127,011
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-95
+94
 
 Hotlists Alerted On
 
@@ -55,7 +55,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-2,843
+2,806
 
 Sharing Network Data With
 
@@ -580,7 +580,6 @@ Lantana FL PD
 Las Vegas NM PD
 Lauderdale County MS SO
 Lavon TX PD
-Lawrence County MO SO
 Lawrenceville GA PD
 Lea County NM SO
 Leake County MS SO
@@ -1205,7 +1204,6 @@ Brighton AL PD
 Brookhaven GA PD
 Bryant AR PD
 Bullitt County KY SO
-Cabot AR PD
 Calera AL PD
 Calhoun County AL SO
 Calhoun County AR SO
