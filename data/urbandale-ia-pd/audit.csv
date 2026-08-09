@@ -1,6 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"e388c6be-4c59-419b-b2f7-69925857bb71","***","2026-07-09T19:19:26.033Z","567","Hit and Run/Car Accident"
-"a5584d1b-8b07-45e5-a38e-4b5a6029e16a","***","2026-07-09T19:24:41.592Z","567","Hit and Run/Car Accident"
 "af273ff8-e8c0-4ec2-8257-6d5ba3e985fb","***","2026-07-10T06:10:20.585Z","8","Threats/Harassment"
 "9131cf84-70d2-4b7f-87bd-3d97ed46ae36","***","2026-07-10T14:41:58.939Z","567","Protective/Protection Order"
 "4f676af9-1978-4cac-99f4-1e7476a08e84","***","2026-07-10T15:15:02.365Z","567","Protective/Protection Order"
@@ -161,3 +159,4 @@
 "91a61335-3080-416a-be97-1f86faa9fac6","***","2026-08-07T11:45:06.977Z","1","City Planning/Traffic Analysis"
 "8f4b8bd2-a60a-4a7c-968e-871dd2fab5c2","***","2026-08-07T16:18:11.060Z","541","City Planning/Traffic Analysis"
 "a53972d3-f63f-44fb-bece-898035644b7b","***","2026-08-07T22:49:58.948Z","6018","Traffic Infraction"
+"2e4d0899-62b6-41ec-9124-2eef60da40a8","***","2026-08-08T20:53:20.456Z","79","Motor Vehicle Theft/Stolen"
