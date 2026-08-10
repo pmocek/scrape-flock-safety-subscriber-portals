@@ -1,6 +1,4 @@
 "id","userId","searchDate","networkCount","reason","offenseType"
-"6de75219-83db-453f-81cc-60adabdc6879","***","2026-07-10T21:40:40.076Z","1","","Larceny/Theft Offenses"
-"5f73668a-5394-4525-ae28-aa6868e2ff3a","***","2026-07-10T22:46:07.817Z","1","","Hit and Run/Car Accident"
 "c3e011fe-5b7a-4ba9-af1b-248a91d9b8e5","***","2026-07-11T18:21:16.615Z","67","stolen","Motor Vehicle Theft/Stolen"
 "19e3dfe0-dea8-414f-b34f-339583226c61","***","2026-07-11T20:06:14.162Z","62","","Driving Under the Influence (DUI/DWI/OWI/OVI)"
 "063cd142-1310-4b22-86e6-6b78f0716454","***","2026-07-11T21:54:35.129Z","61","","Wanted Person (Arrest Warrant/Fugitive)"
@@ -171,3 +169,5 @@
 "c5f61151-f1b6-4583-8b60-4f408563bc05","***","2026-08-07T23:14:56.856Z","1","","Hit and Run/Car Accident"
 "ee5dba48-6c7e-4287-9f6b-06371d491bdf","***","2026-08-08T00:26:43.604Z","35","","Larceny/Theft Offenses"
 "321f1c26-a433-43e1-a187-b2fe51d1d17e","***","2026-08-08T02:43:40.484Z","51","","Weapons Offense (Guns/Shots Fired)"
+"b8e55c73-2938-4a3b-9bb4-95de8f0775c7","***","2026-08-09T02:11:17.489Z","51","","Larceny/Theft Offenses"
+"eda82dd3-7a47-4e24-a905-6f97c629b737","***","2026-08-09T13:22:54.178Z","51","","Stolen Property Offenses"
