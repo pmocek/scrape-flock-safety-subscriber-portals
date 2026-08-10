@@ -5,7 +5,7 @@ Visit Flock
 Lynn Haven FL PD
 Transparency Portal
 
-Last updated: Sun Aug 09 2026
+Last updated: Mon Aug 10 2026
 
 Overview
 
@@ -37,7 +37,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-176,057
+173,960
 
 Number of Searches
 
@@ -55,7 +55,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-21,939
+21,661
 
 Sharing Network Data With
 
