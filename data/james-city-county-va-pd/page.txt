@@ -5,7 +5,7 @@ Visit Flock
 James City County VA PD
 Transparency Portal
 
-Last updated: Sun Aug 09 2026
+Last updated: Mon Aug 10 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-246,626
+247,271
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-269
+258
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,182
+1,152
 Policy & Trust
 
 What's Detected

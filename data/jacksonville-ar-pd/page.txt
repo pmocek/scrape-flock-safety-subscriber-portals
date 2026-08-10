@@ -6,7 +6,7 @@ Visit Flock
 Jacksonville AR PD
 Transparency Portal
 
-Last updated: Sun Aug 09 2026
+Last updated: Mon Aug 10 2026
 
 Overview
 
@@ -37,7 +37,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-126,864
+125,742
 
 Number of Searches
 
@@ -55,7 +55,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-2,775
+2,724
 
 Sharing Network Data With
 
