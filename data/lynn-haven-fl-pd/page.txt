@@ -5,7 +5,7 @@ Visit Flock
 Lynn Haven FL PD
 Transparency Portal
 
-Last updated: Mon Aug 10 2026
+Last updated: Tue Aug 11 2026
 
 Overview
 
@@ -37,13 +37,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-173,960
+172,620
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-57
+52
 
 Hotlists Alerted On
 
@@ -55,7 +55,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-21,661
+21,565
 
 Sharing Network Data With
 
@@ -437,7 +437,6 @@ Dallas County AR SO
 Dallas GA PD
 Dallas TX PD
 Dalton GA PD
-Damascus VA PD
 Dandridge TN PD
 Danielsville GA PD
 Danville IN PD
