@@ -6,7 +6,7 @@ Visit Flock
 Jacksonville AR PD
 Transparency Portal
 
-Last updated: Mon Aug 10 2026
+Last updated: Tue Aug 11 2026
 
 Overview
 
@@ -37,7 +37,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-125,742
+124,973
 
 Number of Searches
 
@@ -55,7 +55,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-2,724
+2,697
 
 Sharing Network Data With
 
@@ -988,7 +988,6 @@ St. Peters MO PD
 St. Tammany Parish LA SO
 Stafford County KS SO
 Steele AL PD
-Stephenson County IL SO
 Sterling Heights MI PD
 Stevens Point WI PD
 Stillwater MN PD
