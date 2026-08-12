@@ -5,7 +5,7 @@ Visit Flock
 Roseburg OR PD
 Transparency Portal
 
-Last updated: Tue Aug 11 2026
+Last updated: Wed Aug 12 2026
 
 Overview
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-178,622
+177,944
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-172
+171
 
 Hotlists Alerted On
 
@@ -120,7 +120,6 @@ San Luis AZ PD
 Sarasota FL PD
 Somerton AZ PD
 Springfield OR PD
-Sumner County TN SO
 Sutherlin OR PD
 Wichita Falls TX PD
 Winston OR PD
