@@ -5,7 +5,7 @@ Visit Flock
 Coldwater MI PD
 Transparency Portal
 
-Last updated: Mon Aug 10 2026
+Last updated: Tue Aug 11 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-104,677
+102,405
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-12
+13
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-149
+144
 
 Sharing Network Data With
 
@@ -1607,7 +1607,6 @@ Stark County SO
 Starke County IN SO
 Ste. Genevieve County MO SO
 Steger IL PD
-Stephenson County IL SO
 Sterling Heights MI PD
 Sterling IL PD
 Stevens Point WI PD
