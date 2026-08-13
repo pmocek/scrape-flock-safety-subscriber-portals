@@ -6,7 +6,7 @@ Visit Flock
 Jacksonville AR PD
 Transparency Portal
 
-Last updated: Wed Aug 12 2026
+Last updated: Thu Aug 13 2026
 
 Overview
 
@@ -37,7 +37,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-124,902
+125,381
 
 Number of Searches
 
@@ -55,7 +55,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-2,690
+2,704
 
 Sharing Network Data With
 
@@ -1362,7 +1362,6 @@ Nolensville TN PD
 North Little Rock AR PD
 Northport AL PD
 Northwest Arkansas Regional Airport AR PD
-O'Fallon MO PD
 Oak Ridge TN PD
 Oakland TN PD
 Orange Beach AL PD
@@ -1420,7 +1419,6 @@ Spring Hill TN PD
 Springfield TN PD
 Sullivan County IN SO
 Sullivan County TN SO
-Sumner County TN SO
 Sumter County GA SO
 Texarkana AR PD
 Texarkana TX PD
