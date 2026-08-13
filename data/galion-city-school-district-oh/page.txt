@@ -1,0 +1,107 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+Galion City School District (OH)
+Transparency Portal
+
+Last updated: Wed Aug 12 2026
+
+Overview
+
+Galion City School District, in partnership with the Galion Police Department (GPD), utilizes Flock Safety technology to enhance safety in and around school property while maintaining appropriate privacy safeguards.
+
+Flock Safety license plate reader technology captures objective vehicle information that may be searched retroactively by law enforcement to assist with criminal investigations. Real-time alerts for specifically identified or hot-listed vehicles may also assist officers in locating wanted individuals, responding to crimes in progress, and supporting patrol operations.
+
+The system does not identify vehicle owners or occupants, and license plates captured by the system are not automatically queried for registered owner information.
+Live-feed cameras are also utilized to provide recorded video of intersections surrounding the school, including areas where students regularly use crosswalks.
+
+As part of our commitment to transparency and responsible use of this technology, information regarding system usage and applicable safeguards is made available to the public through this portal.
+
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+70,647
+
+Sharing Network Data With
+
+Organizations granted access to Galion City School District (OH) data.
+
+Ashland County OH SO
+Marion County OH SO
+New Albany OH PD
+Seville OH PD
+University Circle OH PD
+
+Receiving Network Data From
+
+Organizations sharing their data with Galion City School District (OH).
+
+Acworth GA PD
+Ashland County OH SO
+Bellevue OH PD
+Boston Heights OH PD
+Carey OH PD
+Delaware County OH SO
+Erie County OH SO
+Franklin County OH SO
+Gahanna OH PD
+Granville OH PD
+Green Springs OH PD
+Huron OH PD
+Johnstown OH PD
+Licking County OH SO
+Lodi OH PD
+Lorain County OH SO
+Loudonville OH PD
+Medina County OH SO
+Minerva Park OH PD
+Mount Vernon OH PD
+New London OH PD
+Newark OH PD
+Norton OH PD
+Norwalk OH PD
+Oberlin OH PD
+OH - Delaware PD
+Ontario OH PD
+Pataskala OH PD
+Perkins Township OH PD
+Sandusky County SO OH
+Wellington OH PD
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Galion City School District (OH) and is never sold to 3rd parties. Law enforcement restricted data, such as local, national, and statewide hotlists, are only accessible to certified law enforcement personnel.
+
+Prohibited Uses
+
+Civil immigration enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), initiating enforcement action for minor traffic violations, personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+
+Provided by Flock Safety
