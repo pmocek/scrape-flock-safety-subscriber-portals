@@ -1,11 +1,11 @@
 Transparency Portal
 Community Impact
 Policy & Trust
-Visit Flock.com
+Visit Flock
 Elgin SC PD
 Transparency Portal
 
-Last updated: Sun Aug 02 2026
+Last updated: Wed Aug 12 2026
 
 Overview
 
@@ -30,7 +30,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-69,323
+67,010
 
 Number of Searches
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-253
+186
 
 Sharing Network Data With
 
@@ -117,6 +117,7 @@ Ashland County OH SO
 Ashland OH PD
 Ashville AL PD
 Aston PA PD
+Athalia OH PD
 Athens County OH SO
 Athens-Clarke County GA PD
 Atlanta GA PD
@@ -133,8 +134,10 @@ Avery County NC SO
 Avon IN PD
 Baker County FL SO
 Baker County GA SO
+Baldwin GA PD
 Banks County GA SO
 Banner Elk NC PD [DO NOT USE]
+Barberton OH PD
 Barbour County AL SO
 Barnwell SC PD
 Barrow County GA SO
@@ -169,6 +172,7 @@ Black Mountain NC PD
 Blacksburg SC PD
 Blackshear GA PD
 Bleckley County GA SO
+Bloomfield NM PD
 Bloomingdale GA PD
 Blount County Commission (AL)
 Blount County TN SO
@@ -221,7 +225,6 @@ Calhoun GA PD
 California Highway Patrol
 Calloway County KY SO
 Cambridge City IN PD
-Camden County GA SO
 Camden SC PD
 Cameron SC PD
 Camilla GA PD
@@ -258,7 +261,6 @@ Chapin SC PD
 Charleston County SC SO
 Charleston SC PD
 Charlestown PD IN
-Charlotte Mecklenburg NC PD
 Chatham County GA PD
 Chatham County GA SO
 Chatham-Savannah Counter Narcotics Team
@@ -270,7 +272,9 @@ Cheraw SC PD
 Cherokee County AL SO
 Cherokee County GA DA
 Cherokee County GA SO
+Cherokee County NC SO
 Cherryville PD (NC)
+Chesapeake Sheriff's Office
 Chesapeake VA PD
 Chester County SC SO
 Chester SC PD
@@ -318,12 +322,14 @@ College of Charleston SC
 College Park GA PD
 Collegedale TN PD
 Colleton County SO (SC)
+Collier Township PD (Allegheny County) PA
 Colonial Beach VA PD
 Colorado State Patrol
 Colquitt County GA SO
 Columbia County FL SO
 Columbia County GA SO
 Columbia County WI SO
+Columbia MS PD
 Columbus County NC SO
 Columbus GA PD
 Columbus IN PD
@@ -335,6 +341,7 @@ Conway SC PD
 Cook County GA SO
 Cookeville TN PD
 Cortland OH PD
+Corydon IN PD
 Covington County AL SO
 Covington GA PD
 Coweta County GA SO
@@ -370,6 +377,7 @@ Dandridge TN PD
 Danville IN PD
 Danville KY PD
 Daphne AL PD
+Dare County NC SO
 Darlington County SC SO
 Davidson County NC SO
 Davidson NC PD
@@ -383,9 +391,11 @@ Dearborn County IN SO
 Dearborn MI PD
 Decatur AL PD
 Decatur County GA SO
+Decatur County TN SO
 Decatur IN PD
 Deer Park OH PD
 DeKalb County GA PD
+DeKalb IL PD
 Del City OK PD
 Delhi Twp OH PD
 Dent County MO SO
@@ -417,7 +427,7 @@ Duplin County NC SO
 Duquesne MO PD
 Durango CO PD
 Easley SC PD
-East Canton OH PD
+East Brandywine Township PA PD
 East Hampton Village NY PD
 East Hempfield Twp PA PD
 East Point GA PD
@@ -441,6 +451,7 @@ Elkton MD PD
 Ellijay GA PD
 Elloree SC PD
 Ellsworth County KS SO
+Elm Ridge TX PD
 Elmore County AL SO
 Elon University NC PD
 Elyria OH PD
@@ -476,6 +487,7 @@ Fayette County KY SO
 Fayette County TN SO
 Fayetteville GA PD
 Fayetteville NC PD
+Fayetteville TN PD
 Fish and Wildlife Commission FL PD
 Fishers IN PD
 Fishkill Town NY PD
@@ -520,11 +532,13 @@ Franklin GA PD
 Franklin IN PD
 Franklin MA PD
 Franklin Park PA PD
+Franklin Township NJ PD (Somerset)
 Franklin Township PA PD
 Fredericksburg City VA PD
 Freeport ME PD
 Friendswood TX PD
 Front Royal VA PD
+Fulton County GA SO
 Fulton MS PD
 Fultondale AL PD
 Fuquay-Varina NC PD
@@ -534,6 +548,7 @@ Gadsden County FL SO
 Gahanna OH PD
 Gainesville FL PD
 Gainesville GA PD
+Galax VA PD
 Gallatin TN PD
 Gallia County OH SO
 Gardendale AL PD
@@ -578,6 +593,7 @@ Grand Rapids MI PD
 Grandview MO PD
 Grant County IN SO
 Grantville GA PD
+Granville County NC SO
 Gratiot County MI SO
 Graves County KY SO
 Gray GA PD
@@ -664,6 +680,7 @@ Hendersonville NC PD
 Hendersonville TN PD
 Henry County AL SO
 Henry County GA PD
+Henry County GA SO
 Henry County IL SO
 Henry County IN SO
 Henry County VA SO
@@ -672,6 +689,7 @@ Hernando County FL SO
 Herndon VA PD
 Herrin IL PD
 Hiawassee GA PD
+Hickory Creek TX PD
 Hickory NC PD
 Highland Heights KY PD
 Hillsboro OH PD
@@ -700,11 +718,13 @@ Horry County SC PD
 Houston Arson Bureau TX
 Houston TX PD
 Hueytown AL PD
+Humble ISD PD TX
 Huntersville PD NC
 Huntingburg IN PD
 Huntington County IN SO
 Huntsville Airport AL PD
 Huntsville AL PD
+Huron OH PD
 Hutchinson KS PD
 Hyattsville MD PD
 IA - Storm Lake PD
@@ -737,6 +757,7 @@ Jasper GA PD
 Jasper IN PD
 Jefferson County AL SO
 Jefferson County FL SO
+Jefferson County GA SO
 Jefferson County KY SO
 Jefferson County MO SO
 Jefferson County OH SO
@@ -746,6 +767,7 @@ Jefferson GA PD
 Jeffersontown KY PD
 Jeffersonville IN PD
 Jemison AL PD
+Jennings County IN SO
 Jessamine County KY SO
 Jesup GA PD
 Johns Creek GA PD
@@ -755,6 +777,7 @@ Johnson County TN SO
 Johnson County TX SO
 Johnston County NC SO
 Johnstown PA PD
+Jones County SO - GA
 Jonesboro AR PD
 Jonesboro GA PD
 Jonesborough PD TN
@@ -766,6 +789,7 @@ Kansas City MO PD
 Kaysville UT PD
 Kemper County MS SO
 Kendall County TX SO
+Kendallville IN PD
 Kennesaw GA PD
 Kennesaw State University GA PD
 Kenosha WI PD
@@ -782,11 +806,12 @@ Kingston Springs TN PD
 Kingston TN PD
 Kinston NC PD
 Kleberg TX County Attorney's Task Force
-Knightdale NC PD
+Kline Township PA PD
 Knox County IL SO
 Knox County IN SO
 Knox County TN SO
 Knoxville TN PD [Inactive]
+KY - Kentucky State Police
 La Follette TN PD
 La Paz County AZ SO
 La Plata MD PD
@@ -807,6 +832,7 @@ Lakemore OH PD
 Lakeside Park-Crestview Hills KY PD
 Lakewood WA PD
 Lamar County GA SO
+Lamar County MS SO
 Lancaster County SC SO
 Lancaster SC PD
 Lander University SC PD
@@ -820,6 +846,7 @@ Laurel Park NC PD
 Laurens County GA SO
 Laurens County SC SO
 Laurens SC PD
+Laurinburg NC PD
 Lavon TX PD
 Lavonia GA PD
 Lawrence County IL SO
@@ -854,6 +881,7 @@ Lexington SC PD
 Lexington TN PD
 Liberty County GA SO
 Licking County OH SO
+Lighthouse Point FL PD
 Ligonier IN PD
 Lilburn GA PD
 Lillington NC PD
@@ -862,6 +890,7 @@ Lincoln AL PD
 Lincoln County NC SO
 Lincoln County SO NE
 Lincoln County TN SO
+Lincolnton NC PD
 Lithopolis OH PD
 Little Rock AR PD
 Live Oak FL PD
@@ -888,6 +917,7 @@ Lowell MA PD
 Lowndes County GA SO
 Lubbock County TX SO
 Lucas County OH SO
+Ludowici GA PD
 Lumberton NC PD
 Lumpkin County SO GA
 Luray VA PD
@@ -920,10 +950,12 @@ Marion County AL SO
 Marion County OH SO
 Marion County WV SO
 Marion Health PD (IN)
+Marion IL PD
 Marion IN PD
 Marion NC PD
 Marion OH PD
 Marion SC PD
+Mars Hill NC PD
 Marshall County AL SO
 Marshall County Drug Task Force WV
 Marshall County MS SO
@@ -936,6 +968,7 @@ Maryland Heights MO PD
 Marysville OH PD
 Maryville TN PD
 Mason PD - OH
+Massachusetts State MA PD
 Mathews County VA SO
 Matthews NC PD
 Mauldin SC PD
@@ -957,10 +990,13 @@ Mecklenburg County VA SO
 Medina County OH SO
 Medina Township OH PD
 Melbourne FL PD
+Melrose MA PD
 Menomonee Falls WI PD
 Mequon WI PD
 Mercer County OH SO
 Meriwether County GA SO
+Mesquite TX PD
+Methuen MA PD
 Metropolis IL PD
 Metropolitan Washington Airports Authority VA
 Metropolitan Washington DC PD
@@ -975,6 +1011,7 @@ Midlothian IL PD
 Milam County TX SO
 Milan TN PD
 Mill Creek WA PD
+Millcreek Twp PA PD
 Milltown IN PD
 Millvale PA PD
 Milton GA PD
@@ -1017,6 +1054,7 @@ Morrisville NC PD
 Morrow GA PD
 Morrow OH PD
 Moultrie GA PD
+Moundsville WV PD
 Moundville AL PD
 Mount Holly NC PD
 Mount Morris Township PD MI
@@ -1052,7 +1090,9 @@ Neosho County KS SO
 Neptune Beach FL PD
 Neshkoro WI PD
 Neshoba County MS SO
+NESPIN - New England State Police Information Network
 New Albany OH PD
+New Brighton Dept of Pub Safety (MN)
 New Britain Township PA PD
 New Canaan CT PD
 New Castle County DE PD
@@ -1080,6 +1120,7 @@ Niagara Frontier Transit Authority (NFTA) PD
 Niceville FL PD
 Nicholasville KY PD
 Niles OH PD
+Noble County OH SO
 Noblesville IN PD
 Norcross GA PD
 Normal IL PD
@@ -1100,6 +1141,7 @@ NYS Crime Analysis Center Network
 O'Fallon MO PD
 Oak Ridge TN PD
 Oakboro NC PD
+Oakwood GA PD
 Obetz OH PD
 Obion County TN SO
 Ocean Springs MS PD
@@ -1112,6 +1154,7 @@ OH - Blanchester PD
 OH - Bridgeport PD
 OH - Butler County SO
 OH - Hamilton PD
+OH - Harrison County SO
 OH - Highland County SO
 OH - Jefferson County Drug Task Force
 OH - Johnny Appleseed Metropolitan Park District PD
@@ -1142,6 +1185,7 @@ Oliver Springs TN PD
 Omega GA PD
 Oneonta AL PD
 Opelika AL PD
+Opelousas LA PD
 Orange Beach AL PD
 Orangeburg Department of Public Safety SC
 Orlando FL PD
@@ -1159,10 +1203,13 @@ Paducah KY PD
 Pageland SC PD
 Palm Beach County FL SO
 Palm Springs CA PD
+Palmetto GA PD
 Panama City Beach FL PD
 Panama City FL PD
 Paris KY PD
 Paris TX PD
+Parke County IN SO
+Parkside Borough PA PD
 Patton TWP PD PA
 Paulding County GA SO
 Pawnee County KS SO
@@ -1181,6 +1228,7 @@ Pennington Gap VA PD
 Pennsylvania State PD
 Pensacola FL PD
 Perry County MO SO
+Perry County OH SO
 Perry GA PD
 Perryville MD PD
 Person County NC SO
@@ -1240,6 +1288,8 @@ Ranlo NC PD
 Rapides Parish LA SO
 Raytown MO PD
 Reading OH PD
+Red Bay AL PD
+Red Springs NC PD
 Regional Vehicle Burglary Suppression Taskforce TX
 Rehoboth Beach DE PD
 Reidsville NC PD
@@ -1277,6 +1327,7 @@ Rockwood TN PD
 Rocky Mount NC PD
 Rogers AR PD
 Rome GA PD
+Rose Hill KS PD
 Roseville MI PD
 Ross Township OH PD
 Ross Township PA PD
@@ -1316,6 +1367,7 @@ SC - Yemassee PD
 Scarborough ME PD
 Schuyler Co. IL SO
 Scotch Plains NJ PD
+Scotland County NC SO
 Scott County MS SO
 Scottsboro AL PD
 Scottsville KY PD
@@ -1348,6 +1400,7 @@ Sherwood AR PD
 Shinnston WV PD
 Show Low AZ PD
 Shreveport LA PD
+Sidney OH PD
 Sikeston MO DPS
 Silver Spring Township PA PD
 Simpsonville SC PD
@@ -1361,6 +1414,7 @@ Smyrna TN PD
 Smyth County VA SO
 Snellville GA PD
 Society SC PD
+Solon OH PD
 Somerset Borough PA PD
 Somerset County NJ Prosecutors Office
 Somerset MA PD
@@ -1369,10 +1423,13 @@ South Carolina Law Enforcement Division - SLED
 South Dakota Division of Criminal Investigation SD
 South Daytona FL PD
 South Heidelberg Township PA PD
+South Whitehall PA PD
+Southaven MS PD
 Southern Pines NC PD
 Southern Regl PA PD
 Southern Shores NC PD
 Southside AL PD
+Spalding County GA SO
 Sparta TN PD
 Spartanburg County SC SO
 Spartanburg SC PD
@@ -1394,6 +1451,7 @@ St Pauls NC PD
 St. Augustine FL PD
 St. Charles City MO PD
 St. Clair County AL SO
+St. Clair County MI SO
 St. Cloud FL PD
 St. John Parish LA SO
 St. Johns County FL SO
@@ -1436,11 +1494,13 @@ Susquehanna Township PA PD
 Suwanee GA PD
 Suwannee County FL SO
 Swainsboro GA PD
+Sylvania GA PD
 Talladega County AL SO
 Tallahassee FL PD
 Tallapoosa GA PD
 Tampa FL PD
 Tarpon Springs FL PD
+Tarrant County TX SO
 Tattnall County GA SO
 Taylor County FL SO
 Taylor County GA SO
@@ -1450,6 +1510,7 @@ Tega Cay SC PD
 Tell City IN PD
 Temple GA PD
 Tennessee Bureau of Investigation
+Terre Haute IN PD
 Terrebonne Parish LA SO
 Texas Department of Criminal Justice
 Thomas County GA SO
@@ -1465,6 +1526,7 @@ Tilden Township PA PD
 Tipp City OH PD
 Titusville FL PD
 TN ROCIC
+Tompkinsville KY PD
 Tooele City PD UT
 Toronto OH PD
 Town of Bean Station PD TN
@@ -1497,6 +1559,7 @@ Union County MS SO
 Union County NC SO
 Union County SC SO
 Union Township PD (Clermont Co) - OH
+University Circle OH PD
 University of Central Missouri PD
 University of Delaware PD
 University of Georgia GA PD
@@ -1525,7 +1588,6 @@ Vero Beach FL PD
 Vestavia Hills AL PD
 Vidalia GA PD
 Vienna VA PD
-Vienna WV PD
 Villa Rica GA PD
 Village of Clearview WV PD
 Vincennes IN PD
@@ -1575,7 +1637,9 @@ Wedowee AL PD
 Wellford SC PD
 West Chester OH PD
 West Deptford NJ PD
+West Hazleton PA PD
 West Mifflin PA PD
+West Milton OH PD
 West Union PD SC
 West View Borough PA PD
 West Virginia Fusion Center (WV)
@@ -1601,11 +1665,13 @@ Wilkesboro NC PD
 Wilkinson County GA SO
 Williamsburg VA PD
 Williamson County TN SO
+Williamston NC PD
 Wilmette IL PD
 Wilmington OH PD
 Wilmore KY PD
 Wilson County NC SO
 Wilson County TN SO
+Wilson NC PD
 Wilson's Mills NC PD
 Wilton Manors FL PD
 Winder GA PD
