@@ -5,7 +5,7 @@ Visit Flock
 Granville OH PD
 Transparency Portal
 
-Last updated: Wed Aug 12 2026
+Last updated: Thu Aug 13 2026
 
 Overview
 
@@ -30,7 +30,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-82,332
+82,671
 
 Number of Searches
 
@@ -407,7 +407,6 @@ Lyndhurst OH PD
 Macedonia OH PD
 Madeira OH PD
 Madison County OH SO
-Madison TWP (Franklin CO) OH PD
 Madison Village OH PD
 Mahoning Valley Law Enforcement TF (OH)
 Mansfield OH PD
