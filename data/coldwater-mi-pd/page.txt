@@ -5,7 +5,7 @@ Visit Flock
 Coldwater MI PD
 Transparency Portal
 
-Last updated: Wed Aug 12 2026
+Last updated: Thu Aug 13 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-100,121
+100,023
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-13
+12
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-140
+143
 
 Sharing Network Data With
 
