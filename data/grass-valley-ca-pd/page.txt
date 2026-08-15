@@ -6,7 +6,7 @@ Visit Flock
 Grass Valley CA PD
 Transparency Portal
 
-Last updated: Thu Aug 13 2026
+Last updated: Fri Aug 14 2026
 
 Overview
 
@@ -31,7 +31,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-171,551
+168,086
 
 Number of Searches
 
@@ -49,7 +49,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-898
+892
 Policy & Trust
 
 What's Detected
