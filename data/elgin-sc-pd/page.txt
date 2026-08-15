@@ -5,7 +5,7 @@ Visit Flock
 Elgin SC PD
 Transparency Portal
 
-Last updated: Thu Aug 13 2026
+Last updated: Fri Aug 14 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-67,036
+66,990
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-3
+2
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-181
+172
 
 Sharing Network Data With
 
@@ -103,6 +103,7 @@ Anderson SC PD
 Angier NC PD
 Ankeny IA PD
 Anna TX PD
+Anniston AL PD
 Anoka County MN SO
 Apex NC PD
 App State University NC PD
@@ -500,6 +501,7 @@ Flora- IL - PD
 Florence AL PD
 Florence County SC SO
 Florence SC PD
+Florida Department of Law Enforcement (FDLE)
 Florida Highway Patrol
 Florida Office of Agriculture Law Enforcement
 Florida State University Campus PD FL
@@ -551,6 +553,7 @@ Gainesville GA PD
 Galax VA PD
 Gallatin TN PD
 Gallia County OH SO
+Garden City GA PD
 Gardendale AL PD
 Garner NC PD
 Garrard County KY SO
@@ -923,6 +926,7 @@ Lumpkin County SO GA
 Luray VA PD
 Luzerne County PA DA's Office
 Lyman PD SC
+Lyons GA PD
 Macomb IL PD
 Macon County AL SO
 Macon County MO SO
@@ -930,6 +934,7 @@ Madeira OH PD
 Madison AL PD
 Madison County AL SO
 Madison County GA SO
+Madison County IN SO
 Madison County NC SO
 Madison County TN SO
 Madison GA PD
@@ -1090,7 +1095,6 @@ Neosho County KS SO
 Neptune Beach FL PD
 Neshkoro WI PD
 Neshoba County MS SO
-NESPIN - New England State Police Information Network
 New Albany OH PD
 New Brighton Dept of Pub Safety (MN)
 New Britain Township PA PD
@@ -1153,6 +1157,7 @@ Oglethorpe GA PD
 OH - Blanchester PD
 OH - Bridgeport PD
 OH - Butler County SO
+OH - Chillicothe PD
 OH - Hamilton PD
 OH - Harrison County SO
 OH - Highland County SO
@@ -1348,6 +1353,7 @@ Salem OH PD
 Salina KS PD
 Saline County IL SO
 Salisbury MD PD
+San Diego County District Attorney
 Sandy Springs GA PD
 Sanford NC PD
 Santa Ana CA PD
@@ -1446,6 +1452,7 @@ Springfield GA PD
 Springfield MO PD
 Springfield OH PD
 Springfield TN PD
+Spruce Pine NC PD
 St Mary Parish LA SO
 St Pauls NC PD
 St. Augustine FL PD
@@ -1513,6 +1520,7 @@ Tennessee Bureau of Investigation
 Terre Haute IN PD
 Terrebonne Parish LA SO
 Texas Department of Criminal Justice
+Texas Department of Public Safety
 Thomas County GA SO
 Thomaston GA PD
 Thomasville AL PD
@@ -1569,6 +1577,7 @@ University of North Carolina at Pembroke NC PD
 University of North Carolina Chapel Hill NC
 University of North Carolina Charlotte (NC)
 University of North Georgia PD (GA)
+University of South Florida at St. Petersburg FL PD
 University of South Florida FL PD
 University of Tennessee TN PD
 University of West Georgia GA PD
@@ -1633,6 +1642,7 @@ Wayne County TN SO
 Waynesville NC PD
 Weber City VA PD
 Webster County GA SO
+Webster Parish LA SO
 Wedowee AL PD
 Wellford SC PD
 West Chester OH PD
