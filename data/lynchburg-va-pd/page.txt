@@ -5,7 +5,7 @@ Visit Flock
 Lynchburg VA PD
 Transparency Portal
 
-Last updated: Thu Aug 13 2026
+Last updated: Fri Aug 14 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-265,447
+265,440
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-211
+215
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-920
+917
 Policy & Trust
 
 What's Detected
