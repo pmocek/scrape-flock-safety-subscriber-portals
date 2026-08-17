@@ -5,7 +5,7 @@ Visit Flock
 Luray VA PD
 Transparency Portal
 
-Last updated: Sun Aug 16 2026
+Last updated: Mon Aug 17 2026
 
 Overview
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-35,098
+34,672
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-69
+70
 
 Hotlists Alerted On
 

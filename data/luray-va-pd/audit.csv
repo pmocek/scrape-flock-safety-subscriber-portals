@@ -1,5 +1,4 @@
 "id","userId","searchDate","networkCount","reason"
-"ba42d03b-3517-4c30-8fa0-a748cfc12060","***","2026-07-17T23:35:32.817Z","1","DISORDERLY"
 "8001f4d5-7eba-4716-ae92-b443a3d2c4a2","***","2026-07-18T02:51:35.458Z","272","WELFARE CHECK"
 "1eec5ad0-ec7f-4011-bccd-35f97b0fc0aa","***","2026-07-18T03:01:40.027Z","272","WELFARE CHECK"
 "a0e94f83-83d3-4882-8e1b-91f4bcab1b4b","***","2026-07-18T23:34:07.269Z","4","REKLESS DRIVING"
@@ -68,3 +67,5 @@
 "3abbe020-795b-47c6-ab66-326c85f33574","***","2026-08-14T22:42:35.809Z","1043","DISORDERLY"
 "b903ee3e-810f-4b67-bc29-b08366ac181f","***","2026-08-15T14:50:53.453Z","271","HIT AND RUN"
 "9352293e-3365-4ebe-a751-d953dc8d854b","***","2026-08-15T23:47:54.377Z","1043","DISORDERLY"
+"9d18c5eb-7e63-4b57-bd53-f88d65cbcb2d","***","2026-08-16T00:26:15.057Z","1043","Psychiatric Male"
+"c1569e5f-2cee-4b0d-bcab-0776d33f7f84","***","2026-08-16T01:01:41.998Z","1029","Psychiatric Male"
