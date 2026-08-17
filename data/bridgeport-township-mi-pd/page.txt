@@ -5,7 +5,7 @@ Visit Flock
 Bridgeport Township MI PD
 Transparency Portal
 
-Last updated: Sat Aug 15 2026
+Last updated: Sun Aug 16 2026
 
 Overview
 
@@ -17,9 +17,9 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-145 alerts
+142 alerts
 MI LEIN - MI - Wanted Person
-110
+107
 MI LEIN - NCIC - Stolen Vehicle
 14
 MI LEIN - MI - Stolen Plate
@@ -55,7 +55,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-50
+49
 
 Hotlists Alerted On
 
@@ -67,7 +67,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,068
+1,067
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
