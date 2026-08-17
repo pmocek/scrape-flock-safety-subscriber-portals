@@ -1,7 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"a3a180a6-6a37-4364-9b52-97fd485c12c6","***","2026-07-17T12:37:24.781Z","1","City Planning/Traffic Analysis"
-"fe2fc538-737f-488e-beff-e70d9f9f88a5","***","2026-07-17T14:02:09.107Z","567","Drugs/Narcotics"
-"53e99a76-9bb6-4da3-8576-6442d135131a","***","2026-07-17T16:09:57.595Z","567","Destruction/Damage/Vandalism of Property"
 "f880b680-eb75-48a5-b147-f7f3411b23c6","***","2026-07-18T03:15:13.882Z","566","Stolen Property Offenses"
 "2e19035e-6429-46f5-ac6b-e249280cff2e","***","2026-07-18T03:17:53.814Z","1","Larceny/Theft Offenses"
 "2d61e61d-da8e-40d8-a186-139455f0cfb8","***","2026-07-18T10:31:22.255Z","566","Traffic Infraction"
@@ -175,3 +172,5 @@
 "f62b1322-0b3f-4803-a35b-4a9682d65c5a","***","2026-08-15T03:04:56.483Z","1","Hit and Run/Car Accident"
 "9969e0ba-d2e2-444e-94b2-59c5754dff3b","***","2026-08-15T05:26:34.922Z","1","Hit and Run/Car Accident"
 "ff197c45-f7f6-4456-ad9e-9943c794db1d","***","2026-08-15T07:08:48.342Z","1","Hit and Run/Car Accident"
+"720a4d25-6e22-4ea8-9d4d-a1b362da753b","***","2026-08-16T06:39:59.969Z","1","Wanted Person (Arrest Warrant/Fugitive)"
+"d8c48e81-d45a-494f-a54d-42495f98da61","***","2026-08-16T09:38:26.010Z","1","Hit and Run/Car Accident"
