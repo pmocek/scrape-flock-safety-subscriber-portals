@@ -5,7 +5,7 @@ Visit Flock
 Luray VA PD
 Transparency Portal
 
-Last updated: Mon Aug 17 2026
+Last updated: Tue Aug 18 2026
 
 Overview
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-34,672
+34,071
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-70
+69
 
 Hotlists Alerted On
 
@@ -54,7 +54,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-20
+19
 
 Sharing Network Data With
 
@@ -125,7 +125,6 @@ Hampton VA PD
 Hanover County VA SO
 Haymarket VA PD
 Henrico County VA PD
-Henry County VA SO
 Herndon VA PD
 Hillsville VA PD
 Hopewell VA PD
@@ -639,7 +638,6 @@ Henrico County VA PD
 Henry County GA PD
 Henry County IN SO
 Henry County OH SO
-Henry County VA SO
 Hermitage PA PD
 Herndon VA PD
 Highland Park MI PD
@@ -1053,7 +1051,6 @@ Shelby County IN SO
 Shelby County KY SO
 Shelby Township MI PD
 Shelbyville IN PD
-Shelbyville KY PD
 Shelbyville TN PD
 Shenandoah County VA SO
 Shenandoah VA PD
@@ -1073,7 +1070,6 @@ Somerset MA PD
 South Bend IN Airport Transit PD
 South Bend IN PD
 South Boston VA PD
-South Hadley MA PD
 South Hill VA PD
 Southern Pines NC PD
 Southern Regl PA PD
