@@ -6,7 +6,7 @@ Visit Flock
 Jacksonville AR PD
 Transparency Portal
 
-Last updated: Mon Aug 17 2026
+Last updated: Tue Aug 18 2026
 
 Overview
 
@@ -37,7 +37,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-124,935
+124,201
 
 Number of Searches
 
@@ -55,7 +55,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-2,731
+2,735
 
 Sharing Network Data With
 
@@ -944,7 +944,6 @@ Shelby County AL SO
 Shelby County KY SO
 Shelby County TN SO
 Shelbyville IN PD
-Shelbyville KY PD
 Shelbyville TN PD
 Shepherdsville KY PD
 Sheridan AR PD
@@ -1416,7 +1415,6 @@ Sparta TN PD
 Spring Hill TN PD
 Springfield TN PD
 Sullivan County IN SO
-Sullivan County TN SO
 Sumter County GA SO
 Texarkana AR PD
 Texarkana TX PD
