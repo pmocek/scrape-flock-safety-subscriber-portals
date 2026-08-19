@@ -5,7 +5,7 @@ Visit Flock
 Coldwater MI PD
 Transparency Portal
 
-Last updated: Mon Aug 17 2026
+Last updated: Tue Aug 18 2026
 
 Overview
 
@@ -30,7 +30,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-100,352
+99,840
 
 Number of Searches
 
@@ -713,7 +713,6 @@ Henry County AL SO
 Henry County IL SO
 Henry County IN SO
 Henry County OH SO
-Henry County VA SO
 Hermitage PA PD
 Herndon VA PD
 Herrin IL PD
