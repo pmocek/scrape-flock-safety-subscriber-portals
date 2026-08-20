@@ -5,7 +5,7 @@ Visit Flock
 Lynn Haven FL PD
 Transparency Portal
 
-Last updated: Wed Aug 19 2026
+Last updated: Thu Aug 20 2026
 
 Overview
 
@@ -37,13 +37,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-167,604
+165,805
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-34
+35
 
 Hotlists Alerted On
 
@@ -55,7 +55,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-20,467
+20,370
 
 Sharing Network Data With
 
@@ -1561,7 +1561,7 @@ Sylvester GA PD
 Tabor City NC PD
 Talladega AL PD
 Talladega County AL SO
-Tallahassee FL PD
+Tallahassee Police Department (FL)
 Tallapoosa County AL SD [Inactive]
 Tallapoosa GA PD
 Tallassee AL PD
@@ -2000,7 +2000,7 @@ Sumter County FL SO
 Sumter County GA SO
 Sumter County SC SO
 Suwannee County FL SO
-Tallahassee FL PD
+Tallahassee Police Department (FL)
 Tarpon Springs FL PD
 The City of Miami Police Department
 Titusville FL PD
