@@ -5,7 +5,7 @@ Visit Flock
 Granville OH PD
 Transparency Portal
 
-Last updated: Tue Aug 18 2026
+Last updated: Wed Aug 19 2026
 
 Overview
 
@@ -30,7 +30,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-82,916
+83,677
 
 Number of Searches
 
