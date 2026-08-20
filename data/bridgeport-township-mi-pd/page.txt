@@ -5,7 +5,7 @@ Visit Flock
 Bridgeport Township MI PD
 Transparency Portal
 
-Last updated: Tue Aug 18 2026
+Last updated: Wed Aug 19 2026
 
 Overview
 
@@ -17,21 +17,21 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-142 alerts
+139 alerts
 MI LEIN - MI - Wanted Person
-108
+106
 MI LEIN - NCIC - Stolen Vehicle
 14
 MI LEIN - MI - Stolen Plate
 5
 MI LEIN - MI - Stolen Vehicle
-5
+4
 MI LEIN - NCIC - Stolen Plate
-5
+4
 MI LEIN - NCIC - Sex Offender
 3
 MI LEIN - NCIC - Wanted Person
-2
+3
 
 Data Retention
 
@@ -55,7 +55,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-59
+62
 
 Hotlists Alerted On
 
@@ -67,7 +67,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,046
+1,054
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -75,8 +75,8 @@ Offense Types used for LPR searches in the last 30 days.
 Larceny/Theft Offenses
 Wanted Person (Arrest Warrant/Fugitive)
 Motor Vehicle Theft/Stolen
+Hit and Run/Car Accident
 Traffic Infraction
-Assault/Battery Offenses (Domestic)
 
 Sharing Network Data With
 
@@ -113,6 +113,7 @@ Amherst Town NY PD
 Anderson IN PD
 Ankeny IA PD
 Anna TX PD
+Anniston AL PD
 Anoka County MN SO
 Antrim County SO MI
 Apex NC PD
@@ -647,6 +648,7 @@ Little Traverse Bay Band of Odawa Indians MI PD
 Livingston County IL SO
 Livingston County MI SO
 Livonia MI PD
+Lockland OH PD
 Logan County KY SO
 Logan Township PA PD
 Logansport IN PD
@@ -668,6 +670,7 @@ Lyndhurst OH PD
 Macomb County MI SO
 Macomb IL PD
 Macon County MO SO
+Madison County IN SO
 Madison Heights MI PD
 Madison Village OH PD
 Madisonville KY PD
@@ -760,6 +763,7 @@ Monroe County MI SO
 Monroe County WI SO
 Monroe MI PD
 Montgomery County IN SO
+Montgomery County KS SO
 Montgomery County MO SO
 Montgomery County TN SO
 Montgomery County TX SO
@@ -792,6 +796,7 @@ Muskegon Heights MI PD
 Muskegon MI PD
 Muskegon Township MI PD (Muskegon County)
 Muskingum County OH SO
+Muskogee OK PD
 Napoleon OH PD
 Napoleon Twp MI PD
 Nassau County NY PD
@@ -844,6 +849,7 @@ Ogle County IL SO
 Oglesby IL PD
 OH - Bridgeport PD
 OH - Butler County SO
+OH - Chillicothe PD
 OH - Commercial Point PD
 OH - Hamilton PD
 OH - Harrison County SO
@@ -1075,6 +1081,7 @@ Steger IL PD
 Sterling Heights MI PD
 Stevens Point WI PD
 Stillwater MN PD
+Stow OH PD
 Streator IL PD
 Strongsville OH PD
 Struthers OH PD
@@ -1107,6 +1114,7 @@ Taylor MI PD
 Tell City IN PD
 Terre Haute IN PD
 Texas Department of Criminal Justice
+Texas Department of Public Safety
 Texas Financial Crimes Intelligence Center
 The Tribal Police of the Grand Traverse Band of Ottawa & Chippewa Indians MI
 Thomaston GA PD
@@ -1144,6 +1152,7 @@ University of Michigan Ann Arbor Campus MI PD
 University of Michigan Dearborn Campus MI PD
 University of Missouri Campus MO PD
 University of Notre Dame PD (IN)
+University of South Florida at St. Petersburg FL PD
 University of South Florida FL PD
 University of West Georgia GA PD
 Upper Allen Township PA PD
