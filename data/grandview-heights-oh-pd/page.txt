@@ -1,0 +1,321 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+More Info
+Visit Flock
+Grandview Heights OH PD
+Transparency Portal
+
+Last updated: Fri Aug 21 2026
+
+Overview
+
+Grandview Heights OH PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Grandview Heights OH PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Grandview Heights OH PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+
+Community Impact
+Featured Success Stories
+
+Recent Success Stories
+
+While investigating the attempted abduction of an adult female, FLOCK was used to assist in identifying the suspect vehicle and an independent witness.
+Initial reports indicated the suspect attempted to drag the victim to his waiting vehicle. The victim escaped and ran to another occupied vehicle in the area, where she asked the driver for assistance. The suspect then fled the area in his vehicle. After the victim reached safety, the witness also left the area prior to police arrival.
+
+Investigators used building surveillance cameras to help identify a potential suspect vehicle circulating the area before the crime. Investigators then used FLOCK to obtain license plate information and identify a person of interest.
+
+FLOCK further assisted in identifying the potential witness by alerting investigators to the fact that the witness’s vehicle belonged to a rental company. Investigators contacted the rental company, which, after providing legal compliance, provided the information for the person who rented the vehicle. Investigators contacted this person in Texas. The witness fully corroborated the victim’s account, provided a statement, and picked the suspect from a photo lineup. This was instrumental in the case and helped secure a conviction for Abduction.
+_____________________________________________________________________________________________________________________
+
+While conducting a homicide investigation, FLOCK was used to identify several vehicles and witnesses who passed through the crime scene. These witnesses to a violent felony were identified and provided statements that were critical to the investigation, arrest, and successful trial, leading to a conviction for Reckless Homicide.
+
+The offender is currently incarcerated in prison.
+_____________________________________________________________________________________________________________________
+
+While conducting a burglary and theft investigation, investigators obtained a 20-count indictment after identifying two suspects who traveled from California to steal multiple credit cards, cash, and personal items from businesses in Grandview Heights and the City of Columbus. FLOCK helped identify the suspect’s vehicle and assisted in obtaining probable cause for a search warrant that resulted in the recovery of evidence.
+_____________________________________________________________________________________________________________________
+
+A local resident reported their vehicle was stolen overnight. Residential surveillance provided a description of a suspicious vehicle driving in the immediate area during the suspected timeframe of the theft. Detectives searched the FLOCK cameras for the same suspicious vehicle and were able to capture the license plate entering the City of Grandview Heights.
+
+The victim's vehicle was later found abandoned at a location in the City of Columbus. While conducting the investigation, our detectives used the information provided by FLOCK and determined the victim's vehicle was found just a few houses away from the registered owner of the suspicious vehicle. Detectives conducted a "knock and talk" at the home and identified a suspect. The suspect admitted to stealing the victim's vehicle and being in possession of other stolen property. After detectives executed a search warrant at the home, they seized stolen property and linked multiple theft offenses to other jurisdictions in the Central Ohio area.
+_____________________________________________________________________________________________________________________
+
+Patrol officers received a hot list alert for a stolen vehicle entering the jurisdiction. They quickly located the vehicle and, after verifying the hot list entry, conducted a felony traffic stop. Two occupants were detained and found to be in possession of methamphetamine. The vehicle was recovered within 24 hours of being reported stolen, and two suspects were arrested.
+_____________________________________________________________________________________________________________________
+
+While conducting a theft of over $3,000 of landscaping equipment from a local business, surveillance video provided a description of the suspect’s vehicle; however, the license plate was not readable. FLOCK cameras were utilized using the vehicle description and known timeframe to identify the vehicle. The information helped identify three suspects. Officers charged those individuals with felony theft.
+_____________________________________________________________________________________________________________________
+
+Detectives successfully used FLOCK cameras to investigate a missing/runaway juvenile who was attempting to leave the state with another juvenile from a neighboring community. Officers obtained a description of the vehicle the juveniles were believed to be traveling in. A FLOCK search supplied investigators with a vehicle image and a timeline of when it was last seen in our City. A Be On The Lookout (BOLO) was forwarded to all law enforcement. State troopers detected the vehicle, conducted a traffic stop, and returned the children to their respective families.
+_____________________________________________________________________________________________________________________
+
+Patrol officers received a hot list alert for a stolen vehicle entering the jurisdiction through one of our business districts. The officers circulated the area and found the vehicle parked behind a building containing multiple closed businesses. The hot list alert was confirmed. Officers secured a perimeter around the building and began conducting surveillance. Three suspects were seen exiting the rear of one of the businesses and entering the stolen vehicle. Officers approached and detained them without further incident. Ultimately, arrests were made and one of the suspects had outstanding warrants in a neighboring jurisdiction for burglary and grand theft.
+
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+8
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+198,754
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+21
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCIC, NCMEC Amber Alert
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+129
+
+Sharing Network Data With
+
+Organizations granted access to Grandview Heights OH PD data.
+
+Akron OH PD
+Amberley Village OH PD
+Amherst OH PD
+Arcanum OH PD
+Athalia OH PD
+Aurora OH PD
+Austintown Township OH PD
+Avon Lake OH PD
+Barberton OH PD
+Bath Township OH PD
+Bay Village OH PD
+Bazetta Township OH PD
+Beavercreek OH PD
+Bedford OH PD
+Bellefontaine PD - OH
+Berea OH PD
+Bexley OH PD
+Blendon Township OH PD
+Blue Ash OH PD
+Brimfield Township OH PD
+Brook Park OH PD
+Brooklyn Heights OH PD
+Brunswick Hills OH PD
+Bryan OH PD
+Butler Township OH PD
+Canfield OH PD
+Canton OH PD
+Case Western Reserve University OH PD
+Centerville OH PD
+Chardon OH PD
+Cleveland Clinic OH PD
+Clinton Township OH PD
+Columbus OH PD
+Conneaut OH PD
+Copley Township OH PD
+Cortland OH PD
+Cuyahoga Falls OH PD
+Cuyahoga Heights OH PD
+Dayton PD - OH
+Delaware County OH SO
+Delhi Twp OH PD
+Dept. of Natural Resources OH PD
+Dublin OH PD
+East Cleveland OH PD
+Eastlake OH PD
+Englewood OH PD
+Enon OH PD DUPLICATE ACCOUNT
+Evendale OH PD
+Fairfield Township OH PD
+Fairlawn OH PD
+Fairview Park OH PD
+Forest Park OH PD
+Franklin County OH SO
+Franklin OH PD
+Franklin Township OH PD
+Fulton County OH SO
+Gahanna OH PD
+Garfield Heights OH PD
+Genoa Township OH PD
+Golf Manor OH PD
+Greater Cleveland Regional Transit Authority OH PD
+Green Township OH PD
+Greene County OH SO
+Grove City OH PD
+Groveport OH PD
+Hamilton Township OH PD (Warren County)
+Hardin County OH SO
+Harrison OH PD
+Heath OH PD
+Hebron OH PD
+Highland Heights OH PD
+Hilliard OH PD
+Holland OH PD
+Hubbard OH PD
+Huber Heights OH PD
+Huron OH PD
+Independence OH PD
+Indian Hill OH PD
+Jackson Township OH PD (Mahoning County)
+Kirtland OH PD
+Lancaster OH PD
+Lebanon OH PD
+Lexington OH PD
+Liberty Township OH PD
+Licking County OH SO
+Lima OH PD
+Lodi OH PD
+London OH PD
+Lorain OH PD
+Loveland OH PD
+Lucas County OH SO
+Lyndhurst OH PD
+Madison County OH SO
+Madison TWP (Franklin CO) OH PD
+Mahoning Valley Law Enforcement TF (OH)
+Mansfield OH PD
+Maple Heights OH PD
+Marion County OH SO
+Marion OH PD
+Marysville OH PD
+Mason PD - OH
+Maumee OH PD
+Mayfield Village OH PD
+Medina Township OH PD
+Mentor OH PD
+Miami County Park District OH Rangers
+Miami Township OH PD (Clermont)
+Middlefield OH PD
+Minerva Park OH PD
+Montgomery OH PD
+Montville Township OH PD
+Moraine OH PD
+Moreland Hills OH PD (Custom Hotlist)
+Muskingum County OH SO
+Napoleon OH PD
+New Albany OH PD
+Newark OH PD
+Niles OH PD
+North Canton OH PD
+North Royalton OH PD
+Northeast Ohio Regional Fusion Center
+Norwalk OH PD
+Norwood OH PD
+Oakwood Village OH PD (Cuyahoga)
+Oberlin OH PD
+Obetz OH PD
+OH - Hamilton PD
+OH - Madison Township PD - Lake County
+OH- Springfield Township PD (Hamilton Co)
+Ohio Attorney General's Office - OOCIC
+Ohio Bureau of Criminal Investigation
+Ohio Bureau of Motor Vehicles (Ohio DPS)
+Ohio Bureau of Workers' Compensation (LE)
+Ohio DPS
+Ohio State Highway Patrol
+Ohio State University OH PD
+Olmsted Falls OH PD
+Ontario OH PD
+Orange Village OH PD
+Oregon OH PD
+Ottawa County OH SO
+Oxford PD - OH
+Pataskala OH PD
+Perkins Township OH PD
+Perrysburg OH PD
+Pierce Township OH PD
+Port Clinton OH PD
+Preble County OH SO
+Reynoldsburg OH PD
+Richfield OH PD
+Richland County OH SO
+Ross Township OH PD
+Rossford OH PD
+Sagamore Hills Township OH PD
+Seville OH PD
+Shaker Heights OH PD
+Sharonville OH PD
+Sheffield Village OH PD
+Sidney OH PD
+South Central OH Major Crimes Unit
+Southwest Emergency Dispatch Center (OH)
+Springboro OH PD
+Springfield OH PD
+Sugarcreek Township OH PD
+Sunbury OH PD
+Sylvania OH PD
+Tipp City OH PD
+Toledo OH PD
+Trenton OH PD
+Troy OH PD
+Trumbull County OH SO
+Tuscarawas County OH SO
+Twinsburg OH PD
+Union City OH PD
+Union OH PD
+University Circle OH PD
+University of Toledo OH PD
+Upper Arlington OH PD
+Vandalia OH PD
+Wadsworth OH PD
+Walton Hills OH PD
+West Carrollton OH PD
+West Chester OH PD
+West Milton OH PD
+Westerville OH PD
+Westlake OH PD
+Whitehall OH PD
+Worthington OH PD
+Xenia OH PD
+Zanesville OH PD
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Grandview Heights OH PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, general traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+More Info
+
+Grandview Heights PD ALPR Policy
+
+https://grandviewheights.gov/DocumentCenter/View/7126/391-Automatic-License-Plate-Reader
+
+Provided by Flock Safety
