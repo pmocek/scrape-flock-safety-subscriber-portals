@@ -5,7 +5,7 @@ Visit Flock
 Elgin SC PD
 Transparency Portal
 
-Last updated: Tue Aug 18 2026
+Last updated: Thu Aug 20 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-66,353
+66,339
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-1
+3
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-152
+145
 
 Sharing Network Data With
 
@@ -461,7 +461,6 @@ Eminence KY PD
 Emory University Campus PD GA
 Emporia VA PD
 Enon OH PD
-Erlanger KY PD
 Erwin NC PD
 Erwin TN PD
 Escambia County FL SO
@@ -626,7 +625,6 @@ Gulf Breeze FL PD
 Gulf County FL SO
 Gulf Shores AL PD
 Gulf Stream FL PD
-Gulfport FL PD
 Guntersville AL PD
 Gwinnett County DAs Office
 Gwinnett County GA SO
@@ -709,7 +707,6 @@ Holly Hill SC PD
 Holly Springs GA PD
 Holmes County FL SO
 Holmes County SO OH
-Holyoke MA PD
 Homecroft IN PD
 Homestead PA PD
 Homewood AL PD
@@ -1502,7 +1499,7 @@ Suwannee County FL SO
 Swainsboro GA PD
 Sylvania GA PD
 Talladega County AL SO
-Tallahassee FL PD
+Tallahassee Police Department (FL)
 Tallapoosa GA PD
 Tampa FL PD
 Tarpon Springs FL PD
