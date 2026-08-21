@@ -5,7 +5,7 @@ Visit Flock
 Luray VA PD
 Transparency Portal
 
-Last updated: Thu Aug 20 2026
+Last updated: Fri Aug 21 2026
 
 Overview
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-32,938
+32,484
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-77
+72
 
 Hotlists Alerted On
 
@@ -54,7 +54,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-17
+15
 
 Sharing Network Data With
 
@@ -686,7 +686,6 @@ Jefferson GA PD
 Jeffersontown KY PD
 Jessamine County KY SO
 Johns Creek GA PD
-Johnson City TN PD
 Johnson County TN SO
 Kalamazoo Township MI PD
 Kenmore Village NY PD
@@ -1118,7 +1117,6 @@ Surry County NC SO
 Surry County SO VA
 Sussex County VA SO
 Suwanee GA PD
-Sweetwater TN PD
 Sylvania OH PD
 Sylvania Township OH PD
 Tappahannock VA PD
@@ -1194,9 +1192,7 @@ Wartburg TN PD
 Washington County IN SO
 Washington County OH SO
 Washington County SO - GA
-Washington County TN SO
 Washingtonville NY PD
-Watauga County NC SO
 Waterford Township MI PD
 Waterville OH PD
 Watervliet NY PD
