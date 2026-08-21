@@ -6,7 +6,7 @@ Visit Flock
 Mount Vernon OH PD
 Transparency Portal
 
-Last updated: Tue Aug 04 2026
+Last updated: Fri Aug 21 2026
 
 Overview
 
@@ -31,13 +31,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-163,491
+152,824
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-82
+37
 
 Hotlists Alerted On
 
@@ -49,7 +49,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-793
+594
 Policy & Trust
 
 What's Detected
