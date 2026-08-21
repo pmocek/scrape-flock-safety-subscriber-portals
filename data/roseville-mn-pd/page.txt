@@ -5,7 +5,7 @@ Visit Flock
 Roseville MN PD
 Transparency Portal
 
-Last updated: Wed Aug 05 2026
+Last updated: Fri Aug 21 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-282,865
+283,115
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-226
+197
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,912
+6,399
 
 Sharing Network Data With
 
@@ -67,7 +67,6 @@ Coon Rapids MN PD
 Corcoran MN PD
 Cottage Grove Public Safety Dept (MN)
 Crystal MN PD
-Dakota County MN SO
 Dayton MN PD
 Detroit Lakes MN PD
 Edina MN PD
@@ -91,7 +90,6 @@ Plymouth MN PD
 Prior Lake MN PD
 Ramsey MN PD
 Saint Paul Police Department (MN)
-South Saint Paul MN PD
 Spring Lake Park MN PD
 St. Louis County MN SO
 St. Louis Park MN PD
