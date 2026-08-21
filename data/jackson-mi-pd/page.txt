@@ -1,0 +1,65 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+Jackson MI PD
+Transparency Portal
+
+Last updated: Thu Aug 20 2026
+
+Overview
+
+The ALPR technology, also known as License Plate Recognition (LPR), allows for the automated
+detection of license plates. It is used by the Jackson Police Department to convert data
+associated with vehicle license plates for official law enforcement purposes, including identifying
+stolen or wanted vehicles, stolen license plates and missing persons. It may also be used to
+gather information related to active warrants, homeland security, electronic surveillance, suspect
+interdiction and stolen property recovery.
+
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+10
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+752
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by The Jackson Police Department and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human-verified through various law enforcement information-sharing channels such as NCIC and LEIN.
+
+Provided by Flock Safety
