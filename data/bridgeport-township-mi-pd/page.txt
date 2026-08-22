@@ -5,7 +5,7 @@ Visit Flock
 Bridgeport Township MI PD
 Transparency Portal
 
-Last updated: Wed Aug 19 2026
+Last updated: Fri Aug 21 2026
 
 Overview
 
@@ -17,19 +17,19 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-139 alerts
+137 alerts
 MI LEIN - MI - Wanted Person
-106
+103
 MI LEIN - NCIC - Stolen Vehicle
 14
 MI LEIN - MI - Stolen Plate
 5
 MI LEIN - MI - Stolen Vehicle
 4
+MI LEIN - NCIC - Sex Offender
+4
 MI LEIN - NCIC - Stolen Plate
 4
-MI LEIN - NCIC - Sex Offender
-3
 MI LEIN - NCIC - Wanted Person
 3
 
@@ -55,7 +55,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-62
+54
 
 Hotlists Alerted On
 
@@ -67,13 +67,13 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,054
+1,061
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Larceny/Theft Offenses
 Wanted Person (Arrest Warrant/Fugitive)
+Larceny/Theft Offenses
 Motor Vehicle Theft/Stolen
 Hit and Run/Car Accident
 Traffic Infraction
@@ -1105,7 +1105,7 @@ Susquehanna Township PA PD
 Swainsboro GA PD
 Sycamore IL PD
 Sylvania Township OH PD
-Tallahassee FL PD
+Tallahassee Police Department (FL)
 Tallmadge OH PD
 Tampa FL PD
 Tarpon Springs FL PD
@@ -1352,7 +1352,6 @@ Brookfield WI PD
 Broome CO NY SO
 Brownstown Twp PD MI
 Brunswick OH PD
-Buffalo County WI SO
 Buffalo State University NY PD
 Bullitt County KY SO
 Burlington IA PD
@@ -1368,7 +1367,6 @@ Cambridge City IN PD
 Canton IL PD
 Carlyle IL PD
 Carmel IN PD
-Carol Stream IL PD
 Carroll County OH SO
 Cass County IN SO
 Cass County MI SO
@@ -1613,7 +1611,6 @@ Jefferson County SO IN
 Jeffersontown KY PD
 Jessamine County KY SO
 Johnsburg IL PD
-Johnson City TN PD
 Johnson County TN SO
 Johnston City IL PD
 Joliet IL PD
@@ -2015,7 +2012,6 @@ Warrensville Heights OH PD
 Warrick County IN SO
 Warson Woods MO PD
 Washington County IN SO
-Washington County TN SO
 Washington County WI SO
 Washington IA PD
 Washington Island WI PD
@@ -2027,7 +2023,6 @@ Wauconda IL PD
 Waukesha County WI SO
 Waukesha WI PD
 Waukon IA PD
-Waunakee WI PD
 Wauwatosa WI PD
 Wayne IL PD
 Webster Groves MO PD
