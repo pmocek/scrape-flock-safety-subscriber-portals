@@ -1,0 +1,152 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+Cranbury NJ PD
+Transparency Portal
+
+Last updated: Sat Aug 22 2026
+
+Overview
+
+Cranbury NJ PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Cranbury NJ PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Cranbury NJ PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+1095 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+12
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+364,294
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+33
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCIC, NCMEC Amber Alert
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+127
+
+Sharing Network Data With
+
+Organizations granted access to Cranbury NJ PD data.
+
+Backtrace - NJ State Police
+Bellmawr NJ PD
+Berkeley Heights NJ PD
+Berlin Township (Camden County) NJ PD
+Bernards Twp NJ PD
+Bordentown TWP NJ PD
+Burlington County NJ Prosecutor's Office
+Cheltenham Twp PA PD
+Cherry Hill NJ PD
+Clark NJ PD
+Clinton Township NJ PD
+Cranford NJ PD
+East Hanover Twp PD (Morris County)
+East Norriton PA PD
+Edison NJ PD
+Elizabeth NJ PD
+Far Hills Boro NJ PD
+Flemington NJ PD
+Forks Township (Northampton County) PA PD
+Franklin Township NJ PD (Hunterdon County)
+Franklin Township NJ PD (Somerset)
+Green Brook Twp NJ PD
+Hackensack NJ PD
+Hillsborough Twp NJ PD
+Hopatcong NJ PD
+Hunterdon County NJ Prosecutors Office
+Jersey City NJ PD
+Lawnside NJ PD
+Linden NJ PD
+Longport NJ PD
+Lower Saucon Township PA PD
+Lynbrook Village NY PD
+Metuchen NJ PD
+Monmouth Beach NJ PD
+Monroe NJ PD [Middlesex County]
+Montgomery Township PA PD
+New Britain Township PA PD
+New Brunswick NJ PD
+New Jersey State Police
+Newton NJ PD
+North Brunswick NJ PD
+Peapack Gladstone NJ PD
+Pemberton Township NJ PD
+Perth Amboy NJ PD
+Readington Township NJ PD
+Rowan University NJ PD
+Roxbury Twp NJ PD
+Sayreville NJ PD
+Scotch Plains NJ PD
+Somerset County NJ Prosecutors Office
+South Plainfield NJ PD
+Springfield NJ PD
+Tinton Falls NJ PD
+Union County NJ Prosecutor's Office
+Warminster Township PA PD
+Warren NJ PD
+Wayne TWP NJ PD
+West Amwell Township PD NJ
+West Deptford NJ PD
+Westampton Township NJ PD
+Westfield NJ PD
+Woodbridge NJ PD
+Woodbury NJ PD
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Cranbury NJ PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+
+Provided by Flock Safety
