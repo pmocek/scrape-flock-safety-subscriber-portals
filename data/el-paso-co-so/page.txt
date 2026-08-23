@@ -1,0 +1,85 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+More Info
+Visit Flock
+El Paso CO SO
+Transparency Portal
+
+Last updated: Sat Aug 22 2026
+
+Overview
+
+The El Paso County Sheriff's Office uses Flock Safety technology to capture objective evidence without compromising on individual privacy. El Paso County Sheriff's Office utilizes retroactive search to solve crimes after they've occurred. Additionally, the El Paso County Sheriff's Office may utilize real time alerting of hotlist vehicles to capture wanted criminals, recover stolen vehicles, and notify deputies primarily of other public safety alerts. In an effort to demonstrate that proper guardrails are in place to prevent misuse, they have made the below policies and usage statistics available to the public.
+
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+30
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+525,563
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+308
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCIC, NCMEC Amber Alert, Colorado Crime Information Center (CCIC)
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+7,935
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by El Paso County Sheriff's Office and is never sold to third parties.
+
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), personal use.
+
+Access Policy
+
+All system access requires a valid reason. The reported reason is stored indefinitely. System search access shall only be conducted in relation to criminal investigations or a criminal nexus. A search is limited to authorized law enforcement personnel.
+
+Hotlist Policy
+
+Hotlist hits (i.e., stolen vehicles, wanted vehicles, missing persons, etc.) that are entered into the CCIC/NCIC, NCMEC/Amber Alert systems will provide an alert notification. Based on policy all scanned license plates are required to be verified by law enforcement personnel and checked in the CCIC/NCIC information system(s) prior to action.
+More Info
+
+Disclaimer
+
+The El Paso County Sheriff's Office is in the process of transitioning all of its stationary ALPR cameras to Flock Safety. As such, the ALPR data reflected in the Transparency Portal is not reflective of all the data the agency collects.
+
+Provided by Flock Safety
