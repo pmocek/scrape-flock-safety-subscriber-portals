@@ -5,7 +5,7 @@ Visit Flock
 Bridgeport Township MI PD
 Transparency Portal
 
-Last updated: Fri Aug 21 2026
+Last updated: Sat Aug 22 2026
 
 Overview
 
@@ -17,21 +17,21 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-137 alerts
+133 alerts
 MI LEIN - MI - Wanted Person
-103
+102
 MI LEIN - NCIC - Stolen Vehicle
-14
-MI LEIN - MI - Stolen Plate
-5
+15
 MI LEIN - MI - Stolen Vehicle
 4
 MI LEIN - NCIC - Sex Offender
 4
-MI LEIN - NCIC - Stolen Plate
-4
+MI LEIN - MI - Stolen Plate
+3
 MI LEIN - NCIC - Wanted Person
 3
+MI LEIN - NCIC - Stolen Plate
+2
 
 Data Retention
 
@@ -55,7 +55,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-54
+57
 
 Hotlists Alerted On
 
@@ -67,7 +67,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,061
+1,058
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1483,7 +1483,6 @@ Florissant MO PD
 Floyd County IN SO
 Flushing City MI PD
 Forest Park OH PD
-Forest View IL PD
 Fort Loramie OH PD
 Fort Wayne IN PD
 Fort Worth TX PD
@@ -1861,7 +1860,6 @@ Putnam County TN SO
 Quincy IL PD
 Racine WI PD
 Ralls County MO SO
-Rantoul IL PD
 Reading OH PD
 Redford Twp MI PD
 Reedsburg WI PD
@@ -1935,7 +1933,6 @@ St. Joseph County SO IN
 St. Joseph Department of Public Safety MI
 St. Louis County MO PD
 St. Matthews KY PD
-St. Peters MO PD
 Ste. Genevieve County MO SO
 Steger IL PD
 Sterling Heights MI PD
