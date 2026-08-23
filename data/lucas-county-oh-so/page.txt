@@ -6,7 +6,7 @@ Visit Flock
 Lucas County OH SO
 Transparency Portal
 
-Last updated: Sat Aug 22 2026
+Last updated: Sun Aug 23 2026
 
 Overview
 
@@ -91,7 +91,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-659
+650
 
 Hotlists Alerted On
 
@@ -103,7 +103,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,378
+4,416
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
