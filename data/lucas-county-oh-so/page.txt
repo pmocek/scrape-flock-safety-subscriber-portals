@@ -6,7 +6,7 @@ Visit Flock
 Lucas County OH SO
 Transparency Portal
 
-Last updated: Sun Aug 23 2026
+Last updated: Mon Aug 24 2026
 
 Overview
 
@@ -91,7 +91,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-650
+656
 
 Hotlists Alerted On
 
@@ -103,7 +103,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,416
+4,430
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -2064,7 +2064,6 @@ Manor TX PD
 Mansfield OH PD
 Maple Heights OH PD
 Margate FL PD
-Maricopa County AZ SO
 Marietta GA PD
 Marinette County SO (WI)
 Marion AR PD
