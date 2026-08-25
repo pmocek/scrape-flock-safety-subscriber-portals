@@ -5,7 +5,7 @@ Visit Flock
 Roseburg OR PD
 Transparency Portal
 
-Last updated: Mon Aug 24 2026
+Last updated: Tue Aug 25 2026
 
 Overview
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-173,892
+173,598
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-140
+165
 
 Hotlists Alerted On
 
@@ -54,7 +54,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-192
+195
 
 Sharing Network Data With
 
