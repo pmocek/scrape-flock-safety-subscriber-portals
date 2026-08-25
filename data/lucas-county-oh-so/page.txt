@@ -6,7 +6,7 @@ Visit Flock
 Lucas County OH SO
 Transparency Portal
 
-Last updated: Mon Aug 24 2026
+Last updated: Tue Aug 25 2026
 
 Overview
 
@@ -91,7 +91,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-656
+651
 
 Hotlists Alerted On
 
@@ -103,7 +103,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,430
+4,399
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1909,7 +1909,6 @@ Iberville Parish LA SO
 Illinois Attorney General
 IN - Angola PD
 IN - Noble County Prosecutors
-Independence KY PD
 Independence OH PD
 Indian Hill OH PD
 Indian Hills KY PD
@@ -2009,7 +2008,6 @@ Lenawee County MI SO
 Lenoir City TN PD
 Leon County Sheriffs Office (FL)
 Lexington KY PD
-Lexington NC PD
 Lexington SC PD
 Lexington TN PD
 Liberty Township OH PD
@@ -2460,7 +2458,6 @@ Sterling Heights MI PD
 Steubenville OH PD
 Stillwater MN PD
 Stow OH PD
-Streator IL PD
 Strongsville OH PD
 Struthers OH PD
 Sugar Hill GA PD
@@ -2477,7 +2474,6 @@ Surry County NC SO
 Suwanee GA PD
 Swanton OH PD
 Sweet Springs MO PD
-Sycamore IL PD
 Sylvania OH PD
 Sylvania Township OH PD
 Tallmadge OH PD
@@ -2628,7 +2624,6 @@ Woodson Terrace MO PD
 Woodstock GA PD
 Woodville OH PD
 Wooster OH PD
-Worthington OH PD
 Wright City MO PD
 Wyandot County OH SO
 Wyandotte MI PD
@@ -2640,7 +2635,6 @@ York County SC SO
 Youngstown OH PD
 Zachary LA PD
 Zanesville OH PD
-Zion IL PD
 Zionsville IN PD
 Policy & Trust
 
