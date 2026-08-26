@@ -5,7 +5,7 @@ Visit Flock
 Grand Traverse County MI SO
 Transparency Portal
 
-Last updated: Fri Aug 21 2026
+Last updated: Tue Aug 25 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-420,895
+415,082
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-195
+208
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,743
+1,736
 
 Sharing Network Data With
 
@@ -1332,7 +1332,6 @@ Sterling IL PD
 Stevens Point WI PD
 Stillwater MN PD
 Stow OH PD
-Streator IL PD
 Strongsville OH PD
 Struthers OH PD
 Sturgis MI PD
