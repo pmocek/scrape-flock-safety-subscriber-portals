@@ -5,7 +5,7 @@ Visit Flock
 El Segundo CA PD
 Transparency Portal
 
-Last updated: Tue Aug 25 2026
+Last updated: Wed Aug 26 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-359,090
+357,533
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-182
+181
 
 Hotlists Alerted On
 
@@ -48,13 +48,14 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-932
+925
 
 Sharing Network Data With
 
 Organizations granted access to El Segundo CA PD data.
 
 Albany CA PD
+Amador County CA Sheriff's Office
 Anaheim CA PD
 Anderson CA PD
 Angels Camp CA PD
@@ -91,6 +92,7 @@ Central Marin CA PD
 Cerritos College CA PD
 Chino CA PD
 Citrus Heights CA PD
+City of Commerce CA (LASD)
 City of Compton CA (LASD)
 City of Lemoore CA
 City of Pico Rivera CA (LASD)
@@ -236,6 +238,7 @@ San Bernardino County CA FD
 San Bernardino County CA Human Services [Law Enforcement]
 San Bernardino County CA SO
 San Bruno CA PD
+San Diego County District Attorney
 San Diego Harbor CA PD
 San Fernando CA PD
 San Francisco CA PD
@@ -255,6 +258,7 @@ Sanger CA PD
 Santa Ana CA PD
 Santa Barbara County District Attorney CA
 Santa Clara CA PD
+Santa Clara County CA SO
 Santa Cruz CA PD (deactivated)
 Santa Monica CA PD
 Santa Rosa CA PD
@@ -274,6 +278,7 @@ Sutter County CA SO
 Taft CA PD
 Tehama County CA SO
 Tiburon CA PD
+Tracy CA PD
 Trinity County SO CA
 Tulare CA PD
 Tulare County CA SO
