@@ -6,7 +6,7 @@ Visit Flock
 Lucas County OH SO
 Transparency Portal
 
-Last updated: Tue Aug 25 2026
+Last updated: Wed Aug 26 2026
 
 Overview
 
@@ -91,7 +91,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-651
+653
 
 Hotlists Alerted On
 
@@ -103,7 +103,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,399
+4,388
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1433,7 +1433,6 @@ Athens IL PD
 Athens OH PD
 Atlanta GA PD
 Atlantic Beach FL PD
-Auburn Hills MI PD
 Auburn IN PD
 Auglaize County OH SO
 Aurora IL PD
@@ -1945,7 +1944,6 @@ Jessamine County KY SO
 Johns Creek GA PD
 Johnston IA PD
 Joliet IL PD
-Joliet Junior College IL PD
 Joplin MO PD
 Kalamazoo Township MI PD
 Kane County Forest Preserve IL PD
@@ -2184,7 +2182,6 @@ Newark OH PD
 Newberry County SC SO
 Newburgh Heights OH PD
 Newton County GA SO
-Newton IA PD
 Newtown OH PD
 Niagara County NY SO
 Niagara Falls City NY PD
