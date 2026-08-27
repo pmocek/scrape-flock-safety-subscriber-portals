@@ -6,7 +6,7 @@ Visit Flock
 Lucas County OH SO
 Transparency Portal
 
-Last updated: Wed Aug 26 2026
+Last updated: Thu Aug 27 2026
 
 Overview
 
@@ -91,7 +91,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-653
+640
 
 Hotlists Alerted On
 
@@ -103,7 +103,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,388
+4,356
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -226,6 +226,7 @@ Bexley OH PD
 Binghamton City NY PD
 Birmingham MI PD
 Bixby OK PD
+Blackman/Leoni Public Safety MI
 Blackshear GA PD
 Blakely PA PD
 Blendon Township OH PD
@@ -283,6 +284,7 @@ Calloway County KY SO
 Calumet Park IL PD
 Cambridge OH PD
 Canfield OH PD
+Canton IL PD
 Canton OH PD
 Cape Girardeau County MO SO
 Cape Girardeau MO PD
@@ -316,6 +318,7 @@ Chesterton IN PD
 Cheviot OH PD
 Cincinnati OH PD
 City of Delavan WI PD
+City of Washington PA PD
 Clark County OH SO
 Clarksville IN PD
 Clay County FL SO
@@ -368,6 +371,7 @@ Crisp County GA SO
 Cross Creek Township OH PD
 Crowley TX PD
 Crown Point IN PD
+CSX Railroad PD
 Cullman County AL SO
 Culpeper VA PD
 Cumberland County PA DA
@@ -425,7 +429,6 @@ Eastpointe MI PD
 Eaton OH PD
 Eau Claire County WI SO
 Ecorse MI PD
-Edison State Community College
 El Cajon CA PD
 Elizabethtown KY PD
 Elkhart County IN SO
@@ -627,6 +630,7 @@ IN - Rensselaer PD
 Independence OH PD
 Indian Hill OH PD
 Indiana Department of Corrections
+Indiana Department of Natural Resources
 Indiana State Police IN PD
 Indianapolis Metro PD IN
 Ingalls IN PD
@@ -657,6 +661,7 @@ Johnson City TN PD
 Johnson County TX SO
 Johnston City IL PD
 Joliet IL PD
+Jonesboro AR PD
 Junction City KS PD
 Justice IL PD
 Kalamazoo MI PD
@@ -854,6 +859,7 @@ Monroeville OH PD
 Montgomery County Constable
 Precinct 4 (TX)
 Montgomery County IN SO
+Montgomery County KS SO
 Montgomery County MO SO
 Montgomery County OH SO
 Montgomery Township PA PD
@@ -890,6 +896,7 @@ Muskego WI PD
 Muskegon MI PD
 Muskegon Township MI PD (Muskegon County)
 Muskingum County OH SO
+Muskogee OK PD
 Napoleon OH PD
 Napoleon Twp MI PD
 Nashville Intl Airport TN PD
@@ -1088,6 +1095,7 @@ Rockdale IL PD
 Rockport IN PD
 Rockwood TN PD
 Rocky River OH PD
+Romeoville IL PD
 Romulus MI PD
 Rose Hill KS PD
 Rosemont IL PD
@@ -1122,6 +1130,7 @@ Schuyler Co. IL SO
 Scotch Plains NJ PD
 Scottsboro AL PD
 Scurry County TX SO
+Sebree KY PD
 Seguin TX PD
 Selma NC PD
 Seven Hills OH PD
@@ -1215,6 +1224,7 @@ Terre Haute IN PD
 Texas City TX PD
 Texas Department of Public Safety
 The Tribal Police of the Grand Traverse Band of Ottawa & Chippewa Indians MI
+Thomas County GA SO
 Thomaston GA PD
 Thornton CO PD
 Three Rivers MI PD
@@ -1240,6 +1250,7 @@ Truesdale MO PD
 Tulsa County OK SO
 Tuscarawas County OH SO
 Twinsburg OH PD
+Union City IN PD
 Union City OH PD
 Union County GA SO
 Union County KY SO
@@ -1252,7 +1263,6 @@ University Heights OH PD
 University of Central Missouri PD
 University of Kentucky
 University of Michigan Ann Arbor Campus MI PD
-University of Michigan Dearborn Campus MI PD
 University of Missouri Campus MO PD
 University of South Florida at St. Petersburg FL PD
 University of South Florida FL PD
@@ -1308,6 +1318,7 @@ Wauconda IL PD
 Waukesha WI PD
 Wauseon OH PD
 Waushara County WI SO
+Waverly TN PD
 Waxhaw NC PD
 Wayne County Airport Authority MI
 Wayne MI PD
@@ -1587,6 +1598,7 @@ Clayton County GA PD
 Clayton NC PD
 Clayton OH PD
 Clearwater FL PD
+Cleveland Clinic OH PD
 Cleveland Metro Parks OH PD
 Clinton County IA SO
 Clinton County SO - OH
@@ -1643,7 +1655,6 @@ CVG Airport KY PD
 D'Iberville MS PD
 Dalton GA PD
 Danville KY PD
-Davidson County NC SO
 Davie County NC SO
 Davie FL PD
 Davison Township MI PD
@@ -1652,7 +1663,6 @@ Dearborn County IN SO
 Dearborn Heights MI PD
 Decatur GA PD
 Decatur IN PD
-Decommissioned Org
 Deer Park OH PD
 Defiance County OH SO
 DeKalb County GA PD
@@ -1683,7 +1693,6 @@ Eaton OH PD
 Eau Claire County WI SO
 Ecorse MI PD
 Edinburgh IN PD
-Edison State Community College
 Edmond OK PD
 Edmundson MO PD
 El Paso IL PD
@@ -1730,7 +1739,6 @@ Flagler County FL SO
 Flat Rock MI PD
 Flint MI PD
 Flint Township MI PD
-Flock Safety - Test
 Flock Safety Training
 Florence Co. WI SO
 Florence County SC SO
@@ -2304,7 +2312,6 @@ Pittsboro IN PD
 Plain City OH PD
 Plainfield IL PD
 Plainfield IN PD
-Plant City FL PD
 Pleasant Prairie WI PD
 Plymouth MI PD
 Plymouth PD IN
@@ -2518,7 +2525,6 @@ Union Township PD (Clermont Co) - OH
 University Circle OH PD
 University Heights OH PD
 University of Delaware PD
-University of Illinois- Springfield
 University of Kentucky
 University of Louisville KY PD
 University of Michigan Ann Arbor Campus MI PD
