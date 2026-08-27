@@ -5,7 +5,7 @@ Visit Flock
 Bridgeport Township MI PD
 Transparency Portal
 
-Last updated: Tue Aug 25 2026
+Last updated: Wed Aug 26 2026
 
 Overview
 
@@ -17,9 +17,9 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-139 alerts
+143 alerts
 MI LEIN - MI - Wanted Person
-108
+112
 MI LEIN - NCIC - Stolen Vehicle
 16
 MI LEIN - NCIC - Sex Offender
@@ -67,7 +67,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,147
+1,151
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1613,7 +1613,6 @@ Johnsburg IL PD
 Johnson County TN SO
 Johnston City IL PD
 Joliet IL PD
-Joliet Junior College IL PD
 Juneau County WI SO
 Kalamazoo County MI SO
 Kalamazoo Township MI PD
@@ -1769,7 +1768,6 @@ New Chicago IN PD
 New Haven IN PD
 New Paris OH PD
 Newark OH PD
-Newton IA PD
 Niagara County NY SO
 Nicholasville KY PD
 NICTD - IN PD
