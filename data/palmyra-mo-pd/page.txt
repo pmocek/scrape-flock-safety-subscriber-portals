@@ -5,7 +5,7 @@ Visit Flock
 Palmyra MO PD
 Transparency Portal
 
-Last updated: Tue Aug 04 2026
+Last updated: Thu Aug 27 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-29,652
+31,987
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-22
+31
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-100
+159
 
 Sharing Network Data With
 
@@ -383,7 +383,6 @@ Gahanna OH PD
 Gallatin TN PD
 Garden City MI PD
 Gardendale AL PD
-Gardner KS PD
 Garrard County KY SO
 Gary IN PD
 Gas City IN PD
@@ -595,7 +594,6 @@ Lantana FL PD
 Las Vegas NM PD
 LaSalle Co. IL SO - New
 Lathrup Village MI PD
-Lawrence County MO SO
 Le Mars IA PD
 Lea County NM SO
 Leake County MS SO
@@ -1055,7 +1053,6 @@ Stevens Point WI PD
 Stillwater MN PD
 Stoddard County MO SO
 Stone County MO SO
-Streator IL PD
 Struthers OH PD
 Sturgis MI PD
 Sugar Creek MO PD

@@ -1,0 +1,669 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+Kildeer IL PD
+Transparency Portal
+
+Last updated: Wed Aug 26 2026
+
+Overview
+
+Kildeer IL PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Kildeer IL PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Kildeer IL PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+2
+
+LPR Cameras
+
+Number of LPR cameras only.
+
+2
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+0
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCIC, NCMEC Amber Alert
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+6
+
+Sharing Network Data With
+
+Organizations granted access to Kildeer IL PD data.
+
+Lewistown IL PD
+Adams County IL SO
+Addison IL PD
+Arcola IL PD
+Arlington Heights IL PD
+Arthur IL PD
+Athens IL PD
+Auburn IL PD
+Aurora IL PD
+Barrington Hills IL PD
+Barrington IL PD
+Bartlett IL PD
+Bartonville IL PD
+Bedford Park IL PD
+Bellwood IL PD
+Belvidere IL PD
+Bement IL PD
+Bensenville IL PD
+Benton IL PD
+Berkeley IL PD
+Bloomington IL PD
+Blue Island IL PD
+Bolingbrook IL PD
+Bond County IL SO
+Bourbonnais IL PD
+Bradley IL PD
+Braidwood IL PD
+Broadview IL PD
+Brookfield IL PD
+Buffalo Grove IL PD
+Burbank IL PD
+Bureau Co. IL SO
+Burnham IL PD
+Burr Ridge IL PD
+Byron IL PD
+Calumet Park IL PD
+Canton IL PD
+Carol Stream IL PD
+Cary IL PD
+Casey IL PD
+Cass County IL SO
+Centralia IL PD
+Champaign County IL SO
+Champaign IL PD
+Channahon IL PD
+Charleston IL PD
+Chatham IL PD
+Chenoa IL PD
+Cherry Valley IL PD
+Chicago Heights IL PD
+Chicago IL PD
+Chrisman IL PD
+Cicero IL PD
+Clark Co. IL Sheriff's Dept.
+Coal Valley IL PD
+Coles County IL SO
+Colona IL PD
+Cook County IL SO
+Cortland IL PD
+Country Club Hills IL PD
+Countryside IL PD
+Crainville IL PD
+Crawford County IL SO
+Crest Hill IL PD
+Crete IL PD
+Creve Coeur IL PD
+Danville IL PD
+Darien IL PD
+Decatur IL PD
+Decatur Park District IL PD
+Deerfield IL PD
+Des Plaines IL PD
+Dolton IL PD
+Douglas County IL SO
+DuPage Co IL Prosecutor Office
+DuPage County Forest Preserve IL PD
+DuPage County IL SO
+East Dundee IL PD
+East Moline IL PD
+East Peoria IL PD
+ECom911
+Edgar County IL SO
+Effingham IL PD
+Effingham IL SO
+El Paso IL PD
+Elk Grove IL PD
+Energy IL PD
+Eureka IL PD
+Evergreen Park IL PD
+Farmer City IL PD
+Fayette County IL SO
+Flossmoor IL PD
+Forest View IL PD
+Forreston IL PD
+Fox Lake IL PD
+Fox Valley IL Parks District
+Frankfort IL PD
+Franklin County IL SO
+Franklin Park IL PD
+Fulton County IL SO
+Galesburg IL PD
+Galva IL PD
+Geneseo IL PD
+Georgetown IL PD
+Glasford IL PD
+Glencoe IL PD
+Glendale Heights IL PD
+Glenview IL PD
+Glenwood IL PD
+Golf IL PD
+Grayslake IL PD
+Greenfield IL PD
+Greenville IL PD
+Grundy County IL SO
+Gurnee IL PD
+Hanover Park IL PD
+Harper Community College IL PD
+Harrisburg IL PD
+Harvey IL PD
+Harwood Heights IL PD
+Havana IL PD
+Hawthorn Woods IL PD
+Hazel Crest IL PD
+Henry County IL SO
+Herrin IL PD
+Hickory Hills IL PD
+Highland Park IL PD
+Hillside IL PD
+Hodgkins IL PD
+Hoffman Estates IL PD
+Hometown IL PD
+Homewood IL PD
+Huntley IL PD
+Illinois Department of Natural Resources
+Illinois State Police
+Indian Head Park IL PD
+Inverness IL PD
+Iroquois IL SO
+Island Lake IL PD
+Itasca IL PD
+Jacksonville IL PD
+Johnston City IL PD
+Joliet IL PD
+Justice IL PD
+Kane County Forest Preserve IL PD
+Kane County IL SO
+Kankakee County IL SO
+Kankakee IL PD
+Kansas IL PD
+KenCom Public Safety Dispatch
+Kenilworth Village IL PD
+Kewanee IL PD
+Knox County IL SO
+La Grange IL PD
+La Grange Park IL PD
+Ladd IL PD
+Lake Bluff IL PD
+Lake County IL SO
+Lake Forest IL PD
+Lake In The Hills IL PD
+Lake Zurich IL PD
+Lakewood IL PD
+Lansing IL PD
+LaSalle Co. IL SO - New
+Lasalle IL PD
+Lawrence County IL SO
+Lee County IL SO
+LeRoy IL PD
+Lewis University IL PD
+Libertyville IL PD
+Lincolnshire IL PD
+Lincolnwood IL PD
+Lisle IL PD
+Livingston County IL SO
+Livingston IL PD
+Lombard IL PD
+Loves Park IL PD
+Lyons IL PD
+Mackinaw IL PD
+Macon County IL SO
+Mahomet IL PD
+Manteno IL PD
+Marion County IL SO
+Marion IL PD
+Markham IL PD
+Marseilles IL PD
+Marshall County IL SO
+Mason County IL SO
+Matteson IL PD
+McCook IL PD
+McDonough County IL SO
+McHenry IL PD
+Mclean County IL SO
+Melrose Park IL PD
+Menard County IL SO
+Mendota IL PD
+Merrionette Park IL PD
+Metra IL PD
+Metro East Auto Theft (IL)
+Midlothian IL PD
+Milan IL PD
+Minooka IL PD
+Mokena IL PD
+Moline IL PD
+Monee IL PD
+Monmouth IL PD
+Monticello IL PD
+Morris IL PD
+Morrison IL PD
+Morton Grove IL PD
+Morton IL PD
+Mount Pleasant WI PD
+Mount Prospect IL PD
+Moweaqua IL PD
+Mt. Zion IL PD
+Mundelein IL PD
+Murphysboro IL PD
+Naperville IL PD
+New Lenox IL PD
+Newton IL PD
+Niles IL PD
+Norfolk Southern RR IL PD
+Normal IL PD
+North Aurora IL PD
+North Chicago IL PD
+Northbrook IL PD
+Northlake IL PD
+Oak Brook IL PD
+Oak Forest IL PD
+Oak Lawn IL PD
+Oakland IL PD
+Oakwood IL PD
+Ogle County IL SO
+Oglesby IL PD
+Olney IL PD
+Olympia Fields IL PD
+Orland Park IL PD
+Oswego IL PD
+Ottawa IL PD
+Palatine IL PD
+Palos Heights IL PD
+Palos Park IL PD
+Park Forest IL PD
+Park Ridge IL PD
+Paxton IL PD
+Pecatonica IL PD
+Pekin IL PD
+Peoria County IL SO
+Peoria Heights IL PD
+Peoria IL PD
+Peotone IL PD
+Peru IL PD
+Petersburg IL PD
+Pike County IL SO
+Pittsfield IL PD
+Plainfield IL PD
+Pontiac IL PD
+Posen IL PD
+Princeton IL PD
+Prospect Heights IL PD
+Putnam County IL SO
+Quincy IL PD
+Richton Park IL PD
+Riverside IL PD
+Riverton IL PD
+Robbins IL PD
+Robinson IL PD
+Rochester IL PD
+Rock Falls IL PD
+Rock Island IL PD
+Rockdale IL PD
+Rockford IL PD
+Rockford Park District IL PD
+Rolling Meadows IL PD
+Romeoville IL PD
+Roselle IL PD
+Rosemont IL PD
+Rossville IL PD
+Round Lake IL PD
+Saline County IL SO
+Sangamon County IL SO
+Sauk Village IL PD
+Savanna IL PD
+Schaumburg IL PD
+Schiller Park IL PD
+Schuyler Co. IL SO
+Shelby County IL SO
+Sherman IL PD
+Shorewood IL PD
+Silvis IL PD
+Skokie IL PD
+South Barrington IL PD
+South Elgin IL PD
+Southern Illinois University IL PD
+Southern View IL PD
+Spring Valley IL PD
+Springfield IL PD
+St. Charles IL PD
+Steger IL PD
+Sterling IL PD
+Streamwood IL PD
+Sugar Grove IL PD
+Sullivan IL PD
+Sycamore IL PD
+Tazewell County IL SO
+Thornton IL PD
+Tilton IL PD
+Tinley Park IL PD
+University of Illinois - Chicago IL PD
+University of Illinois Urbana-Champaign IL PD
+University of Illinois- Springfield
+University Park IL PD
+Vandalia IL PD
+Vermilion County SO - Bismarck Village
+Vernon Hills IL PD
+Vienna IL PD
+Village of Bloomingdale IL PD
+Village of Manhattan IL PD
+Village of Pingree Grove IL PD
+Virden IL PD
+Warrensburg IL PD
+Warrenville IL PD
+Washington IL PD
+Wauconda IL PD
+Waukegan IL PD
+West Chicago IL PD
+West Dundee IL PD
+Westchester IL PD
+Western Illinois University IL PD
+Wheaton IL PD
+Wheeling IL PD
+Will County IL SO
+Williamson Co. IL SO
+Willow Springs IL PD
+Wilmette IL PD
+Wilmington IL PD
+Winfield IL PD
+Winnebago County IL SO
+Winthrop Harbor IL PD
+Wood Dale IL PD
+Woodford County IL SO
+Woodridge IL PD
+Woodstock IL PD
+Zion IL PD
+
+Receiving Network Data From
+
+Organizations sharing their data with Kildeer IL PD.
+
+Addison IL PD
+Arlington Heights IL PD
+Atwood IL PD
+Auburn IL PD
+Aviston IL PD
+Barrington Hills IL PD
+Barrington IL PD
+Bartlett IL PD
+Bartonville IL PD
+Beardstown IL PD
+Bedford Park IL PD
+Bensenville IL PD
+Bloomington IL PD
+Bradley IL PD
+Buffalo Grove IL PD
+Bureau Co. IL SO
+Calumet Park IL PD
+Canton IL PD
+Carbondale IL PD
+Carlyle IL PD
+Carpentersville IL PD
+Charleston IL PD
+Chenoa IL PD
+Cherry Valley IL PD
+Chicago Heights IL PD
+Chrisman IL PD
+Clinton IL PD
+Coal Valley IL PD
+Crainville IL PD
+Crawford County IL SO
+Crestwood IL PD
+Creve Coeur IL PD
+Crystal Lake IL PD
+Danville IL PD
+Darien IL PD
+Divernon IL PD
+DuPage County Forest Preserve IL PD
+DuPage County IL SO
+Dwight IL PD
+Dyer County TN SO
+Dyersburg TN PD
+East Dundee IL PD
+East Moline IL PD
+East Peoria IL PD
+Effingham IL PD
+Elkhart PD IN
+Energy IL PD
+Evergreen Park IL PD
+Farmer City IL PD
+Flora- IL - PD
+Forest Preserve District Will County PD (IL)
+Forreston IL PD
+Fox Lake IL PD
+Frankfort IL PD
+Franklin Park IL PD
+Galesburg IL PD
+Glen Carbon IL PD
+Glen Ellyn IL PD
+Glenwood IL PD
+Grayslake IL PD
+Gurnee IL PD
+Hanover Park IL PD
+Havana IL PD
+Henry County IL SO
+Herrin IL PD
+Hodgkins IL PD
+Hometown IL PD
+IL - Henry PD
+Illinois State Police
+Inverness IL PD
+Iroquois IL SO
+Island Lake IL PD
+Jacksonville IL PD
+Joliet IL PD
+Kane County Forest Preserve IL PD
+Kansas IL PD
+Kendall County IL SO
+La Grange IL PD
+Lake Forest IL PD
+Lansing IL PD
+LaSalle Co. IL SO - New
+Lee County IL SO
+Lewis University IL PD
+Libertyville IL PD
+Lincolnshire IL PD
+Lombard IL PD
+Lyons IL PD
+Macomb IL PD
+Macon County IL SO
+Mahomet IL PD
+Markham IL PD
+Marseilles IL PD
+Matteson IL PD
+Mattoon IL PD
+McCook IL PD
+McDonough County IL SO
+McHenry County Conservation District IL PD
+McHenry IL PD
+Merrionette Park IL PD
+Metamora IL PD
+Midlothian IL PD
+MOCIC
+Mokena IL PD
+Moline IL PD
+Monee IL PD
+Monmouth IL PD
+Monon IN PD
+Monticello IL PD
+Morris IL PD
+Morton Grove IL PD
+Morton IL PD
+Mount Prospect IL PD
+Mt. Zion IL PD
+Mundelein IL PD
+Naperville IL PD
+New Baden IL PD
+Niles IL PD
+Norridge IL PD
+Northbrook IL PD
+Northlake IL PD
+Oak Brook IL PD
+Oak Lawn IL PD
+Ogle County IL SO
+Orland Park IL PD
+Palos Heights IL PD
+Palos Park IL PD
+Paris IL PD
+Park Forest IL PD
+Parkland College IL PD
+Paxton IL PD
+Pecatonica IL PD
+Pekin IL PD
+Peoria IL PD
+Peru IL PD
+Petersburg IL PD
+Pike County IL SO
+Plano IL PD
+Posen IL PD
+Princeton IL PD
+Prospect Heights IL PD
+Richland Community College Campus IL PD
+River Grove IL PD
+Riverside IL PD
+Rochelle IL PD
+Rock Island County IL SO
+Rock Island IL PD
+Rockdale IL PD
+Rockford IL PD
+Rockford Park District IL PD
+Romeoville IL PD
+Roselle IL PD
+Rosemont IL PD
+Round Lake Beach IL PD
+Salem IL PD
+Sangamon County IL SO
+Sauk Village IL PD
+Savanna IL PD
+Schaumburg IL PD
+Schuyler Co. IL SO
+Shelby County IL SO
+Sherman IL PD
+Skokie IL PD
+South Elgin IL PD
+Southern Illinois University IL PD
+Southern View IL PD
+St. Charles IL PD
+Stephenson County IL SO
+Streator IL PD
+Taylorville IL PD
+Thornton IL PD
+Tilton IL PD
+Tinley Park IL PD
+Trenton IL PD
+University of Illinois - Chicago IL PD
+Vermilion County SO - Bismarck Village
+Vernon Hills IL PD
+Village of Pingree Grove IL PD
+Washington IL PD
+Wauconda IL PD
+Wayne IL PD
+West Chicago IL PD
+West City IL PD
+West Dundee IL PD
+Will County IL SO
+Willow Springs IL PD
+Winthrop Harbor IL PD
+Wood Dale IL PD
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Kildeer IL PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+SOC 2 Type II
+
+Independently audited controls covering security, availability, and confidentiality.
+
+ISO 27001
+
+Information security management aligned with international standards.
+
+Adherence to Key Privacy Principles
+
+Built to focus on data minimization, purpose limitation, and transparency.
+
+Myth vs. Fact
+Myth
+
+Flock has been hacked.
+
+Fact
+
+Flock's cloud environment has never been breached. Flock invests in a strong security posture, including adhering to NDAA, SOC2 (Type II), ISO 27001, ISO 27018 FedRAMP 20x, and Higher Education Community Vendor Assessment Tool (HECVAT) compliance. Additional security precautions include Role-Based Access Controls, data encrypted at-rest and in transit, required Multi-Factor Authentication, and regular penetration testing.
+
+Myth
+
+Flock sells and/or shares customer data.
+
+Fact
+
+Your community owns 100% of your data and it will never be sold. Only your agency decides who to share your data with, not Flock. Flock Safety does not publicly release agency search data. Flock does not operate or support any public-facing searchable database of law enforcement lookups, and we do not provide license plate search histories to websites or third parties without the agency's knowledge and authorization. Other agencies who you share footage with have been responding to FOIA requests and sharing this search data.
+
+Myth
+
+My data is fed into a national database.
+
+Fact
+
+Each agency controls access to its own data. Agencies may choose to share information through a broader network, but nothing is shared automatically. Participation is opt-in, governed by defined agreements, and limited to lawful investigative purposes.
+
+Myth
+
+Flock cameras use facial recognition.
+
+Fact
+
+Flock cameras do not use facial recognition technology. Searches are based on vehicle characteristics, and not identity. Flock cannot recognize, identify, or track individuals. It is purpose built for specific public safety investigations, not to monitor people.
+
+Provided by Flock Safety

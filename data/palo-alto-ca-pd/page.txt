@@ -2,11 +2,11 @@ Transparency Portal
 Community Impact
 Policy & Trust
 More Info
-Visit Flock.com
+Visit Flock
 Palo Alto CA PD
 Transparency Portal
 
-Last updated: Mon Aug 03 2026
+Last updated: Wed Aug 26 2026
 
 Overview
 
@@ -31,13 +31,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-678,387
+740,251
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-510
+385
 
 Hotlists Alerted On
 
@@ -49,7 +49,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-2,703
+2,407
 
 Sharing Network Data With
 
@@ -70,10 +70,8 @@ Clayton CA PD
 Colma CA PD
 Concord CA PD
 Danville CA PD
-Dixon CA PD
 Dublin CA PD (ACSO)
 East Palo Alto CA PD
-Elk Grove CA PD
 Fairfield CA PD
 Folsom CA PD
 Foster City CA PD
@@ -84,6 +82,7 @@ Hillsborough CA PD
 Lincoln CA PD
 Livermore CA PD
 Los Altos CA PD
+Los Gatos CA
 Marin County CA SO
 Menlo Park CA PD
 Mill Valley CA PD
@@ -102,7 +101,6 @@ Roseville CA PD
 Sacramento CA DA
 Salinas CA PD
 San Bruno CA PD
-San Francisco CA PD
 San Joaquin County CA SO
 San Jose CA PD
 San Leandro CA PD
@@ -117,7 +115,6 @@ Solano County CA SO
 Stanford University CA PD
 Suisun City CA PD
 Sunnyvale CA PD
-Town of Los Gatos CA
 Tracy CA PD
 Turlock CA PD
 Union City CA PD
