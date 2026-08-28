@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Wed Aug 26 2026
+Last updated: Thu Aug 27 2026
 
 Overview
 
@@ -63,19 +63,19 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-323 alerts
+321 alerts
 NCIC - Protection Order
-125
+122
 NCIC - Sex Offender
-64
+63
 NCIC - Stolen Vehicle
 55
 NCIC - Stolen Plate
-47
+51
 NCIC - Warrants
 18
 NCIC - Gang or Suspected Terrorist
-7
+5
 NCIC - Violent Person
 3
 NCIC - Missing Person
@@ -107,13 +107,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-577,063
+572,137
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-348
+346
 
 Hotlists Alerted On
 
@@ -125,7 +125,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,475
+6,396
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -134,7 +134,7 @@ Drugs/Narcotics
 Larceny/Theft Offenses
 Wanted Person (Arrest Warrant/Fugitive)
 Assault/Battery Offenses
-Hit and Run/Car Accident
+Missing/Endangered Person/Runaway
 
 Sharing Network Data With
 
@@ -1714,7 +1714,6 @@ Deactivated Users
 Decatur AL PD
 Decatur County GA SO
 Decatur GA PD
-Decommissioned Org
 Defuniak Springs FL PD
 DeKalb County GA PD
 Del City OK PD
@@ -1772,7 +1771,6 @@ Fernandina Beach FL PD
 Fish and Wildlife Commission FL PD
 Fishers IN PD
 Flagler County FL SO
-Flock Safety - Test
 Florence AL PD
 Florence County SC SO
 Florence SC PD
@@ -2126,7 +2124,6 @@ Pickens County SC SO
 Pineville NC PD
 Pittsboro IN PD
 Plainview TN PD
-Plant City FL PD
 Platte County MO SO
 Pleasant Prairie WI PD
 Pokagon Tribal MI PD
@@ -2249,7 +2246,6 @@ Taylor MI PD
 Temple GA PD
 Texarkana TX PD
 Thomas County GA SO
-Thomaston GA PD
 Thomasville AL PD
 Thornton CO PD
 Tift County GA SO
@@ -2337,7 +2333,6 @@ Woodstock GA PD
 Worth County GA SO
 Wright City MO PD
 Wyoming MI PD
-Yancey County NC SO
 York County SC SO
 Youngstown OH PD
 Policy & Trust
