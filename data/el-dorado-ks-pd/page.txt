@@ -5,7 +5,7 @@ Visit Flock
 El Dorado KS PD
 Transparency Portal
 
-Last updated: Sat Aug 22 2026
+Last updated: Thu Aug 27 2026
 
 Overview
 
@@ -17,21 +17,21 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-125 alerts
+129 alerts
 NCIC - Violent Person
-56
+49
 NCIC - Stolen Vehicle
-28
+38
 NCIC - Protection Order
-16
+14
 NCIC - Stolen Plate
 14
 NCIC - Sex Offender
 7
+NCIC - Warrants
+4
 NCIC - Extreme Risk Protection Order
 3
-NCIC - Warrants
-1
 
 30 days
 
@@ -49,13 +49,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-91,848
+89,429
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-57
+53
 
 Hotlists Alerted On
 
@@ -67,7 +67,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-959
+860
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -76,7 +76,7 @@ Hit and Run/Car Accident
 Motor Vehicle Theft/Stolen
 Wanted Person (Arrest Warrant/Fugitive)
 Stalking
-Protective/Protection Order
+Destruction/Damage/Vandalism of Property
 
 Sharing Network Data With
 
@@ -247,7 +247,6 @@ Ellsworth County KS SO
 Elm Ridge TX PD
 Erwin NC PD
 Escambia County FL SO
-Excelsior Springs MO PD
 Fairfax OH PD
 Fairlawn OH PD
 Fairmount IN PD
@@ -272,7 +271,6 @@ Franklin Township NJ PD (Somerset)
 Fremont County IA SO
 Frontenac KS PD
 Garden City MI PD
-Gardner KS PD
 Garnett KS PD
 Gasconade Co MO SO
 Gentry County MO SO
@@ -542,6 +540,7 @@ Rice County KS SO
 Richfield OH PD
 Richland County SC SO
 Richmond Heights MO PD
+Richmond MO PD
 Richmond VA PD
 RIG WI DTF
 Riley County KS PD
@@ -594,6 +593,7 @@ St Mary Parish LA SO
 St. Ann MO PD
 St. Charles City MO PD
 St. Clair County MI SO
+St. Francois County MO SO
 St. Johns County FL SO
 St. Joseph MO PD
 St. Peters MO PD
@@ -611,6 +611,7 @@ Sunset Hills MO PD
 Tahlequah OK PD
 Tallahassee Police Department (FL)
 Tampa FL PD
+Tarpon Springs FL PD
 Tarrant County TX SO
 Terre Haute IN PD
 Texarkana AR PD
@@ -700,7 +701,6 @@ Organizations sharing their data with El Dorado KS PD.
 [Federal] US Postal Inspection Service
 Abilene KS PD
 Adams County IL SO
-Addison TX PD
 Adrian MI PD
 Akron OH PD
 Alcoa TN PD
@@ -710,7 +710,6 @@ Altoona IA PD
 Amarillo TX PD
 Anderson IN PD
 Andover KS PD
-Anna TX PD
 Antelope County NE SO
 AR - Alma PD
 AR - Newton County SO
@@ -815,8 +814,8 @@ Cozad NE PD
 Crainville IL PD
 Crawford County IL SO
 Crawford County KS SO
-Crawford County MO
 Crawford County WI SO
+Creve Coeur IL PD
 Creve Coeur MO PD
 Crowley TX PD
 Crystal City MO PD
@@ -854,7 +853,6 @@ Elm Ridge TX PD
 Erath County TX SO
 Euless TX PD
 Eureka MO PD
-Excelsior Springs MO PD
 Farmer City IL PD
 Farmersville TX PD
 Farmington MO PD
@@ -871,7 +869,6 @@ Frontenac KS PD
 Fulshear TX PD
 Fulton MO PD
 Furnas County NE SO
-Gardner KS PD
 Gentry County MO SO
 Gering NE PD
 Germantown TN PD
@@ -1021,6 +1018,7 @@ Monticello IL PD
 Moore County TX SO
 Moore OK PD
 Moundridge KS PD
+Mount Vernon IN PD
 Mountain Home AR PD
 Mountain View AR PD
 Mt. Zion IL PD
@@ -1035,7 +1033,6 @@ Ness County KS SO [Inactive]
 New Baden IL PD
 New Castle County DE PD
 New Madrid County MO SO
-Newton IA PD
 Newton KS PD
 Nichols Hills OK PD
 Nolanville TX PD
@@ -1067,6 +1064,7 @@ Ozarks Drug Enforcement Team MO
 Paducah KY PD
 Palestine TX PD
 Palmyra MO PD
+Paris TN PD
 Paris TX PD
 Park City KS PD
 Park Hills MO PD
@@ -1121,6 +1119,7 @@ Sarcoxie MO PD
 Sarpy County NE SO
 Schuyler Co. IL SO
 Scott City MO PD
+Scott County MS SO
 Scottsbluff NE PD
 Scurry County TX SO
 SE Missouri State University (MO)
@@ -1140,10 +1139,13 @@ Sioux City IA PD
 Smith County TX SO
 Snyder TX PD
 South Central MO Drug Task Force
+South Dakota Division of Criminal Investigation SD
 South Hutchinson KS PD
 South Plains Auto Theft Task Force TX
 South Sioux City NE PD
 Southaven MS PD
+Southern Illinois University IL PD
+Southmayd TX PD
 Springfield MO PD
 St. Ann MO PD
 St. Charles County MO PD
