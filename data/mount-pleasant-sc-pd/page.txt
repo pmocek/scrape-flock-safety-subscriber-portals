@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Thu Aug 27 2026
+Last updated: Fri Aug 28 2026
 
 Overview
 
@@ -63,22 +63,22 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-321 alerts
+314 alerts
 NCIC - Protection Order
-122
+121
 NCIC - Sex Offender
-63
-NCIC - Stolen Vehicle
-55
+62
 NCIC - Stolen Plate
-51
+52
+NCIC - Stolen Vehicle
+48
 NCIC - Warrants
-18
+20
 NCIC - Gang or Suspected Terrorist
 5
-NCIC - Violent Person
-3
 NCIC - Missing Person
+2
+NCIC - Violent Person
 2
 NCIC - CPIC Data Records
 1
@@ -107,13 +107,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-572,137
+564,395
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-346
+338
 
 Hotlists Alerted On
 
@@ -125,7 +125,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,396
+6,326
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -133,8 +133,8 @@ Offense Types used for LPR searches in the last 30 days.
 Drugs/Narcotics
 Larceny/Theft Offenses
 Wanted Person (Arrest Warrant/Fugitive)
-Assault/Battery Offenses
 Missing/Endangered Person/Runaway
+Assault/Battery Offenses
 
 Sharing Network Data With
 
@@ -1537,7 +1537,6 @@ Alabama Law Enforcement Agency (ALEA)
 Alabaster AL PD
 Alachua FL PD
 Albany City NY PD
-Albany GA PD
 Albertville AL PD
 Alcoa TN PD
 Alexander County NC SO
@@ -2325,7 +2324,6 @@ Wilton Manors FL PD
 Winder GA PD
 Winfield AL PD
 Winnebago County WI SO
-Winston Salem State University NC PD
 Winterville NC PD
 Winthrop University SC PD
 Woodruff SC PD
