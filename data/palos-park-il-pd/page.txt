@@ -5,7 +5,7 @@ Visit Flock
 Palos Park IL PD
 Transparency Portal
 
-Last updated: Thu Aug 27 2026
+Last updated: Fri Aug 28 2026
 
 Overview
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-11,314
+11,256
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -178,7 +178,6 @@ Freeport IL PD
 Fulton County IL SO
 Fulton IL PD
 Galesburg IL PD
-Galva IL PD
 Georgetown IL PD
 Glen Carbon IL PD
 Glen Ellyn IL PD
@@ -482,7 +481,6 @@ Alexandria IN PD
 Algood TN PD
 Allegan County SO MI
 Allen County KS SO
-Allen Park PD MI
 Altoona IA PD
 Amberley Village OH PD
 Anderson County TN SO
@@ -787,7 +785,6 @@ Fulton IL PD
 Fulton MO PD
 Gahanna OH PD
 Galesburg IL PD
-Galva IL PD
 Garden City MI PD
 Garfield Heights OH PD
 Garrard County KY SO
@@ -1364,7 +1361,6 @@ Rockford Park District IL PD
 Rockton IL PD
 Rockwood TN PD
 Rocky River OH PD
-Rogers AR PD
 Rolling Meadows IL PD
 Rome WI PD
 Romeoville IL PD
