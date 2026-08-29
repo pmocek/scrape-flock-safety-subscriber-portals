@@ -5,7 +5,7 @@ Visit Flock
 Grand Traverse County MI SO
 Transparency Portal
 
-Last updated: Wed Aug 26 2026
+Last updated: Fri Aug 28 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-413,883
+411,512
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-199
+204
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,717
+1,682
 
 Sharing Network Data With
 
@@ -79,7 +79,6 @@ Alexandria IN PD
 Alexandria VA PD
 Allegan County SO MI
 Allen County IN SO
-Allen Park PD MI
 Almont MI PD
 Alpena County MI SO
 Altoona IA PD
@@ -393,7 +392,6 @@ Eaton OH PD
 Eaton Rapids MI PD
 Eau Claire County WI SO
 Ecorse MI PD
-Edison State Community College
 El Cajon CA PD
 Elizabethtown KY PD
 Elk Rapids MI PD
@@ -482,7 +480,6 @@ Fulton IL PD
 Gahanna OH PD
 Galesburg IL PD
 Gallia County OH SO
-Galva IL PD
 Garden City MI PD
 Garfield Heights OH PD
 Garner NC PD
