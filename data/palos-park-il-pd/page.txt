@@ -5,7 +5,7 @@ Visit Flock
 Palos Park IL PD
 Transparency Portal
 
-Last updated: Fri Aug 28 2026
+Last updated: Sat Aug 29 2026
 
 Overview
 
@@ -36,7 +36,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-5
+10
 
 Hotlists Alerted On
 
@@ -48,11 +48,12 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-11,256
+11,124
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
+Motor Vehicle Theft/Stolen
 Criminal Motor Vehicle Offense (incl. Road Rage/Reckless)
 Larceny/Theft Offenses
 Assault/Battery Offenses (Domestic)
@@ -1062,6 +1063,7 @@ Marathon County WI SO
 Marinette County SO (WI)
 Marion AR PD
 Marion County IL SO
+Marion County MO SO
 Marion County OH SO
 Marion County WV SO
 Marion Health PD (IN)
