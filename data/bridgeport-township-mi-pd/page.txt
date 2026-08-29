@@ -5,7 +5,7 @@ Visit Flock
 Bridgeport Township MI PD
 Transparency Portal
 
-Last updated: Thu Aug 27 2026
+Last updated: Fri Aug 28 2026
 
 Overview
 
@@ -17,13 +17,13 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-142 alerts
+145 alerts
 MI LEIN - MI - Wanted Person
 110
 MI LEIN - NCIC - Stolen Vehicle
-18
+20
 MI LEIN - MI - Stolen Vehicle
-5
+6
 MI LEIN - NCIC - Sex Offender
 5
 MI LEIN - MI - Stolen Plate
@@ -55,7 +55,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-52
+60
 
 Hotlists Alerted On
 
@@ -67,7 +67,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,134
+1,136
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -254,6 +254,7 @@ Chetek WI PD
 Chicago IL PD
 City of Delavan WI PD
 City of Sierra Vista AZ
+City of Washington PA PD
 Clark County IN SO
 Clark County OH SO
 Clarksville IN PD
@@ -970,6 +971,7 @@ Richland County WI SO
 Richland Village MI PD
 Richmond Heights MO PD
 Richmond KY PD
+Richmond MO PD
 Richmond VA PD
 Ridgeland MS PD
 RIG WI DTF
@@ -984,6 +986,7 @@ Rockingham County VA SO
 Rockmart GA PD
 Rockport IN PD
 Rogers AR PD
+Romeoville IL PD
 Romulus MI PD
 Rose Hill KS PD
 Rosemont IL PD
@@ -1290,7 +1293,6 @@ Adrian MI PD
 Albion MI DPS
 Alexandria IN PD
 Allegan County SO MI
-Allen Park PD MI
 Allentown PA PD
 Almont MI PD
 Amberley Village OH PD
