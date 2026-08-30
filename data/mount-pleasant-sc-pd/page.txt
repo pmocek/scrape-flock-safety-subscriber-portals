@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Fri Aug 28 2026
+Last updated: Sat Aug 29 2026
 
 Overview
 
@@ -63,17 +63,17 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-314 alerts
+316 alerts
 NCIC - Protection Order
-121
+117
 NCIC - Sex Offender
-62
+64
 NCIC - Stolen Plate
-52
+53
 NCIC - Stolen Vehicle
 48
 NCIC - Warrants
-20
+23
 NCIC - Gang or Suspected Terrorist
 5
 NCIC - Missing Person
@@ -107,13 +107,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-564,395
+556,013
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-338
+331
 
 Hotlists Alerted On
 
@@ -125,7 +125,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,326
+6,274
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -134,7 +134,7 @@ Drugs/Narcotics
 Larceny/Theft Offenses
 Wanted Person (Arrest Warrant/Fugitive)
 Missing/Endangered Person/Runaway
-Assault/Battery Offenses
+Hit and Run/Car Accident
 
 Sharing Network Data With
 
@@ -439,7 +439,6 @@ Del City OK PD
 Dent County MO SO
 Department of Natural Resources - GA
 Derby KS PD
-Dickenson County VA SO
 Dickson TN PD
 Dillard GA PD
 Dillon SC PD
@@ -2019,7 +2018,6 @@ McDonough GA PD
 McDowell County NC SO
 McIntosh County GA SO
 Medina County OH SO
-Meriwether County GA SO
 Mesquite TX PD
 Miami Gardens FL PD
 Miami-Dade FL SO
