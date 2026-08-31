@@ -5,7 +5,7 @@ Visit Flock
 Palos Park IL PD
 Transparency Portal
 
-Last updated: Sun Aug 30 2026
+Last updated: Mon Aug 31 2026
 
 Overview
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-11,223
+11,349
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -473,7 +473,6 @@ Lewistown IL PD
 [Federal] Wright Patterson OH Air Force Base
 Adams County IL SO
 Adams County IN SO
-Addison IL PD
 Adrian MI PD
 Akron OH PD
 Albion MI DPS
@@ -767,7 +766,6 @@ Forest Park OH PD
 Forest Preserve District Will County PD (IL)
 Forest View IL PD
 Fort Loramie OH PD
-Fort Wayne IN PD
 Fort Worth TX PD
 Fox Lake IL PD
 Fox Valley IL Parks District
@@ -974,7 +972,6 @@ Kokomo IN PD
 KU Medical Center KS PD
 La Grange IL PD
 La Grange Park IL PD
-Lac Courte Oreilles Tribal Police WI
 Lackawanna City NY PD
 Lafayette County MS SO
 Lafayette IN PD
