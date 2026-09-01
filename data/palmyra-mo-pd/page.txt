@@ -5,7 +5,7 @@ Visit Flock
 Palmyra MO PD
 Transparency Portal
 
-Last updated: Mon Aug 31 2026
+Last updated: Tue Sep 01 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-31,763
+31,571
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-40
+49
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-134
+126
 
 Sharing Network Data With
 
@@ -606,7 +606,6 @@ Lee's Summit MO PD
 Leeton MO PD
 Lehigh County PA (RIIC)
 Lenawee County MI SO
-LeRoy IL PD
 Lexington KY PD
 Lexington NE PD
 Liberty MO PD
@@ -963,7 +962,6 @@ Russellville KY PD
 Rutherford County TN SO
 Saginaw MI PD
 Saginaw Township MI PD
-Saint Clair Shores MI PD
 Saint Croix Falls WI PD
 Saint Francis WI PD
 Salem IL PD
@@ -1066,7 +1064,6 @@ Sunset Hills MO PD
 Superior WI PD
 Swainsboro GA PD
 Sweet Springs MO PD
-Sycamore IL PD
 Sylvania Township OH PD
 Tampa FL PD
 Taney County MO SO
