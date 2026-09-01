@@ -5,7 +5,7 @@ Visit Flock
 UT - Cedar City PD
 Transparency Portal
 
-Last updated: Mon Aug 31 2026
+Last updated: Tue Sep 01 2026
 
 Overview
 
@@ -30,7 +30,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-546,391
+541,398
 
 Hotlists Alerted On
 
@@ -42,7 +42,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,321
+1,264
 Policy & Trust
 
 What's Detected
