@@ -5,7 +5,7 @@ Visit Flock
 El Dorado KS PD
 Transparency Portal
 
-Last updated: Fri Aug 28 2026
+Last updated: Mon Aug 31 2026
 
 Overview
 
@@ -17,19 +17,19 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-128 alerts
+130 alerts
 NCIC - Violent Person
-49
+46
 NCIC - Stolen Vehicle
-36
+39
 NCIC - Protection Order
 14
 NCIC - Stolen Plate
 14
-NCIC - Sex Offender
-7
 NCIC - Warrants
-5
+8
+NCIC - Sex Offender
+6
 NCIC - Extreme Risk Protection Order
 3
 
@@ -49,13 +49,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-90,124
+92,999
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-50
+52
 
 Hotlists Alerted On
 
@@ -67,7 +67,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-859
+916
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -618,7 +618,6 @@ Texarkana AR PD
 Texarkana TX PD
 Texas Department of Public Safety
 Texas Financial Crimes Intelligence Center
-The Colony TX PD
 Thomas County GA SO
 Thomas County KS SO
 Thornton CO PD
@@ -741,6 +740,7 @@ Bossier City LA PD
 Bossier Parish LA SO
 Bourbon County KS SO
 Bowling Green MO PD
+Bradley County AR SO
 Branson MO PD
 Brentwood MO PD
 Bridgeton MO PD
@@ -901,7 +901,6 @@ Haysville KS PD
 Hazelwood MO PD
 Heart of Texas Auto Theft Task Force
 Henderson TX PD
-Henry County IL SO
 Herrin IL PD
 Hesston KS PD
 Hickory Creek TX PD
@@ -950,7 +949,6 @@ KS - Seward County SO
 KU Medical Center KS PD
 La Grange MO PD
 Lafayette County MS SO
-Lake St. Louis MO PD
 Lancaster TX PD
 Larimer County CO SO
 LaSalle Co. IL SO - New
@@ -994,7 +992,6 @@ Mattoon IL PD
 Mayfield KY PD
 McCurtain County OK SO
 McDonough County IL SO
-McHenry County Conservation District IL PD
 McKinney TX PD
 McPherson County KS SO
 McPherson KS PD
@@ -1164,7 +1161,6 @@ Sunset Hills MO PD
 Sweet Springs MO PD
 Tahlequah OK PD
 Temple TX PD
-Terrell TX PD
 Texarkana TX PD
 Texas Department of Criminal Justice
 Texas Financial Crimes Intelligence Center
@@ -1207,6 +1203,7 @@ Virden IL PD
 Wabaunsee County SO (KS)
 Wagoner CO SO OK
 Wallace County KS SO
+Walls MS PD
 Wamego KS PD
 Wapello County IA SO
 Warr Acres OK PD
@@ -1228,6 +1225,7 @@ Wichita KS PD
 Wichita State University KS PD
 Windsor CO PD
 Winfield KS PD
+Woodford County IL SO
 Wright City MO PD
 Wyandotte Nation OK PD
 Wynne School District 9 AR PD
