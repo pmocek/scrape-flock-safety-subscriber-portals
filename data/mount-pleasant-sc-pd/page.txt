@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Sun Aug 30 2026
+Last updated: Mon Aug 31 2026
 
 Overview
 
@@ -63,17 +63,17 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-329 alerts
+334 alerts
 NCIC - Protection Order
-118
+124
 NCIC - Sex Offender
-67
+69
 NCIC - Stolen Plate
-54
+55
 NCIC - Stolen Vehicle
-50
+44
 NCIC - Warrants
-29
+31
 NCIC - Gang or Suspected Terrorist
 5
 NCIC - Missing Person
@@ -107,13 +107,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-540,497
+526,122
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-319
+304
 
 Hotlists Alerted On
 
@@ -125,7 +125,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,156
+6,029
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -134,17 +134,12 @@ Drugs/Narcotics
 Larceny/Theft Offenses
 Wanted Person (Arrest Warrant/Fugitive)
 Missing/Endangered Person/Runaway
-Hit and Run/Car Accident
+Assault/Battery Offenses
 
 Sharing Network Data With
 
 Organizations granted access to Mount Pleasant SC PD data.
 
-[Federal] Federal Bureau of Investigation (FBI)
-[Federal] Tennessee Valley Authority Police
-[Federal] US GSA Office of Inspector General
-[Federal] US Postal Inspection Service
-[Federal] Wright Patterson OH Air Force Base
 18th Judicial District Drug Task Force - TN PD
 Abbeville SC PD
 Acworth GA PD
@@ -1908,7 +1903,6 @@ Jasper County SC SO
 Jasper GA PD
 Jefferson City MO PD
 Jefferson County AR SO
-Jefferson County FL SO
 Jefferson County TN SO
 Jefferson GA PD
 Jeffersontown KY PD
