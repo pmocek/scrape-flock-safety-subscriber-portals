@@ -5,7 +5,7 @@ Visit Flock
 Palos Park IL PD
 Transparency Portal
 
-Last updated: Tue Sep 01 2026
+Last updated: Wed Sep 02 2026
 
 Overview
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-11,528
+11,643
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -457,7 +457,6 @@ Wood Dale IL PD
 Woodford County IL SO
 Woodridge IL PD
 Woodstock IL PD
-Zion IL PD
 
 Receiving Network Data From
 
@@ -724,7 +723,6 @@ Elkhart County IN SO
 Elkhart PD IN
 Ellettsville IN PD
 Elm Grove WI PD
-Elmhurst IL PD
 Elmore OH PD
 Elmwood Park IL PD
 Elwood IL PD
@@ -790,7 +788,6 @@ Gary IN PD
 Gas City IN PD
 Gatlinburg TN PD
 Geneseo IL PD
-Genoa Township OH PD
 Georgetown IL PD
 Germantown TN PD
 Glasford IL PD
@@ -924,14 +921,12 @@ Jackson TN PD
 Jacksonville IL PD
 Jasper CO IL SO
 Jasper County IN SO
-Jasper County Sheriff IA
 Jasper IN PD
 Jefferson City MO PD
 Jefferson City TN PD
 Jefferson County KY SO
 Jefferson County MO SO
 Jefferson County OH SO
-Jefferson County SO IN
 Jefferson County TN SO
 Jeffersontown KY PD
 Johnsburg IL PD
@@ -1003,7 +998,6 @@ Lee County IL SO
 Lemont IL PD
 Lena IL PD
 Lenoir City TN PD
-LeRoy IL PD
 Lewis University IL PD
 Lexington KY PD
 Lexington TN PD
@@ -1140,7 +1134,6 @@ Morgan County IN SO
 Morgan County TN SO
 Morris IL PD
 Morrison IL PD
-Morristown IN PD
 Morristown TN PD
 Morton Grove IL PD
 Morton IL PD
@@ -1383,7 +1376,6 @@ Schuyler Co. IL SO
 Scott City MO PD
 Scott County KY SO
 Scottsboro AL PD
-Searcy AR PD
 SEMO Drug Task Force MO
 Sevier County TN SO
 Sevierville TN PD
@@ -1491,7 +1483,6 @@ Union MO PD
 Union Township PD (Clermont Co) - OH
 University of Central Missouri PD
 University of Illinois - Chicago IL PD
-University of Illinois Urbana-Champaign IL PD
 University of Illinois- Springfield
 University of Iowa PD (IA)
 University of Kentucky
@@ -1604,7 +1595,6 @@ Wyandotte Nation OK PD
 Wyoming MI PD
 Xenia OH PD
 Youngstown OH PD
-Zion IL PD
 Policy & Trust
 
 What's Detected
