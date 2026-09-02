@@ -5,7 +5,7 @@ Visit Flock
 Palos Park IL PD
 Transparency Portal
 
-Last updated: Mon Aug 31 2026
+Last updated: Tue Sep 01 2026
 
 Overview
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-11,349
+11,528
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -718,7 +718,6 @@ Effingham IL PD
 Effingham IL SO
 El Paso IL PD
 Elgin Community College Campus IL PD [Inactive]
-Elizabethton TN PD
 Elizabethtown KY PD
 Elk Grove IL PD
 Elkhart County IN SO
@@ -794,7 +793,6 @@ Geneseo IL PD
 Genoa Township OH PD
 Georgetown IL PD
 Germantown TN PD
-Gladstone MO PD
 Glasford IL PD
 Glasgow KY PD
 Glen Carbon IL PD
@@ -940,7 +938,6 @@ Johnsburg IL PD
 Johnson County KS SO
 Johnson County TN SO
 Johnston City IL PD
-Johnston IA PD
 Joliet IL PD
 Joliet Junior College IL PD
 Jonesboro AR PD
@@ -982,7 +979,6 @@ Lake County IN SO
 Lake Delton WI PD
 Lake Forest IL PD
 Lake In The Hills IL PD
-Lake St. Louis MO PD
 Lake Station IN PD
 Lake Villa IL PD
 Lake Zurich IL PD
@@ -1004,7 +1000,6 @@ Lawrence District Attorney PA
 Lawrence IN PD
 Lebanon TN PD
 Lee County IL SO
-Lee's Summit MO PD
 Lemont IL PD
 Lena IL PD
 Lenoir City TN PD
@@ -1033,7 +1028,6 @@ Lodi WI PD
 Logan County KY SO
 Logansport IN PD
 Lombard IL PD
-Lookout Mountain TN PD
 Lorain County OH SO
 Loudon TN PD
 Louisville Airport PD
@@ -1129,7 +1123,6 @@ Moline IL PD
 Monee IL PD
 Monmouth IL PD
 Monon IN PD
-Monona WI PD
 Monroe County MI SO
 Monroe County WI SO
 Monroe GA PD
@@ -1220,7 +1213,6 @@ Odessa MO PD
 Ogden Dunes IN PD
 Ogle County IL SO
 Oglesby IL PD
-OH - Blanchester PD
 OH - Chillicothe PD
 OH - Highland County SO
 OH - Jefferson County Drug Task Force
@@ -1350,7 +1342,6 @@ Robertson County TN SO
 Robinson IL PD
 Rochelle IL PD
 Rochester IL PD
-Rock County WI SO
 Rock Falls IL PD
 Rock Island County IL SO
 Rock Island IL PD
@@ -1402,7 +1393,6 @@ Shelby County IL SO
 Shelby County IN SO
 Shelby County KY SO
 Shelby County TN SO
-Shelby Township MI PD
 Shelbyville IN PD
 Shelbyville KY PD
 Shelbyville TN PD
