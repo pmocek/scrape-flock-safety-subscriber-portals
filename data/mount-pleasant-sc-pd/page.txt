@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Mon Aug 31 2026
+Last updated: Tue Sep 01 2026
 
 Overview
 
@@ -63,17 +63,17 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-334 alerts
+343 alerts
 NCIC - Protection Order
-124
+123
 NCIC - Sex Offender
-69
+74
 NCIC - Stolen Plate
-55
+62
 NCIC - Stolen Vehicle
-44
+41
 NCIC - Warrants
-31
+32
 NCIC - Gang or Suspected Terrorist
 5
 NCIC - Missing Person
@@ -107,13 +107,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-526,122
+510,473
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-304
+313
 
 Hotlists Alerted On
 
@@ -125,7 +125,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,029
+5,964
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1615,7 +1615,6 @@ Camilla GA PD
 Caney KS PD
 Canton MA PD
 Carmel IN PD
-Carolina Beach NC PD
 Carroll County GA SO
 Carrollton GA PD
 Carson City NV SO
@@ -1644,7 +1643,6 @@ Claflin University SC PD
 Claiborne County TN SO
 Clarendon County SC SO
 Clarkston GA PD
-Clay County FL SO
 Clayton County GA PD
 Clayton NC PD
 Clear Lake WI PD
@@ -1732,7 +1730,6 @@ Dutchess County NY SO
 Easley SC PD
 East Baton Rouge LA SO
 East Point GA PD
-East Providence RI PD
 Eastborough KS PD
 Edgecombe County NC SO
 Edisto Beach SC PD
@@ -1740,7 +1737,6 @@ Edmond OK PD
 Effingham County GA SO
 El Cajon CA PD
 Elgin SC PD
-Elizabethton TN PD
 Elizabethtown KY PD
 Elizabethtown NC PD [INACTIVE]
 Ellijay GA PD
@@ -1763,7 +1759,6 @@ Fayetteville GA PD
 Fernandina Beach FL PD
 Fish and Wildlife Commission FL PD
 Fishers IN PD
-Flagler County FL SO
 Florence AL PD
 Florence County SC SO
 Florence SC PD
@@ -1924,16 +1919,12 @@ Kill Devil Hills NC PD
 Kingston Springs TN PD
 Knox County TN SO
 Lackawanna City NY PD
-Lady Lake FL PD
-LaFayette County FL SO
 Lafayette TN PD
 Lafourche Parish LA SO
 LaGrange GA PD
 LaGrange KY PD
 Lake City FL PD
 Lake County FL SO
-Lake Mary FL PD
-Lake St. Louis MO PD
 Lakeland FL PD
 Lamar County GA SO
 Lancaster County SC SO
@@ -1956,7 +1947,6 @@ Lebanon TN PD
 Lee County AL SO
 Lee County GA SO
 Lee County SC SO
-Lee's Summit MO PD
 Leeds AL PD
 Leesburg AL PD
 Leesburg GA PD
@@ -2026,7 +2016,6 @@ Missouri Department of Conservation
 Missouri Department of Public Safety
 Mitchell County NC SO
 Moncks Corner SC PD
-Monona WI PD
 Monroe County GA SO
 Monroe GA PD
 Monroe NC PD
@@ -2054,7 +2043,6 @@ Muscle Shoals AL PD
 Muskego WI PD
 Muskegon MI PD
 Muttontown NY PD
-Neptune Beach FL PD
 Neshoba County MS SO
 New Castle County DE PD
 New Ellenton SC PD
@@ -2079,7 +2067,6 @@ Norton Shores MI PD
 Oak Grove MO PD
 Oak Ridge TN PD
 Ocean View DE PD
-Ocilla GA PD
 Oconee County GA SO
 Oconee County SC SO
 Odessa MO PD
@@ -2107,7 +2094,6 @@ Peachtree Corners GA Marshal's Office
 Pelham AL PD
 Pell City AL PD
 Pembroke NC PD
-Pender County NC SO
 Pendleton SC PD
 Person County NC SO
 Phenix City AL PD
@@ -2209,7 +2195,6 @@ St. Augustine FL PD
 St. Charles County MO PD
 St. Charles Parish LA SO
 St. John Parish LA SO
-St. Johns County FL SO
 St. Joseph County SO IN
 St. Lucie County FL SO
 St. Matthews KY PD
@@ -2278,7 +2263,6 @@ Wake Forest NC PD
 WakeMed Campus PD and Public Safety (NC)
 Walls MS PD
 Walterboro SC PD
-Walton County FL SO
 Wamego KS PD
 Warner Robins GA PD
 Warr Acres OK PD
