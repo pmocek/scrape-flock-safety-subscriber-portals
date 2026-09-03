@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Tue Sep 01 2026
+Last updated: Wed Sep 02 2026
 
 Overview
 
@@ -63,17 +63,17 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-343 alerts
+351 alerts
 NCIC - Protection Order
-123
+129
 NCIC - Sex Offender
-74
+76
 NCIC - Stolen Plate
-62
+64
 NCIC - Stolen Vehicle
-41
+40
 NCIC - Warrants
-32
+31
 NCIC - Gang or Suspected Terrorist
 5
 NCIC - Missing Person
@@ -107,13 +107,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-510,473
+500,109
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-313
+315
 
 Hotlists Alerted On
 
@@ -125,7 +125,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,964
+5,987
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -134,7 +134,7 @@ Drugs/Narcotics
 Larceny/Theft Offenses
 Wanted Person (Arrest Warrant/Fugitive)
 Missing/Endangered Person/Runaway
-Assault/Battery Offenses
+Hit and Run/Car Accident
 
 Sharing Network Data With
 
@@ -324,7 +324,6 @@ Chatham County GA PD
 Chatham County GA SO
 Chatham-Savannah Counter Narcotics Team
 Chatsworth GA PD
-Chattahoochee FL PD
 Cheatham County TN SO
 Cheraw SC PD
 Cherokee County AL SO
@@ -424,7 +423,6 @@ Davidson NC PD
 Davie County NC SO
 Dawson GA PD
 Dayton TN PD
-Daytona Beach FL PD
 Dearborn MI PD
 Decatur AL PD
 Decatur County GA SO
@@ -1563,7 +1561,6 @@ Barnwell SC PD
 Barron County WI SO
 Barrow County GA SO
 Bartlett TN PD
-Bay County FL SO
 Baytown TX PD
 Beaufort SC PD
 Beaumont TX PD
@@ -1822,7 +1819,6 @@ Griffin GA PD
 Griffith IN PD
 Gulf Breeze FL PD
 Gulf County FL SO
-Gulf Stream FL PD
 Guntersville AL PD
 Gwinnett County GA SO
 Hackleburg AL PD
@@ -1883,7 +1879,6 @@ Indiana Department of Corrections
 Indiana State Police IN PD
 Iredell County NC SO
 Irmo SC PD
-Irondale AL PD
 Irving TX PD
 Isle of Palms SC PD
 Jackson County FL SO
@@ -1967,7 +1962,6 @@ Live Oak TX PD
 Livingston Parish County LA SO
 Locust Grove GA PD
 Loganville GA PD
-Lookout Mountain TN PD
 Loris SC PD
 Louisburg NC PD
 Louisville Metro KY PD
@@ -2066,7 +2060,6 @@ Northport AL PD
 Norton Shores MI PD
 Oak Grove MO PD
 Oak Ridge TN PD
-Ocean View DE PD
 Oconee County GA SO
 Oconee County SC SO
 Odessa MO PD
@@ -2085,7 +2078,6 @@ Oxford AL PD
 Oxford MS PD
 Palatka FL PD
 Palm Beach County FL SO
-Panama City Beach FL PD
 Park City KS PD
 Parma OH PD
 Paulding County GA SO
@@ -2219,7 +2211,6 @@ Tarpon Springs FL PD
 Tarrant AL PD
 Taunton MA PD
 Taylor MI PD
-Temple GA PD
 Texarkana TX PD
 Thomas County GA SO
 Thomasville AL PD
@@ -2287,7 +2278,6 @@ West Des Moines IA PD
 West Palm Beach FL PD
 West Union PD SC
 Westlake OH PD
-Westminster CO PD
 Westminster SC PD
 Whitfield County GA SO
 Wichita Falls TX PD
