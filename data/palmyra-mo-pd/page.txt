@@ -5,7 +5,7 @@ Visit Flock
 Palmyra MO PD
 Transparency Portal
 
-Last updated: Wed Sep 02 2026
+Last updated: Thu Sep 03 2026
 
 Overview
 
@@ -30,7 +30,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-31,566
+31,514
 
 Number of Searches
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-113
+108
 
 Sharing Network Data With
 
@@ -494,7 +494,6 @@ Huron OH PD
 Hutchinson KS PD
 IA - Eldridge PD
 IA - Storm Lake PD
-Iberia MO PD (deactivated)
 Idaho State Police ID
 Illinois State Police
 IN - Rensselaer PD
@@ -1184,7 +1183,6 @@ West Lafayette IN PD
 West Terre Haute IN PD
 West Virginia Fusion Center (WV)
 Westfield IN PD
-Westworth Village TX PD
 Wheeler County NE SO
 Wheeling IL PD
 White County AR SO
