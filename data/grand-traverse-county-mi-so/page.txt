@@ -5,7 +5,7 @@ Visit Flock
 Grand Traverse County MI SO
 Transparency Portal
 
-Last updated: Tue Sep 01 2026
+Last updated: Wed Sep 02 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-401,826
+400,209
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-189
+193
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,608
+1,613
 
 Sharing Network Data With
 
@@ -859,7 +859,6 @@ McPherson County KS SO
 Medina County OH SO
 Medina MN PD
 Medina Township OH PD
-Melbourne FL PD
 Melrose MA PD
 Melrose Park IL PD
 Melvindale MI PD
@@ -1300,7 +1299,6 @@ Spring Arbor MI PD
 Spring Valley IL PD
 Springboro OH PD
 Springfield FL PD
-Springfield MO PD
 Springfield OH PD
 Springport Twp MI PD
 St Mary Parish LA SO
