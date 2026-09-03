@@ -5,7 +5,7 @@ Visit Flock
 El Dorado KS PD
 Transparency Portal
 
-Last updated: Tue Sep 01 2026
+Last updated: Wed Sep 02 2026
 
 Overview
 
@@ -17,19 +17,19 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-132 alerts
+130 alerts
 NCIC - Violent Person
 47
 NCIC - Stolen Vehicle
-41
+40
 NCIC - Stolen Plate
 14
 NCIC - Protection Order
-12
+10
+NCIC - Sex Offender
+8
 NCIC - Warrants
 8
-NCIC - Sex Offender
-7
 NCIC - Extreme Risk Protection Order
 3
 
@@ -49,13 +49,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-92,952
+93,488
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-52
+56
 
 Hotlists Alerted On
 
@@ -67,7 +67,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-928
+935
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -205,6 +205,7 @@ Andover KS PD
 Antelope County NE SO
 AR - Alma PD
 AR - Newton County SO
+Arcola IL PD
 Arlington TX PD
 Arnold MO PD
 Ash Grove MO PD
@@ -289,7 +290,6 @@ Cobb County GA PD
 Codington County SD SO
 Coffeyville KS PD
 Coles County IL SO
-Collier County FL SO
 Collierville TN PD
 Colorado State Parks
 Colwich KS PD
@@ -484,7 +484,6 @@ McKinney TX PD
 McPherson County KS SO
 McPherson KS PD
 Medicine Lodge KS PD
-Melissa TX PD
 Memphis Intl Airport
 Mesquite TX PD
 Metamora IL PD
@@ -508,7 +507,6 @@ Mountain View AR PD
 Mt. Zion IL PD
 Mulvane KS PD
 Mustang OK PD
-Navajo County AZ SO
 NE - Colfax Co SO
 Nebraska State Patrol
 Neodesha KS PD
@@ -589,7 +587,6 @@ Richland County SC SO
 Richmond Heights MO PD
 Riley County KS PD
 Ringgold LA PD
-Rochester IL PD
 Rogers AR PD
 Rose Hill KS PD
 Rusk CO TX SO
@@ -679,7 +676,6 @@ UT Southwestern Medical Center TX
 Vail CO PD
 Valley Center KS DPS
 Valley County SO NE
-Van Buren AR PD
 Vanderburgh County IN SO
 Vernon County WI SO
 Vernon Parish LA SO
@@ -702,7 +698,6 @@ Wellington KS PD
 Wellsville PD KS
 Wentzville MO PD
 West Des Moines IA PD
-Westworth Village TX PD
 Wichita County KS SO
 Wichita Falls TX PD
 Wichita KS PD
