@@ -5,7 +5,7 @@ Visit Flock
 Palos Park IL PD
 Transparency Portal
 
-Last updated: Wed Sep 02 2026
+Last updated: Thu Sep 03 2026
 
 Overview
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-11,643
+11,622
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -465,7 +465,6 @@ Organizations sharing their data with Palos Park IL PD.
 IN - West Baden Springs PD
 Lewistown IL PD
 [DEACTIVATED] - DNU
-[DEACTIVATED] - Flock Demo - Chino
 [Federal] Indiana Dunes National Park IN PD
 [Federal] Tennessee Valley Authority Police
 [Federal] US Postal Inspection Service
@@ -530,7 +529,6 @@ Benton IL PD
 Berea OH PD
 Berkeley IL PD
 Berrien County MI SO
-Bloomfield Twp MI PD
 Bloomington IL PD
 Blount County TN SO
 Blue Island IL PD
@@ -637,7 +635,6 @@ Colbert County AL SO
 Coldwater MI PD
 Coles County IL SO
 Collegedale TN PD
-Collier County FL SO
 Collierville TN PD
 Colona IL PD
 Columbia County WI SO
