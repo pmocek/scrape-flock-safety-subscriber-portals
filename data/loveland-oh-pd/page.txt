@@ -6,7 +6,7 @@ Visit Flock
 Loveland OH PD
 Transparency Portal
 
-Last updated: Wed Sep 02 2026
+Last updated: Thu Sep 03 2026
 
 Overview
 
@@ -72,13 +72,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-158,887
+158,497
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-34
+33
 Policy & Trust
 
 What's Not Detected
