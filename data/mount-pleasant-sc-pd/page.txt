@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Wed Sep 02 2026
+Last updated: Thu Sep 03 2026
 
 Overview
 
@@ -63,26 +63,26 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-351 alerts
+358 alerts
 NCIC - Protection Order
-129
+126
 NCIC - Sex Offender
-76
+78
 NCIC - Stolen Plate
-64
+70
 NCIC - Stolen Vehicle
-40
+43
 NCIC - Warrants
 31
 NCIC - Gang or Suspected Terrorist
 5
-NCIC - Missing Person
-2
 NCIC - Violent Person
 2
 NCIC - CPIC Data Records
 1
 NCIC - Extreme Risk Protection Order
+1
+NCIC - Missing Person
 1
 
 Data Retention
@@ -107,13 +107,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-500,109
+492,853
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-315
+305
 
 Hotlists Alerted On
 
@@ -125,15 +125,15 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,987
+5,933
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Drugs/Narcotics
 Larceny/Theft Offenses
-Wanted Person (Arrest Warrant/Fugitive)
+Drugs/Narcotics
 Missing/Endangered Person/Runaway
+Wanted Person (Arrest Warrant/Fugitive)
 Hit and Run/Car Accident
 
 Sharing Network Data With
@@ -925,7 +925,6 @@ McMinnville TN PD
 McPherson County KS SO
 Mebane NC PD
 Mecklenburg County VA SO
-Melbourne FL PD
 Menomonee Falls WI PD
 Mequon WI PD
 Meriwether County GA SO
@@ -998,7 +997,6 @@ NE - Colfax Co SO
 Nebraska State Patrol
 Nelson County KY SO
 Neosho County KS SO
-Neptune Beach FL PD
 Neshkoro WI PD
 New Albany OH PD
 New Britain Township PA PD
@@ -1281,7 +1279,6 @@ Spring City TN PD
 Spring Hill TN PD
 Springfield FL PD
 Springfield GA PD
-Springfield MO PD
 Springfield TN PD
 St Mary Parish LA SO
 St Pauls NC PD
@@ -1457,7 +1454,6 @@ West Terre Haute IN PD
 West Union PD SC
 West Virginia Fusion Center (WV)
 Westmoreland County VA SO
-Westworth Village TX PD
 Wetumpka AL PD
 Wheeler County NE SO
 White House TN PD
@@ -1503,7 +1499,6 @@ Wyandot County OH SO
 Wyandotte MI PD
 Wyoming OH PD
 Wythe County VA SO
-Wytheville VA PD
 Yancey County NC SO
 York County SC SO
 York County VA SO
@@ -1541,17 +1536,14 @@ Anderson IN PD
 Anderson SC PD
 Angier NC PD
 Apex NC PD
-Apopka FL PD
 Arlington TX PD
 Asheville NC PD
 Ashland City TN PD
 Athens-Clarke County GA PD
 Atlanta GA PD
-Atlantic Beach FL PD
 Auburn GA PD
 Audrain County MO SO
 Aurora CO PD
-Austell GA PD
 Avery County NC SO
 Avon IN PD
 Baker County FL SO
@@ -1659,7 +1651,6 @@ Colbert County AL SO
 College Park GA PD
 Collegedale TN PD
 Colleton County SO (SC)
-Collier County FL SO
 Colquitt County GA SO
 Columbia County FL SO
 Columbia County GA SO
@@ -1858,7 +1849,6 @@ Hillsborough NC PD
 Hilton Head Island SC
 Hiram GA PD
 Hobcaw Creek Plantation (SC)
-Holland MI PD
 Holly Hill FL PD
 Holmes County FL SO
 Home Depot Corporation
@@ -2180,7 +2170,6 @@ Spalding County GA SO
 Spartanburg County SC SO
 Spartanburg SC PD
 Spring Hill TN PD
-Springfield MO PD
 Springfield OH PD
 Springfield TN PD
 St. Augustine FL PD
