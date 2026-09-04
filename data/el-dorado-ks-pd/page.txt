@@ -5,7 +5,7 @@ Visit Flock
 El Dorado KS PD
 Transparency Portal
 
-Last updated: Wed Sep 02 2026
+Last updated: Thu Sep 03 2026
 
 Overview
 
@@ -17,18 +17,18 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-130 alerts
+134 alerts
 NCIC - Violent Person
-47
+46
 NCIC - Stolen Vehicle
-40
+43
 NCIC - Stolen Plate
-14
-NCIC - Protection Order
-10
-NCIC - Sex Offender
-8
+13
 NCIC - Warrants
+12
+NCIC - Protection Order
+9
+NCIC - Sex Offender
 8
 NCIC - Extreme Risk Protection Order
 3
@@ -49,13 +49,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-93,488
+94,177
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-56
+55
 
 Hotlists Alerted On
 
@@ -67,16 +67,16 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-935
+936
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Hit and Run/Car Accident
 Motor Vehicle Theft/Stolen
-Wanted Person (Arrest Warrant/Fugitive)
-Stalking
 Destruction/Damage/Vandalism of Property
+Wanted Person (Arrest Warrant/Fugitive)
+Sex Offenses
 
 Sharing Network Data With
 
@@ -378,7 +378,6 @@ Great Bend KS PD
 Greeley County KS SO
 Greenville MS PD
 Greenwood Independent School District TX
-Groesbeck TX PD
 Halstead KS PD
 Hamilton County KS SO
 Hannibal MO PD
@@ -489,7 +488,6 @@ Mesquite TX PD
 Metamora IL PD
 Milan TN PD
 Mineral Area Drug Task Force MO
-Minnehaha County SD SO
 Missouri Department of Conservation
 Missouri Department of Public Safety
 MO - Sparta PD
@@ -668,7 +666,6 @@ Union County MS SO
 Union MO PD
 Union Pacific Railroad PD
 University of Central Missouri PD
-University of Iowa PD (IA)
 University of Missouri Campus MO PD
 University of TX (UTA)- Arlington PD
 Urbandale IA PD

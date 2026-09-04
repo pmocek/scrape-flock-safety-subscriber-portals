@@ -6,7 +6,7 @@ Visit Flock
 El Mirage AZ PD
 Transparency Portal
 
-Last updated: Wed Sep 02 2026
+Last updated: Thu Sep 03 2026
 
 Overview
 
@@ -25,7 +25,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-119
+110
 
 Alerts
 
@@ -37,7 +37,7 @@ Number of Alerts
 
 Total hotlist hits over the last 30 days.
 
-736
+765
 Policy & Trust
 
 What's Detected
