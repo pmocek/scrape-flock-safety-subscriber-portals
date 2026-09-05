@@ -5,7 +5,7 @@ Visit Flock
 El Dorado KS PD
 Transparency Portal
 
-Last updated: Thu Sep 03 2026
+Last updated: Fri Sep 04 2026
 
 Overview
 
@@ -17,15 +17,15 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-134 alerts
+137 alerts
 NCIC - Violent Person
-46
+45
 NCIC - Stolen Vehicle
-43
+44
+NCIC - Warrants
+15
 NCIC - Stolen Plate
 13
-NCIC - Warrants
-12
 NCIC - Protection Order
 9
 NCIC - Sex Offender
@@ -49,13 +49,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-94,177
+94,972
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-55
+47
 
 Hotlists Alerted On
 
@@ -67,7 +67,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-936
+940
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -75,8 +75,8 @@ Offense Types used for LPR searches in the last 30 days.
 Hit and Run/Car Accident
 Motor Vehicle Theft/Stolen
 Destruction/Damage/Vandalism of Property
-Wanted Person (Arrest Warrant/Fugitive)
 Sex Offenses
+Threats/Harassment
 
 Sharing Network Data With
 
@@ -314,7 +314,6 @@ Crystal City MO PD
 CSX Railroad PD
 Cumby TX PD
 Dakota County NE SO
-Dallas TX PD
 Deactivated Users
 Del City OK PD
 Denton County TX SO
@@ -386,7 +385,6 @@ Harper County KS SO
 Harrison AR PD
 Harrisonville MO PD
 Harvey County KS SO
-Hayden CO PD
 Haysville KS PD
 Hazelwood MO PD
 Heart of Texas Auto Theft Task Force
