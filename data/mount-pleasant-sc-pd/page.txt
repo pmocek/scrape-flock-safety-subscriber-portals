@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Thu Sep 03 2026
+Last updated: Fri Sep 04 2026
 
 Overview
 
@@ -63,15 +63,15 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-358 alerts
+370 alerts
 NCIC - Protection Order
-126
+133
 NCIC - Sex Offender
-78
+80
 NCIC - Stolen Plate
-70
+71
 NCIC - Stolen Vehicle
-43
+45
 NCIC - Warrants
 31
 NCIC - Gang or Suspected Terrorist
@@ -107,13 +107,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-492,853
+485,847
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-305
+301
 
 Hotlists Alerted On
 
@@ -125,7 +125,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,933
+5,886
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -133,8 +133,8 @@ Offense Types used for LPR searches in the last 30 days.
 Larceny/Theft Offenses
 Drugs/Narcotics
 Missing/Endangered Person/Runaway
-Wanted Person (Arrest Warrant/Fugitive)
-Hit and Run/Car Accident
+Traffic Infraction
+Financial Crime (Embezzlement/Fraud)
 
 Sharing Network Data With
 
@@ -1385,7 +1385,6 @@ Union County SC SO
 Union Township PD (Clermont Co) - OH
 University of Central Missouri PD
 University of Georgia GA PD
-University of Kentucky
 University of Louisville KY PD
 University of North Carolina at Pembroke NC PD
 University of North Carolina Chapel Hill NC
@@ -1602,7 +1601,6 @@ Camden SC PD
 Cameron SC PD
 Camilla GA PD
 Caney KS PD
-Canton MA PD
 Carmel IN PD
 Carroll County GA SO
 Carrollton GA PD
@@ -1680,7 +1678,6 @@ Cuyahoga Falls OH PD
 Cuyahoga Heights OH PD
 D'Iberville MS PD
 Dale County AL SO
-Dallas TX PD
 Dalton GA PD
 Danielsville GA PD
 Dare County NC SO
@@ -2066,7 +2063,6 @@ Ormond Beach FL PD
 Osceola WI PD
 Oxford AL PD
 Oxford MS PD
-Palatka FL PD
 Palm Beach County FL SO
 Park City KS PD
 Parma OH PD
