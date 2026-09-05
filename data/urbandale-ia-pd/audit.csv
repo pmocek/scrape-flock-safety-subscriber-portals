@@ -1,7 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"bbea8821-c721-4111-b36b-349a103f7eb3","***","2026-08-04T10:33:46.746Z","1","City Planning/Traffic Analysis"
-"ca927f2d-10cc-4108-ba7a-f1e0286dff6b","***","2026-08-04T15:25:36.007Z","1","Financial Crime (Embezzlement/Fraud)"
-"e6bcc3b2-e1b8-4838-9093-43315cd751a9","***","2026-08-04T17:51:59.053Z","6029","Assault/Battery Offenses"
 "8f228fb7-d40f-4cd6-a6f5-f28e6b450c46","***","2026-08-05T12:05:32.040Z","543","City Planning/Traffic Analysis"
 "61cf1b81-a9db-4303-a71a-cd78213bdb8c","***","2026-08-05T15:06:17.987Z","1","Destruction/Damage/Vandalism of Property"
 "ac8e2e3e-896b-496c-abb5-3e58925f80ef","***","2026-08-05T16:30:13.604Z","1","City Planning/Traffic Analysis"
@@ -175,3 +172,5 @@
 "919f3cc0-8ab3-4e6a-9cec-25fe61da07db","***","2026-09-01T22:34:05.946Z","80","Hit and Run/Car Accident"
 "d87a45c6-b9d3-45a2-91d5-b0ad2b43230d","***","2026-09-01T22:39:55.474Z","593","Hit and Run/Car Accident"
 "387076ef-16c3-404a-bd33-d29cd11bac73","***","2026-09-02T16:19:38.746Z","593","Hit and Run/Car Accident"
+"dd934e2c-5529-47da-ada0-f271c181865d","***","2026-09-03T15:12:14.808Z","589","Larceny/Theft Offenses"
+"23e5d7a1-dca6-4a7f-a987-c84181f8dbbc","***","2026-09-03T16:55:34.095Z","589","Larceny/Theft Offenses"

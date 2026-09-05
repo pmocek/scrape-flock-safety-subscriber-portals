@@ -5,7 +5,7 @@ Visit Flock
 Urbandale IA PD
 Transparency Portal
 
-Last updated: Thu Sep 03 2026
+Last updated: Fri Sep 04 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-409,614
+411,281
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-176
+175
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,716
+4,804
 
 Sharing Network Data With
 
@@ -91,7 +91,6 @@ Greene County MO SO
 Greenfield WI PD
 Greenwood AR PD
 Hopkins MN PD
-Houston TX PD
 IA - Eldridge PD
 IA - Storm Lake PD
 Iowa Department of Corrections
