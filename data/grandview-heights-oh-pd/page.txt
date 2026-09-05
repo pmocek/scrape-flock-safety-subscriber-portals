@@ -6,7 +6,7 @@ Visit Flock
 Grandview Heights OH PD
 Transparency Portal
 
-Last updated: Fri Sep 04 2026
+Last updated: Sat Sep 05 2026
 
 Overview
 
@@ -67,13 +67,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-198,851
+200,765
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-34
+29
 
 Hotlists Alerted On
 
@@ -85,7 +85,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-96
+101
 
 Sharing Network Data With
 
@@ -123,7 +123,6 @@ Centerville OH PD
 Chardon OH PD
 Cleveland Clinic OH PD
 Clinton Township OH PD
-Columbus OH PD
 Conneaut OH PD
 Copley Township OH PD
 Cortland OH PD
