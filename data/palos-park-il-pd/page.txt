@@ -5,7 +5,7 @@ Visit Flock
 Palos Park IL PD
 Transparency Portal
 
-Last updated: Thu Sep 03 2026
+Last updated: Fri Sep 04 2026
 
 Overview
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-11,622
+11,711
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -574,7 +574,6 @@ Butler Township OH PD
 Byron IL PD
 Calhoun County MI SO
 Calloway County KY SO
-Calumet County WI SO
 Calumet Park IL PD
 Cambridge City IN PD
 Campton Hills IL PD
@@ -812,7 +811,6 @@ Grandville PD MI
 Grant County IN SO
 Grant County WI SO
 Grayslake IL PD
-Green Lake County WI SO
 Green Oaks PD IL
 Green Township OH PD
 Greenbrier TN PD
@@ -857,7 +855,6 @@ Henderson County KY SO
 Henderson KY PD
 Henderson TN PD
 Hendersonville TN PD
-Hendricks County IN SO
 Henry County IL SO
 Henry County IN SO
 Henry County OH SO
@@ -888,7 +885,6 @@ Hume PD IL
 Huntington IN PD
 Huntley IL PD
 Huntsville AL PD
-Huron OH PD
 IA - Eldridge PD
 IA - Storm Lake PD
 IL - Mansfield PD
@@ -1219,7 +1215,6 @@ Olive Branch MS PD
 Olmsted Falls OH PD
 Olney IL PD
 Olympia Fields IL PD
-Oneida WI PD
 Oolitic Marshal’s Office
 Orange Beach AL PD
 Orange County FL SO
@@ -1417,7 +1412,6 @@ Spring Hill TN PD
 Spring Valley IL PD
 Springdale OH PD
 Springfield IL PD
-Springfield MO PD
 Springfield OH PD
 Springfield Park District IL PD
 Springfield TN PD
@@ -1438,7 +1432,6 @@ Stephenson County IL SO
 Sterling IL PD
 Steubenville OH PD
 Stickney IL PD
-Stillwater MN PD
 Stone County MO SO
 Stow OH PD
 Streamwood IL PD
@@ -1481,8 +1474,6 @@ Union Township PD (Clermont Co) - OH
 University of Central Missouri PD
 University of Illinois - Chicago IL PD
 University of Illinois- Springfield
-University of Iowa PD (IA)
-University of Kentucky
 University of Louisville KY PD
 University Park IL PD
 Valparaiso IN PD
