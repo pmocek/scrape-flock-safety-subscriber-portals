@@ -6,7 +6,7 @@ Visit Flock
 Grandview Heights OH PD
 Transparency Portal
 
-Last updated: Sat Sep 05 2026
+Last updated: Sun Sep 06 2026
 
 Overview
 
@@ -67,7 +67,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-200,765
+203,298
 
 Number of Searches
 
