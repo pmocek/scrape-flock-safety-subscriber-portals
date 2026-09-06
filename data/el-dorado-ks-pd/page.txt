@@ -5,7 +5,7 @@ Visit Flock
 El Dorado KS PD
 Transparency Portal
 
-Last updated: Fri Sep 04 2026
+Last updated: Sat Sep 05 2026
 
 Overview
 
@@ -18,14 +18,14 @@ Camera Alert Activity
 Camera alerts by source and topic over the last 30 days.
 
 137 alerts
-NCIC - Violent Person
-45
 NCIC - Stolen Vehicle
 44
+NCIC - Violent Person
+44
 NCIC - Warrants
-15
+18
 NCIC - Stolen Plate
-13
+11
 NCIC - Protection Order
 9
 NCIC - Sex Offender
@@ -49,13 +49,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-94,972
+97,110
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-47
+44
 
 Hotlists Alerted On
 
@@ -67,7 +67,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-940
+925
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -111,6 +111,7 @@ Dodge City KS PD
 Eastborough KS PD
 Ellsworth County KS SO
 Ford County KS SO
+Fort Worth TX PD
 Frontenac KS PD
 Garnett KS PD
 Goddard KS PD
@@ -467,7 +468,6 @@ Malvern AR PD
 Manchester MO PD
 Mansfield TX PD
 Maplewood MO PD
-Marion County MO SO
 Marion IL PD
 Marshall County OK SO
 Marshall TX PD
