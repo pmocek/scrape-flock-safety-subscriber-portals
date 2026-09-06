@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Fri Sep 04 2026
+Last updated: Sat Sep 05 2026
 
 Overview
 
@@ -63,19 +63,19 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-370 alerts
+377 alerts
 NCIC - Protection Order
-133
+137
 NCIC - Sex Offender
-80
+83
 NCIC - Stolen Plate
-71
+74
 NCIC - Stolen Vehicle
-45
+44
 NCIC - Warrants
-31
+28
 NCIC - Gang or Suspected Terrorist
-5
+6
 NCIC - Violent Person
 2
 NCIC - CPIC Data Records
@@ -107,13 +107,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-485,847
+481,957
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-301
+286
 
 Hotlists Alerted On
 
@@ -125,7 +125,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,886
+5,862
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.

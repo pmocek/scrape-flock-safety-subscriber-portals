@@ -5,7 +5,7 @@ Visit Flock
 Mount Orab OH PD
 Transparency Portal
 
-Last updated: Sat Sep 05 2026
+Last updated: Sun Sep 06 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-89,989
+90,801
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-18
+17
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-102
+100
 
 Sharing Network Data With
 
