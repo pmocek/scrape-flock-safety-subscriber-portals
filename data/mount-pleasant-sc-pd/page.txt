@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Sat Sep 05 2026
+Last updated: Sun Sep 06 2026
 
 Overview
 
@@ -63,21 +63,21 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-377 alerts
+388 alerts
 NCIC - Protection Order
 137
 NCIC - Sex Offender
-83
+89
 NCIC - Stolen Plate
-74
+75
 NCIC - Stolen Vehicle
-44
+46
 NCIC - Warrants
 28
 NCIC - Gang or Suspected Terrorist
-6
+7
 NCIC - Violent Person
-2
+3
 NCIC - CPIC Data Records
 1
 NCIC - Extreme Risk Protection Order
@@ -107,13 +107,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-481,957
+472,681
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-286
+278
 
 Hotlists Alerted On
 
@@ -125,7 +125,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,862
+5,793
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1708,7 +1708,6 @@ Dougherty County GA PD
 Douglasville GA PD
 Duluth GA PD
 Duncan SC PD
-Dunn County WI SO
 Dunn NC PD
 Dunwoody GA PD
 Dutchess County NY SO
