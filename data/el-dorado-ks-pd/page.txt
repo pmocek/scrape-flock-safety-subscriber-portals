@@ -5,7 +5,7 @@ Visit Flock
 El Dorado KS PD
 Transparency Portal
 
-Last updated: Sat Sep 05 2026
+Last updated: Sun Sep 06 2026
 
 Overview
 
@@ -17,19 +17,19 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-137 alerts
+134 alerts
 NCIC - Stolen Vehicle
 44
 NCIC - Violent Person
 44
 NCIC - Warrants
-18
+19
 NCIC - Stolen Plate
-11
+10
 NCIC - Protection Order
-9
-NCIC - Sex Offender
 8
+NCIC - Sex Offender
+6
 NCIC - Extreme Risk Protection Order
 3
 
@@ -49,13 +49,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-97,110
+99,400
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-44
+41
 
 Hotlists Alerted On
 
@@ -75,8 +75,8 @@ Offense Types used for LPR searches in the last 30 days.
 Hit and Run/Car Accident
 Motor Vehicle Theft/Stolen
 Destruction/Damage/Vandalism of Property
-Sex Offenses
 Threats/Harassment
+Assault/Battery Offenses (Domestic)
 
 Sharing Network Data With
 
@@ -665,7 +665,6 @@ Union MO PD
 Union Pacific Railroad PD
 University of Central Missouri PD
 University of Missouri Campus MO PD
-University of TX (UTA)- Arlington PD
 Urbandale IA PD
 UT Southwestern Medical Center TX
 Vail CO PD
