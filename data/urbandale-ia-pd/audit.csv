@@ -1,8 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"f879c140-a544-42fc-8213-90e436783e99","***","2026-08-06T01:32:47.847Z","6037","Wanted Person (Arrest Warrant/Fugitive)"
-"a6bf3fd6-512d-4553-b35c-bfa2c8c50b9e","***","2026-08-06T14:24:38.131Z","551","Assault/Battery Offenses"
-"181a4669-b37d-46ae-b470-127d4e636e2d","***","2026-08-06T16:45:37.984Z","551","Larceny/Theft Offenses"
-"f6e2a826-b787-44d6-b9ea-14bf060a737a","***","2026-08-06T19:39:15.476Z","1","Larceny/Theft Offenses"
 "91a61335-3080-416a-be97-1f86faa9fac6","***","2026-08-07T11:45:06.977Z","1","City Planning/Traffic Analysis"
 "8f4b8bd2-a60a-4a7c-968e-871dd2fab5c2","***","2026-08-07T16:18:11.060Z","541","City Planning/Traffic Analysis"
 "a53972d3-f63f-44fb-bece-898035644b7b","***","2026-08-07T22:49:58.948Z","6018","Traffic Infraction"
