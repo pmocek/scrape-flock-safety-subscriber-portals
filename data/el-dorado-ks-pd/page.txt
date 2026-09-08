@@ -5,7 +5,7 @@ Visit Flock
 El Dorado KS PD
 Transparency Portal
 
-Last updated: Sun Sep 06 2026
+Last updated: Mon Sep 07 2026
 
 Overview
 
@@ -17,17 +17,17 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-134 alerts
+132 alerts
 NCIC - Stolen Vehicle
-44
+43
 NCIC - Violent Person
-44
+43
 NCIC - Warrants
-19
+20
 NCIC - Stolen Plate
 10
 NCIC - Protection Order
-8
+7
 NCIC - Sex Offender
 6
 NCIC - Extreme Risk Protection Order
@@ -49,13 +49,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-99,400
+99,882
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-41
+39
 
 Hotlists Alerted On
 
@@ -67,13 +67,13 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-925
+932
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Hit and Run/Car Accident
 Motor Vehicle Theft/Stolen
+Hit and Run/Car Accident
 Destruction/Damage/Vandalism of Property
 Threats/Harassment
 Assault/Battery Offenses (Domestic)
@@ -502,6 +502,7 @@ Mountain Home AR PD
 Mountain View AR PD
 Mt. Zion IL PD
 Mulvane KS PD
+Murphysboro IL PD
 Mustang OK PD
 NE - Colfax Co SO
 Nebraska State Patrol
