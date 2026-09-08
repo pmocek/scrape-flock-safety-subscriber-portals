@@ -5,7 +5,7 @@ Visit Flock
 Palos Park IL PD
 Transparency Portal
 
-Last updated: Mon Sep 07 2026
+Last updated: Tue Sep 08 2026
 
 Overview
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-12,048
+12,098
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -635,7 +635,6 @@ Coles County IL SO
 Collegedale TN PD
 Collierville TN PD
 Colona IL PD
-Columbia County WI SO
 Columbus IN PD
 Cookeville TN PD
 Cortland IL PD
@@ -940,7 +939,6 @@ KenCom Public Safety Dispatch
 Kendall County IL SO
 Kenmore Village NY PD
 Kenosha County WI SO
-Kenosha WI PD
 Kentwood MI PD
 Kewanee IL PD
 Kildeer IL PD
@@ -1077,7 +1075,6 @@ Menasha WI PD
 Mendota IL PD
 Menomonee Falls WI PD
 Mentor OH PD
-Mequon WI PD
 Mercer County OH SO
 Merrionette Park IL PD
 Metamora IL PD
@@ -1218,7 +1215,6 @@ Orland Hills IL PD
 Orland Park IL PD
 Osage Beach MO PD
 Oswego IL PD
-Ottawa County MI SO
 Ottawa County OH SO
 Ottawa IL PD
 Overland MO PD
