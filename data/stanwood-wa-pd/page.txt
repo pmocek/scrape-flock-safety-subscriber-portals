@@ -1,11 +1,12 @@
 Transparency Portal
 Community Impact
 Policy & Trust
-Visit Flock.com
+More Info
+Visit Flock
 Stanwood WA PD
 Transparency Portal
 
-Last updated: Fri Jul 31 2026
+Last updated: Wed Sep 09 2026
 
 Overview
 
@@ -24,42 +25,136 @@ Total Cameras
 
 Number of LPR and other cameras.
 
-12
+13
 
 Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-118,499
+98,375
 
-Number of Searches
+Hotlists Alerted On
 
-Total user search sessions over the last 30 days.
+National and statewide hotlist sources.
 
-0
+NCMEC Amber Alert
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-109
+85
+
+Sharing Network Data With
+
+Organizations granted access to Stanwood WA PD data.
+
+Arlington PD (WA)
+Everett (WA) Police Department
+Granite Falls WA PD
+Lake Stevens WA PD
+Lynnwood WA PD [Inactive]
+Marysville WA PD
+Mill Creek WA PD
+Monroe WA PD
+Mountlake Terrace WA PD
+Mukilteo WA PD
+Snohomish County WA SO
+Snohomish WA PD
+Sultan WA PD
+Tulalip Tribal Police Dept. (WA)
+
+Receiving Network Data From
+
+Organizations sharing their data with Stanwood WA PD.
+
+Aberdeen WA PD
+Adams County WA SO
+Arlington PD (WA)
+Centralia WA PD
+Chehalis WA PD
+Chelan County WA SO
+Cle Elum WA PD
+College Place WA PD
+Columbia River Drug Task Force WA
+Des Moines WA PD
+Eatonville WA PD [Inactive]
+Ellensburg WA PD
+Everett (WA) Police Department
+Federal Way WA PD
+Grandview WA PD
+Granite Falls WA PD
+Grant County WA SO
+Grays Harbor County SO (WA)
+Kent WA PD
+Kittitas WA PD
+Lake Stevens WA PD
+Lakewood WA PD
+Liberty Lake WA PD
+Mabton WA PD
+Marysville WA PD
+Montesano WA PD
+Moses Lake WA PD
+Moxee WA PD
+Mukilteo WA PD
+Napavine WA PD
+Newcastle WA PD
+Olympia WA PD
+Orting WA PD
+Prosser WA PD
+Puyallup WA PD
+Reardan WA PD
+Sedro-Woolley WA PD
+Selah WA PD
+Snohomish County WA SO
+Sumner WA PD
+Toppenish WA PD
+Town of Harrah WA
+Tukwila WA PD
+Tulalip Tribal Police Dept. (WA)
+Union Gap WA PD
+Wapato WA PD
+Warden WA PD
+West Richland WA PD
+Yakima County WA SO
+Yakima WA PD
+Yelm WA PD
 Policy & Trust
 
 What's Detected
 
-License Plates, Vehicles
+License plate, Vehicles, Bicycles, and Trailers
 
 What's Not Detected
 
-Facial recognition, People, Gender, Race
+Facial recognition, Gender, Race
 
 Acceptable Use Policy
 
-Data is used for law enforcement purposes only. Data is owned by Stanwood WA PD and is never sold to 3rd parties.
+In support of the Stanwood Police Department's Mission, Vision, and Values, ACCESS-certified law enforcement personnel may use Flock Safety Cameras for investigating felony and gross misdemeanor crimes or investigating community safety concerns. This includes, but is not limited to:
+• Locating missing children, elderly individuals, and other vulnerable/endangered persons, including those associated with AMBER, Silver, and Missing Indigenous Person Alerts.
+• Locating vehicles that are stolen, wanted, or subject of a criminal investigation.
+• Locating witnesses and victims of violent crimes.
+• Purposes related to training Flock Safety Camera users.
+• Supporting local, state, federal, and tribal community safety departments in the identification of vehicles and/or persons associated with criminal investigations, including investigations of serial crimes.
+Data is used for law enforcement purposes only. Data is owned by Stanwood Police Department and is never sold to 3rd parties.
 
 Prohibited Uses
 
-Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+• All employees of the Stanwood Police Department, including commissioned deputies and civilian personnel, shall abide by the policies and procedures related to ALPR cameras as set forth in the Standard Operating Procedure Manual.
+
+• Stanwood Police Department employees are prohibited from using Flock Safety Camera technology in the following circumstances:
+- - Employees may not use Flock Safety Cameras for non-work-related purposes or otherwise operate the Flock Safety Cameras outside their legitimate law enforcement duties.
+- - Flock Safety Cameras may be used to collect data that is within public view but will not be used for the sole purpose of monitoring or tracking individuals or expressive activities protected by the First Amendment of the United States Constitution.
+- - Flock Safety Cameras shall not be used solely for the purpose of immigration enforcement.
+- - Flock Safety Cameras shall not be used to investigate or issue infractions.
+- - In no case shall the Stanwood Police Department Flock Safety Cameras be used for any purpose other than legitimate law enforcement or community safety purposes.
+- - Users will not target any person based on their actual or perceived age, color, creed, criminal history, disability, ethnic background, gender, gender expression or identity, lifestyle, marital status, national origin, partnership status, political affiliation or beliefs, pregnancy status, race, religion, sex, sexual orientation as defined by RCW 49.60.040, social or economic status, veteran status, and, to the extent permitted by law, alienage or citizenship status, or any other legally protected status.
+- - Without another clearly articulated nexus to criminal activity associated with Washington State law, Flock Safety Cameras shall not be used to specifically target or track the movement of vehicles traveling to or from healthcare facilities, including, but not limited to hospitals, clinics, mental health providers, or reproductive health care centers. This restriction applies irrespective of the vehicle’s origin, destination, or the medical services sought by the individual.
+
+• Flock Safety Camera use is prohibited on the premises or immediate surroundings of schools, places of worship, courts, or food banks.
+
+• Immigration enforcement, traffic enforcement, harassment or intimidation, personal use, usage based solely on a protected class (i.e. race, sex, religion).
 
 Access Policy
 
@@ -74,5 +169,55 @@ Public Search Audit
 Download to view searches performed over the last 30 days.
 
 Download CSV
+SOC 2 Type II
+
+Independently audited controls covering security, availability, and confidentiality.
+
+ISO 27001
+
+Information security management aligned with international standards.
+
+Adherence to Key Privacy Principles
+
+Built to focus on data minimization, purpose limitation, and transparency.
+
+Myth vs. Fact
+Myth
+
+Flock has been hacked.
+
+Fact
+
+Flock's cloud environment has never been breached. Flock invests in a strong security posture, including adhering to NDAA, SOC2 (Type II), ISO 27001, ISO 27018 FedRAMP 20x, and Higher Education Community Vendor Assessment Tool (HECVAT) compliance. Additional security precautions include Role-Based Access Controls, data encrypted at-rest and in transit, required Multi-Factor Authentication, and regular penetration testing.
+
+Myth
+
+Flock sells and/or shares customer data.
+
+Fact
+
+Your community owns 100% of your data and it will never be sold. Only your agency decides who to share your data with, not Flock. Flock Safety does not publicly release agency search data. Flock does not operate or support any public-facing searchable database of law enforcement lookups, and we do not provide license plate search histories to websites or third parties without the agency's knowledge and authorization. Other agencies who you share footage with have been responding to FOIA requests and sharing this search data.
+
+Myth
+
+My data is fed into a national database.
+
+Fact
+
+Each agency controls access to its own data. Agencies may choose to share information through a broader network, but nothing is shared automatically. Participation is opt-in, governed by defined agreements, and limited to lawful investigative purposes.
+
+Myth
+
+Flock cameras use facial recognition.
+
+Fact
+
+Flock cameras do not use facial recognition technology. Searches are based on vehicle characteristics, and not identity. Flock cannot recognize, identify, or track individuals. It is purpose built for specific public safety investigations, not to monitor people.
+
+More Info
+
+Stanwood Police Department/Snohomish County Sheriff's ALPR Policy
+
+https://snohomishcountywa.gov/342/Sheriff-Public-Records#docaccess-431e49d7e11d4ee957fcf6cc202bcd2e
 
 Provided by Flock Safety
