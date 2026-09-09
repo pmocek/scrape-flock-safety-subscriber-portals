@@ -1,11 +1,11 @@
 Transparency Portal
 Community Impact
 Policy & Trust
-Visit Flock.com
+Visit Flock
 Lovejoy GA PD
 Transparency Portal
 
-Last updated: Mon Aug 03 2026
+Last updated: Wed Sep 09 2026
 
 Overview
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-86,859
+80,978
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-49
+32
 
 Hotlists Alerted On
 
@@ -54,16 +54,16 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,040
+4,861
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Assault/Battery Offenses
 Drugs/Narcotics
-Animal Offenses (cruelty/neglect)
-Disorderly Conduct/Disturbance
-Human Trafficking
+Burglary/Breaking & Entering
+Assault/Battery Offenses
+Larceny/Theft Offenses
+Hit and Run/Car Accident
 
 Sharing Network Data With
 
@@ -102,7 +102,6 @@ Butts County GA SO
 Byron GA PD
 Cairo GA PD
 Calhoun GA PD
-Camden County GA SO
 Camilla GA PD
 Canton GA PD
 Carroll County GA SO
@@ -166,7 +165,6 @@ Elbert County GA SO
 Ellaville GA PD
 Ellijay GA PD
 Emerson GA PD
-Emory University Campus PD GA
 Euharlee GA PD
 Evans County GA SO
 Fairburn GA PD
@@ -419,7 +417,6 @@ Barrow County GA SO
 Bartholomew County IN SO
 Bartlett TN PD
 Bartow County GA SO
-Bay County FL SO
 Baytown TX PD
 Beaufort SC PD
 Belmont NC PD
@@ -458,7 +455,6 @@ Butler Township OH PD
 Butner NC PD
 Butts County GA SO
 Byron GA PD
-Cabot AR PD
 Caldwell County NC SO
 Calera AL PD
 Calhoun County AL SO
@@ -468,7 +464,6 @@ Cambridge City IN PD
 Camden SC PD
 Canton GA PD
 Cape Girardeau MO PD
-Carolina Beach NC PD
 Carroll County GA SO
 Carrollton GA PD
 Cartersville GA PD
@@ -511,14 +506,12 @@ Coffee County GA SO
 Colbert County AL SO
 College Park GA PD
 Collegedale TN PD
-Collier County FL SO
 Collierville TN PD
 Colquitt County GA SO
 Columbia County FL SO
 Columbia County GA SO
 Columbus GA PD
 Columbus IN PD
-Columbus Regional Airport Authority OH PD
 Commerce GA PD
 Conover NC PD
 Conway SC PD
@@ -591,12 +584,10 @@ Edinburgh IN PD
 Edmundson MO PD
 Effingham County GA SO
 Elgin SC PD
-Elizabethton TN PD
 Elizabethtown KY PD
 Ellijay GA PD
 Elwood IN PD
 Emerson GA PD
-Emory University Campus PD GA
 Etowah County AL SO
 Eufaula AL PD
 Euharlee GA PD
@@ -626,7 +617,6 @@ Fitzgerald GA PD
 Florence AL PD
 Florence County SC SO
 Florence KY PD
-Florence SC PD
 Florida Atlantic University FL PD
 Florissant MO PD
 Flowery Branch GA PD
@@ -652,7 +642,6 @@ Franklin Springs GA PD
 Fulton County GA PD
 Fulton County GA SO
 Fulton MS PD
-Fuquay-Varina NC PD
 GA - Georgia Piedmont Technical College
 Gadsden County FL SO
 Gahanna OH PD
@@ -665,7 +654,6 @@ Garrard County KY SO
 Gas City IN PD
 Gaston County NC PD
 Gautier MS PD
-Genoa Township OH PD
 Georgetown County SC SO
 Georgetown SC PD
 Georgia Bureau of Investigation (GBI)
@@ -729,7 +717,6 @@ Henderson County NC SO
 Henderson KY PD
 Hendersonville NC PD
 Hendersonville TN PD
-Hendricks County IN SO
 Henry County GA PD
 Henry County IN SO
 Hiawassee GA PD
@@ -753,7 +740,6 @@ Hueytown AL PD
 Huntersville PD NC
 Huntsville AL PD
 Iberville Parish LA SO
-Independence KY PD
 Indian Hill OH PD
 Indian Hills KY PD
 Indian River Shores FL PD
@@ -761,7 +747,6 @@ Indiana State Police IN PD
 Indianapolis International Airport IN PD
 Ingalls IN PD
 Iredell County NC SO
-Irondale AL PD
 Irwin County GA SO
 Jackson County GA SO
 Jackson GA PD
@@ -774,10 +759,8 @@ Jasper GA PD
 Jasper IN PD
 Jefferson City TN PD
 Jefferson County AR SO
-Jefferson County FL SO
 Jefferson County KY SO
 Jefferson County MO SO
-Jefferson County SO IN
 Jefferson County TN SO
 Jefferson GA PD
 Jeffersontown KY PD
@@ -791,14 +774,11 @@ Jonesboro GA PD
 Kennesaw GA PD
 Kennesaw State University GA PD
 Kernersville NC PD
-Kershaw County SC SO
-Kingsport TN PD
 Kingston Springs TN PD
 Kingston TN PD
 Knox County TN SO
 Knoxville TN PD [Inactive]
 Kosciusko MS PD
-Ladue MO PD
 Lafayette County MS SO
 Lafayette IN PD
 Lafayette Parish LA SO
@@ -808,13 +788,11 @@ LaGrange GA PD
 LaGrange KY PD
 Lake City FL PD
 Lake City GA PD
-Lake Mary FL PD
 Lake Park GA PD
 Lakeland FL PD
 Lakeside Park-Crestview Hills KY PD
 Lamar County GA SO
 Lamar County MS SO
-Lancaster County SC SO
 Lauderdale County AL SO
 Lauderdale County TN SO
 Laurens County GA SO
@@ -833,9 +811,8 @@ Leesburg AL PD
 Leesburg GA PD
 Lenoir City TN PD
 Lenox GA PD
-Leon County FL SO
+Leon County Sheriffs Office (FL)
 Lexington KY PD
-Lexington NC PD
 Lexington SC PD
 Lexington TN PD
 Liberty County FL SO
@@ -851,7 +828,6 @@ Locust Grove GA PD
 Loganville GA PD
 Long County GA SO
 Lookout Mountain GA PD
-Lookout Mountain TN PD
 Loris SC PD
 Loudon TN PD
 Louisburg NC PD
@@ -929,9 +905,7 @@ Morgan County AL SO
 Morgan County GA SO
 Morgan County IN SO
 Morgan County TN SO
-Morristown IN PD
 Morrow GA PD
-Morrow OH PD
 Moss Point MS PD
 Moultrie GA PD
 Mount Holly NC PD
@@ -982,10 +956,7 @@ Owen County IN SO
 Oxford AL PD
 Oxford GA PD
 Oxford MS PD
-Oxford PD - OH
 Paducah KY PD
-Palatka FL PD
-Panama City Beach FL PD
 Paris KY PD
 Paris TN PD
 Park Hills MO PD
@@ -1000,7 +971,6 @@ Perry GA PD
 Person County NC SO
 Phenix City AL PD
 Pickens County GA SO
-Pickens County SC SO
 Pierce County GA SO
 Pike County GA SO
 Pittsboro IN PD
@@ -1010,7 +980,6 @@ Pocahontas AR PD
 Pontotoc MS PD
 Pooler GA PD
 Port Fourchon Harbor LA PD
-Port St. Lucie FL PD
 Port Wentworth GA PD
 Powder Springs GA PD
 Powell OH PD
@@ -1052,14 +1021,12 @@ Russellville AL PD
 Sale City GA PD
 Saline County AR SO
 Sandy Springs GA PD
-Sarasota County FL SO
 Sarasota FL PD
 Savannah International Airport GA PD
 Savannah PD - GA
 Scott City MO PD
 Scott County KY SO
 Scottsboro AL PD
-Searcy AR PD
 Seminole County GA SO
 SEMO Drug Task Force MO
 Senoia GA PD
@@ -1071,7 +1038,6 @@ Shelby County IN SO
 Shelby County KY SO
 Shelby County TN SO
 Shelbyville IN PD
-Shelbyville KY PD
 Shelbyville TN PD
 Sherwood AR PD
 Sidney OH PD
@@ -1096,7 +1062,6 @@ Spartanburg SC PD
 Speedway IN PD
 Spencer County IN SO
 Spring Hill TN PD
-Springdale OH PD
 Springfield GA PD
 Springfield OH PD
 Springfield TN PD
@@ -1106,7 +1071,6 @@ St. Charles Parish LA SO
 St. Francois County MO SO
 St. John MO PD
 St. John Parish LA SO
-St. Johns County FL SO
 St. Louis County MO PD
 St. Lucie County FL SO
 St. Martin Parish LA SO
@@ -1118,13 +1082,11 @@ Stone Mountain GA PD
 Sugar Hill GA PD
 Sugarcreek Township OH PD
 Sullivan County IN SO
-Sumner County TN SO
 Sumter County FL SO
 Sumter County GA SO
 Sumter County SC SO
 Surfside Beach SC PD
 Suwanee GA PD
-Sweetwater TN PD
 Sylvania GA PD
 Sylvester GA PD
 Talladega County AL SO
@@ -1168,7 +1130,6 @@ Union City GA PD
 Union County GA SO
 Union County KY SO
 Union County NC SO
-University of Georgia GA PD
 University of Louisville KY PD
 University of North Carolina Charlotte (NC)
 University of North Georgia PD (GA)
@@ -1193,8 +1154,6 @@ Warren County OH SO
 Warrick County IN SO
 Wartburg TN PD
 Washington County SO - GA
-Washington County TN SO
-Watauga County NC SO
 Waterman Village (FL)
 Watkinsville GA PD
 Waveland MS PD
@@ -1204,7 +1163,6 @@ Webster Groves MO PD
 Wells County IN SO
 West Chester OH PD
 West Point GA PD
-Westerville OH PD
 Westfield IN PD
 White County GA SO
 Whitesburg GA PD
@@ -1224,7 +1182,6 @@ Woodstock AL PD
 Woodstock GA PD
 Worth County GA SO
 Xenia OH PD
-Yancey County NC SO
 York County SC SO
 Policy & Trust
 
