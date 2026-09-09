@@ -1,11 +1,11 @@
 Transparency Portal
 Community Impact
 Policy & Trust
-Visit Flock.com
+Visit Flock
 Isle Of Wight County VA SO
 Transparency Portal
 
-Last updated: Sun Aug 02 2026
+Last updated: Tue Sep 08 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Unique vehicles detected in the last 21 days
 
 Number of unique plate reads over the last 30 days.
 
-280,051
+268,483
 
 Searches in the last 21 days
 
 Total user search sessions over the last 30 days.
 
-88
+56
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Hotlist hits in the last 21 days
 
 Total hotlist hits over the last 30 days.
 
-778
+345
 Policy & Trust
 
 What's Detected
