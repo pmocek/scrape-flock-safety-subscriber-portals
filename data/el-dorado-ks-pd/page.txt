@@ -5,7 +5,7 @@ Visit Flock
 El Dorado KS PD
 Transparency Portal
 
-Last updated: Mon Sep 07 2026
+Last updated: Tue Sep 08 2026
 
 Overview
 
@@ -17,10 +17,10 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-132 alerts
-NCIC - Stolen Vehicle
-43
+134 alerts
 NCIC - Violent Person
+45
+NCIC - Stolen Vehicle
 43
 NCIC - Warrants
 20
@@ -49,13 +49,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-99,882
+100,346
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-39
+35
 
 Hotlists Alerted On
 
@@ -67,16 +67,16 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-932
+937
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Motor Vehicle Theft/Stolen
 Hit and Run/Car Accident
+Motor Vehicle Theft/Stolen
 Destruction/Damage/Vandalism of Property
 Threats/Harassment
-Assault/Battery Offenses (Domestic)
+Illegal Dumping/Littering
 
 Sharing Network Data With
 
@@ -200,7 +200,6 @@ Alcoa TN PD
 Allen County KS SO
 Allen TX PD
 Altoona IA PD
-Amarillo TX PD
 Anderson IN PD
 Andover KS PD
 Antelope County NE SO
@@ -476,7 +475,6 @@ Matteson IL PD
 Mattoon IL PD
 Mayfield KY PD
 McCurtain County OK SO
-McDonough County IL SO
 McKinney TX PD
 McPherson County KS SO
 McPherson KS PD
