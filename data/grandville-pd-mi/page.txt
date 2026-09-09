@@ -5,7 +5,7 @@ Visit Flock
 Grandville PD MI
 Transparency Portal
 
-Last updated: Tue Sep 08 2026
+Last updated: Wed Sep 09 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-349,731
+348,470
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-63
+60
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,179
+1,200
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1741,7 +1741,6 @@ Wyandot County OH SO
 Wyandotte MI PD
 Wyoming MI PD
 Wyoming OH PD
-Wythe County VA SO
 Youngstown OH PD
 Yreka CA PD
 Zanesville OH PD
@@ -1793,7 +1792,6 @@ Clio MI PD
 Cobb County GA PD
 Coldwater MI PD
 Coles County IL SO
-Columbia County WI SO
 Cookeville TN PD
 Covert Township PD MI
 Crawfordsville IN PD
@@ -1887,7 +1885,6 @@ Marysville MI PD
 Matteson IL PD
 Mattoon IL PD
 Maumee OH PD
-McDonough County IL SO
 Metro Police Authority of Genesee County MI
 MI - Village of Middleville
 Michigan City IN PD
