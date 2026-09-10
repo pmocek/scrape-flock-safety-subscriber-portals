@@ -5,7 +5,7 @@ Visit Flock
 Grand Traverse County MI SO
 Transparency Portal
 
-Last updated: Tue Sep 08 2026
+Last updated: Wed Sep 09 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-393,254
+392,850
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-203
+212
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,617
+1,667
 
 Sharing Network Data With
 
@@ -272,6 +272,7 @@ Chikaming Twp MI PD
 Chillicothe IL PD
 Chippewa PA PD
 City of Delavan WI PD
+City of Washington PA PD
 Clark County IN SO
 Clark County OH SO
 Clarksville IN PD
@@ -821,7 +822,6 @@ Maple Heights OH PD
 Maplewood MO PD
 Mar Mac IA PD
 Marathon County WI SO
-Marinette County SO (WI)
 Marinette WI PD
 Marion AR PD
 Marion County IL SO
@@ -919,6 +919,7 @@ Monroe County WI SO
 Monroe MI PD
 Monroe OH PD
 Montgomery County IN SO
+Montgomery County KS SO
 Montgomery County MO SO
 Montgomery County TN SO
 Montgomery County TX SO
@@ -954,6 +955,7 @@ Muskegon Heights MI PD
 Muskegon MI PD
 Muskegon Township MI PD (Muskegon County)
 Muskingum County OH SO
+Muskogee OK PD
 Nags Head NC PD
 Napoleon OH PD
 Napoleon Twp MI PD
@@ -1176,6 +1178,7 @@ Richland County WI SO
 Richland Village MI PD
 Richmond Heights MO PD
 Richmond KY PD
+Richmond MO PD
 Richmond VA PD
 Ridgeland MS PD
 RIG WI DTF

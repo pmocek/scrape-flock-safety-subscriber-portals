@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Tue Sep 08 2026
+Last updated: Wed Sep 09 2026
 
 Overview
 
@@ -104,13 +104,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-478,245
+484,236
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-1,340
+1,392
 
 Hotlists Alerted On
 
@@ -122,7 +122,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-11,925
+11,738
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -988,7 +988,6 @@ Maple Heights OH PD
 Maplewood MO PD
 Mar Mac IA PD
 Marathon County WI SO
-Marinette County SO (WI)
 Marinette WI PD
 Marion County IL SO
 Marion County MO SO
@@ -1415,7 +1414,6 @@ Roseville MI PD
 Ross Township PA PD
 Rossford OH PD
 Rossville IL PD
-Rossville IN PD
 Round Lake Park IL PD
 Round Rock TX PD
 Royal Oak MI PD
@@ -2472,7 +2470,6 @@ Marathon County WI SO
 Margate FL PD
 Marianna FL PD
 Marietta GA PD
-Marinette County SO (WI)
 Marion County OH SO
 Marion County WV SO
 Marion Health PD (IN)
