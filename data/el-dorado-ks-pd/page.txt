@@ -5,7 +5,7 @@ Visit Flock
 El Dorado KS PD
 Transparency Portal
 
-Last updated: Tue Sep 08 2026
+Last updated: Wed Sep 09 2026
 
 Overview
 
@@ -17,17 +17,17 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-134 alerts
+142 alerts
 NCIC - Violent Person
-45
+48
 NCIC - Stolen Vehicle
 43
 NCIC - Warrants
-20
+24
 NCIC - Stolen Plate
 10
 NCIC - Protection Order
-7
+8
 NCIC - Sex Offender
 6
 NCIC - Extreme Risk Protection Order
@@ -49,7 +49,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-100,346
+101,079
 
 Number of Searches
 
@@ -67,7 +67,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-937
+990
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -274,7 +274,6 @@ Cheyenne County CO SO
 Cheyenne WY PD
 Christian County MO SO
 City of West TX PD
-Clark Co. IL Sheriff's Dept.
 Clay County MO SO
 Clearwater FL PD
 Clearwater KS PD
@@ -325,6 +324,7 @@ Dodge City KS PD
 Douglas County IL SO
 Douglas County NE SO
 Dubuque IA PD
+Dumas TX PD
 Duncan OK PD
 Duquesne MO PD
 Dutchess County NY SO
@@ -398,7 +398,6 @@ Hoisington KS PD
 Houston TX PD
 Hudson CO PD
 Hugo OK PD
-Hutchins TX PD
 Hutchinson KS PD
 IA - Eldridge PD
 IA - Storm Lake PD
