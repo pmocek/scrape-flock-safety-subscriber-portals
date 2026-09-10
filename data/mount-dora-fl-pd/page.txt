@@ -5,7 +5,7 @@ Visit Flock
 Mount Dora FL PD
 Transparency Portal
 
-Last updated: Tue Sep 08 2026
+Last updated: Thu Sep 10 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-72,211
+73,614
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-21
+24
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-7,307
+6,751
 
 Sharing Network Data With
 
