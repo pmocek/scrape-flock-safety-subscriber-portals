@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Wed Sep 09 2026
+Last updated: Thu Sep 10 2026
 
 Overview
 
@@ -63,19 +63,19 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-382 alerts
+384 alerts
 NCIC - Protection Order
 126
 NCIC - Sex Offender
-97
+102
 NCIC - Stolen Plate
-77
+78
 NCIC - Stolen Vehicle
-46
+40
 NCIC - Warrants
 25
 NCIC - Gang or Suspected Terrorist
-7
+9
 NCIC - Violent Person
 2
 NCIC - Extreme Risk Protection Order
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-433,079
+418,127
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-245
+230
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,626
+5,540
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -298,7 +298,6 @@ Cape Coral FL PD
 Cape Girardeau MO PD
 Capitol Heights MD PD
 Carmel IN PD
-Carolina Beach NC PD
 Caroline County VA SO
 Carroll County GA SO
 Carrollton GA PD
@@ -1153,7 +1152,6 @@ Rapides Parish LA SO
 Raytown MO PD
 Regional Vehicle Burglary Suppression Taskforce TX
 Rehoboth Beach DE PD
-Reidsville NC PD
 Republic MO PD
 Reynolds GA PD
 Rhea County TN SO
@@ -2069,7 +2067,6 @@ Pineville NC PD
 Pittsboro IN PD
 Plainview TN PD
 Platte County MO SO
-Pleasant Prairie WI PD
 Pokagon Tribal MI PD
 Poland Township OH PD
 Polk County FL SO
@@ -2148,7 +2145,6 @@ Solon OH PD
 Somerton AZ PD
 South Bend IN PD
 South Carolina Department of Public Safety
-South Miami FL PD
 South Sioux City NE PD
 Southaven MS PD
 Spalding County GA SO
@@ -2180,7 +2176,6 @@ Surfside Beach SC PD
 Surry County NC SO
 Suwanee GA PD
 Talladega County AL SO
-Tallahassee Police Department (FL)
 Tarpon Springs FL PD
 Tarrant AL PD
 Taunton MA PD
