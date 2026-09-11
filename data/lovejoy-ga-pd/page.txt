@@ -5,7 +5,7 @@ Visit Flock
 Lovejoy GA PD
 Transparency Portal
 
-Last updated: Wed Sep 09 2026
+Last updated: Thu Sep 10 2026
 
 Overview
 
@@ -36,7 +36,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-80,978
+80,924
 
 Number of Searches
 
@@ -54,7 +54,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,861
+4,820
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -616,7 +616,6 @@ Fishers IN PD
 Fitzgerald GA PD
 Florence AL PD
 Florence County SC SO
-Florence KY PD
 Florida Atlantic University FL PD
 Florissant MO PD
 Flowery Branch GA PD
