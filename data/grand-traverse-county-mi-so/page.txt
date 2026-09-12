@@ -5,7 +5,7 @@ Visit Flock
 Grand Traverse County MI SO
 Transparency Portal
 
-Last updated: Thu Sep 10 2026
+Last updated: Fri Sep 11 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-392,750
+394,267
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-219
+233
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,589
+1,588
 
 Sharing Network Data With
 
@@ -120,7 +120,6 @@ Austin County TX SO
 Aviston IL PD
 Avoca PA PD
 Avon IN PD
-Baldwinsville Central School District Inc NY
 Baraboo WI PD
 Barberton OH PD
 Bardstown PD KY
@@ -1342,7 +1341,6 @@ Sunset Hills MO PD
 SUNY-Onondaga Community College Campus NY PD
 Superior WI PD
 Sylvania Township OH PD
-Tallahassee Police Department (FL)
 Tallmadge OH PD
 Tampa FL PD
 Tarpon Springs FL PD
@@ -1380,7 +1378,6 @@ Tuscarawas County OH SO
 Tuscola County MI SO
 Twiggs County GA SO
 Twinsburg OH PD
-Two Rivers WI PD
 TX - Vidor PD
 UNC Asheville NC PD
 Union County GA SO

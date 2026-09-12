@@ -6,28 +6,29 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Thu Sep 10 2026
+Last updated: Fri Sep 11 2026
 
 Overview
 
 Grand Rapids MI PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Grand Rapids MI PD utilizes retroactive searches to solve crimes after they've occurred. Additionally, Grand Rapids MI PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage they have made the below policies and usage statistics available to the public.
 
 Community Impact
+65
+MICHIGAN SUCCESS STORIES IN THE NEWS
 Featured Success Stories
 
 Key Investigations Solved by the use of Flock Cameras
 
-
 On February 12, 2025, Grand Rapids Police officers were dispatched to 3433 Haleh Circle SE, Apartment B, for a welfare check after the resident had not been heard from for several days. Officers located the resident deceased inside the apartment, and the incident was immediately investigated as a homicide.
 
-The victim’s boyfriend was quickly developed as a suspect and was determined to have left the apartment in the victim’s vehicle. Investigators utilized Flock technology, along with other digital investigative tools, to track the vehicle and develop information regarding the suspect’s location.
+The victim’s boyfriend was quickly developed as a suspect and was determined to have left the apartment in the victim’s vehicle. Investigators utilized Flock technology, along with other digital investigative tools in an effort to develop information regarding the suspect’s location.
 
 The suspect was ultimately located in the Albuquerque, New Mexico, area and apprehended by local authorities while still driving the victim’s vehicle. At the time of his arrest, he was still wearing the same clothing he had been wearing when he left the Grand Rapids area approximately two days earlier.
 
 The use of Flock technology played a critical role in locating and apprehending the homicide suspect. Remarkably, the suspect was taken into custody while Grand Rapids detectives were still actively processing the homicide scene—demonstrating the value of Flock and other digital investigative tools in rapidly developing critical leads and assisting law enforcement in locating dangerous suspects across jurisdictions.
 
 
-On June 18, 2025, officers responded to a missing-person report involving a victim with Stage IV cancer who had recently exhibited signs of dementia. The victim had left his residence in his vehicle. Using Flock technology, officers were able to determine that the vehicle had been in the area several hours before officers were dispatched to the call. By combining Flock with other digital investigative tools, officers were able to track the victim’s movements and ultimately locate him. He was safely returned home unharmed.
+On June 18, 2025, officers responded to a missing-person report involving a victim with Stage IV cancer who had recently exhibited signs of dementia. The victim had left his residence in his vehicle. Using Flock technology, officers were able to determine that the vehicle had been in the area several hours before officers were dispatched to the call. By combining Flock with other digital investigative tools, officers were able to ultimately locate him. He was safely returned home unharmed.
 
 
 On May 13, 2026, officers responded to a report of a missing 21-year-old college student. Using Flock technology, along with other investigative tools and techniques, officers determined that the victim had driven his vehicle toward the Grand Haven lakeshore. Although the victim had disabled the vehicle’s tracking device, investigators continued to use available resources to narrow the search area. The victim was ultimately located deceased. While the outcome was tragic, the investigation provided the family with closure by locating their loved one and determining what had happened.
@@ -104,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-486,055
+488,249
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-1,362
+1,287
 
 Hotlists Alerted On
 
@@ -122,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-11,599
+11,469
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -208,7 +209,6 @@ Austin County TX SO
 Aviston IL PD
 Avoca PA PD
 Avon IN PD
-Baldwinsville Central School District Inc NY
 Ballard County KY SO
 Baraboo WI PD
 Barberton OH PD
@@ -2078,7 +2078,6 @@ Douglas County IL SO
 Douglas GA PD
 Dubois County IN SO
 Dubuque IA PD
-Duluth GA PD
 Duncan SC PD
 Dunn NC PD
 Dunwoody GA PD
@@ -2352,7 +2351,6 @@ Joliet IL PD
 Jones County SO - GA
 Jonesborough PD TN
 Juneau County WI SO
-Justice IL PD
 Kalamazoo County MI SO
 Kalamazoo Township MI PD
 Kane County Forest Preserve IL PD
@@ -2372,7 +2370,6 @@ Knox County IL SO
 Knox County IN SO
 Knox County TN SO
 Knoxville TN PD [Inactive]
-Kure Beach NC PD
 La Grange Park IL PD
 Lackawanna City NY PD
 Lafayette IN PD
@@ -2392,7 +2389,6 @@ Lantana FL PD
 Lapeer City MI PD
 Lapel IN PD
 Laporte County IN SO
-Largo FL PD
 LaSalle Co. IL SO - New
 Lasalle IL PD
 Lathrup Village MI PD
@@ -2864,7 +2860,6 @@ Surry County NC SO
 Suwanee GA PD
 Sylvania OH PD
 Sylvania Township OH PD
-Tallahassee Police Department (FL)
 Tarpon Springs FL PD
 Taylor MI PD
 Tell City IN PD
@@ -3010,7 +3005,6 @@ Wilton Manors FL PD
 Winder GA PD
 Winnebago County IL SO
 Winnebago County WI SO
-Winneconne WI PD
 Winterville NC PD
 Wixom MI PD
 Wolverine Lake MI PD
