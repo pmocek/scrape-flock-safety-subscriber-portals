@@ -5,7 +5,7 @@ Visit Flock
 El Dorado KS PD
 Transparency Portal
 
-Last updated: Thu Sep 10 2026
+Last updated: Sat Sep 12 2026
 
 Overview
 
@@ -17,19 +17,19 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-144 alerts
+139 alerts
 NCIC - Violent Person
-49
+45
 NCIC - Stolen Vehicle
-41
+39
 NCIC - Warrants
-25
+29
 NCIC - Stolen Plate
-10
+9
 NCIC - Protection Order
-8
+7
 NCIC - Sex Offender
-8
+7
 NCIC - Extreme Risk Protection Order
 3
 
@@ -49,7 +49,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-101,467
+105,726
 
 Number of Searches
 
@@ -67,7 +67,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-955
+931
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -369,7 +369,6 @@ Gosper County NE SO
 Grand County CO SO
 Grand Island NE PD
 Grandview MO PD
-Grant County WI SO
 Graves County KY SO
 Gray County KS SO
 Gray County TX SO
@@ -545,7 +544,6 @@ Paris TN PD
 Paris TX PD
 Park City KS PD
 Park Hills MO PD
-Parkville MO PD
 Parsons KS PD
 Pawnee County KS SO
 Peoria IL PD
