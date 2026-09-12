@@ -5,7 +5,7 @@ Visit Flock
 Lovejoy GA PD
 Transparency Portal
 
-Last updated: Fri Sep 11 2026
+Last updated: Sat Sep 12 2026
 
 Overview
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-81,247
+81,755
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-28
+23
 
 Hotlists Alerted On
 
@@ -54,7 +54,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,808
+4,857
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -62,8 +62,8 @@ Offense Types used for LPR searches in the last 30 days.
 Drugs/Narcotics
 Burglary/Breaking & Entering
 Larceny/Theft Offenses
-Assault/Battery Offenses
 Hit and Run/Car Accident
+Assault/Battery Offenses
 
 Sharing Network Data With
 
@@ -836,7 +836,6 @@ Loveland OH PD
 Lowndes County GA SO
 Ludowici GA PD
 Lumberton NC PD
-Lumpkin County SO GA
 Lynn Haven FL PD
 Lyons GA PD
 Macon County AL SO
@@ -1129,7 +1128,6 @@ Union County GA SO
 Union County KY SO
 Union County NC SO
 University of Louisville KY PD
-University of North Carolina Charlotte (NC)
 University of North Georgia PD (GA)
 University of West Georgia GA PD
 Upson County GA SO
