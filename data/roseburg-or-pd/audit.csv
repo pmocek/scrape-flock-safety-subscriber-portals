@@ -1,7 +1,4 @@
 "id","userId","searchDate","networkCount","reason","offenseType"
-"32b453fc-a519-4cbc-a15a-76b0c9f09a61","***","2026-08-11T15:41:20.112Z","1","","Stolen Property Offenses"
-"c5814acf-a049-4435-8755-507001063229","***","2026-08-11T19:14:41.519Z","1","","Traffic Infraction"
-"0f1f235c-3d6a-494a-b985-3965c6f94ec2","***","2026-08-11T23:30:15.794Z","51","","Hit and Run/Car Accident"
 "aaa0dadb-151a-43fa-bbfe-fc3bf9f03f74","***","2026-08-12T00:17:51.617Z","35","","Wanted Person (Arrest Warrant/Fugitive)"
 "e8afabd4-136d-4686-b6ed-571891fd8807","***","2026-08-12T01:26:10.584Z","35","","Wanted Person (Arrest Warrant/Fugitive)"
 "f258b109-d69e-49c0-a763-5c52d97e6cda","***","2026-08-12T02:19:16.810Z","35","","Wanted Person (Arrest Warrant/Fugitive)"
@@ -172,3 +169,4 @@
 "a71465b6-2605-4fe4-b007-030aa6caf2d3","***","2026-09-09T08:13:51.622Z","1","","Wanted Person (Arrest Warrant/Fugitive)"
 "af74a763-41d8-45b0-a91e-4f43fa58beae","***","2026-09-09T09:56:46.071Z","1","","Wanted Person (Arrest Warrant/Fugitive)"
 "9818af13-bd06-4d36-bd59-d1c7453cab2b","***","2026-09-09T10:00:54.109Z","1","","Wanted Person (Arrest Warrant/Fugitive)"
+"536dc4dc-554f-46f9-aa93-339d4ae75792","***","2026-09-10T23:00:59.231Z","49","suspect vehicle on hit and run","Hit and Run/Car Accident"

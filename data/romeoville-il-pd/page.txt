@@ -5,7 +5,7 @@ Visit Flock
 Romeoville IL PD
 Transparency Portal
 
-Last updated: Fri Sep 11 2026
+Last updated: Sat Sep 12 2026
 
 Overview
 
@@ -59,7 +59,7 @@ Data Retention
 
 The number of days data is retained.
 
-30 days
+7 days
 
 Hotlists Alerted On
 
@@ -71,7 +71,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-58,172
+58,623
 Policy & Trust
 
 What's Detected
