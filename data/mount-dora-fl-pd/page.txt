@@ -5,7 +5,7 @@ Visit Flock
 Mount Dora FL PD
 Transparency Portal
 
-Last updated: Fri Sep 11 2026
+Last updated: Sat Sep 12 2026
 
 Overview
 
@@ -30,7 +30,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-73,715
+74,046
 
 Number of Searches
 
@@ -42,13 +42,13 @@ Hotlists Alerted On
 
 National and statewide hotlist sources.
 
-NCIC, FCIC, NCMEC Amber Alert, FL Sanctioned Drivers, FL Expired Tags, FL Expired Licenses, FL Sex Offenders, FBI National Hotlist
+NCIC, NCMEC Amber Alert, FBI National Hotlist
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,414
+6,121
 
 Sharing Network Data With
 
@@ -557,7 +557,6 @@ Sumter County SC SO
 Sun Valley PD ID
 Suwanee GA PD
 Suwannee County FL SO
-Tallahassee Police Department (FL)
 Tampa FL PD
 Tarpon Springs FL PD
 Terre Haute IN PD
