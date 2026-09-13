@@ -1,8 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"dff2305a-706f-40a9-a880-7d0cf9119242","***","2026-08-13T03:46:14.903Z","542","Destruction/Damage/Vandalism of Property"
-"dd2411a2-1905-4ccc-8734-c5d5b0ad6fed","***","2026-08-13T14:10:27.846Z","5986","Drugs/Narcotics"
-"77239cdd-85e9-4bc7-82c2-6e6297a5b5d4","***","2026-08-13T17:24:05.599Z","542","Larceny/Theft Offenses"
-"69d2be0c-f102-4dee-ac8d-d3d355c192a0","***","2026-08-13T19:16:50.468Z","532","Drugs/Narcotics"
 "cadf4a6d-315a-4b71-8bbe-d81af393f7fb","***","2026-08-14T12:54:46.762Z","5983","Motor Vehicle Theft/Stolen"
 "afc683bf-8073-4350-9322-f07c8ca5aae3","***","2026-08-14T14:17:50.204Z","5979","Motor Vehicle Theft/Stolen"
 "09715535-acda-4982-bf0b-bcf776e3482a","***","2026-08-14T14:27:43.527Z","628","Larceny/Theft Offenses"
@@ -163,3 +159,4 @@
 "db16d54b-a59b-4e14-a1fa-a3c104365102","***","2026-09-10T12:50:17.833Z","1","City Planning/Traffic Analysis"
 "8b902fb2-c4fd-4e19-b8c8-532a788df333","***","2026-09-10T13:39:23.700Z","75","Hit and Run/Car Accident"
 "72b066d8-67b4-4b8e-a03f-f9d99cc0485c","***","2026-09-10T16:32:39.880Z","68","Weapons Offense (Guns/Shots Fired)"
+"33e8f363-0377-44c8-ba02-9a1d45e91d4c","***","2026-09-12T08:38:23.637Z","1","Obstructing the Police (Fleeing/Eluding)"
