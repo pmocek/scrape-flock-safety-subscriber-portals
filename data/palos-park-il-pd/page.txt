@@ -5,7 +5,7 @@ Visit Flock
 Palos Park IL PD
 Transparency Portal
 
-Last updated: Fri Sep 11 2026
+Last updated: Sat Sep 12 2026
 
 Overview
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-12,602
+12,739
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -170,7 +170,6 @@ Brownstown Twp PD MI
 Brunswick OH PD
 Buchanan County MO SO
 Buffalo Grove IL PD
-Buffalo State University NY PD
 Bullitt County KY SO
 Burbank IL PD
 Bureau Co. IL SO
@@ -840,7 +839,6 @@ Park Hills MO PD
 Park Ridge IL PD
 Parke County IN SO
 Parkland College IL PD
-Parkville MO PD
 Parma Heights OH PD
 Parma OH PD
 Parsons KS PD
