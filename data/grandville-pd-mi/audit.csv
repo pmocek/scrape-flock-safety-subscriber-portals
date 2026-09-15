@@ -1,8 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"121530de-9ea4-4067-98d3-d01100975c4f","***","2026-08-15T07:10:08.501Z","13","Larceny/Theft Offenses"
-"fb5995da-00e4-4dc4-b0d2-175271ce0aac","***","2026-08-15T08:07:42.026Z","13","Larceny/Theft Offenses"
-"6e18b7ff-f28d-428c-84d8-1e76d89d4b66","***","2026-08-15T13:26:18.970Z","10","Traffic Infraction"
-"0d450f89-ff25-4c7b-8a33-2185c10af6e3","***","2026-08-15T18:02:57.187Z","10","Motor Vehicle Theft/Stolen"
 "457e172d-3fe6-4600-bfea-e5c0cdf82ad7","***","2026-08-17T00:05:05.549Z","13","Motor Vehicle Theft/Stolen"
 "2911e2eb-809d-48c2-98e8-1350e72407f3","***","2026-08-17T01:45:45.048Z","13","Motor Vehicle Theft/Stolen"
 "5c6bb631-797f-4df2-ba7c-19a0b669246d","***","2026-08-17T11:35:12.754Z","340","Motor Vehicle Theft/Stolen"
@@ -57,3 +53,4 @@
 "0fa22f7e-1851-47b2-a26e-c8269af6884e","***","2026-09-08T15:08:51.618Z","5739","Destruction/Damage/Vandalism of Property"
 "d66346e3-7984-4523-9fbb-2a219404acda","***","2026-09-12T00:39:54.894Z","13","Larceny/Theft Offenses"
 "8dc801d6-da05-4c56-8285-2da366e1d408","***","2026-09-13T03:52:22.067Z","1","Larceny/Theft Offenses"
+"c9ff823b-3c71-4ae2-94c1-e3ee142780df","***","2026-09-14T20:13:19.342Z","321","Drugs/Narcotics"
