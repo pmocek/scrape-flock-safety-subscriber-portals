@@ -5,7 +5,7 @@ Visit Flock
 Lovejoy GA PD
 Transparency Portal
 
-Last updated: Sun Sep 13 2026
+Last updated: Tue Sep 15 2026
 
 Overview
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-82,086
+82,123
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-17
+8
 
 Hotlists Alerted On
 
@@ -54,13 +54,12 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,865
+4,944
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Drugs/Narcotics
-Burglary/Breaking & Entering
 Larceny/Theft Offenses
 Hit and Run/Car Accident
 Assault/Battery Offenses
@@ -598,7 +597,6 @@ Evermore CID
 Fairburn GA PD
 Fairfax OH PD
 Fairfield County SC SO
-Fairfield PD - OH
 Fairfield Township OH PD
 Fairmont NC PD
 Fairmount IN PD
