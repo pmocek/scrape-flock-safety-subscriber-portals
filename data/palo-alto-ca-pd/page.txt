@@ -6,7 +6,7 @@ Visit Flock
 Palo Alto CA PD
 Transparency Portal
 
-Last updated: Sun Sep 13 2026
+Last updated: Mon Sep 14 2026
 
 Overview
 
@@ -31,13 +31,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-750,242
+751,604
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-218
+220
 
 Hotlists Alerted On
 
@@ -49,7 +49,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-2,503
+2,510
 
 Sharing Network Data With
 

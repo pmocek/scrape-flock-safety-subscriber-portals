@@ -5,7 +5,7 @@ Visit Flock
 Palos Park IL PD
 Transparency Portal
 
-Last updated: Sun Sep 13 2026
+Last updated: Mon Sep 14 2026
 
 Overview
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-12,891
+13,024
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -215,7 +215,6 @@ Cherry Valley IL PD
 Chester Township OH PD
 Chesterfield MO PD
 Chesterfield Twp MI PD
-Chesterton IN PD
 Cheviot OH PD
 Chicago Heights IL PD
 Chillicothe IL PD
@@ -338,7 +337,6 @@ Eureka MO PD
 Evansville IN PD
 Evergreen Park IL PD
 Fairfax OH PD
-Fairfield PD - OH
 Fairfield Township OH PD
 Fairlawn OH PD
 Fairmount IN PD
