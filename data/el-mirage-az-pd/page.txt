@@ -6,7 +6,7 @@ Visit Flock
 El Mirage AZ PD
 Transparency Portal
 
-Last updated: Sun Sep 13 2026
+Last updated: Mon Sep 14 2026
 
 Overview
 
@@ -15,17 +15,17 @@ El Mirage AZ PD uses Flock Safety technology to capture objective evidence witho
 Community Impact
 Data & Usage Summary
 
-Data Retention
-
-The number of days data is retained.
-
-30 days
-
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-71
+69
+
+Data Retention - Excluding License Plate Readers
+
+The number of days data is retained.
+
+30 days
 
 Alerts
 
@@ -37,7 +37,7 @@ Number of Alerts
 
 Total hotlist hits over the last 30 days.
 
-766
+770
 Policy & Trust
 
 What's Detected
@@ -65,6 +65,10 @@ Hotlist Policy
 Hotlist hits are required to be human verified prior to action.
 More Info
 
+Additional Data Retention Information - License Plate Reader
+
+Retained for 7 Days
+
 Additional Flock Safety Information
 
 For further information on Flock Safety policies and other items, please refer to the links below:
@@ -75,5 +79,10 @@ https://www.flocksafety.com/privacy-ethics
 https://www.security.flocksafety.com
 https://www.flocksafety.com/trust
 https://www.flocksafety.com/legal
+
+Definitions
+
+NCIC: National Crime Information Center
+NCMEC: National Center for Missing & Exploited Children
 
 Provided by Flock Safety

@@ -5,7 +5,7 @@ Visit Flock
 El Dorado KS PD
 Transparency Portal
 
-Last updated: Mon Sep 14 2026
+Last updated: Tue Sep 15 2026
 
 Overview
 
@@ -19,19 +19,19 @@ Camera alerts by source and topic over the last 30 days.
 
 146 alerts
 NCIC - Warrants
-41
-NCIC - Violent Person
-38
+42
 NCIC - Stolen Vehicle
 37
-NCIC - Stolen Plate
+NCIC - Violent Person
+35
+NCIC - Sex Offender
 11
 NCIC - Protection Order
-8
-NCIC - Sex Offender
-8
+10
+NCIC - Stolen Plate
+10
 NCIC - Extreme Risk Protection Order
-3
+1
 
 30 days
 
@@ -49,7 +49,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-107,808
+108,542
 
 Number of Searches
 
@@ -67,7 +67,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-946
+987
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -368,7 +368,6 @@ Goddard KS PD
 Gosper County NE SO
 Grand County CO SO
 Grand Island NE PD
-Grandview MO PD
 Graves County KY SO
 Gray County KS SO
 Gray County TX SO
@@ -492,7 +491,6 @@ Monmouth IL PD
 Montgomery County KS SO
 Monticello IL PD
 Moore County TX SO
-Moore OK PD
 Moundridge KS PD
 Mount Vernon IN PD
 Mountain Home AR PD
@@ -634,7 +632,6 @@ Sugar Creek MO PD
 Sumner County KS SO
 Sunset Hills MO PD
 Sweet Springs MO PD
-Tahlequah OK PD
 Temple TX PD
 Texarkana TX PD
 Texas Department of Criminal Justice
