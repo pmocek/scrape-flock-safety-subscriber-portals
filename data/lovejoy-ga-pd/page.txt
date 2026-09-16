@@ -5,7 +5,7 @@ Visit Flock
 Lovejoy GA PD
 Transparency Portal
 
-Last updated: Tue Sep 15 2026
+Last updated: Wed Sep 16 2026
 
 Overview
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-82,123
+81,957
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-8
+7
 
 Hotlists Alerted On
 
@@ -54,7 +54,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,944
+4,968
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -62,7 +62,6 @@ Offense Types used for LPR searches in the last 30 days.
 Drugs/Narcotics
 Larceny/Theft Offenses
 Hit and Run/Car Accident
-Assault/Battery Offenses
 
 Sharing Network Data With
 
@@ -607,7 +606,6 @@ Fayette County TN SO
 Fayetteville GA PD
 Ferdinand IN PD
 Ferguson MO PD
-Fernandina Beach FL PD
 Festus MO PD
 Fish and Wildlife Commission FL PD
 Fishers IN PD
@@ -1085,7 +1083,6 @@ Suwanee GA PD
 Sylvania GA PD
 Sylvester GA PD
 Talladega County AL SO
-Tarpon Springs FL PD
 Tarrant AL PD
 Tattnall County GA SO
 Taylor Ridge (GA)
@@ -1107,7 +1104,6 @@ Town of Rutherford College (NC)
 Towns County GA SO
 Transylvania County NC SO
 Treasure Island FL PD
-Trenton OH PD
 Troup County GA SO
 Trousdale County TN SO
 Trumann AR PD
