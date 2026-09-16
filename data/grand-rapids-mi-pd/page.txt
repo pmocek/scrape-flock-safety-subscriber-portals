@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Mon Sep 14 2026
+Last updated: Tue Sep 15 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-492,765
+492,109
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-1,243
+1,231
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-11,353
+11,278
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1965,7 +1965,6 @@ Chester County SC SO
 Chester Township OH PD
 Chesterfield MO PD
 Chesterfield Twp MI PD
-Chesterton IN PD
 Cheviot OH PD
 Chippewa PA PD
 Cicero IN PD
@@ -2053,6 +2052,7 @@ Davie FL PD
 Davison Township MI PD
 Dayton TN PD
 Daytona Beach Shores FL PD
+Deactivated Users
 Dearborn County IN SO
 Dearborn Heights MI PD
 Decatur GA PD
@@ -2115,7 +2115,6 @@ Evansville IN PD
 Fairburn GA PD
 Fairfax OH PD
 Fairfield County SC SO
-Fairfield PD - OH
 Fairfield Township OH PD
 Fairlawn OH PD
 Fairmont NC PD
@@ -2137,7 +2136,6 @@ Fishers IN PD
 Flat Rock MI PD
 Flint MI PD
 Flint Township MI PD
-Flock Safety Training
 Flora- IL - PD
 Florence Co. WI SO
 Florence County SC SO
@@ -2577,7 +2575,6 @@ New Baltimore MI PD
 New Castle IN PD
 New Chicago IN PD
 New Haven IN PD
-New Lenox IL PD
 New London OH PD
 New Paris OH PD
 Newark OH PD
