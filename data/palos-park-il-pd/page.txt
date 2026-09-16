@@ -5,7 +5,7 @@ Visit Flock
 Palos Park IL PD
 Transparency Portal
 
-Last updated: Mon Sep 14 2026
+Last updated: Tue Sep 15 2026
 
 Overview
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-13,024
+13,183
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -107,7 +107,6 @@ Ashland City TN PD
 Athens County OH SO
 Athens IL PD
 Auburn IL PD
-Auburn IN PD
 Audrain County MO SO
 Aurora IL PD
 Avery County NC SO
@@ -331,7 +330,6 @@ Elwood IN PD
 Elyria OH PD
 Energy IL PD
 Erie County NY SO
-Erie County OH SO
 Erwin TN PD
 Eureka MO PD
 Evansville IN PD
@@ -408,7 +406,6 @@ Grand Haven MI DPS
 Grand Rapids MI PD
 Grand Traverse County MI SO
 Grand Valley State University MI
-Grandview MO PD
 Grandville PD MI
 Grant County IN SO
 Grayslake IL PD
