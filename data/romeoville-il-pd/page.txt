@@ -5,7 +5,7 @@ Visit Flock
 Romeoville IL PD
 Transparency Portal
 
-Last updated: Tue Sep 15 2026
+Last updated: Wed Sep 16 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-60,296
+60,784
 Policy & Trust
 
 What's Detected
