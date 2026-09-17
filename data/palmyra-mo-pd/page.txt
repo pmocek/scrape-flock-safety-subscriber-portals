@@ -5,7 +5,7 @@ Visit Flock
 Palmyra MO PD
 Transparency Portal
 
-Last updated: Wed Sep 16 2026
+Last updated: Thu Sep 17 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-28,515
+28,547
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-45
+44
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-39
+36
 
 Sharing Network Data With
 
@@ -666,7 +666,6 @@ Maryland Heights MO PD
 Mason PD - OH
 Matteson IL PD
 Mattoon IL PD
-Mauldin SC PD
 Maumee OH PD
 Maury County TN SO
 Mayfield KY PD
