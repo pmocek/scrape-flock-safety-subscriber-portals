@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Tue Sep 15 2026
+Last updated: Wed Sep 16 2026
 
 Overview
 
@@ -63,19 +63,19 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-413 alerts
+423 alerts
 NCIC - Protection Order
-134
+130
 NCIC - Sex Offender
-114
+123
 NCIC - Stolen Plate
-93
+97
 NCIC - Stolen Vehicle
-40
+41
 NCIC - Warrants
-20
+21
 NCIC - Gang or Suspected Terrorist
-9
+8
 NCIC - Violent Person
 2
 NCIC - Extreme Risk Protection Order
@@ -103,13 +103,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-337,415
+320,333
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-219
+224
 
 Hotlists Alerted On
 
@@ -121,7 +121,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,029
+4,949
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1320,7 +1320,6 @@ Suwanee GA PD
 Suwannee County FL SO
 Swainsboro GA PD
 Talladega County AL SO
-Tallapoosa GA PD
 Tampa FL PD
 Tarpon Springs FL PD
 Tattnall County GA SO
@@ -1475,7 +1474,6 @@ Windsor- IL- PD
 Wingate NC PD
 Winterville NC PD
 Winthrop University SC PD
-Wise County VA SO
 Wixom MI PD
 Woodbury County IA SO
 Woodlawn OH PD
@@ -1726,7 +1724,6 @@ Fairmont NC PD
 Fannin County GA SO
 Fayette County TN SO
 Fayetteville GA PD
-Fernandina Beach FL PD
 Fish and Wildlife Commission FL PD
 Fishers IN PD
 Florence AL PD
@@ -1874,7 +1871,6 @@ Johnson County KS SO
 Johnston County NC SO
 Juab County UT SO
 Junction City KS PD
-Kansas City KS PD
 Kennesaw GA PD
 Kennesaw State University GA PD
 Kentwood MI PD
@@ -2151,7 +2147,6 @@ St. Lucie County FL SO
 St. Matthews KY PD
 Stanley NC PD
 Statesboro GA PD
-Sterling Heights MI PD
 Stone Mountain GA PD
 Suffolk County NY SO
 Sugar Hill GA PD
