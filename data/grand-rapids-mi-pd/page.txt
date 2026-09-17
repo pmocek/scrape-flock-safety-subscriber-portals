@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Tue Sep 15 2026
+Last updated: Wed Sep 16 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-492,109
+494,201
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-1,231
+1,241
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-11,278
+11,235
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -132,7 +132,7 @@ Wanted Person (Arrest Warrant/Fugitive)
 Motor Vehicle Theft/Stolen
 Obstructing the Police (Fleeing/Eluding)
 Homicide/Death Investigation
-Robbery
+Drugs/Narcotics
 
 Sharing Network Data With
 
@@ -497,6 +497,7 @@ Downers Grove IL PD
 Dublin OH PD
 Dubuque IA PD
 Dunn NC PD
+Dunwoody GA PD
 DuPage Co IL Prosecutor Office
 DuPage County IL SO
 Duquesne MO PD
@@ -1049,7 +1050,6 @@ Metropolis IL PD
 Metropolitan Washington DC PD
 MI - Bloomfield Public Safety
 MI - Riverview PD
-MI - Saginaw County SO
 MI - Village of Middleville
 Miami County OH SO
 Miami County Park District OH Rangers
@@ -1420,6 +1420,7 @@ Russell County AL SO
 Russellville KY PD
 Rutherford County TN SO
 Sachse TX PD
+Saginaw County MI SO
 Saginaw MI PD
 Saginaw Township MI PD
 Saginaw Valley State University MI PD
@@ -1502,6 +1503,7 @@ South Lyon MI PD
 South Russell OH PD
 Southaven MS PD
 Southern Illinois University IL PD
+Southern Ohio Drug Task Force (OH)
 Southern Regl PA PD
 Southfield MI PD
 Sparta TN PD
@@ -1519,7 +1521,6 @@ Springport Twp MI PD
 St Mary Parish LA SO
 St. Ann MO PD
 St. Charles City MO PD
-St. Charles County MO PD
 St. Charles IL PD
 St. Clair County MI SO
 St. Clair MI PD
@@ -1586,7 +1587,6 @@ TN ROCIC
 Toledo OH PD
 Tomah WI PD
 Tompkinsville KY PD
-Tooele City PD UT
 Toronto OH PD
 Town of Bean Station PD TN
 Town of Groton CT PD
@@ -1768,7 +1768,6 @@ Winnebago County WI SO
 Winona MN PD
 Winterville NC PD
 Wisconsin State Capitol Police (WI)
-Wise County VA SO
 Wixom MI PD
 Wolverine Lake MI PD
 Wood Dale IL PD
@@ -1841,7 +1840,6 @@ Athens County OH SO
 Athens IL PD
 Atlanta GA PD
 Auburn Hills MI PD
-Auburn IN PD
 Audrain County MO SO
 Avery County NC SO
 Aviston IL PD
@@ -2162,7 +2160,6 @@ Franklin WI PD
 Franklin-Bingham Farms MI PD
 Fraser MI DPS
 Fremont County IA SO
-Fremont OH PD
 Fruitland Park FL PD
 Fruitport Township MI PD
 Fulton County GA SO
@@ -2496,7 +2493,6 @@ Metamora Township MI PD
 Metro Police Authority of Genesee County MI
 Metropolis IL PD
 MI - Riverview PD
-MI - Saginaw County SO
 MI - Village of Middleville
 Miami County OH SO
 Miami Gardens FL PD
@@ -2751,6 +2747,7 @@ Rowan County NC SO
 Royal Oak MI PD
 Rutherford County NC SO
 Rutledge TN PD
+Saginaw County MI SO
 Saginaw MI PD
 Saginaw Valley State University MI PD
 Saint Clair Shores MI PD
@@ -2853,7 +2850,6 @@ Surry County NC SO
 Suwanee GA PD
 Sylvania OH PD
 Sylvania Township OH PD
-Tarpon Springs FL PD
 Taylor MI PD
 Tell City IN PD
 Terre Haute IN PD
@@ -2881,7 +2877,6 @@ Transylvania County NC SO
 Traverse City MI PD
 Treasure Island FL PD
 Trenton IL PD
-Trenton OH PD
 Trenton PD MI
 Trotwood OH PD
 Trousdale County TN SO
@@ -2903,7 +2898,6 @@ Union Township PD (Clermont Co) - OH
 University Circle OH PD
 University Heights OH PD
 University of Louisville KY PD
-University of Notre Dame PD (IN)
 Upson County GA SO
 Utica MI PD
 Valparaiso IN PD

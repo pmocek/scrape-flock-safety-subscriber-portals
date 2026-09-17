@@ -6,7 +6,7 @@ Visit Flock
 Grandview Heights OH PD
 Transparency Portal
 
-Last updated: Wed Sep 16 2026
+Last updated: Thu Sep 17 2026
 
 Overview
 
@@ -67,7 +67,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-212,446
+213,244
 
 Number of Searches
 
@@ -85,7 +85,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-121
+123
 
 Sharing Network Data With
 
@@ -202,7 +202,6 @@ Minerva Park OH PD
 Montgomery OH PD
 Montville Township OH PD
 Moraine OH PD
-Moreland Hills OH PD (Custom Hotlist)
 Muskingum County OH SO
 Napoleon OH PD
 New Albany OH PD

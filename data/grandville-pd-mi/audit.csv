@@ -1,7 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"457e172d-3fe6-4600-bfea-e5c0cdf82ad7","***","2026-08-17T00:05:05.549Z","13","Motor Vehicle Theft/Stolen"
-"2911e2eb-809d-48c2-98e8-1350e72407f3","***","2026-08-17T01:45:45.048Z","13","Motor Vehicle Theft/Stolen"
-"5c6bb631-797f-4df2-ba7c-19a0b669246d","***","2026-08-17T11:35:12.754Z","340","Motor Vehicle Theft/Stolen"
 "4d5913f7-deec-49a3-ab0f-3e72e1ad1f41","***","2026-08-18T02:46:40.429Z","13","Stolen Property Offenses"
 "85c4e486-c4b5-49f7-8570-ae39c9ca1c2b","***","2026-08-18T03:35:09.533Z","13","Stolen Property Offenses"
 "4012dd75-68d0-4912-926c-4b63a632e194","***","2026-08-18T04:14:51.630Z","13","Larceny/Theft Offenses"
@@ -54,3 +51,5 @@
 "d66346e3-7984-4523-9fbb-2a219404acda","***","2026-09-12T00:39:54.894Z","13","Larceny/Theft Offenses"
 "8dc801d6-da05-4c56-8285-2da366e1d408","***","2026-09-13T03:52:22.067Z","1","Larceny/Theft Offenses"
 "c9ff823b-3c71-4ae2-94c1-e3ee142780df","***","2026-09-14T20:13:19.342Z","321","Drugs/Narcotics"
+"115414ec-33d8-4350-9fa8-9fb6418daa07","***","2026-09-16T05:25:12.864Z","13","Financial Crime (Embezzlement/Fraud)"
+"fa305fd5-af3a-4fa4-a34d-cacc0b547c29","***","2026-09-16T21:03:42.028Z","10","Hit and Run/Car Accident"

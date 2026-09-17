@@ -5,7 +5,7 @@ Visit Flock
 Grand Traverse County MI SO
 Transparency Portal
 
-Last updated: Tue Sep 15 2026
+Last updated: Wed Sep 16 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-387,114
+386,237
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-219
+220
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,480
+1,481
 
 Sharing Network Data With
 
@@ -847,7 +847,6 @@ Mason PD - OH
 Massachusetts State MA PD
 Matteson IL PD
 Mattoon IL PD
-Mauldin SC PD
 Maumee OH PD
 McCracken County KY SO
 McDonough County IL SO
@@ -1304,7 +1303,6 @@ Springport Twp MI PD
 St Mary Parish LA SO
 St. Ann MO PD
 St. Charles City MO PD
-St. Charles County MO PD
 St. Charles IL PD
 St. Clair County MI SO
 St. Clair MI PD

@@ -5,7 +5,7 @@ Visit Flock
 Grandville PD MI
 Transparency Portal
 
-Last updated: Wed Sep 16 2026
+Last updated: Thu Sep 17 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-339,513
+338,124
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-55
+54
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,114
+1,102
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -132,7 +132,7 @@ Larceny/Theft Offenses
 Hit and Run/Car Accident
 Assault/Battery Offenses
 Drugs/Narcotics
-Traffic Infraction
+Financial Crime (Embezzlement/Fraud)
 
 Sharing Network Data With
 
@@ -986,7 +986,6 @@ Mason PD - OH
 Massachusetts State MA PD
 Matteson IL PD
 Mattoon IL PD
-Mauldin SC PD
 Maumee OH PD
 Mayfield KY PD
 McCook IL PD
@@ -1861,7 +1860,6 @@ Lawrence District Attorney PA
 Lee County IL SO
 Licking County OH SO
 Lincoln Park MI PD
-Lodi WI PD
 Lowe's Corporation
 Lowell MI PD
 Lyons IL PD
@@ -1881,7 +1879,6 @@ Michigan State Police
 Midlothian IL PD
 Milan MI PD
 Milford MI PD
-Milton GA PD
 Monon IN PD
 Monroe County MI SO
 Monroe County WI SO
