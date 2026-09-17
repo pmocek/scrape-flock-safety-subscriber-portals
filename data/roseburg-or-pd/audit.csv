@@ -1,5 +1,4 @@
 "id","userId","searchDate","networkCount","reason","offenseType"
-"2f075d88-36b6-4bd0-b30a-3609174ceb28","***","2026-08-16T04:17:18.631Z","50","","Missing/Endangered Person/Runaway"
 "9c17714d-89b0-4d39-8f75-a349fedff23b","***","2026-08-17T07:59:30.174Z","50","","Larceny/Theft Offenses"
 "78785db4-443b-44e6-a3bf-1399555fde13","***","2026-08-17T13:55:16.202Z","49","Crime","Motor Vehicle Theft/Stolen"
 "41225f9e-830c-4860-a596-530bbe2dbaf5","***","2026-08-17T14:00:00.270Z","49","Crime","Motor Vehicle Theft/Stolen"
@@ -183,3 +182,5 @@
 "37ae4ac3-af48-4ce3-ab9f-bdfb7a9d2600","***","2026-09-14T10:09:43.880Z","49","","Homicide/Death Investigation"
 "36f52123-d462-4a98-85b6-dbc032ffd6f9","***","2026-09-14T10:27:57.793Z","48","","Assault/Battery Offenses, Drugs/Narcotics"
 "9f9cd2c2-f3e2-4919-92e9-4fcf05331b76","***","2026-09-14T15:35:15.988Z","1","","Hit and Run/Car Accident"
+"346a8df8-edd4-459b-aac8-4ae2b990f3f1","***","2026-09-15T02:43:59.039Z","48","Investigation","Drugs/Narcotics, Wanted Person (Arrest Warrant/Fugitive)"
+"224ebcd9-b7bc-4b19-9d91-c92a908e8df5","***","2026-09-15T15:13:47.964Z","1","","Stolen Property Offenses"
