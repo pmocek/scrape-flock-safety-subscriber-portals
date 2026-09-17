@@ -5,7 +5,7 @@ Visit Flock
 Itasca IL PD
 Transparency Portal
 
-Last updated: Wed Sep 16 2026
+Last updated: Thu Sep 17 2026
 
 Overview
 
@@ -48,15 +48,15 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-3,168
+3,222
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Larceny/Theft Offenses
 Stolen Property Offenses
-Motor Vehicle Theft/Stolen
 Burglary/Breaking & Entering
+Motor Vehicle Theft/Stolen
 Destruction/Damage/Vandalism of Property
 Policy & Trust
 
