@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Wed Sep 16 2026
+Last updated: Thu Sep 17 2026
 
 Overview
 
@@ -64,22 +64,20 @@ Camera Alert Activity
 Camera alerts by source and topic over the last 30 days.
 
 423 alerts
-NCIC - Protection Order
-130
 NCIC - Sex Offender
-123
+128
+NCIC - Protection Order
+125
 NCIC - Stolen Plate
-97
+98
 NCIC - Stolen Vehicle
 41
 NCIC - Warrants
-21
+20
 NCIC - Gang or Suspected Terrorist
-8
+9
 NCIC - Violent Person
 2
-NCIC - Extreme Risk Protection Order
-1
 
 Data Retention
 
@@ -103,13 +101,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-320,333
+304,717
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-224
+221
 
 Hotlists Alerted On
 
@@ -121,7 +119,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,949
+4,981
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -188,7 +186,6 @@ AR - Alma PD
 Ardmore AL PD
 Argo AL PD
 Arizona Department of Public Safety
-Arlington County VA PD
 Arnold MO PD
 Asheville NC PD
 Ashville AL PD
@@ -1003,7 +1000,6 @@ New Haven IN PD
 New Kent County VA SO
 New Richmond OH PD
 New Smyrna Beach FL PD
-New York State Police NY
 Newberry County SC SO
 Newnan GA PD
 Newport News VA PD
@@ -1282,7 +1278,6 @@ St. Clair County AL SO
 St. Clairsville OH PD
 St. Cloud FL PD
 St. John Parish LA SO
-St. Johns County FL SO
 St. Louis County MO PD
 St. Lucie County FL SO
 St. Martin Parish LA SO

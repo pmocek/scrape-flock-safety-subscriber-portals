@@ -5,7 +5,7 @@ Visit Flock
 Mount Dora FL PD
 Transparency Portal
 
-Last updated: Thu Sep 17 2026
+Last updated: Fri Sep 18 2026
 
 Overview
 
@@ -30,7 +30,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-72,101
+71,010
 
 Number of Searches
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,722
+4,451
 
 Sharing Network Data With
 
@@ -413,7 +413,6 @@ New Canaan CT PD
 New Hanover County NC SO
 New Haven IN PD
 New Smyrna Beach FL PD
-New York State Police NY
 Newton County GA SO
 Newton County MS SO
 Niceville FL PD
@@ -542,7 +541,6 @@ Springfield FL PD
 St Mary Parish LA SO
 St. Charles City MO PD
 St. Cloud FL PD
-St. Johns County FL SO
 St. Lucie County FL SO
 St. Petersburg FL PD
 Statesboro GA PD
