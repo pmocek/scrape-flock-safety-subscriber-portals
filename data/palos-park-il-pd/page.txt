@@ -5,7 +5,7 @@ Visit Flock
 Palos Park IL PD
 Transparency Portal
 
-Last updated: Wed Sep 16 2026
+Last updated: Thu Sep 17 2026
 
 Overview
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-13,329
+13,969
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -129,7 +129,6 @@ Beech Grove IN PD
 Beecher IL PD
 Bellwood IL PD
 Belpre OH PD
-Belton MO PD
 Belvidere IL PD
 Bement IL PD
 Bensenville IL PD
@@ -227,7 +226,6 @@ Clark Co. IL Sheriff's Dept.
 Clark County OH SO
 Clarksville IN PD
 Clawson MI PD
-Clay County MO SO
 Clear Lake WI PD
 Clearwater FL PD
 Cleveland Metro Parks OH PD
@@ -741,7 +739,6 @@ Muskegon MI PD
 Naperville IL PD
 Napoleon OH PD
 Napoleon Twp MI PD
-Nekoosa WI PD
 Nelson County KY SO
 New Albany IN PD
 New Albany MS PD
@@ -947,7 +944,6 @@ Sarasota FL PD
 Sarcoxie MO PD
 Sarpy County NE SO
 Sauk County WI SO
-Sauk Prairie WI PD
 Sauk Village IL PD
 Sawyer County WI SO
 Schaumburg IL PD

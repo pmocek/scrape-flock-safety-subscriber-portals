@@ -5,7 +5,7 @@ Visit Flock
 Palmyra MO PD
 Transparency Portal
 
-Last updated: Thu Sep 17 2026
+Last updated: Fri Sep 18 2026
 
 Overview
 
@@ -30,7 +30,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-28,547
+28,470
 
 Number of Searches
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-36
+34
 
 Sharing Network Data With
 
