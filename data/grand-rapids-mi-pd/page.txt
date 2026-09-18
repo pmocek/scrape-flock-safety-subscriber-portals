@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Wed Sep 16 2026
+Last updated: Thu Sep 17 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-494,201
+497,578
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-1,241
+1,249
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-11,235
+11,098
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1014,7 +1014,6 @@ Mason PD - OH
 Massachusetts State MA PD
 Matteson IL PD
 Mattoon IL PD
-Mauldin SC PD
 Maumee OH PD
 Mayfield KY PD
 McCook IL PD
@@ -2004,7 +2003,6 @@ Columbus County NC SO
 Columbus GA PD
 Columbus IN PD
 Columbus NC PD
-Columbus WI PD
 Commerce GA PD
 Concord NC PD
 Conover NC PD
@@ -2415,7 +2413,6 @@ Livingston County MI SO
 Livonia MI PD
 Lockland OH PD
 Locust Grove GA PD
-Lodi WI PD
 Logansport IN PD
 Long Beach IN PD
 Lorain County OH SO
@@ -2472,7 +2469,6 @@ Mason PD - OH
 Matteson IL PD
 Matthews NC PD
 Mattoon IL PD
-Mauldin SC PD
 Maumee OH PD
 Mauston WI PD
 McDonough GA PD
@@ -2483,7 +2479,6 @@ Medina County OH SO
 Medina Township OH PD
 Melvindale MI PD
 Memphis Intl Airport
-Menasha WI PD
 Menominee County SO MI
 Menomonee Falls WI PD
 Mentor OH PD
@@ -2509,7 +2504,6 @@ Milan MI PD
 Milan TN PD
 Milford MI PD
 Milltown IN PD
-Milton GA PD
 Milton IN PD
 Minster OH PD
 Mint Hill NC PD
@@ -2563,7 +2557,6 @@ Muskegon MI PD
 Muskegon Township MI PD (Muskegon County)
 Napoleon OH PD
 Napoleon Twp MI PD
-Nekoosa WI PD
 Neshkoro WI PD
 New Albany IN PD
 New Baden IL PD
@@ -2759,7 +2752,6 @@ Sangamon County IL SO
 Santa Rosa County FL SO
 Sarasota FL PD
 Sauk County WI SO
-Sauk Prairie WI PD
 Sauk Village IL PD
 Savannah PD - GA
 Sawyer County WI SO
