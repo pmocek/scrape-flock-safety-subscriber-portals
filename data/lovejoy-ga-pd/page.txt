@@ -5,7 +5,7 @@ Visit Flock
 Lovejoy GA PD
 Transparency Portal
 
-Last updated: Fri Sep 18 2026
+Last updated: Sat Sep 19 2026
 
 Overview
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-81,934
+82,179
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-8
+11
 
 Hotlists Alerted On
 
@@ -54,7 +54,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,236
+5,293
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -512,7 +512,6 @@ Columbia County GA SO
 Columbus GA PD
 Columbus IN PD
 Commerce GA PD
-Conover NC PD
 Conway SC PD
 Conyers GA PD
 Cookeville TN PD
@@ -932,6 +931,7 @@ North Myrtle Beach SC PD
 Northport AL PD
 Norwood OH PD
 Oak Ridge TN PD
+Oakland County MI SO
 Oakland TN PD
 Oakwood GA PD
 Ocilla GA PD
