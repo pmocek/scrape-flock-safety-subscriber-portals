@@ -1,5 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"259f50ea-9d5e-4682-9ee1-c8cead56584d","***","2026-08-19T14:46:16.522Z","10","Traffic Infraction"
 "70d096d4-4a9f-478d-998c-7c77f959fcc1","***","2026-08-20T02:49:21.931Z","13","Hit and Run/Car Accident"
 "29fd3418-4631-456d-a1af-5120e5f0b8f7","***","2026-08-20T03:23:54.832Z","13","Hit and Run/Car Accident"
 "c3fbb3af-fd67-47ae-a01d-c3792f75550d","***","2026-08-20T14:29:29.532Z","327","Drugs/Narcotics"
@@ -50,3 +49,4 @@
 "bee0fc17-3f1a-463b-bbfb-92ef8ff7fe5f","***","2026-09-17T13:58:41.615Z","319","Larceny/Theft Offenses"
 "45175e90-0ce1-4532-84ce-5ec4eb00ad8e","***","2026-09-17T15:55:09.660Z","309","Drugs/Narcotics"
 "fe560daa-147b-4e75-930f-cbd6d546025f","***","2026-09-17T16:02:58.758Z","309","Drugs/Narcotics"
+"7cf82665-9202-4274-9378-56c7a9385aa1","***","2026-09-18T16:22:45.560Z","8","Financial Crime (Embezzlement/Fraud)"

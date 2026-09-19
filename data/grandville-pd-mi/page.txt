@@ -5,7 +5,7 @@ Visit Flock
 Grandville PD MI
 Transparency Portal
 
-Last updated: Fri Sep 18 2026
+Last updated: Sat Sep 19 2026
 
 Overview
 
@@ -105,7 +105,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-336,522
+337,614
 
 Number of Searches
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,146
+1,107
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -132,7 +132,7 @@ Larceny/Theft Offenses
 Hit and Run/Car Accident
 Financial Crime (Embezzlement/Fraud)
 Drugs/Narcotics
-Traffic Infraction
+Robbery
 
 Sharing Network Data With
 
@@ -1803,7 +1803,6 @@ Forest Park OH PD
 Fort Worth TX PD
 Frankenmuth MI PD - New Business
 Franklin IN PD
-Franklin WI PD
 Fraser MI DPS
 Fruitport Township MI PD
 Fulshear TX PD
