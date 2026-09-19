@@ -5,7 +5,7 @@ Visit Flock
 Palos Park IL PD
 Transparency Portal
 
-Last updated: Thu Sep 17 2026
+Last updated: Fri Sep 18 2026
 
 Overview
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-13,969
+14,094
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -366,7 +366,6 @@ Franklin County IL SO
 Franklin County MO SO
 Franklin IN PD
 Franklin Park IL PD
-Franklin WI PD
 Fraser MI DPS
 Frontenac KS PD
 Fulton County IL SO
@@ -780,6 +779,7 @@ Oak Grove MO PD
 Oak Lawn IL PD
 Oak Ridge TN PD
 Oakbrook Terrace IL PD
+Oakland County MI SO
 Oakland IL PD
 Oakland TN PD
 Oakwood IL PD
