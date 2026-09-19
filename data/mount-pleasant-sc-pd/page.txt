@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Thu Sep 17 2026
+Last updated: Fri Sep 18 2026
 
 Overview
 
@@ -63,19 +63,19 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-423 alerts
+421 alerts
 NCIC - Sex Offender
-128
+131
 NCIC - Protection Order
-125
+120
 NCIC - Stolen Plate
-98
+100
 NCIC - Stolen Vehicle
-41
+38
 NCIC - Warrants
 20
 NCIC - Gang or Suspected Terrorist
-9
+10
 NCIC - Violent Person
 2
 
@@ -101,13 +101,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-304,717
+281,255
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-221
+229
 
 Hotlists Alerted On
 
@@ -119,7 +119,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,981
+4,886
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -825,7 +825,6 @@ Leitchfield KY PD
 Lenoir City TN PD
 Lenoir County NC SO
 Lenoir NC PD
-Leon County Sheriffs Office (FL)
 Lexington KY PD
 Lexington Medical Center SC PD
 Lexington NC PD
@@ -1726,7 +1725,6 @@ Florence County SC SO
 Florence SC PD
 Florida Atlantic University FL PD
 Florida City FL PD
-Florida State University Campus PD FL
 Florissant MO PD
 Floyd County GA PD
 Folly Beach SC PD
@@ -1858,6 +1856,7 @@ Jefferson City MO PD
 Jefferson County AR SO
 Jefferson County TN SO
 Jefferson GA PD
+Jefferson Parish LA SO
 Jeffersontown KY PD
 Jemison AL PD
 Jesup GA PD
@@ -1917,7 +1916,6 @@ Lincoln AL PD
 Lincoln County NC SO
 Lincoln Park MI PD
 Little Rock AR PD
-Live Oak FL PD
 Live Oak TX PD
 Livingston Parish County LA SO
 Locust Grove GA PD
@@ -2175,7 +2173,6 @@ Transylvania County NC SO
 Travelers Rest SC PD
 Treasure Island FL PD
 Troup County GA SO
-Tulsa OK PD
 Tupelo MS PD
 Tuscaloosa AL PD
 Tuscaloosa County AL SO
