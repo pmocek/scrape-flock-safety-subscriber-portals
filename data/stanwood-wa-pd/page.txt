@@ -6,7 +6,7 @@ Visit Flock
 Stanwood WA PD
 Transparency Portal
 
-Last updated: Sat Sep 19 2026
+Last updated: Sun Sep 20 2026
 
 Overview
 
@@ -31,7 +31,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-100,053
+101,240
 
 Hotlists Alerted On
 
