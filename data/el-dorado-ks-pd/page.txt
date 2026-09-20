@@ -5,7 +5,7 @@ Visit Flock
 El Dorado KS PD
 Transparency Portal
 
-Last updated: Sat Sep 19 2026
+Last updated: Sun Sep 20 2026
 
 Overview
 
@@ -17,17 +17,17 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-151 alerts
+150 alerts
 NCIC - Warrants
-53
+58
 NCIC - Stolen Vehicle
-31
+29
 NCIC - Violent Person
-26
+22
 NCIC - Sex Offender
-17
+16
 NCIC - Protection Order
-14
+15
 NCIC - Stolen Plate
 10
 
@@ -47,7 +47,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-113,234
+115,217
 
 Number of Searches
 
@@ -65,7 +65,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,048
+1,051
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.

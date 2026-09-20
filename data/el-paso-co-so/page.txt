@@ -6,7 +6,7 @@ Visit Flock
 El Paso CO SO
 Transparency Portal
 
-Last updated: Sat Sep 19 2026
+Last updated: Sun Sep 20 2026
 
 Overview
 
@@ -31,13 +31,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-411,676
+413,598
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-203
+193
 
 Hotlists Alerted On
 
@@ -49,7 +49,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,109
+5,098
 Policy & Trust
 
 What's Detected
