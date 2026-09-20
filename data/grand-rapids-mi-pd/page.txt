@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Fri Sep 18 2026
+Last updated: Sat Sep 19 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-499,858
+503,030
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-1,206
+1,152
 
 Hotlists Alerted On
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-11,371
+11,282
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -2004,7 +2004,6 @@ Columbus IN PD
 Columbus NC PD
 Commerce GA PD
 Concord NC PD
-Conover NC PD
 Conway SC PD
 Cookeville TN PD
 Copley Township OH PD
@@ -2377,7 +2376,6 @@ Lapeer City MI PD
 Lapel IN PD
 Laporte County IN SO
 LaSalle Co. IL SO - New
-Lasalle IL PD
 Lathrup Village MI PD
 Laurel Park NC PD
 Laurens County GA SO
@@ -2405,14 +2403,12 @@ Lincoln County TN SO
 Lincoln Park MI PD
 Linden IN PD
 Lithopolis OH PD
-Live Oak FL PD
 Livingston County IL SO
 Livingston County MI SO
 Livonia MI PD
 Lockland OH PD
 Locust Grove GA PD
 Logansport IN PD
-Long Beach IN PD
 Lorain County OH SO
 Loris SC PD
 Loudon TN PD
