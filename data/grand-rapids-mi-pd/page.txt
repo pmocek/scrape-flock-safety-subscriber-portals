@@ -6,7 +6,7 @@ Visit Flock
 Grand Rapids MI PD
 Transparency Portal
 
-Last updated: Sat Sep 19 2026
+Last updated: Sun Sep 20 2026
 
 Overview
 
@@ -105,13 +105,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-503,030
+506,943
 
 Number of Searches (One vehicle may include multiple searches per incident by multiple users)
 
 Total user search sessions over the last 30 days.
 
-1,152
+1,096
 
 Hotlists Alerted On
 
@@ -123,13 +123,13 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-11,282
+11,034
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Wanted Person (Arrest Warrant/Fugitive)
 Motor Vehicle Theft/Stolen
+Wanted Person (Arrest Warrant/Fugitive)
 Obstructing the Police (Fleeing/Eluding)
 Drugs/Narcotics
 Homicide/Death Investigation
