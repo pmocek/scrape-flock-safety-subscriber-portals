@@ -5,7 +5,7 @@ Visit Flock
 Palos Park IL PD
 Transparency Portal
 
-Last updated: Sat Sep 19 2026
+Last updated: Sun Sep 20 2026
 
 Overview
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-14,163
+14,321
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
