@@ -5,7 +5,7 @@ Visit Flock
 Palos Park IL PD
 Transparency Portal
 
-Last updated: Sun Sep 20 2026
+Last updated: Mon Sep 21 2026
 
 Overview
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-14,321
+14,405
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -549,6 +549,7 @@ Kokomo IN PD
 KU Medical Center KS PD
 La Grange IL PD
 La Grange Park IL PD
+La Salle IL PD
 Lackawanna City NY PD
 Lafayette County MS SO
 Lafayette IN PD
@@ -569,7 +570,6 @@ Lansing IL PD
 Lapel IN PD
 Laporte County IN SO
 LaSalle Co. IL SO - New
-Lasalle IL PD
 Lathrup Village MI PD
 Lauderdale County AL SO
 Lauderdale County TN SO
