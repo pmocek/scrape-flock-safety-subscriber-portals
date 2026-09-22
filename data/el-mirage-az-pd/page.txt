@@ -6,7 +6,7 @@ Visit Flock
 El Mirage AZ PD
 Transparency Portal
 
-Last updated: Sat Sep 19 2026
+Last updated: Mon Sep 21 2026
 
 Overview
 
@@ -19,7 +19,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-61
+46
 
 Data Retention - Excluding License Plate Readers
 
@@ -37,7 +37,7 @@ Number of Alerts
 
 Total hotlist hits over the last 30 days.
 
-777
+736
 Policy & Trust
 
 What's Detected

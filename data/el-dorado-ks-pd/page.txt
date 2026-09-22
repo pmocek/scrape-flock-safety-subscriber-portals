@@ -5,7 +5,7 @@ Visit Flock
 El Dorado KS PD
 Transparency Portal
 
-Last updated: Sun Sep 20 2026
+Last updated: Tue Sep 22 2026
 
 Overview
 
@@ -17,19 +17,19 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-150 alerts
+154 alerts
 NCIC - Warrants
 58
 NCIC - Stolen Vehicle
-29
+24
 NCIC - Violent Person
-22
+24
 NCIC - Sex Offender
-16
+23
 NCIC - Protection Order
-15
+17
 NCIC - Stolen Plate
-10
+8
 
 30 days
 
@@ -47,13 +47,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-115,217
+116,123
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-29
+25
 
 Hotlists Alerted On
 
@@ -65,7 +65,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,051
+1,062
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -74,7 +74,7 @@ Hit and Run/Car Accident
 Motor Vehicle Theft/Stolen
 Destruction/Damage/Vandalism of Property
 Threats/Harassment
-Assault/Battery Offenses (Domestic)
+Pornography/Obscene Material
 
 Sharing Network Data With
 
@@ -294,7 +294,6 @@ Conway AR PD
 Conway Springs KS PD
 Cooke County TX SO
 Cooper County MO SO
-Cottleville MO PD
 Council Bluffs IA PD
 Covington TN PD
 Cowley County KS SO
