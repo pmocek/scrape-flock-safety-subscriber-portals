@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Sun Sep 20 2026
+Last updated: Mon Sep 21 2026
 
 Overview
 
@@ -63,19 +63,19 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-430 alerts
+432 alerts
 NCIC - Sex Offender
-134
+140
 NCIC - Protection Order
 120
 NCIC - Stolen Plate
-99
+97
 NCIC - Stolen Vehicle
 43
 NCIC - Warrants
 20
 NCIC - Gang or Suspected Terrorist
-12
+10
 NCIC - Missing Person
 1
 NCIC - Violent Person
@@ -103,13 +103,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-276,710
+273,064
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-223
+230
 
 Hotlists Alerted On
 
@@ -121,7 +121,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,700
+4,601
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1588,7 +1588,6 @@ Carroll County GA SO
 Carrollton GA PD
 Carson City NV SO
 Cartersville GA PD
-Catawba County NC SO
 Catawba Nation Tribal SC PD
 Cedartown GA PD
 Center Point AL PD
@@ -2166,7 +2165,6 @@ Toledo OH PD
 Tolleson AZ PD
 Town of Connelly Springs NC
 Town of Hildebran (NC)
-Town of Newburgh NY PD
 Town of Poughkeepsie NY PD
 Town of Rutherford College (NC)
 Towns County GA SO
