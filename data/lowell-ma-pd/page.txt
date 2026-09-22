@@ -1,3 +1,274 @@
-Page not found
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+Lowell MA PD
+Transparency Portal
 
-The page you are looking for doesn't exist.
+Last updated: Mon Sep 21 2026
+
+Overview
+
+The Lowell Police Department uses ALPR technology to support public safety efforts while maintaining a focus on individual privacy. ALPR technology can assist with both investigating incidents after they occur and providing real-time alerts related to vehicles of interest. To promote transparency, the Lowell Police Department provides this page with information about our use of ALPR technology, applicable policies, and other relevant resources.
+
+Community Impact
+Featured Success Stories
+
+September 2026
+
+In the latter weeks of August 2026, detectives began to follow up on a person causing repeated damage to multiple vehicles at a residence, causing over $10,000 worth of damage and putting 4 vehicles out of commission. A FLOCK custom alert was set up on that vehicle and when it entered the city on 9/3/2026, detectives responded to the area where the repeated vandalism had occurred. Within minutes, the suspect vehicle and suspect arrived at the location, where they were arrested and charged.
+
+August 2026
+
+The Warrant Unit apprehended a male suspect wanted for a Stabbing. During the course of this investigation and arrest, it was learned that the suspect’s vehicle was also wanted in another jurisdiction in relation to a Rape Investigation. The motor vehicle was subsequently seized, and a Search Warrant was executed by the outside jurisdiction.
+
+May 2026
+
+While reviewing video of a fatal hit and run, it was learned that one vehicle matching the offending vehicle description had passed by a FLOCK camera within minutes of the fatal car accident. It was then determined that the same vehicle had also hit that same FLOCK camera 5 minutes prior in the same direction, which led Detectives to investigate why a vehicle would be circling the area. It was later discovered that the operator was allegedly responsible for the fatal hit and run.
+
+December 2025
+
+After a 70-year-old woman was attacked in a parking lot after a road rage incident, a brief description of the suspect and vehicle were given. FLOCK was utilized to identify the vehicle and then also to locate the offender and place them under arrest at a later date.
+
+October 2025
+
+Fatal Hit and Run of pedestrian on Chelmsford Street. In this case, Detectives were able to view the vehicle that struck and killed a pedestrian but had difficulty determining the exact model and plate of the vehicle. By utilizing nearby FLOCK cameras, Detectives were able to identify the vehicle, determine the owner/operator, and then charge them accordingly.
+
+October 2025
+
+After a male in an unknown vehicle threatened employees of a business in Lowell with a firearm, FLOCK cameras were used to input a description of the vehicle used. After investigation, the vehicle and the male were identified and the male was charged with multiple felonies.
+
+June 2024
+
+An Indecent A&B occurred in the Highlands neighborhood. Detectives were able to use FLOCK to establish the suspect was in the area at the time of the incident. This information helped solidify the probable cause for an arrest warrant for the suspect.
+
+March 2022
+
+An Armed Home Invasion, Unlawful Discharge of a Firearm and Stabbing occurred on Aiken Ave. A female suspect was identified, and a male suspect was being sought for identification. Detectives received a plate and vehicle description of the getaway vehicle. Utilizing FLOCK, the Detectives were able to build an identification and probable cause for the male suspect which lead to the arrest of the male suspect.
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+37
+
+LPR Cameras
+
+Number of LPR cameras only.
+
+37
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+440,460
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+472
+
+Sharing Network Data With
+
+Organizations granted access to Lowell MA PD data.
+
+[Federal] US Postal Inspection Service
+Acushnet MA PD
+Attleboro MA PD
+Auburn MA PD
+Barnstable MA PD
+Barre MA PD
+Beverly MA PD
+Billerica MA PD
+Blackstone MA PD
+Braintree MA PD
+Bridgewater MA PD
+Bristol Community College MA PD
+Burrillville RI PD
+Canton MA PD
+Charlton MA PD
+Chelmsford MA PD
+Chelsea MA PD
+City of Lowell MA
+Cohasset MA PD
+Cranston RI PD
+Cumberland RI PD
+Dennis MA PD
+Douglas MA PD
+Dracut MA PD
+East Bridgewater MA PD
+East Providence RI PD
+Easthampton MA PD
+Easton MA PD
+Essex County MA SO
+Everett MA PD
+Fairhaven MA PD
+Fall River MA PD
+Framingham MA PD
+Franklin MA PD
+Grafton MA PD
+Groton MA PD
+Hadley MA PD
+Hampden County MA SO
+Hanson MA PD
+Haverhill MA PD
+Hillsborough County NH SO
+Hingham MA PD
+Holbrook MA PD
+Holyoke MA PD
+Hopkinton MA PD
+Hudson NH PD
+Ipswich MA PD
+Lakeville MA PD
+Lawrence MA PD
+Litchfield NH PD
+Ludlow MA PD
+Lynn MA PD
+Lynnfield MA PD
+Malden MA PD
+Manchester NH PD
+Marblehead MA PD
+Marlborough MA PD
+Massachusetts Department of Correction
+Massachusetts State MA PD
+Mattapoisett MA PD
+Medway MA PD
+Melrose MA PD
+Methuen MA PD
+Middleboro MA PD
+Milford MA PD
+Milton MA PD
+Nahant MA PD
+Nantucket MA PD
+Nashua NH PD
+New Bedford MA PD
+New Canaan CT PD
+New Hampshire State Police
+North Attleboro MA PD
+Norwell MA PD
+Norwood MA PD
+Peabody MA PD
+Pelham NH PD
+Pembroke MA PD
+Plainville MA PD
+Portsmouth NH PD
+Poughkeepsie City NY PD
+Quincy MA PD
+Randolph MA PD
+Raynham MA PD
+Revere MA PD
+Salem MA PD
+Saugus MA PD
+Seekonk MA PD
+SEMRECC MA
+Sharon MA PD
+Somerset MA PD
+South Hadley MA PD
+Springfield MA PD
+Taunton MA PD
+Tewksbury MA PD
+Tiverton RI PD
+Town of Groton CT PD
+Vernon CT PD
+Wakefield MA PD
+Waltham MA PD
+Wareham MA PD
+Warwick RI PD
+Watertown MA PD
+Webster MA PD
+West Springfield MA PD
+Weston MA PD
+Westport MA PD
+Westwood MA PD
+Wethersfield CT PD
+Wilmington MA PD
+Winthrop MA PD
+Woburn MA PD
+Woonsocket RI PD
+York ME PD
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Lowell MA PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, reproductive care, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+SOC 2 Type II
+
+Independently audited controls covering security, availability, and confidentiality.
+
+ISO 27001
+
+Information security management aligned with international standards.
+
+Adherence to Key Privacy Principles
+
+Built to focus on data minimization, purpose limitation, and transparency.
+
+Myth vs. Fact
+Myth
+
+Flock has been hacked.
+
+Fact
+
+Flock's cloud environment has never been breached. Flock invests in a strong security posture, including adhering to NDAA, SOC2 (Type II), ISO 27001, ISO 27018 FedRAMP 20x, and Higher Education Community Vendor Assessment Tool (HECVAT) compliance. Additional security precautions include Role-Based Access Controls, data encrypted at-rest and in transit, required Multi-Factor Authentication, and regular penetration testing.
+
+Myth
+
+Flock sells and/or shares customer data.
+
+Fact
+
+Your community owns 100% of your data and it will never be sold. Only your agency decides who to share your data with, not Flock. Flock Safety does not publicly release agency search data. Flock does not operate or support any public-facing searchable database of law enforcement lookups, and we do not provide license plate search histories to websites or third parties without the agency's knowledge and authorization. Other agencies who you share footage with have been responding to FOIA requests and sharing this search data.
+
+Myth
+
+My data is fed into a national database.
+
+Fact
+
+Each agency controls access to its own data. Agencies may choose to share information through a broader network, but nothing is shared automatically. Participation is opt-in, governed by defined agreements, and limited to lawful investigative purposes.
+
+Myth
+
+Flock cameras use facial recognition.
+
+Fact
+
+Flock cameras do not use facial recognition technology. Searches are based on vehicle characteristics, and not identity. Flock cannot recognize, identify, or track individuals. It is purpose built for specific public safety investigations, not to monitor people.
+
+Provided by Flock Safety

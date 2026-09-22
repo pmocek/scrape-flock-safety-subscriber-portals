@@ -5,7 +5,7 @@ Visit Flock
 Lovejoy GA PD
 Transparency Portal
 
-Last updated: Sun Sep 20 2026
+Last updated: Tue Sep 22 2026
 
 Overview
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-82,541
+82,231
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-11
+10
 
 Hotlists Alerted On
 
@@ -54,14 +54,13 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,345
+5,312
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Drugs/Narcotics
 Larceny/Theft Offenses
-Hit and Run/Car Accident
 Motor Vehicle Theft/Stolen
 
 Sharing Network Data With
@@ -467,7 +466,6 @@ Carroll County GA SO
 Carrollton GA PD
 Cartersville GA PD
 Carthage MS PD
-Catawba County NC SO
 Catawba Nation Tribal SC PD
 Cedartown GA PD
 Center Point AL PD
@@ -613,6 +611,7 @@ Fitzgerald GA PD
 Florence AL PD
 Florence County SC SO
 Florida Atlantic University FL PD
+Florida State University Campus PD FL
 Florissant MO PD
 Flowery Branch GA PD
 Floyd County GA PD

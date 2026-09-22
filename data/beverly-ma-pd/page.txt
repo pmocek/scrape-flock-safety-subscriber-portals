@@ -1,0 +1,235 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+More Info
+Visit Flock
+Beverly MA PD
+Transparency Portal
+
+Last updated: Tue Sep 22 2026
+
+Overview
+
+Since the activation of the Flock Safety Automated License Plate Reader (ALPR) system, the Beverly Police Department has successfully leveraged this technology to generate investigative leads and assist in solving numerous criminal cases, some of which may not have been resolved otherwise. These cases include aggravated assaults, larcenies, the apprehension of wanted individuals, hit-and-run motor vehicle incidents, and the recovery of stolen vehicles, firearms, and evidence.
+
+In several instances, vehicles or individuals were located within hours, significantly reducing investigative time and enhancing public safety. In addition to conducting investigative searches, the Flock system provides real-time alerts when a license plate entered into the National Crime Information Center (NCIC) by any law enforcement agency is detected by one of our cameras. These alerts may involve wanted persons, stolen vehicles, missing persons, and AMBER or SILVER alerts.
+
+
+Community Impact
+Featured Success Stories
+
+April 6, 2026: Burglary, Trafalgar Drive
+
+At approximately 8:00 AM, a family was asleep in their apartment when unknown individuals broke in. The occupants awoke and frightened the suspects, who fled in a vehicle. A "be on the lookout" (BOLO) was issued, and investigators began working to identify the vehicle and its occupants. At approximately 11:00 AM, the suspect vehicle triggered a Flock alert on Rantoul Street, traveling toward Salem. Salem Police were immediately notified and located the vehicle within minutes. The suspect was detained, evidence was recovered, and Beverly officers made a positive identification, resulting in criminal charges.
+
+March 28, 2026: Home Invasion, Paine Avenue
+
+A home invasion on Paine Avenue resulted in the theft of millions of dollars' worth of valuables including: precious metals, collectibles, and a Porsche SUV. Within hours, a Flock alert detected the stolen Porsche from this incident in Lynn. Beverly investigators coordinated with Lynn Police to recover the vehicle and gather additional evidence. This rapid response contributed to the identification and arrest of one suspect. The investigation remains active, with additional charges pending.
+
+March 2, 2026: NCIC Missing / Endangered Person Alert, Brimbal Avenue
+
+Officers received an NCIC alert through the Flock system after a flagged vehicle passed an ALPR camera on Brimbal Avenue. The registered owner had been reported as a missing and endangered person due to mental health concerns. Officers quickly located the vehicle nearby, conducted a well-being check, and ensured the individual received appropriate assistance. The person was subsequently removed from NCIC as missing/endangered.
+
+November 28, 2025: Theft @ Contractor Storage Yard, Tozer Road
+
+A business owner reported a theft captured on security cameras, showing a suspect removing materials from the property. As in prior cases, the suspect vehicle lacked a visible license plate. Investigators used vehicle descriptors to query the Flock system, which returned a same-day match in Beverly. This led to the identification of the suspect and vehicle, an arrest, and the recovery and return of the stolen property.
+
+November 10, 2025: Armed Robbery, Pleasant Street
+
+Officers responded to a reported armed robbery in which the suspect brandished a firearm and struck the victim. Witnesses could only describe a blue SUV with a partial license plate containing the numbers "39." This limited information was entered into the Flock system, which generated a possible vehicle match and prompted a BOLO to surrounding agencies. Shortly thereafter, the Massachusetts State Police advised that the same vehicle was connected to a robbery in Malden earlier that day. That evening, Boston Police located and stopped the vehicle. Two suspects were identified and arrested, and a firearm was recovered.
+
+September 14, 2025: Brockton Shooting Invest. / BOLO / Officer Safety
+
+Beverly Police were notified by the Massachusetts State Police of a shooting in Brockton in which a victim was seriously injured. The suspect fled in a motor vehicle, and a BOLO (Be on the Lookout) was issued. The vehicle had been captured on Beverly's Flock cameras in the days prior, despite not being registered to a local resident. Through interagency collaboration, investigators identified a Beverly address and person of interest in the Ward 3 area, providing valuable direction for the ongoing investigation.
+
+May 4, 2025: Contractor Tool Theft @ Prime Storage, Sohier Road
+
+A resident and business owner reported that his secured utility trailer had been broken into, resulting in the theft of tens of thousands of dollars' worth of commercial-grade tools. Although security footage captured the suspect and vehicle, no license plate was visible. Investigators entered the vehicle's identifying characteristics into the Flock system, which produced a matching ALPR image from a prior date in Beverly. This information led to the identification of the vehicle and suspect, an arrest, and the recovery of the stolen property.
+
+April 23, 2025: Motor Vehicle Hit & Run, Kernwood Avenue
+
+During the overnight hours, a Kernwood Avenue resident's legally parked Ford Explorer was struck, sustaining heavy damage. The responsible vehicle fled the scene, leaving the victim financially responsible for the insurance deductible and without reliable transportation to commute to work. Through a combination of residential security footage and a Flock camera operated by the Salem Police Department, officers obtained an ALPR image and license plate of the suspect rental vehicle. Days later, Beverly officers located the vehicle during an unrelated call for service. The operator was identified, criminal charges were filed, and the information assisted the victim in resolving the matter through insurance.
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+LPR Cameras
+
+Number of LPR cameras only.
+
+4
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+165,505
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+46
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCIC, NCMEC Amber Alert
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+248
+
+Sharing Network Data With
+
+Organizations granted access to Beverly MA PD data.
+
+Acushnet MA PD
+Agawam MA PD
+Attleboro MA PD
+Auburn MA PD
+Barnstable MA PD
+Billerica MA PD
+Blackstone MA PD
+Braintree MA PD
+Bridgewater MA PD
+Bristol Community College MA PD
+Canton MA PD
+Charlton MA PD
+Chelmsford MA PD
+Chelsea MA PD
+Cohasset MA PD
+Dennis MA PD
+Douglas MA PD
+Dracut MA PD
+East Bridgewater MA PD
+Easthampton MA PD
+Easton MA PD
+Essex County MA SO
+Everett MA PD
+Fairhaven MA PD
+Fall River MA PD
+Framingham MA PD
+Franklin MA PD
+Grafton MA PD
+Groton MA PD
+Hadley MA PD
+Hampden County MA SO
+Hanson MA PD
+Hingham MA PD
+Holbrook MA PD
+Holyoke MA PD
+Hopkinton MA PD
+Ipswich MA PD
+Kingston MA PD
+Lakeville MA PD
+Lawrence MA PD
+Lowell MA PD
+Ludlow MA PD
+Lynn MA PD
+Malden MA PD
+Marblehead MA PD
+Marlborough MA PD
+Massachusetts Department of Correction
+Massachusetts State MA PD
+Mattapoisett MA PD
+Medway MA PD
+Melrose MA PD
+Methuen MA PD
+Middleboro MA PD
+Milford MA PD
+Millis MA PD
+Milton MA PD
+Montgomery MA PD
+Nahant MA PD
+Nantucket MA PD
+New Bedford MA PD
+North Attleboro MA PD
+Norwell MA PD
+Norwood MA PD
+Peabody MA PD
+Pembroke MA PD
+Plainville MA PD
+Quincy MA PD
+Randolph MA PD
+Raynham MA PD
+Regional Old Colony Communications Center MA
+Revere MA PD
+Rochester MA PD
+Salem MA PD
+Saugus MA PD
+Seekonk MA PD
+SEMRECC MA
+Sharon MA PD
+Somerset MA PD
+South Hadley MA PD
+Springfield College Campus PD MA
+Springfield MA PD
+Taunton MA PD
+Tewksbury MA PD
+Wakefield MA PD
+Waltham MA PD
+Wareham MA PD
+Watertown MA PD
+Webster MA PD
+West Springfield MA PD
+Weston MA PD
+Westport MA PD
+Westwood MA PD
+Wilmington MA PD
+Woburn MA PD
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Beverly MA PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, reproductive care, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and offense type and is stored indefinitely. System users also must be Massachusetts CJIS (Criminal Justice Information Services) certified.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+More Info
+
+Beverly, Ma PD ALPR Policy
+
+https://beverlypolice.org/wp-content/uploads/2026/04/ALPR-2026-GO-02.pdf
+
+Additional Flock Safety Information
+
+For further information on Flock Safety policies and other items, please refer to the links below:
+
+https://www.flocksafety.com/legal/privacy-policy
+https://www.flocksafety.com/legal/lpr-policy
+https://www.flocksafety.com/privacy-ethics
+https://www.security.flocksafety.com
+https://www.flocksafety.com/legal
+
+Provided by Flock Safety
