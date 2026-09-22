@@ -1,5 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"68d34da9-05b2-450c-a7aa-3c8277297639","***","2026-08-22T10:25:11.948Z","13","Assault/Battery Offenses (Domestic)"
 "be8bccc7-3bab-4c32-a624-5f1cbe666185","***","2026-08-23T23:52:27.791Z","13","Traffic Infraction"
 "2b530b45-1ac7-49ce-8e2a-6f2f7e97ee78","***","2026-08-24T15:24:02.815Z","10","Traffic Infraction"
 "e320c79f-17b1-426e-9acf-4acfc70260e9","***","2026-08-24T16:35:39.665Z","1","Hit and Run/Car Accident"
@@ -55,3 +54,6 @@
 "7213a88f-61f7-4deb-82e9-f288a23e5acf","***","2026-09-20T04:14:24.327Z","3","Obstructing the Police (Fleeing/Eluding)"
 "906c47f6-ef92-4bf5-a6a9-216a9cc72cf9","***","2026-09-20T05:12:00.511Z","4","Obstructing the Police (Fleeing/Eluding)"
 "0afb9b7a-eced-47fa-a22f-a950f4251831","***","2026-09-20T15:40:05.923Z","13","Motor Vehicle Theft/Stolen"
+"acc85290-84eb-4989-b9db-287ab5c8ee8b","***","2026-09-21T14:29:33.785Z","308","Drugs/Narcotics"
+"15924d4e-7758-448c-8876-9ac35b472dd7","***","2026-09-21T18:12:26.115Z","13","Motor Vehicle Theft/Stolen"
+"5a6c5d1d-66fc-443b-85c2-dee3d0769a70","***","2026-09-21T23:28:39.768Z","13","Hit and Run/Car Accident"

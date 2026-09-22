@@ -5,7 +5,7 @@ Visit Flock
 Grand Rapids MN PD
 Transparency Portal
 
-Last updated: Sun Sep 20 2026
+Last updated: Mon Sep 21 2026
 
 Overview
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-144,364
+143,817
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-27
+20
 
 Hotlists Alerted On
 
@@ -54,7 +54,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,549
+6,472
 Policy & Trust
 
 What's Detected
