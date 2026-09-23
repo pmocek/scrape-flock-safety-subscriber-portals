@@ -5,7 +5,7 @@ Visit Flock
 El Dorado KS PD
 Transparency Portal
 
-Last updated: Tue Sep 22 2026
+Last updated: Wed Sep 23 2026
 
 Overview
 
@@ -17,13 +17,13 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-154 alerts
+160 alerts
 NCIC - Warrants
-58
+62
 NCIC - Stolen Vehicle
-24
+25
 NCIC - Violent Person
-24
+25
 NCIC - Sex Offender
 23
 NCIC - Protection Order
@@ -47,7 +47,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-116,123
+116,531
 
 Number of Searches
 
@@ -65,7 +65,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,062
+1,078
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -197,7 +197,6 @@ Adrian MI PD
 Akron OH PD
 Alcoa TN PD
 Allen County KS SO
-Allen TX PD
 Altoona IA PD
 Anderson IN PD
 Andover KS PD
@@ -265,7 +264,6 @@ Charleston IL PD
 Charleston MO DPS
 Chase County KS SO
 Chautauqua County KS SO
-Chenoa IL PD
 Cherryvale KS PD
 Chesterfield MO PD
 Cheyenne County CO SO
