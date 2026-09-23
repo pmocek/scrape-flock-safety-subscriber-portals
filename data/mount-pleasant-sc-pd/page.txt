@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Mon Sep 21 2026
+Last updated: Tue Sep 22 2026
 
 Overview
 
@@ -67,11 +67,11 @@ Camera alerts by source and topic over the last 30 days.
 NCIC - Sex Offender
 140
 NCIC - Protection Order
-120
+124
 NCIC - Stolen Plate
-97
+94
 NCIC - Stolen Vehicle
-43
+42
 NCIC - Warrants
 20
 NCIC - Gang or Suspected Terrorist
@@ -103,13 +103,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-273,064
+273,395
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-230
+232
 
 Hotlists Alerted On
 
@@ -121,7 +121,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,601
+4,504
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -520,7 +520,6 @@ Forest City NC PD
 Forest Heights MD PD
 Forrest County MS SO
 Forsyth County GA SO
-Forsyth County NC SO
 Fort Mill SC PD
 Fort Oglethorpe GA PD
 Fort Pierce FL PD
@@ -758,7 +757,6 @@ Kaysville UT PD
 Kendall County TX SO
 Kennesaw GA PD
 Kennesaw State University GA PD
-Kenosha WI PD
 Kenton County KY SO
 Kernersville NC PD
 Kershaw County SC SO
@@ -1894,7 +1892,7 @@ Laurens County SC SO
 Laurens SC PD
 Lavonia GA PD
 Lawrence County AL SO
-Lawrence District Attorney PA
+Lawrence County District Attorney's Office PA
 Lawrenceville GA PD
 Leake County MS SO
 Lebanon TN PD
