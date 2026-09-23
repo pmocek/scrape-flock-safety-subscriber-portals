@@ -1,0 +1,439 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+Stanley VA PD
+Transparency Portal
+
+Last updated: Tue Sep 22 2026
+
+Overview
+
+Stanley VA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Stanley VA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Stanley VA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+
+Community Impact
+In the Virginia News
+LYNCHBURG, VA
+6/19/2026
+
+HOMICIDE / MURDER
+
+Flock LPR Alert Leads to Arrest of Murder Suspect in Lynchburg, VA
+LPR
+Read full story
+GLOUCESTER, VA
+5/29/2026
+
+STOLEN VEHICLE RECOVERY
+
+Flock LPR Alert Leads to Stolen Truck Recovery in Gloucester, VA
+LPR
+Read full story
+BLACKSBURG, VA
+5/19/2026
+
+SEXUAL ASSAULT
+
+LPR Helps Virginia Deputies Locate Sexual Assault Suspect in 24 Hours
+LPR
+Read full story
+YORKTOWN, VA
+5/9/2026
+
+HIT-AND-RUN
+
+Flock LPR Helps Identify Hit-and-Run Driver in York County, VA
+LPR
+Read full story
+ROANOKE, VA
+4/16/2026
+
+MISSING PERSON
+
+Flock LPR Helps Locate Missing Man With Dementia in Roanoke
+LPR
+Read full story
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+4
+
+LPR Cameras
+
+Number of LPR cameras only.
+
+4
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+1
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert, NCIC - VSP
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+11
+Top Offense Types
+
+Offense Types used for LPR searches in the last 30 days.
+
+Sex Offenses
+
+Sharing Network Data With
+
+Organizations granted access to Stanley VA PD data.
+
+Augusta County VA SO
+Bedford County VA SO
+Bedford VA PD
+Blacksburg VA PD
+Blackstone VA PD
+Bland County VA SO
+Bridgewater VA PD
+Broadway VA PD
+Crewe VA PD
+Culpeper VA PD
+Drakes Branch VA PD
+Emporia VA PD
+Exmore VA PD
+Farmville VA PD
+Fauquier County VA SO
+Franklin County VA SO
+Fredericksburg City VA PD
+Front Royal VA PD
+Gordonsville VA PD
+Grottoes VA PD
+Grundy VA PD
+Hampden-Sydney College Campus VA PD
+Hampton VA PD
+Hanover County VA SO
+Haymarket VA PD
+Henrico County VA PD
+James City County VA PD
+Luray VA PD
+Madison County VA SO
+Manassas Park VA PD
+Mathews County VA SO
+Montgomery County VA SO
+New Kent County VA SO
+New Market VA PD
+Newport News VA PD
+Orange VA PD
+Page County VA SO
+Pennington Gap VA PD
+Petersburg VA PD
+Powhatan County VA SO
+Pulaski County VA SO
+Remington VA PD
+Rich Creek VA PD
+Richmond VA PD
+Roanoke VA PD
+Rockbridge County VA SO
+Rockingham County VA SO
+Scottsville VA PD
+Shenandoah County VA SO
+South Boston VA PD
+Strasburg VA PD
+Suffolk VA PD
+Timberville VA PD
+Town Of Middletown VA PD
+Vienna VA PD
+Virginia Department of Wildlife Resources (DWR)
+Warren County VA SO
+Weber City VA PD
+Woodstock VA PD
+
+Receiving Network Data From
+
+Organizations sharing their data with Stanley VA PD.
+
+[Federal] US Postal Inspection Service
+Acworth GA PD
+Adrian MI PD
+Ahoskie NC PD
+Alexandria VA PD
+Altavista VA PD
+Amelia County VA SO
+Angier NC PD
+Athens County OH SO
+Augusta County VA SO
+Bedford County VA SO
+Bedford VA PD
+Belpre OH PD
+Bethlehem PA PD
+Boones Mill VA PD
+Botetourt County VA SO
+Bridgewater VA PD
+Brookneal VA PD
+Brunswick County VA SO
+Buncombe County NC SO
+Butler Township OH PD
+Butner NC PD
+Cambridge City IN PD
+Campbell County VA SO
+Caroline County VA SO
+Carroll County OH SO
+Cartersville GA PD
+Charlotte County VA SO
+Charlton MA PD
+Chase City VA PD
+Chatham-Savannah Counter Narcotics Team
+Chatsworth GA PD
+Cheatham County TN SO
+Chesapeake VA PD
+Chesterfield County VA PD
+Chincoteague VA PD
+Chippewa PA PD
+City of Franklin VA PD
+Clarksville VA PD
+Clayton NC PD
+Colonial Heights VA PD
+Cookeville TN PD
+Crawfordsville IN PD
+Crewe VA PD
+Culpeper VA PD
+Cumberland County VA SO
+Currituck County NC SO
+Darlington County SC SO
+Dinwiddie County VA SO
+Drakes Branch VA PD
+Dublin VA PD
+Easley SC PD
+Eastern Adams Regional PA PD
+Edgecombe County NC SO
+Emporia VA PD
+Exmore VA PD
+Fairfax City VA PD
+Fairfax County VA PD
+Fairfax OH PD
+Fairhaven MA PD
+Farmington Hills MI PD
+Forest Park OH PD
+Forsyth County GA SO
+Fort Mill SC PD
+Franklin County VA SO
+Franklin IN PD
+Fredericksburg City VA PD
+Galax VA PD
+Gallia County OH SO
+Giles County VA SO
+Glen Cove NY PD
+Gloucester County VA SO
+Grayson County VA SO
+Greenfield MA PD [Inactive]
+Greensville County VA SO
+Grottoes VA PD
+Halifax County VA SO
+Hamilton County IN SO
+Hampden-Sydney College Campus VA PD
+Hampton VA PD
+Hancock County IN SO
+Henderson KY PD
+Henrico County VA PD
+Hermitage PA PD
+Herndon VA PD
+Hingham MA PD
+Homer Village NY PD
+Hopewell VA PD
+Isle Of Wight County VA SO
+Jefferson County KY SO
+Jefferson County OH SO
+Johnston County NC SO
+Kernersville NC PD
+King and Queen County VA SO
+King George County VA SO
+Lafayette TN PD
+Laurel DE PD
+Lawrence County District Attorney's Office PA
+Leesburg VA PD
+Lehigh County PA (RIIC)
+Licking County OH SO
+Loudoun County VA SO
+Louisburg NC PD
+Luray VA PD
+Lynchburg VA PD
+Madison County VA SO
+Manassas Park VA PD
+Marion County WV SO
+Martinsville VA PD
+Mathews County VA SO
+Maumee OH PD
+Mecklenburg County VA SO
+Middle River VA Jail
+Middleboro MA PD
+Monon IN PD
+Monroe MI PD
+Mount Morris Township PD MI
+Mountain City TN PD
+Nelson County VA SO
+New Castle County DE PD
+New Kent County VA SO
+New Market VA PD
+Newport News VA PD
+Newport RI PD
+Norfolk VA PD
+North Kingstown RI PD
+Northampton County VA SO
+Nottawaseppi Huron Band of the Potawatomi Tribal Police MI
+OH - Jefferson County Drug Task Force
+Ohio Department of Rehabilitation and Correction - Office of the Chief Inspector
+Old Dominion Univ VA PD
+Orange VA PD
+Page County VA SO
+Pearisburg VA PD
+Pembroke VA PD
+Person County NC SO
+Poquoson VA PD
+Prince George County VA PD
+Prince William County VA PD
+Pulaski County VA SO
+Pulaski VA PD
+Radford City VA PD
+Raleigh NC PD
+Raynham MA PD
+Rehobeth Beach DE PD (DNU)
+Remington VA PD
+Revere MA PD
+Rich Creek VA PD
+Richmond VA PD
+Roanoke VA PD
+Rock Hill SC PD
+Rockbridge County VA SO
+Rocky Mount NC PD
+Rocky Mount VA PD
+Ross Township PA PD
+Scottsboro AL PD
+Scottsville VA PD
+Seekonk MA PD
+Shelby County IN SO
+Shelbyville IN PD
+Shenandoah County VA SO
+Simpsonville SC PD
+Smithfield RI PD
+Smithfield VA PD
+Smyth County VA SO
+Somerset MA PD
+South Bend IN PD
+South Boston VA PD
+South Hill VA PD
+Southern Regl PA PD
+Spartanburg SC PD
+Springfield TN PD
+Steubenville OH PD
+Suffolk VA PD
+Sullivan County IN SO
+Surry County NC SO
+Sussex County VA SO
+Timberville VA PD
+Town of Hildebran (NC)
+VA - George Mason University Campus PD
+Vienna VA PD
+Virginia Beach VA PD
+Virginia Department of Wildlife Resources (DWR)
+Virginia Tech Police Department
+WakeMed Campus PD and Public Safety (NC)
+Wareham MA PD
+Warren County VA SO
+Warrenton NC PD
+Wells County IN SO
+Westmoreland County VA SO
+Westport MA PD
+Whitehall Township PA PD
+Whitley County IN Prosector
+Williamsburg VA PD
+Woonsocket RI PD
+York County VA SO
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Stanley VA PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+SOC 2 Type II
+
+Independently audited controls covering security, availability, and confidentiality.
+
+ISO 27001
+
+Information security management aligned with international standards.
+
+Adherence to Key Privacy Principles
+
+Built to focus on data minimization, purpose limitation, and transparency.
+
+Myth vs. Fact
+Myth
+
+Flock has been hacked.
+
+Fact
+
+Flock's cloud environment has never been breached. Flock invests in a strong security posture, including adhering to NDAA, SOC2 (Type II), ISO 27001, ISO 27018 FedRAMP 20x, and Higher Education Community Vendor Assessment Tool (HECVAT) compliance. Additional security precautions include Role-Based Access Controls, data encrypted at-rest and in transit, required Multi-Factor Authentication, and regular penetration testing.
+
+Myth
+
+Flock sells and/or shares customer data.
+
+Fact
+
+Your community owns 100% of your data and it will never be sold. Only your agency decides who to share your data with, not Flock. Flock Safety does not publicly release agency search data. Flock does not operate or support any public-facing searchable database of law enforcement lookups, and we do not provide license plate search histories to websites or third parties without the agency's knowledge and authorization. Other agencies who you share footage with have been responding to FOIA requests and sharing this search data.
+
+Myth
+
+My data is fed into a national database.
+
+Fact
+
+Each agency controls access to its own data. Agencies may choose to share information through a broader network, but nothing is shared automatically. Participation is opt-in, governed by defined agreements, and limited to lawful investigative purposes.
+
+Myth
+
+Flock cameras use facial recognition.
+
+Fact
+
+Flock cameras do not use facial recognition technology. Searches are based on vehicle characteristics, and not identity. Flock cannot recognize, identify, or track individuals. It is purpose built for specific public safety investigations, not to monitor people.
+
+Provided by Flock Safety
