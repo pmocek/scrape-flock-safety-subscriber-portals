@@ -6,7 +6,7 @@ Visit Flock
 Grandview Heights OH PD
 Transparency Portal
 
-Last updated: Tue Sep 22 2026
+Last updated: Wed Sep 23 2026
 
 Overview
 
@@ -67,7 +67,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-213,158
+212,669
 
 Number of Searches
 
@@ -85,7 +85,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-138
+139
 
 Sharing Network Data With
 
@@ -117,7 +117,6 @@ Brunswick Hills OH PD
 Bryan OH PD
 Butler Township OH PD
 Canfield OH PD
-Canton OH PD
 Case Western Reserve University OH PD
 Centerville OH PD
 Chardon OH PD
