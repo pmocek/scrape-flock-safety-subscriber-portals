@@ -5,7 +5,7 @@ Visit Flock
 Lowell MA PD
 Transparency Portal
 
-Last updated: Tue Sep 22 2026
+Last updated: Wed Sep 23 2026
 
 Overview
 
@@ -69,13 +69,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-442,104
+441,602
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-484
+490
 
 Sharing Network Data With
 
@@ -146,7 +146,6 @@ Melrose MA PD
 Methuen MA PD
 Middleboro MA PD
 Milford MA PD
-Milton MA PD
 Nahant MA PD
 Nantucket MA PD
 Nashua NH PD
