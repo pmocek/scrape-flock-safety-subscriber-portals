@@ -5,7 +5,7 @@ Visit Flock
 Lowell MA PD
 Transparency Portal
 
-Last updated: Wed Sep 23 2026
+Last updated: Thu Sep 24 2026
 
 Overview
 
@@ -69,131 +69,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-441,602
+444,624
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-490
-
-Sharing Network Data With
-
-Organizations granted access to Lowell MA PD data.
-
-[Federal] US Postal Inspection Service
-Acushnet MA PD
-Attleboro MA PD
-Auburn MA PD
-Barnstable MA PD
-Barre MA PD
-Beverly MA PD
-Billerica MA PD
-Blackstone MA PD
-Braintree MA PD
-Bridgewater MA PD
-Bristol Community College MA PD
-Burrillville RI PD
-Canton MA PD
-Charlton MA PD
-Chelmsford MA PD
-Chelsea MA PD
-City of Lowell MA
-Cohasset MA PD
-Cranston RI PD
-Cumberland RI PD
-Dennis MA PD
-Douglas MA PD
-Dracut MA PD
-East Bridgewater MA PD
-East Providence RI PD
-Easthampton MA PD
-Easton MA PD
-Essex County MA SO
-Everett MA PD
-Fairhaven MA PD
-Fall River MA PD
-Framingham MA PD
-Franklin MA PD
-Grafton MA PD
-Groton MA PD
-Hadley MA PD
-Hampden County MA SO
-Hanson MA PD
-Haverhill MA PD
-Hillsborough County NH SO
-Hingham MA PD
-Holbrook MA PD
-Holyoke MA PD
-Hopkinton MA PD
-Hudson NH PD
-Ipswich MA PD
-Lakeville MA PD
-Lawrence MA PD
-Litchfield NH PD
-Ludlow MA PD
-Lynn MA PD
-Lynnfield MA PD
-Malden MA PD
-Manchester NH PD
-Marblehead MA PD
-Marlborough MA PD
-Massachusetts Department of Correction
-Massachusetts State MA PD
-Mattapoisett MA PD
-Medway MA PD
-Melrose MA PD
-Methuen MA PD
-Middleboro MA PD
-Milford MA PD
-Nahant MA PD
-Nantucket MA PD
-Nashua NH PD
-New Bedford MA PD
-New Canaan CT PD
-New Hampshire State Police
-North Attleboro MA PD
-Norwell MA PD
-Norwood MA PD
-Peabody MA PD
-Pelham NH PD
-Pembroke MA PD
-Plainville MA PD
-Portsmouth NH PD
-Poughkeepsie City NY PD
-Quincy MA PD
-Randolph MA PD
-Raynham MA PD
-Revere MA PD
-Salem MA PD
-Saugus MA PD
-Seekonk MA PD
-SEMRECC MA
-Sharon MA PD
-Somerset MA PD
-South Hadley MA PD
-Springfield MA PD
-Taunton MA PD
-Tewksbury MA PD
-Tiverton RI PD
-Town of Groton CT PD
-Vernon CT PD
-Wakefield MA PD
-Waltham MA PD
-Wareham MA PD
-Warwick RI PD
-Watertown MA PD
-Webster MA PD
-West Springfield MA PD
-Weston MA PD
-Westport MA PD
-Westwood MA PD
-Wethersfield CT PD
-Wilmington MA PD
-Winthrop MA PD
-Woburn MA PD
-Woonsocket RI PD
-York ME PD
+485
 Policy & Trust
 
 What's Detected
