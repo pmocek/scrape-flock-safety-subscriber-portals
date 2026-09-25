@@ -5,13 +5,17 @@ Visit Flock
 Romeoville IL PD
 Transparency Portal
 
-Last updated: Thu Sep 24 2026
+Last updated: Fri Sep 25 2026
 
 Overview
 
-Romeoville IL PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Romeoville IL PD utilizes retroactive search to solve crimes after they've occurred. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+Romeoville (IL) Police Department uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Romeoville IL PD utilizes retroactive search to solve crimes after they've occurred. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+
+Access to Romeoville's network is only granted to agencies within Illinois that attest, or affirm, under penalty of perjury pursuant to 28 U.S.C. § 1746, that they agree to comply with Illinois law 625 ILCS 5/2-130, which mandates that Illinois LPR data may not be used to investigate or enforce a law that interferes with a person's right to choose or obtain reproductive health care services or any lawful health care services as defined by the Illinois Lawful Health Care Activity Act; or permits the detention or investigation of a person based on the person's immigration status.
 
 Community Impact
+74
+ILLINOIS SUCCESS STORIES IN THE NEWS
 In the Illinois News
 MANHATTAN, IL
 6/8/2026
@@ -61,6 +65,12 @@ The number of days data is retained.
 
 7 days
 
+LPR Cameras
+
+Number of LPR cameras only.
+
+24
+
 Hotlists Alerted On
 
 National and statewide hotlist sources.
@@ -71,7 +81,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-63,206
+63,404
 Policy & Trust
 
 What's Detected
