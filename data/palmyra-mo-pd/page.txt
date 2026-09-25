@@ -5,7 +5,7 @@ Visit Flock
 Palmyra MO PD
 Transparency Portal
 
-Last updated: Thu Sep 24 2026
+Last updated: Fri Sep 25 2026
 
 Overview
 
@@ -30,7 +30,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-28,212
+28,237
 
 Number of Searches
 
@@ -554,7 +554,6 @@ Kenosha County WI SO
 Kenton County KY SO
 Kentwood MI PD
 Kettering OH PD
-Kewanee IL PD
 Kill Devil Hills NC PD
 Kingston Springs TN PD
 Kingston TN PD

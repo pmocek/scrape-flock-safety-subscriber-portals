@@ -6,7 +6,7 @@ Visit Flock
 Palm Springs CA PD
 Transparency Portal
 
-Last updated: Thu Sep 24 2026
+Last updated: Fri Sep 25 2026
 
 Overview
 
@@ -59,11 +59,11 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-2,761 alerts
+2,769 alerts
 California SVS - Stolen Plate
-2,738
+2,742
 California SVS - Stolen Vehicle
-22
+26
 California SVS - Felony Vehicles
 1
 
@@ -89,13 +89,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-439,077
+442,010
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-463
+437
 
 Hotlists Alerted On
 
@@ -107,7 +107,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-8,408
+8,463
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -116,7 +116,7 @@ Motor Vehicle Theft/Stolen
 Stolen Property Offenses
 Alcohol Offenses (Non-DUI)
 Assault/Battery Offenses (Domestic)
-Hit and Run/Car Accident
+Wanted Person (Arrest Warrant/Fugitive)
 
 Sharing Network Data With
 
