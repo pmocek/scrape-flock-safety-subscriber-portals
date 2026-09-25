@@ -5,7 +5,7 @@ Visit Flock
 El Dorado KS PD
 Transparency Portal
 
-Last updated: Thu Sep 24 2026
+Last updated: Fri Sep 25 2026
 
 Overview
 
@@ -17,19 +17,19 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-160 alerts
+156 alerts
 NCIC - Warrants
-63
+62
 NCIC - Violent Person
 25
 NCIC - Sex Offender
 24
 NCIC - Stolen Vehicle
-24
+22
 NCIC - Protection Order
-18
+19
 NCIC - Stolen Plate
-6
+4
 
 30 days
 
@@ -47,13 +47,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-117,061
+117,641
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-25
+24
 
 Hotlists Alerted On
 
@@ -65,7 +65,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,074
+1,059
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -202,6 +202,7 @@ Anderson IN PD
 Andover KS PD
 Antelope County NE SO
 AR - Alma PD
+AR - Arkadelphia PD
 AR - Newton County SO
 Arcola IL PD
 Arlington TX PD
@@ -447,7 +448,6 @@ Lindsborg KS PD
 Little Flock AR PD
 Little Rock AR PD
 Livingston County IL SO
-Locust Grove OK PD
 Logan County NE SO
 Lone Tree CO PD
 Lonoke County AR SO
@@ -461,7 +461,6 @@ Malvern AR PD
 Manchester MO PD
 Mansfield TX PD
 Maplewood MO PD
-Marion IL PD
 Marshall County OK SO
 Marshall TX PD
 Maryland Heights MO PD
@@ -506,7 +505,6 @@ New Madrid County MO SO
 Newton KS PD
 Nichols Hills OK PD
 Nolanville TX PD
-Norfolk NE PD
 North County Cooperative MO PD
 North Platte NE PD
 North Richland Hills TX PD
