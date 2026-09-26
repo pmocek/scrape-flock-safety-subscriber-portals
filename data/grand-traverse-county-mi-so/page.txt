@@ -5,7 +5,7 @@ Visit Flock
 Grand Traverse County MI SO
 Transparency Portal
 
-Last updated: Thu Sep 24 2026
+Last updated: Fri Sep 25 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-376,654
+377,219
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-199
+193
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,545
+1,591
 
 Sharing Network Data With
 
@@ -1162,7 +1162,6 @@ Raytown MO PD
 Reading OH PD
 Redford Twp MI PD
 Regional Vehicle Burglary Suppression Taskforce TX
-Republic MO PD
 Richfield OH PD
 Richland County SC SO
 Richland County WI SO
