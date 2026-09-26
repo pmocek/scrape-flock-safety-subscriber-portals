@@ -5,7 +5,7 @@ Visit Flock
 Mount Dora FL PD
 Transparency Portal
 
-Last updated: Fri Sep 25 2026
+Last updated: Sat Sep 26 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-61,876
+61,357
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-14
+12
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-2,350
+2,045
 
 Sharing Network Data With
 
@@ -118,7 +118,6 @@ Cabot AR PD
 Cairo GA PD
 Calhoun County AL SO
 Calhoun County SC SO
-Cape Coral FL PD
 Cape Girardeau MO PD
 Carmel IN PD
 Carpentersville IL PD

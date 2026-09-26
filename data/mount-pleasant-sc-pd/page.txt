@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Thu Sep 24 2026
+Last updated: Fri Sep 25 2026
 
 Overview
 
@@ -63,13 +63,13 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-440 alerts
+443 alerts
 NCIC - Sex Offender
-154
+158
 NCIC - Protection Order
-108
+109
 NCIC - Stolen Plate
-97
+95
 NCIC - Stolen Vehicle
 45
 NCIC - Warrants
@@ -103,13 +103,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-271,467
+269,380
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-237
+229
 
 Hotlists Alerted On
 
@@ -121,7 +121,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,421
+4,372
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -291,7 +291,6 @@ Cameron SC PD
 Camilla GA PD
 Campbell County VA SO
 Canton GA PD
-Cape Coral FL PD
 Cape Girardeau MO PD
 Capitol Heights MD PD
 Carmel IN PD
@@ -1521,7 +1520,6 @@ Apex NC PD
 Arlington TX PD
 Asheville NC PD
 Ashland City TN PD
-Athens-Clarke County GA PD
 Atlanta GA PD
 Auburn GA PD
 Audrain County MO SO
@@ -1614,7 +1612,6 @@ Clayton NC PD
 Clear Lake WI PD
 Clearwater FL PD
 Clemson SC PD
-Clemson University SC PD
 Cleveland County NC SO
 Clinton TN PD
 Cloud County KS SO
@@ -1919,7 +1916,6 @@ Locust Grove GA PD
 Loganville GA PD
 Loris SC PD
 Louisburg NC PD
-Louisville Metro KY PD
 Louisville OH PD
 Lowe's Corporation
 Lowndes County GA SO
