@@ -5,7 +5,7 @@ Visit Flock
 Lovejoy GA PD
 Transparency Portal
 
-Last updated: Fri Sep 25 2026
+Last updated: Sat Sep 26 2026
 
 Overview
 
@@ -36,7 +36,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-82,334
+82,680
 
 Number of Searches
 
@@ -54,7 +54,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,365
+5,399
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -749,7 +749,6 @@ Jasper AL PD
 Jasper County GA SO
 Jasper County IN SO
 Jasper GA PD
-Jasper IN PD
 Jefferson City TN PD
 Jefferson County AR SO
 Jefferson County KY SO
@@ -825,7 +824,6 @@ Loris SC PD
 Loudon TN PD
 Louisburg NC PD
 Louisville Airport PD
-Louisville Metro KY PD
 Lovejoy Crossing (GA)
 Loveland OH PD
 Lowndes County GA SO
