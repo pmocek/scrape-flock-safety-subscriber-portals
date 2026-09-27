@@ -5,7 +5,7 @@ Visit Flock
 Urbandale IA PD
 Transparency Portal
 
-Last updated: Sat Sep 26 2026
+Last updated: Sun Sep 27 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-419,944
+419,251
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-194
+182
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,858
+5,868
 
 Sharing Network Data With
 
