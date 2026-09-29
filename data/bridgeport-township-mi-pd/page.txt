@@ -5,7 +5,7 @@ Visit Flock
 Bridgeport Township MI PD
 Transparency Portal
 
-Last updated: Fri Aug 28 2026
+Last updated: Mon Sep 28 2026
 
 Overview
 
@@ -17,20 +17,16 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-145 alerts
+168 alerts
 MI LEIN - MI - Wanted Person
-110
+137
 MI LEIN - NCIC - Stolen Vehicle
-20
-MI LEIN - MI - Stolen Vehicle
-6
+19
 MI LEIN - NCIC - Sex Offender
-5
+10
 MI LEIN - MI - Stolen Plate
-2
-MI LEIN - NCIC - Stolen Plate
 1
-MI LEIN - NCIC - Wanted Person
+MI LEIN - NCIC - Stolen Plate
 1
 
 Data Retention
@@ -55,7 +51,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-60
+25
 
 Hotlists Alerted On
 
@@ -67,15 +63,15 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,136
+978
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Wanted Person (Arrest Warrant/Fugitive)
-Hit and Run/Car Accident
 Larceny/Theft Offenses
 Motor Vehicle Theft/Stolen
+Wanted Person (Arrest Warrant/Fugitive)
+Hit and Run/Car Accident
 Assault/Battery Offenses
 
 Sharing Network Data With
@@ -138,10 +134,8 @@ Auglaize County OH SO
 Aurora IL PD
 Aurora OH PD
 Austin County TX SO
-Aviston IL PD
 Avoca PA PD
 Avon IN PD
-Baldwinsville Central School District Inc NY
 Baraboo WI PD
 Barberton OH PD
 Bardstown PD KY
@@ -219,7 +213,6 @@ California Highway Patrol
 Calumet Park IL PD
 Cambridge City IN PD
 Canton IL PD
-Canton OH PD
 Canton Village NY PD
 Capitol Heights MD PD
 Carmel IN PD
@@ -318,7 +311,6 @@ Del City OK PD
 Delaware County OH SO
 Depue IL PD
 Derby KS PD
-Dickenson County VA SO
 Dickinson County MI SO
 Dickson TN PD
 Dixmoor IL PD
@@ -424,6 +416,7 @@ Gaylord MI PD
 Geauga County OH SO
 Genesee County MI SO
 Genoa Township OH PD
+Georgetown IL PD
 Georgia Dept. of Corrections Intelligence Unit (GA)
 Germantown TN PD
 Glen Carbon IL PD
@@ -584,7 +577,6 @@ Kendall County TX SO
 Kendallville IN PD
 Kennesaw State University GA PD
 Kenosha County WI SO
-Kenosha WI PD
 Kent County MI SO
 Kenton County KY SO
 Kentwood MI PD
@@ -602,6 +594,7 @@ Knox County IN SO
 Kokomo IN PD
 KS - Meade County SO
 KY - Kentucky State Police
+La Follette TN PD
 La Grange IL PD
 La Paz County AZ SO
 Lackawanna County PA SO
@@ -628,7 +621,7 @@ Lapeer City MI PD
 Las Vegas NM PD
 Lathrup Village MI PD
 Lavon TX PD
-Lawrence District Attorney PA
+Lawrence County District Attorney's Office PA
 Lea County NM SO
 Lebanon KY PD
 Lebanon TN PD
@@ -706,7 +699,6 @@ Mason PD - OH
 Massachusetts State MA PD
 Matteson IL PD
 Mattoon IL PD
-Mauldin SC PD
 Maumee OH PD
 McCracken County KY SO
 McDonough County IL SO
@@ -732,7 +724,6 @@ Metro Police Authority of Genesee County MI
 Metropolis IL PD
 MI - Bloomfield Public Safety
 MI - Riverview PD
-MI - Saginaw County SO
 MI - Village of Middleville
 Miami County OH SO
 Miami-Dade FL SO
@@ -933,7 +924,6 @@ Plover WI PD
 Plymouth MI PD
 Plymouth PD IN
 Plymouth Township MI PD
-Plymouth WI PD
 Pocono Township (Monroe County) PA PD
 Pokagon Tribal MI PD
 Port Clinton OH PD
@@ -964,7 +954,6 @@ Rapides Parish LA SO
 Raytown MO PD
 Reading OH PD
 Regional Vehicle Burglary Suppression Taskforce TX
-Republic MO PD
 Richfield OH PD
 Richland County SC SO
 Richland County WI SO
@@ -998,6 +987,7 @@ Royal Oak MI PD
 Russell County AL SO
 Russellville KY PD
 Sachse TX PD
+Saginaw County MI SO
 Saginaw MI PD
 Saginaw Township MI PD
 Saginaw Valley State University MI PD
@@ -1023,6 +1013,7 @@ Savanna IL PD
 Scarborough ME PD
 Schoolcraft College MI PD
 Schuyler Co. IL SO
+Schuyler County MO SO
 Scott County MS SO
 Scurry County TX SO
 Seguin TX PD
@@ -1062,6 +1053,7 @@ South Lyon MI PD
 South Whitehall PA PD
 Southaven MS PD
 Southern Illinois University IL PD
+Southern Ohio Drug Task Force (OH)
 Southern Regl PA PD
 Southfield MI PD
 Speedway IN PD
@@ -1070,7 +1062,6 @@ Spotsylvania County VA SO
 Spring Arbor MI PD
 Springboro OH PD
 Springfield FL PD
-Springfield MO PD
 Springfield OH PD
 Springport Twp MI PD
 St Mary Parish LA SO
@@ -1079,7 +1070,7 @@ St. Charles City MO PD
 St. Clair County MI SO
 St. Clair MI PD
 St. John Parish LA SO
-St. Johns County FL SO
+St. Matthews KY PD
 St. Peters MO PD
 Stark County SO
 Steger IL PD
@@ -1107,9 +1098,7 @@ SUNY-Onondaga Community College Campus NY PD
 Superior WI PD
 Susquehanna Township PA PD
 Swainsboro GA PD
-Sycamore IL PD
 Sylvania Township OH PD
-Tallahassee Police Department (FL)
 Tallmadge OH PD
 Tampa FL PD
 Tarpon Springs FL PD
@@ -1131,7 +1120,6 @@ TN ROCIC
 Toledo OH PD
 Tomah WI PD
 Tompkinsville KY PD
-Tooele City PD UT
 Toronto OH PD
 Town of Bean Station PD TN
 Town of Groton CT PD
@@ -1151,7 +1139,6 @@ Union Township PD (Clermont Co) - OH
 University Circle OH PD
 University of Central Missouri PD
 University of Illinois Urbana-Champaign IL PD
-University of Kentucky
 University of Michigan Ann Arbor Campus MI PD
 University of Missouri Campus MO PD
 University of Notre Dame PD (IN)
@@ -1199,6 +1186,7 @@ Warren NJ PD
 Warrenville IL PD
 Warrick County IN SO
 Washington County District Attorney PA
+Washington County IN SO
 Washington County MD SO
 Washington County OH SO
 Washington County WI SO
@@ -1232,7 +1220,6 @@ Western Michigan University MI PD
 Westfield IN PD
 Westlake OH PD
 Westland MI PD
-Westworth Village TX PD
 Wheaton IL PD
 Wheeler County NE SO
 Wheeling IL PD
@@ -1252,6 +1239,7 @@ Williamston NC PD
 Willoughby Hills OH PD
 Willoughby OH PD
 Willow Springs IL PD
+Willowick OH PD
 Wilmette IL PD
 Wilmington OH PD
 Wilson County TN SO
@@ -1283,7 +1271,6 @@ Organizations sharing their data with Bridgeport Township MI PD.
 
 Germantown OH PD
 IN - West Baden Springs PD
-[DEACTIVATED] - Flock Demo - Chino
 [Federal] Indiana Dunes National Park IN PD
 [Federal] US Postal Inspection Service
 [Federal] Wright Patterson OH Air Force Base
@@ -1309,12 +1296,10 @@ Ashland WI PD
 Athens County OH SO
 Athens IL PD
 Auburn Hills MI PD
-Auburn IN PD
 Auburn NY PD
 Audrain County MO SO
 Avoca PA PD
 Avon IN PD
-Baldwinsville Central School District Inc NY
 Bardstown PD KY
 Bargersville IN PD
 Barron County WI SO
@@ -1354,7 +1339,6 @@ Brookfield WI PD
 Broome CO NY SO
 Brownstown Twp PD MI
 Brunswick OH PD
-Buffalo State University NY PD
 Bullitt County KY SO
 Burlington IA PD
 Burnett County WI SO
@@ -1364,7 +1348,6 @@ Butler IN PD
 Butler Township OH PD
 Butler Township PA PD
 Calhoun County MI SO
-Calumet County WI SO
 Cambridge City IN PD
 Canton IL PD
 Carlyle IL PD
@@ -1379,11 +1362,9 @@ Charleston IL PD
 Charlotte MI PD
 Charter Township of Buena Vista MI PD
 Chatham IL PD
-Chenoa IL PD
 Chester Township OH PD
 Chesterfield MO PD
 Chesterfield Twp MI PD
-Chesterton IN PD
 Cheviot OH PD
 Chippewa PA PD
 City of Delavan WI PD
@@ -1399,10 +1380,8 @@ Clinton Township MI PD
 Clio MI PD
 Coldwater MI PD
 Colerain Township PD - OH
-Columbia County WI SO
 Columbus IN PD
 Cottage Grove WI PD
-Cottleville MO PD
 Covert Township PD MI
 Crawford County IN SO
 Crawford County WI SO
@@ -1431,11 +1410,9 @@ Delaware County OH SO
 Delhi Twp OH PD
 Delphi IN PD
 Des Peres MO DPS
-Dodge County WI SO
 Dolton IL PD
 Douglas County IL SO
 Dubois County IN SO
-Dunn County WI SO
 DuPage County IL SO
 East Peoria IL PD
 Eastern Adams Regional PA PD
@@ -1446,7 +1423,6 @@ Ecorse MI PD
 Edinburgh IN PD
 Edmundson MO PD
 El Paso IL PD
-Elizabethton TN PD
 Elizabethtown KY PD
 Elk Rapids MI PD
 Elkhart County IN SO
@@ -1462,7 +1438,6 @@ Erie County OH SO
 Eureka MO PD
 Evansville IN PD
 Fairfax OH PD
-Fairfield PD - OH
 Fairfield Township OH PD
 Fairlawn OH PD
 Fairmount IN PD
@@ -1479,23 +1454,19 @@ Flat Rock MI PD
 Flint MI PD
 Flint Township MI PD
 Florence Co. WI SO
-Florence KY PD
 Florissant MO PD
 Floyd County IN SO
 Flushing City MI PD
 Forest Park OH PD
+Forest View IL PD
 Fort Loramie OH PD
-Fort Wayne IN PD
 Fort Worth TX PD
 Frankenmuth MI PD - New Business
 Franklin County IL SO
 Franklin County MO SO
-Franklin County PA SO
 Franklin IN PD
 Franklin Township PA PD
-Franklin WI PD
 Fraser MI DPS
-Fremont OH PD
 Fulton County IN SO
 Fulton IL PD
 Gahanna OH PD
@@ -1507,8 +1478,6 @@ Gary IN PD
 Gas City IN PD
 Geddes Town NY PD
 Genesee County MI SO
-Genesee County NY SO
-Genoa Township OH PD
 Georgetown IL PD
 Georgetown IN PD
 Glasgow KY PD
@@ -1524,9 +1493,7 @@ Grand Traverse County MI SO
 Grand Valley State University MI
 Grandville PD MI
 Grant County IN SO
-Grant County WI SO
 Grayslake IL PD
-Green Lake County WI SO
 Green Township OH PD
 Greencastle IN PD
 Greendale IN PD
@@ -1559,8 +1526,6 @@ Hazleton PA PD
 Hebron IN PD
 Henderson County KY SO
 Henderson KY PD
-Hendricks County IN SO
-Henry County IL SO
 Henry County IN SO
 Henry County OH SO
 Hermitage PA PD
@@ -1575,6 +1540,7 @@ Hobart IN PD
 Holland MI PD
 Holmen WI PD
 Homer Village NY PD
+Homewood IL PD
 Hopkinsville KY PD
 Howard County IN SO
 Huber Heights OH PD
@@ -1582,7 +1548,6 @@ Hudson WI PD
 Hume PD IL
 Huntington IN PD
 Huntsville AL PD
-Huron OH PD
 Huron Township MI PD
 IA - Eldridge PD
 Illinois Attorney General
@@ -1599,14 +1564,11 @@ Iroquois IL SO
 Itasca IL PD
 Jackson County MI SO
 Jackson MI PD
-Jackson WI PD
-Jasper County Sheriff IA
 Jasper IN PD
 Jefferson City TN PD
 Jefferson County KY SO
 Jefferson County MO SO
 Jefferson County OH SO
-Jefferson County SO IN
 Jeffersontown KY PD
 Jessamine County KY SO
 Johnsburg IL PD
@@ -1620,32 +1582,27 @@ Kane County Forest Preserve IL PD
 Kankakee County IL SO
 Kenmore Village NY PD
 Kenosha County WI SO
-Kenosha WI PD
 Kent County MI SO
 Kentwood MI PD
 Knox County IL SO
 Knox County TN SO
 La Grange MO PD
 La Grange Park IL PD
-Lac Courte Oreilles Tribal Police WI
 Lackawanna City NY PD
 Lafayette IN PD
 Lafayette TN PD
 LaGrange KY PD
 Lake County IN SO
 Lake Delton WI PD
-Lake Geneva WI PD
-Lake St. Louis MO PD
 Lakemore OH PD
 Lakeside Park-Crestview Hills KY PD
 Lansing IL PD
 Lapel IN PD
 Laporte County IN SO
 LaSalle Co. IL SO - New
-Lasalle IL PD
 Lathrup Village MI PD
+Lawrence County District Attorney's Office PA
 Lawrence County IN SO
-Lawrence District Attorney PA
 Lawrence IN PD
 Lee County IL SO
 Lehigh County PA (RIIC)
@@ -1658,12 +1615,10 @@ Linden IN PD
 Lithopolis OH PD
 Livingston County IL SO
 Lockland OH PD
-Lodi WI PD
 Logan County KY SO
 Logansport IN PD
 Lorain County OH SO
 Louisville Airport PD
-Louisville Metro KY PD
 Louisville OH PD
 Loveland OH PD
 Lowell MI PD
@@ -1679,12 +1634,9 @@ Manchester MO PD
 Mansfield OH PD
 Maplewood MO PD
 Marathon County WI SO
-Marinette County SO (WI)
-Marion County MO SO
 Marion County OH SO
 Marion County WV SO
 Marion Health PD (IN)
-Marion IL PD
 Marion IN PD
 Markle IN PD
 Marshall WI PD
@@ -1697,19 +1649,14 @@ Matteson IL PD
 Mattoon IL PD
 Maumee OH PD
 Mauston WI PD
-McDonough County IL SO
-McHenry County Conservation District IL PD
 Medina County OH SO
 Melvindale MI PD
-Menasha WI PD
 Menomonee Falls WI PD
 Mentor OH PD
-Mequon WI PD
 Mercer County OH SO
 Metamora Township MI PD
 Metro Police Authority of Genesee County MI
 Metropolis IL PD
-MI - Saginaw County SO
 MI - Village of Middleville
 Miami County OH SO
 Miamisburg OH PD
@@ -1727,7 +1674,6 @@ Missouri Department of Conservation
 Missouri Department of Public Safety
 Monmouth IL PD
 Monon IN PD
-Monona WI PD
 Monroe County MI SO
 Monroe County WI SO
 Monroe MI PD
@@ -1738,7 +1684,6 @@ Mooresville IN PD
 Moraine OH PD
 Morehead KY PD
 Morgan County IN SO
-Morristown IN PD
 Morristown TN PD
 Morton Grove IL PD
 Mount Morris Township PD MI
@@ -1756,7 +1701,6 @@ Muskegon MI PD
 Muskegon Township MI PD (Muskegon County)
 Napoleon OH PD
 Napoleon Twp MI PD
-Nekoosa WI PD
 Nelson County KY SO
 Neshkoro WI PD
 New Albany IN PD
@@ -1787,7 +1731,6 @@ Oak Lawn IL PD
 Oakbrook Terrace IL PD
 Oakland County MI SO
 Ogle County IL SO
-OH - Blanchester PD
 OH - Chillicothe PD
 OH - Highland County SO
 OH - Jefferson County Drug Task Force
@@ -1801,7 +1744,6 @@ OH- Springfield Township PD (Hamilton Co)
 Ohio Department of Rehabilitation and Correction - Office of the Chief Inspector
 Ohio State Fire Marshal
 Olmsted Falls OH PD
-Oneida WI PD
 Onondaga County NY SO
 Oolitic Marshal’s Office
 Oregon OH PD
@@ -1834,10 +1776,8 @@ Pittsfield IL PD
 Plainfield IL PD
 Plainfield IN PD
 Plainview TN PD
-Pleasant Prairie WI PD
 Plover WI PD
 Plymouth MI PD
-Plymouth WI PD
 Pokagon Tribal MI PD
 Poland Township OH PD
 Port Clinton OH PD
@@ -1868,9 +1808,7 @@ Riverdale IL PD
 Riverside PD - OH
 Riverton IL PD
 Robertson County TN SO
-Rochester IL PD
 Rochester MI PD
-Rock County WI SO
 Rockdale IL PD
 Rockford Dept of Public Safety MI
 Rocky River OH PD
@@ -1881,12 +1819,11 @@ Ross Township PA PD
 Rossford OH PD
 Royal Oak MI PD
 Rutledge TN PD
+Saginaw County MI SO
 Saginaw MI PD
 Saint Croix Falls WI PD
 Salem OH PD
 Sangamon County IL SO
-Sauk County WI SO
-Sauk Prairie WI PD
 Sauk Village IL PD
 Sawyer County WI SO
 Schuyler Co. IL SO
@@ -1933,7 +1870,6 @@ Ste. Genevieve County MO SO
 Steger IL PD
 Sterling Heights MI PD
 Steubenville OH PD
-Stillwater MN PD
 Stow OH PD
 Strongsville OH PD
 Struthers OH PD
@@ -1961,18 +1897,14 @@ Tomah WI PD
 Toronto OH PD
 Town & Country MO PD
 Traverse City MI PD
-Trenton OH PD
 Trenton PD MI
 Trousdale County TN SO
 Troy MI PD
 Truesdale MO PD
 Twinsburg OH PD
-Two Rivers WI PD
 Union County KY SO
 Union Pacific Railroad PD
 Union Township PD (Clermont Co) - OH
-University of Iowa PD (IA)
-University of Kentucky
 University of Louisville KY PD
 Utica City NY PD
 Utica MI PD
@@ -1981,7 +1913,6 @@ Van Buren MI PD
 Vandalia OH PD
 Vanderburgh County IN SO
 Vernon County WI SO
-Vienna IL PD
 Vigo County IN SO
 Villa Park IL PD
 Village of Clearview WV PD
@@ -2043,10 +1974,8 @@ Willow Springs IL PD
 Wilmore KY PD
 Winnebago County IL SO
 Winnebago County WI SO
-Winneconne WI PD
 Wixom MI PD
 Wolverine Lake MI PD
-Wood County WI SO
 Woodford County IL SO
 Woodson Terrace MO PD
 Wooster OH PD
