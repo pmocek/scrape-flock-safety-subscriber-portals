@@ -5,7 +5,7 @@ Visit Flock
 Grandville PD MI
 Transparency Portal
 
-Last updated: Mon Sep 28 2026
+Last updated: Tue Sep 29 2026
 
 Overview
 
@@ -105,7 +105,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-325,873
+322,058
 
 Number of Searches
 
@@ -123,7 +123,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,008
+979
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -131,8 +131,8 @@ Offense Types used for LPR searches in the last 30 days.
 Larceny/Theft Offenses
 Obstructing the Police (Fleeing/Eluding)
 Financial Crime (Embezzlement/Fraud)
-Drugs/Narcotics
 Assault/Battery Offenses
+Drugs/Narcotics
 
 Sharing Network Data With
 
@@ -1150,7 +1150,6 @@ Normal IL PD
 Normandy MO PD
 North Aurora IL PD
 North County Cooperative MO PD
-North Liberty IA PD
 North Manchester IN PD
 North Missouri Drug Task Force MO
 North MO DTF Brookfield MO PD

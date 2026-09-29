@@ -1,6 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"24018fcc-7f99-4a8b-ae7b-103911a99dfd","***","2026-08-29T11:12:04.915Z","1","Motor Vehicle Theft/Stolen"
-"dfb88298-e1ff-497d-9997-fbcf7a81c254","***","2026-08-29T17:20:22.898Z","11","Motor Vehicle Theft/Stolen"
 "71ecfb4c-f567-4823-a338-cde2bca5b13a","***","2026-08-30T17:02:02.053Z","1","Motor Vehicle Theft/Stolen"
 "b4ebd1a9-1a2f-419d-bff5-331eaf3a4b67","***","2026-08-31T02:43:25.874Z","10","Larceny/Theft Offenses"
 "000c8e9a-4053-47a2-b3e7-ebb9b5a660df","***","2026-08-31T17:29:04.543Z","5","Stolen Property Offenses"
@@ -21,3 +19,4 @@
 "13b45606-8ad3-498f-9660-b2cc0555d7f6","***","2026-09-23T02:32:51.513Z","9","Motor Vehicle Theft/Stolen"
 "6d406657-c30e-4865-8551-8b228d79d9b2","***","2026-09-23T06:50:55.348Z","3","Motor Vehicle Theft/Stolen"
 "f775ff63-2b9e-4e40-a1f1-8d70487e9f9e","***","2026-09-23T08:08:46.676Z","9","Motor Vehicle Theft/Stolen"
+"ee1f4504-7407-4545-90a6-bf945b4e40dc","***","2026-09-28T17:38:57.114Z","1","Protective/Protection Order"
