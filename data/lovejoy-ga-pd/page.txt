@@ -5,7 +5,7 @@ Visit Flock
 Lovejoy GA PD
 Transparency Portal
 
-Last updated: Mon Sep 28 2026
+Last updated: Tue Sep 29 2026
 
 Overview
 
@@ -36,7 +36,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-83,577
+82,747
 
 Number of Searches
 
@@ -54,7 +54,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,466
+5,485
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -813,7 +813,6 @@ Licking County OH SO
 Lilburn GA PD
 Lincoln AL PD
 Linden IN PD
-Lithopolis OH PD
 Little Rock AR PD
 Livingston Parish County LA SO
 Locust Grove GA PD
