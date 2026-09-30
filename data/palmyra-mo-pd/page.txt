@@ -5,7 +5,7 @@ Visit Flock
 Palmyra MO PD
 Transparency Portal
 
-Last updated: Tue Sep 29 2026
+Last updated: Wed Sep 30 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-28,687
+28,859
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-32
+23
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-23
+22
 
 Sharing Network Data With
 
@@ -362,7 +362,6 @@ Forest County WI SO
 Forest Preserve District Will County PD (IL)
 Fort Loramie OH PD
 Fort Pierce FL PD
-Fort Thomas KY PD
 Fort Wayne IN PD
 Fort Worth TX PD
 Franklin County IL SO
