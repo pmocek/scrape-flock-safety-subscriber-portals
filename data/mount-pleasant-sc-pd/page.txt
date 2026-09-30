@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Mon Sep 28 2026
+Last updated: Tue Sep 29 2026
 
 Overview
 
@@ -63,19 +63,19 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-440 alerts
+436 alerts
 NCIC - Sex Offender
-156
+155
 NCIC - Protection Order
-115
+114
 NCIC - Stolen Plate
 95
 NCIC - Stolen Vehicle
-51
+52
 NCIC - Gang or Suspected Terrorist
 14
 NCIC - Warrants
-7
+4
 NCIC - Missing Person
 1
 NCIC - Violent Person
@@ -103,13 +103,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-268,576
+270,950
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-216
+225
 
 Hotlists Alerted On
 
@@ -121,7 +121,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,318
+4,328
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -1041,7 +1041,6 @@ OH- Springfield Township PD (Hamilton Co)
 Ohio County SO WV
 Ohio State Highway Patrol
 OK - Washita County SO
-Okaloosa County FL SO
 Okeechobee County FL SO
 Old Fort NC PD
 Old Westbury Village NY PD
@@ -1067,7 +1066,6 @@ Oxford PD - OH
 Pageland SC PD
 Palm Beach County FL SO
 Palm Springs CA PD
-Panama City Beach FL PD
 Panama City FL PD
 Paradise Valley AZ PD
 Paris KY PD
@@ -1144,7 +1142,6 @@ Rapides Parish LA SO
 Raytown MO PD
 Regional Vehicle Burglary Suppression Taskforce TX
 Rehoboth Beach DE PD
-Republic MO PD
 Reynolds GA PD
 Rhea County TN SO
 Richardson TX PD
@@ -1898,7 +1895,6 @@ Lee County SC SO
 Leeds AL PD
 Leesburg AL PD
 Leesburg GA PD
-Lenoir NC PD
 Leon County Sheriffs Office (FL)
 Lexington KY PD
 Lexington SC PD
