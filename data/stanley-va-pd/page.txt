@@ -5,7 +5,7 @@ Visit Flock
 Stanley VA PD
 Transparency Portal
 
-Last updated: Tue Sep 29 2026
+Last updated: Wed Sep 30 2026
 
 Overview
 
@@ -315,7 +315,6 @@ Roanoke VA PD
 Rock Hill SC PD
 Rockbridge County VA SO
 Rocky Mount NC PD
-Rocky Mount VA PD
 Ross Township PA PD
 Scottsboro AL PD
 Scottsville VA PD
@@ -332,7 +331,6 @@ South Bend IN PD
 South Boston VA PD
 South Hill VA PD
 Southern Regl PA PD
-Spartanburg SC PD
 Springfield TN PD
 Steubenville OH PD
 Suffolk VA PD
@@ -352,7 +350,6 @@ Warren County VA SO
 Warrenton NC PD
 Wells County IN SO
 Westmoreland County VA SO
-Westport MA PD
 Whitehall Township PA PD
 Whitley County IN Prosector
 Williamsburg VA PD
