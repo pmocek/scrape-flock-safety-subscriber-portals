@@ -5,7 +5,7 @@ Visit Flock
 Palmyra MO PD
 Transparency Portal
 
-Last updated: Wed Sep 30 2026
+Last updated: Thu Oct 01 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-28,859
+28,850
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-23
+14
 
 Hotlists Alerted On
 
@@ -146,7 +146,6 @@ Bowling Green Warren County Drug Task Force KY
 Breckenridge Hills MO PD
 Breckinridge County KY SO
 Brentwood MO PD
-Brevard County FL SO
 Bridgeport Township MI PD
 Bridgeton MO PD
 Brighton CO PD
