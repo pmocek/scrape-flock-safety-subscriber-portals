@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Tue Sep 29 2026
+Last updated: Wed Sep 30 2026
 
 Overview
 
@@ -63,19 +63,19 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-436 alerts
+429 alerts
 NCIC - Sex Offender
-155
+156
 NCIC - Protection Order
-114
+113
 NCIC - Stolen Plate
-95
+90
 NCIC - Stolen Vehicle
-52
+51
 NCIC - Gang or Suspected Terrorist
 14
 NCIC - Warrants
-4
+3
 NCIC - Missing Person
 1
 NCIC - Violent Person
@@ -103,13 +103,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-270,950
+271,360
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-225
+237
 
 Hotlists Alerted On
 
@@ -121,7 +121,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,328
+4,366
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -260,7 +260,6 @@ Branson MO PD
 Braselton GA PD
 Bremen GA PD
 Brent AL PD
-Brevard County FL SO
 Broward County FL SO
 Brownsburg IN PD
 Brunswick County NC SO
@@ -522,7 +521,6 @@ Forsyth County GA SO
 Fort Mill SC PD
 Fort Oglethorpe GA PD
 Fort Pierce FL PD
-Fort Thomas KY PD
 Fort Walton Beach FL PD
 Fort Wayne IN PD
 Fort Worth TX PD
@@ -840,7 +838,6 @@ Lincoln County SO NE
 Lincoln County TN SO
 Lincolnton NC PD
 Little Rock AR PD
-Live Oak FL PD
 Logan County KY SO
 Loganville GA PD
 Longboat Key FL PD
@@ -2193,7 +2190,6 @@ Warrensville Heights OH PD
 Warrenton NC PD
 Wartburg TN PD
 Washington County SO - GA
-Washingtonville NY PD
 Watertown WI PD
 Watervliet NY PD
 Waukesha County WI SO
