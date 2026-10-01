@@ -5,7 +5,7 @@ Visit Flock
 Grand Traverse County MI SO
 Transparency Portal
 
-Last updated: Tue Sep 29 2026
+Last updated: Wed Sep 30 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-374,641
+375,099
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-182
+187
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,595
+1,643
 
 Sharing Network Data With
 
@@ -174,7 +174,6 @@ Bradford County Detectives PA
 Branson MO PD
 Breckinridge County KY SO
 Brentwood MO PD
-Brevard County FL SO
 Bridgeport Township MI PD
 Bridgeton MO PD
 Bridgeview IL PD
@@ -489,6 +488,7 @@ Geauga County OH SO
 Geddes Town NY PD
 Genesee County MI SO
 Genesee County NY SO
+Genoa City WI PD
 Genoa Township OH PD
 Georgetown IL PD
 Georgetown IN PD
@@ -761,6 +761,7 @@ Lexington NE PD
 Licking County OH SO
 Lighthouse Point FL PD
 Ligonier IN PD
+Lima OH PD
 Lincoln County SO NE
 Lincoln County TN SO
 Lincoln Park MI PD
@@ -1144,6 +1145,7 @@ Pratt County KS SO
 Prescott AZ PD
 Prince William County VA PD
 Purcell OK PD
+Purdue University IN PD
 Putnam County GA SO
 Puyallup WA PD
 Quincy IL PD
@@ -1275,10 +1277,10 @@ South Bend IN PD
 South Dakota Division of Criminal Investigation SD
 South Elgin IL PD
 South Euclid OH PD
-South Lyon MI PD
 South Russell OH PD
 South Sioux City NE PD
 Southaven MS PD
+Southern Ohio Drug Task Force (OH)
 Southern Regl PA PD
 Southern View IL PD
 Southfield MI PD
@@ -1497,6 +1499,7 @@ Willoughby Hills OH PD
 Willoughby OH PD
 Willow Springs IL PD
 Willowbrook IL PD
+Willowick OH PD
 Wilmette IL PD
 Wilmington OH PD
 Wilmore KY PD
