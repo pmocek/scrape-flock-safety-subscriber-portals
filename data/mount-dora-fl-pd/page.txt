@@ -5,7 +5,7 @@ Visit Flock
 Mount Dora FL PD
 Transparency Portal
 
-Last updated: Thu Oct 01 2026
+Last updated: Fri Oct 02 2026
 
 Overview
 
@@ -24,19 +24,19 @@ Total Cameras
 
 Number of LPR and other cameras.
 
-6
+8
 
 Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-56,764
+55,735
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-9
+7
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-496
+192
 
 Sharing Network Data With
 

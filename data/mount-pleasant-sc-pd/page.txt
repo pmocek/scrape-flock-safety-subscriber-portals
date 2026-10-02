@@ -5,7 +5,7 @@ Visit Flock
 Mount Pleasant SC PD
 Transparency Portal
 
-Last updated: Wed Sep 30 2026
+Last updated: Thu Oct 01 2026
 
 Overview
 
@@ -63,15 +63,15 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-429 alerts
+427 alerts
 NCIC - Sex Offender
-156
+155
 NCIC - Protection Order
-113
+110
 NCIC - Stolen Plate
-90
+89
 NCIC - Stolen Vehicle
-51
+54
 NCIC - Gang or Suspected Terrorist
 14
 NCIC - Warrants
@@ -103,13 +103,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-271,360
+272,854
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-237
+227
 
 Hotlists Alerted On
 
@@ -121,7 +121,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-4,366
+4,385
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -444,7 +444,6 @@ Duluth GA PD
 Duncan SC PD
 Dunn NC PD
 DuPage County IL SO
-Duplin County NC SO
 Duquesne MO PD
 Durango CO PD
 Easley SC PD
@@ -1484,7 +1483,6 @@ Receiving Network Data From
 
 Organizations sharing their data with Mount Pleasant SC PD.
 
-[Federal] US Postal Inspection Service
 Abbeville SC PD
 Acworth GA PD
 Adairsville GA PD
@@ -1550,7 +1548,6 @@ Brevard County FL SO
 Briarcliffe Acres SC PD
 Brighton AL PD
 Brighton CO PD
-Broadview Heights OH PD
 Brookhaven GA PD
 Brookings SD PD
 Brookville NY PD
@@ -2116,7 +2113,6 @@ Spartanburg SC PD
 Spring Hill TN PD
 Springfield OH PD
 Springfield TN PD
-St. Augustine FL PD
 St. Charles County MO PD
 St. Charles Parish LA SO
 St. John Parish LA SO
