@@ -5,7 +5,7 @@ Visit Flock
 Stanley VA PD
 Transparency Portal
 
-Last updated: Wed Sep 30 2026
+Last updated: Thu Oct 01 2026
 
 Overview
 
@@ -163,7 +163,6 @@ Receiving Network Data From
 
 Organizations sharing their data with Stanley VA PD.
 
-[Federal] US Postal Inspection Service
 Acworth GA PD
 Adrian MI PD
 Ahoskie NC PD
