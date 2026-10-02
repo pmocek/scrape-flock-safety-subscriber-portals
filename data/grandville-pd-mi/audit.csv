@@ -1,7 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"3f29e7aa-f4b8-4e31-bfdc-6312025a7dcc","***","2026-09-01T18:26:31.145Z","328","Larceny/Theft Offenses"
-"d8542a66-8d60-42cc-949b-5a60a993a2c9","***","2026-09-01T22:58:40.188Z","227","Larceny/Theft Offenses"
-"e8392bf4-633f-4311-88a7-fe2973187a25","***","2026-09-01T23:01:16.291Z","227","Larceny/Theft Offenses"
 "b8f5efb5-2c96-4aae-84ca-f93a41897f65","***","2026-09-03T13:21:10.036Z","325","Larceny/Theft Offenses"
 "41c6fbfa-224e-4fcf-afad-f4a4244120e9","***","2026-09-03T18:24:07.191Z","325","Larceny/Theft Offenses"
 "05ac145a-fe11-4ac4-bce4-b95457af0734","***","2026-09-03T18:41:12.464Z","1","Robbery"
@@ -52,3 +49,4 @@
 "88fdfca1-3bdb-43da-bbe4-e58153cadcb8","***","2026-09-30T16:25:22.182Z","318","Drugs/Narcotics"
 "44c9acaa-bde2-4265-a1c2-a9d568bfc1d6","***","2026-09-30T21:12:11.845Z","318","Drugs/Narcotics"
 "b5e32865-8c22-49a5-b5e4-0299ac409a45","***","2026-09-30T22:00:01.898Z","318","Drugs/Narcotics"
+"b54843cf-80ab-4e83-98fe-9b3d2788dcc1","***","2026-10-01T14:39:19.797Z","317","Drugs/Narcotics"

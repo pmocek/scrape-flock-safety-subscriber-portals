@@ -5,7 +5,7 @@ Visit Flock
 Grand Traverse County MI SO
 Transparency Portal
 
-Last updated: Wed Sep 30 2026
+Last updated: Thu Oct 01 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-375,099
+373,310
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-187
+186
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,643
+1,595
 
 Sharing Network Data With
 
@@ -722,7 +722,6 @@ Lake Delton WI PD
 Lake Forest IL PD
 Lake Geneva WI PD
 Lake In The Hills IL PD
-Lake Mills WI PD
 Lake St. Louis MO PD
 Lake Villa IL PD
 Lake Zurich IL PD
