@@ -5,7 +5,7 @@ Visit Flock
 Itasca IL PD
 Transparency Portal
 
-Last updated: Wed Sep 30 2026
+Last updated: Fri Oct 02 2026
 
 Overview
 
@@ -36,7 +36,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-154
+153
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-3,452
+3,437
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
