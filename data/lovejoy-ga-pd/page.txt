@@ -5,7 +5,7 @@ Visit Flock
 Lovejoy GA PD
 Transparency Portal
 
-Last updated: Thu Oct 01 2026
+Last updated: Sat Oct 03 2026
 
 Overview
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-82,176
+82,499
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-10
+8
 
 Hotlists Alerted On
 
@@ -54,7 +54,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-5,596
+5,678
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
