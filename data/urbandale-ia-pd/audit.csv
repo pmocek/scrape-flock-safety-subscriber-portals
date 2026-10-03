@@ -1,5 +1,4 @@
 "id","userId","searchDate","networkCount","offenseType"
-"387076ef-16c3-404a-bd33-d29cd11bac73","***","2026-09-02T16:19:38.746Z","593","Hit and Run/Car Accident"
 "dd934e2c-5529-47da-ada0-f271c181865d","***","2026-09-03T15:12:14.808Z","589","Larceny/Theft Offenses"
 "23e5d7a1-dca6-4a7f-a987-c84181f8dbbc","***","2026-09-03T16:55:34.095Z","589","Larceny/Theft Offenses"
 "77f36822-132c-459e-b4c1-35a59cfe7cd3","***","2026-09-04T01:49:57.273Z","5697","Wanted Person (Arrest Warrant/Fugitive)"
@@ -152,3 +151,7 @@
 "ed8e6e0b-3a32-409b-b66a-d7edfcb9b884","***","2026-10-01T17:00:34.504Z","5330","Hit and Run/Car Accident"
 "4c9d7349-35f6-4dd5-94f3-e166154364fe","***","2026-10-01T19:05:02.511Z","1","Larceny/Theft Offenses"
 "980cfc0b-236b-409a-af0d-819889add2f8","***","2026-10-01T20:09:10.527Z","1","Larceny/Theft Offenses"
+"ac269339-ff38-4ae0-a92e-326c79d1f84e","***","2026-10-02T19:34:21.830Z","1","Assault/Battery Offenses"
+"c17c9377-43c2-487e-8e45-2c640be85d06","***","2026-10-02T19:44:16.412Z","67","Threats/Harassment"
+"a10c7728-9fc6-42b0-be78-b65d6a6decb4","***","2026-10-02T19:44:42.731Z","1","Larceny/Theft Offenses"
+"c209720a-5d8c-4ac4-bfe6-193e5b0c0de7","***","2026-10-02T20:10:27.982Z","5303","Larceny/Theft Offenses"
