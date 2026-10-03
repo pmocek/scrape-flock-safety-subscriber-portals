@@ -5,7 +5,7 @@ Visit Flock
 Rome GA PD
 Transparency Portal
 
-Last updated: Fri Oct 02 2026
+Last updated: Sat Oct 03 2026
 
 Overview
 
@@ -58,23 +58,23 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-15,924 alerts
+15,890 alerts
 Georgia DOR - Expired
-12,403
+12,361
 Georgia DOR - Suspended
-2,909
+2,940
 NCIC - Sex Offender
-533
+516
 NCIC - Warrants
-41
+37
 NCIC - Stolen Vehicle
-14
+13
 NCIC - Stolen Plate
 9
 NCIC - Extreme Risk Protection Order
 7
 NCIC - CPIC Data Records
-5
+4
 NCIC - Protection Order
 3
 
@@ -100,7 +100,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-117
+115
 
 Hotlists Alerted On
 
@@ -112,7 +112,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-42,425
+42,317
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -121,7 +121,7 @@ Larceny/Theft Offenses
 Drugs/Narcotics
 Missing/Endangered Person/Runaway
 Obstructing the Police (Fleeing/Eluding)
-Hit and Run/Car Accident
+Motor Vehicle Theft/Stolen
 Policy & Trust
 
 What's Detected
