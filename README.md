@@ -36,6 +36,9 @@ Tracks Flock Safety subscriber data using the [git-scraping](https://simonwillis
 | `scripts/ncic-contradiction.py` | Detects NCIC hotlist / immigration enforcement contradictions |
 | `download.sh` | Refreshes `wa-agencies.json` from eyesonflock.com |
 | `wa-agencies.json` | Cached list of WA agency slugs |
+| `doc/PLANNING.md` | Persistent project roadmap and archived tasks (replacing Beads) |
+| `doc/CAMOUFOX_EVALUATION.md` | Evaluation of Camoufox anti-detect browser for Cloudflare evasion |
+| `doc/DEFLOCK_RESEARCH.md` | Reverse-engineering intelligence on DeFlock, OpenStreetMap, and Flock hardware |
 | `requirements.txt` | Python dependencies (playwright, playwright-stealth) |
 | `AGENTS.md` | Development notes and fix history for AI agents |
 
