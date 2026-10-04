@@ -27,6 +27,17 @@
 - `.github/workflows/scrape.yml`: Added "Detect NCIC contradictions" step after audit analysis. Captures `COMMIT_BODY:` lines from `ncic-contradiction.py --commit-body` and appends them as an "NCIC findings:" section in commit body.
 - `.github/workflows/health-check.yml`: GHA's default `bash -e` was swallowing script output when health-check.py exited with code 1 (>50% agencies unreachable). The `OUTPUT=$(...)` line triggered `-e` before `echo "$OUTPUT"` ran, losing all diagnostic output. Fixed by adding `|| true` and `continue-on-error: true` so output is always captured and commit step always runs.
 - `scrape-flock.py` / AGENTS.md: `refresh_agencies()` overwrote `wa-agencies.json` with only eyesonflock.com's 41 WA slugs on every run, discarding slugs added by cross-agency spidering. eyesonflock is a third-party aggregator with ~16% miss rate (8+ real portals not indexed). Fixed by removing `refresh_agencies()` from the daily workflow; eyesonflock API data still downloaded for name-to-slug mapping (NCIC analysis), but no longer used as authoritative agency source.
+- `adr/002-portal-data-expansion.md` / `scrape-flock.py` / `scripts/backfill-portal-data.py`: Evaluated Flock portal architecture in comparison to Axon Fusus (ADR 001 in `scrape-axon-communityconnect`). Flock serves pre-rendered SSR HTML behind Cloudflare (no unauthenticated JSON API), requiring Playwright scraping. Expanded data extraction to pull:
+  - Exact vendor compilation timestamp (`portal_last_updated` from `<span title="...">`)
+  - Agency overview / mission statements (`overview`)
+  - Status classification (`portal_status`: active, inactive, not_found)
+  - Un-truncated policy texts (removed 500-char cap)
+  - Custom `#more-info` / `Additional Info` disclosures (camera street locations, funding sources, external policy links)
+  - Interactive widgets (`top_offense_types` and `camera_alert_activity` counts and breakdown)
+  - DOM-level `data-tp-full-value` attribute extraction for sharing networks
+  - Local asset downloads for agency insignia (`logo.{ext}`) and direct policy PDFs (`policy.pdf`)
+  - Cumulative `audit.csv` deduplication and merging across rolling 30-day windows
+  - Backfilled all 629 historical HTML snapshots into `stats.jsonl` via `scripts/backfill-portal-data.py`.
 
 ## Agency list source
 

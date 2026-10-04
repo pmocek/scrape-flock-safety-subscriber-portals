@@ -29,9 +29,11 @@ Tracks Flock Safety subscriber data using the [git-scraping](https://simonwillis
 |------|---------|
 | `scrape.sh` | Entry point — refreshes agency list, runs Playwright scraper |
 | `scrape-flock.py` | Playwright-based scraper for Cloudflare-protected agency pages |
+| `scripts/backfill-portal-data.py` | Re-parses historical HTML snapshots to populate newly added schema fields |
 | `scripts/describe-diff.py` | Generates semantic commit messages from staged `stats.jsonl` diffs |
 | `scripts/health-check.py` | Playwright-based health check; lists errored/blocked agencies in commit body |
 | `scripts/analyze-audit.py` | Categorizes audit CSV search reasons, flags DPA violations and outliers |
+| `scripts/ncic-contradiction.py` | Detects NCIC hotlist / immigration enforcement contradictions |
 | `download.sh` | Refreshes `wa-agencies.json` from eyesonflock.com |
 | `wa-agencies.json` | Cached list of WA agency slugs |
 | `requirements.txt` | Python dependencies (playwright, playwright-stealth) |
@@ -43,10 +45,12 @@ Each agency saves into `data/{slug}/`:
 
 | File | How it updates |
 |------|---------------|
-| `stats.jsonl` | Append-only — one JSON line per successful scrape with `ts` key, extracted stats, directional sharing data (`shares_data_with`, `receives_data_from`), and `audit_immigration_entries`/`audit_immigration_reasons` if the audit CSV had immigration-related search reasons |
+| `stats.jsonl` | Append-only — one JSON line per successful scrape with `ts` key, vendor compile timestamp (`portal_last_updated`), status (`portal_status`), overview, extracted stats, un-truncated policies, custom disclosures (`more_info`), camera locations (`camera_locations`), funding sources (`funding_source`), policy links (`policy_links`), widgets (`top_offense_types`, `camera_alert_activity`), directional sharing data (`shares_data_with`, `receives_data_from`), and audit flags (`audit_immigration_entries`/`audit_immigration_reasons`) |
 | `page.html` | Overwritten — full rendered HTML of the portal page |
 | `page.txt` | Overwritten — visible text extracted from the page (canonical source for directional sharing data) |
-| `audit.csv` | Overwritten — Public Search Audit CSV, if the agency publishes one |
+| `audit.csv` | Cumulative — Public Search Audit CSV merged and deduplicated over time across 30-day rolling windows |
+| `logo.png` / `logo.svg` | Downloaded — official agency badge/insignia asset preserved locally |
+| `policy.pdf` | Downloaded — official ALPR policy document when linked directly as a PDF |
 | `blocked.jsonl` | Append-only — records Cloudflare block events (never pollutes `stats.jsonl`) |
 | `health.jsonl` | Append-only — written by the health-check workflow |
 | `sharing-relationships.json` | Generated — aggregated directional relationships across all agencies (`data/`) |
