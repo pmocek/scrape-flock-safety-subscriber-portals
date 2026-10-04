@@ -1,0 +1,529 @@
+{
+  "City of Yakima": {
+    "camera_count": 57,
+    "candidate_slugs": [
+      "yakima-wa-pd",
+      "yakima-wa-so"
+    ]
+  },
+  "Federal Way Police": {
+    "camera_count": 44,
+    "candidate_slugs": [
+      "city-of-federal-way-wa-pd",
+      "federal-way-pd-wa",
+      "federal-way-wa-pd",
+      "federal-way-wa-pd-"
+    ]
+  },
+  "Lakewood Police Department": {
+    "camera_count": 41,
+    "candidate_slugs": [
+      "city-of-lakewood-wa-pd",
+      "lakewood-pd-wa",
+      "lakewood-wa-pd",
+      "lakewood-wa-pd-"
+    ]
+  },
+  "Spokane County Sheriff's Office": {
+    "camera_count": 34,
+    "candidate_slugs": [
+      "-spokane-county-wa-so",
+      "spokane-county-so-wa",
+      "spokane-county-wa-so"
+    ]
+  },
+  "Everett Police Department": {
+    "camera_count": 25,
+    "candidate_slugs": [
+      "city-of-everett-wa-pd",
+      "everett-pd-wa",
+      "everett-wa-pd",
+      "everett-wa-pd-"
+    ]
+  },
+  "Flock Safety": {
+    "camera_count": 19,
+    "candidate_slugs": [
+      "flock-safety-wa-pd",
+      "flock-safety-wa-so"
+    ]
+  },
+  "Auburn Police": {
+    "camera_count": 18,
+    "candidate_slugs": [
+      "auburn-pd-wa",
+      "auburn-wa-pd",
+      "auburn-wa-pd-",
+      "city-of-auburn-wa-pd"
+    ]
+  },
+  "Everett Police": {
+    "camera_count": 15,
+    "candidate_slugs": [
+      "city-of-everett-wa-pd",
+      "everett-pd-wa",
+      "everett-wa-pd",
+      "everett-wa-pd-"
+    ]
+  },
+  "Lynnwood Police": {
+    "camera_count": 15,
+    "candidate_slugs": [
+      "city-of-lynnwood-wa-pd",
+      "lynnwood-pd-wa",
+      "lynnwood-wa-pd",
+      "lynnwood-wa-pd-"
+    ]
+  },
+  "Clark County Sheriff's Office": {
+    "camera_count": 15,
+    "candidate_slugs": [
+      "-clark-county-wa-so",
+      "clark-county-so-wa",
+      "clark-county-wa-so"
+    ]
+  },
+  "Des Moines Police": {
+    "camera_count": 14,
+    "candidate_slugs": [
+      "city-of-des-moines-wa-pd",
+      "des-moines-pd-wa",
+      "des-moines-wa-pd",
+      "des-moines-wa-pd-"
+    ]
+  },
+  "Toppenish Police": {
+    "camera_count": 12,
+    "candidate_slugs": [
+      "city-of-toppenish-wa-pd",
+      "toppenish-pd-wa",
+      "toppenish-wa-pd",
+      "toppenish-wa-pd-"
+    ]
+  },
+  "Sumner Police": {
+    "camera_count": 10,
+    "candidate_slugs": [
+      "city-of-sumner-wa-pd",
+      "sumner-pd-wa",
+      "sumner-wa-pd",
+      "sumner-wa-pd-"
+    ]
+  },
+  "Chelan County SO": {
+    "camera_count": 10,
+    "candidate_slugs": [
+      "-chelan-county-wa-so",
+      "chelan-county-so-wa",
+      "chelan-county-wa-so"
+    ]
+  },
+  "Puyallup Police": {
+    "camera_count": 9,
+    "candidate_slugs": [
+      "city-of-puyallup-wa-pd",
+      "puyallup-pd-wa",
+      "puyallup-wa-pd",
+      "puyallup-wa-pd-"
+    ]
+  },
+  "SeaTac Police": {
+    "camera_count": 9,
+    "candidate_slugs": [
+      "city-of-seatac-wa-pd",
+      "seatac-pd-wa",
+      "seatac-wa-pd",
+      "seatac-wa-pd-"
+    ]
+  },
+  "Centralia Police Department": {
+    "camera_count": 8,
+    "candidate_slugs": [
+      "centralia-pd-wa",
+      "centralia-wa-pd",
+      "centralia-wa-pd-",
+      "city-of-centralia-wa-pd"
+    ]
+  },
+  "Kent Police": {
+    "camera_count": 8,
+    "candidate_slugs": [
+      "city-of-kent-wa-pd",
+      "kent-pd-wa",
+      "kent-wa-pd",
+      "kent-wa-pd-"
+    ]
+  },
+  "Wapato Police": {
+    "camera_count": 8,
+    "candidate_slugs": [
+      "city-of-wapato-wa-pd",
+      "wapato-pd-wa",
+      "wapato-wa-pd",
+      "wapato-wa-pd-"
+    ]
+  },
+  "Wenatchee Police Department": {
+    "camera_count": 7,
+    "candidate_slugs": [
+      "city-of-wenatchee-wa-pd",
+      "wenatchee-pd-wa",
+      "wenatchee-wa-pd",
+      "wenatchee-wa-pd-"
+    ]
+  },
+  "Richland Police": {
+    "camera_count": 7,
+    "candidate_slugs": [
+      "city-of-richland-wa-pd",
+      "richland-pd-wa",
+      "richland-wa-pd",
+      "richland-wa-pd-"
+    ]
+  },
+  "City of Redmond": {
+    "camera_count": 6,
+    "candidate_slugs": [
+      "redmond-wa-pd",
+      "redmond-wa-so"
+    ]
+  },
+  "Spokane Co Sheriff": {
+    "camera_count": 6,
+    "candidate_slugs": [
+      "-spokane-co-wa-so",
+      "spokane-co-county-so-wa",
+      "spokane-co-county-wa-so",
+      "spokane-co-so-wa",
+      "spokane-co-wa-so"
+    ]
+  },
+  "Othello PD": {
+    "camera_count": 6,
+    "candidate_slugs": [
+      "city-of-othello-wa-pd",
+      "othello-pd-wa",
+      "othello-wa-pd",
+      "othello-wa-pd-"
+    ]
+  },
+  "Skamania County Sheriff's Department": {
+    "camera_count": 5,
+    "candidate_slugs": [
+      "-skamania-county-wa-so",
+      "skamania-county-so-wa",
+      "skamania-county-wa-so"
+    ]
+  },
+  "West Richland Police": {
+    "camera_count": 5,
+    "candidate_slugs": [
+      "city-of-west-richland-wa-pd",
+      "west-richland-pd-wa",
+      "west-richland-wa-pd",
+      "west-richland-wa-pd-"
+    ]
+  },
+  "King County Housing Authority": {
+    "camera_count": 5,
+    "candidate_slugs": [
+      "king-county-housing-authority-wa-pd",
+      "king-county-housing-authority-wa-so"
+    ]
+  },
+  "Covington Police": {
+    "camera_count": 4,
+    "candidate_slugs": [
+      "city-of-covington-wa-pd",
+      "covington-pd-wa",
+      "covington-wa-pd",
+      "covington-wa-pd-"
+    ]
+  },
+  "Sunnyside Police": {
+    "camera_count": 4,
+    "candidate_slugs": [
+      "city-of-sunnyside-wa-pd",
+      "sunnyside-pd-wa",
+      "sunnyside-wa-pd",
+      "sunnyside-wa-pd-"
+    ]
+  },
+  "Valley Medical Center": {
+    "camera_count": 4,
+    "candidate_slugs": [
+      "valley-medical-center-wa-pd",
+      "valley-medical-center-wa-so"
+    ]
+  },
+  "Liberty Lake PD": {
+    "camera_count": 4,
+    "candidate_slugs": [
+      "city-of-liberty-lake-wa-pd",
+      "liberty-lake-pd-wa",
+      "liberty-lake-wa-pd",
+      "liberty-lake-wa-pd-"
+    ]
+  },
+  "Montesano Police Department": {
+    "camera_count": 3,
+    "candidate_slugs": [
+      "city-of-montesano-wa-pd",
+      "montesano-pd-wa",
+      "montesano-wa-pd",
+      "montesano-wa-pd-"
+    ]
+  },
+  "Mill Creek Police Department": {
+    "camera_count": 3,
+    "candidate_slugs": [
+      "city-of-mill-creek-wa-pd",
+      "mill-creek-pd-wa",
+      "mill-creek-wa-pd",
+      "mill-creek-wa-pd-"
+    ]
+  },
+  "Edmonds Police": {
+    "camera_count": 3,
+    "candidate_slugs": [
+      "city-of-edmonds-wa-pd",
+      "edmonds-pd-wa",
+      "edmonds-wa-pd",
+      "edmonds-wa-pd-"
+    ]
+  },
+  "Northlake Ridge HOA": {
+    "camera_count": 3,
+    "candidate_slugs": [
+      "northlake-ridge-hoa-wa-pd",
+      "northlake-ridge-hoa-wa-so"
+    ]
+  },
+  "Washington State Patrol": {
+    "camera_count": 2,
+    "candidate_slugs": [
+      "washington-state-patrol-wa-pd",
+      "washington-state-patrol-wa-so"
+    ]
+  },
+  "Chehalis Tribal Law Enforcement": {
+    "camera_count": 2,
+    "candidate_slugs": [
+      "chehalis-tribal-law-enforcement-wa-pd",
+      "chehalis-tribal-law-enforcement-wa-so"
+    ]
+  },
+  "The Hedges Homeowners Association": {
+    "camera_count": 2,
+    "candidate_slugs": [
+      "-the-hedges-homeowners-association-wa-so",
+      "the-hedges-homeowners-association-county-so-wa",
+      "the-hedges-homeowners-association-county-wa-so",
+      "the-hedges-homeowners-association-so-wa",
+      "the-hedges-homeowners-association-wa-so"
+    ]
+  },
+  "Tuscany Homeowners Association": {
+    "camera_count": 2,
+    "candidate_slugs": [
+      "-tuscany-homeowners-association-wa-so",
+      "tuscany-homeowners-association-county-so-wa",
+      "tuscany-homeowners-association-county-wa-so",
+      "tuscany-homeowners-association-so-wa",
+      "tuscany-homeowners-association-wa-so"
+    ]
+  },
+  "Lynnwood": {
+    "camera_count": 2,
+    "candidate_slugs": [
+      "lynnwood-wa-pd",
+      "lynnwood-wa-so"
+    ]
+  },
+  "[City of Walla Walla]": {
+    "camera_count": 2,
+    "candidate_slugs": [
+      "walla-walla-wa-pd",
+      "walla-walla-wa-so"
+    ]
+  },
+  "East Wenatchee Police Department": {
+    "camera_count": 2,
+    "candidate_slugs": [
+      "city-of-east-wenatchee-wa-pd",
+      "east-wenatchee-pd-wa",
+      "east-wenatchee-wa-pd",
+      "east-wenatchee-wa-pd-"
+    ]
+  },
+  "Adams County Sheriff": {
+    "camera_count": 2,
+    "candidate_slugs": [
+      "-adams-county-wa-so",
+      "adams-county-so-wa",
+      "adams-county-wa-so"
+    ]
+  },
+  "Novoa": {
+    "camera_count": 2,
+    "candidate_slugs": [
+      "novoa-wa-pd",
+      "novoa-wa-so"
+    ]
+  },
+  "[Newport Yacht Club]": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "newport-yacht-club-wa-pd",
+      "newport-yacht-club-wa-so"
+    ]
+  },
+  "Walla Walla Police Department": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "city-of-walla-walla-wa-pd",
+      "walla-walla-pd-wa",
+      "walla-walla-wa-pd",
+      "walla-walla-wa-pd-"
+    ]
+  },
+  "United States Postal Service": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "united-states-postal-service-wa-pd",
+      "united-states-postal-service-wa-so"
+    ]
+  },
+  "Orting PD": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "city-of-orting-wa-pd",
+      "orting-pd-wa",
+      "orting-wa-pd",
+      "orting-wa-pd-"
+    ]
+  },
+  "City of Marysville": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "marysville-wa-pd",
+      "marysville-wa-so"
+    ]
+  },
+  "Renton Police": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "city-of-renton-wa-pd",
+      "renton-pd-wa",
+      "renton-wa-pd",
+      "renton-wa-pd-"
+    ]
+  },
+  "Tukwila Police": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "city-of-tukwila-wa-pd",
+      "tukwila-pd-wa",
+      "tukwila-wa-pd",
+      "tukwila-wa-pd-"
+    ]
+  },
+  "City of Lakewood": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "lakewood-wa-pd",
+      "lakewood-wa-so"
+    ]
+  },
+  "Black Diamond Police": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "black-diamond-pd-wa",
+      "black-diamond-wa-pd",
+      "black-diamond-wa-pd-",
+      "city-of-black-diamond-wa-pd"
+    ]
+  },
+  "City of Ellensburg": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "ellensburg-wa-pd",
+      "ellensburg-wa-so"
+    ]
+  },
+  "Spokane County Sherrif": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "spokane-county-sherrif-wa-pd",
+      "spokane-county-sherrif-wa-so"
+    ]
+  },
+  "Normandy Park Police Department": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "city-of-normandy-park-wa-pd",
+      "normandy-park-pd-wa",
+      "normandy-park-wa-pd",
+      "normandy-park-wa-pd-"
+    ]
+  },
+  "Spokane County SO": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "-spokane-county-wa-so",
+      "spokane-county-so-wa",
+      "spokane-county-wa-so"
+    ]
+  },
+  "Des Moines WA Police Department": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "city-of-des-moines-wa-wa-pd",
+      "des-moines-wa-pd-wa",
+      "des-moines-wa-wa-pd",
+      "des-moines-wa-wa-pd-"
+    ]
+  },
+  "Shelton PD": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "city-of-shelton-wa-pd",
+      "shelton-pd-wa",
+      "shelton-wa-pd",
+      "shelton-wa-pd-"
+    ]
+  },
+  "Lincoln County Sheriff Office": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "-lincoln-county-wa-so",
+      "lincoln-county-so-wa",
+      "lincoln-county-wa-so"
+    ]
+  },
+  "Cylde Hill PD": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "city-of-cylde-hill-wa-pd",
+      "cylde-hill-pd-wa",
+      "cylde-hill-wa-pd",
+      "cylde-hill-wa-pd-"
+    ]
+  },
+  "Shelton Police Dept.": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "city-of-shelton-wa-pd",
+      "shelton-pd-wa",
+      "shelton-wa-pd",
+      "shelton-wa-pd-"
+    ]
+  },
+  "WSU": {
+    "camera_count": 1,
+    "candidate_slugs": [
+      "wsu-wa-pd",
+      "wsu-wa-so"
+    ]
+  }
+}

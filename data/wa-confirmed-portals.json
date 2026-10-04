@@ -1,0 +1,464 @@
+[
+  {
+    "slug": "-spokane-county-wa-so",
+    "page_name": "Spokane County WA SO",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "aberdeen-wa-pd",
+    "page_name": "The page you are looking for doesn't exist.",
+    "total_cameras": null,
+    "portal_status": "not_found"
+  },
+  {
+    "slug": "adams-county-wa-so",
+    "page_name": "The page you are looking for doesn't exist.",
+    "total_cameras": null,
+    "portal_status": "not_found"
+  },
+  {
+    "slug": "airway-heights-wa-pd",
+    "page_name": "The page you are looking for doesn't exist.",
+    "total_cameras": null,
+    "portal_status": "not_found"
+  },
+  {
+    "slug": "arlington-pd-wa",
+    "page_name": "Arlington PD (WA)",
+    "total_cameras": 22,
+    "portal_status": "active"
+  },
+  {
+    "slug": "auburn-wa-pd",
+    "page_name": "Auburn WA PD",
+    "total_cameras": 36,
+    "portal_status": "active"
+  },
+  {
+    "slug": "benton-county-wa-so",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "bonney-lake-wa-pd",
+    "page_name": "Bonney Lake WA PD",
+    "total_cameras": 22,
+    "portal_status": "active"
+  },
+  {
+    "slug": "brewster-wa-pd",
+    "page_name": "The page you are looking for doesn't exist.",
+    "total_cameras": null,
+    "portal_status": "not_found"
+  },
+  {
+    "slug": "centralia-pd-wa",
+    "page_name": "Centralia WA PD",
+    "total_cameras": 17,
+    "portal_status": "active"
+  },
+  {
+    "slug": "chehalis-wa-pd",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "chelan-county-wa-so",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "cheney-wa-pd",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "city-of-washington-pa-pd",
+    "page_name": "The page you are looking for doesn't exist.",
+    "total_cameras": null,
+    "portal_status": "not_found"
+  },
+  {
+    "slug": "cle-elum-wa-pd",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "clyde-hill-wa-pd",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "college-place-wa-pd",
+    "page_name": "College Place WA PD",
+    "total_cameras": 8,
+    "portal_status": "active"
+  },
+  {
+    "slug": "columbia-river-drug-task-force-wa",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "colville-wa-tribal-police",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "covington-wa-pd",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "des-moines-wa-pd",
+    "page_name": "Des Moines WA PD",
+    "total_cameras": 14,
+    "portal_status": "active"
+  },
+  {
+    "slug": "douglas-county-wa-so",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "dupont-wa-pd",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "east-wenatchee-wa-pd",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "eatonville-wa-pd",
+    "page_name": "Eatonville WA PD",
+    "total_cameras": 6,
+    "portal_status": "inactive"
+  },
+  {
+    "slug": "edmonds-wa-pd",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "ellensburg-wa-pd",
+    "page_name": "Ellensburg WA PD",
+    "total_cameras": 13,
+    "portal_status": "active"
+  },
+  {
+    "slug": "enumclaw-wa-pd",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "everett-wa-pd",
+    "page_name": "Everett (WA) Police Department",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "federal-way-wa-pd",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "goldendale-wa-pd",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "grays-harbor-county-so-wa",
+    "page_name": "The page you are looking for doesn't exist.",
+    "total_cameras": null,
+    "portal_status": "not_found"
+  },
+  {
+    "slug": "iowa-department-of-public-safety-ia",
+    "page_name": "The page you are looking for doesn't exist.",
+    "total_cameras": null,
+    "portal_status": "not_found"
+  },
+  {
+    "slug": "issaquah-wa-pd",
+    "page_name": "The page you are looking for doesn't exist.",
+    "total_cameras": null,
+    "portal_status": "not_found"
+  },
+  {
+    "slug": "kennewick-wa-pd",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "kent-wa-pd",
+    "page_name": "Kent WA PD",
+    "total_cameras": 19,
+    "portal_status": "active"
+  },
+  {
+    "slug": "lake-stevens-wa-pd",
+    "page_name": "Lake Stevens WA PD",
+    "total_cameras": 4,
+    "portal_status": "active"
+  },
+  {
+    "slug": "lakewood-wa-pd",
+    "page_name": "Lakewood WA PD",
+    "total_cameras": 58,
+    "portal_status": "active"
+  },
+  {
+    "slug": "lynnwood-wa-pd",
+    "page_name": "Lynnwood WA PD",
+    "total_cameras": 0,
+    "portal_status": "inactive"
+  },
+  {
+    "slug": "marysville-wa-pd",
+    "page_name": "Marysville WA PD",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "medina-wa-pd",
+    "page_name": "Medina WA PD",
+    "total_cameras": 23,
+    "portal_status": "active"
+  },
+  {
+    "slug": "mill-creek-wa-pd",
+    "page_name": "Mill Creek WA PD",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "monroe-wa-pd",
+    "page_name": "Monroe WA PD",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "moses-lake-wa-pd",
+    "page_name": "Moses Lake WA PD",
+    "total_cameras": 13,
+    "portal_status": "active"
+  },
+  {
+    "slug": "mount-vernon-wa-pd",
+    "page_name": "Mount Vernon WA PD",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "mountlake-terrace-wa-pd",
+    "page_name": "The page you are looking for doesn't exist.",
+    "total_cameras": null,
+    "portal_status": "not_found"
+  },
+  {
+    "slug": "moxee-wa-pd",
+    "page_name": "The page you are looking for doesn't exist.",
+    "total_cameras": null,
+    "portal_status": "not_found"
+  },
+  {
+    "slug": "ms-wayne-county-so",
+    "page_name": "The page you are looking for doesn't exist.",
+    "total_cameras": null,
+    "portal_status": "not_found"
+  },
+  {
+    "slug": "msd-wayne-township-in-pd",
+    "page_name": "The page you are looking for doesn't exist.",
+    "total_cameras": null,
+    "portal_status": "not_found"
+  },
+  {
+    "slug": "mukilteo-wa-pd",
+    "page_name": "Mukilteo WA PD",
+    "total_cameras": 9,
+    "portal_status": "active"
+  },
+  {
+    "slug": "newcastle-wa-pd",
+    "page_name": "Newcastle WA PD",
+    "total_cameras": 0,
+    "portal_status": "active"
+  },
+  {
+    "slug": "olympia-wa-pd-",
+    "page_name": "Olympia WA PD",
+    "total_cameras": 0,
+    "portal_status": "active"
+  },
+  {
+    "slug": "port-of-seattle-wa-pd",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "prosser-wa-pd",
+    "page_name": "Prosser WA PD",
+    "total_cameras": 20,
+    "portal_status": "active"
+  },
+  {
+    "slug": "puyallup-wa-pd",
+    "page_name": "Puyallup WA PD",
+    "total_cameras": 45,
+    "portal_status": "active"
+  },
+  {
+    "slug": "reardan-wa-pd",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "renton-wa-pd",
+    "page_name": "Renton WA PD",
+    "total_cameras": 23,
+    "portal_status": "active"
+  },
+  {
+    "slug": "richland-pd-wa",
+    "page_name": "Richland WA PD",
+    "total_cameras": 2,
+    "portal_status": "active"
+  },
+  {
+    "slug": "richland-wa-pd",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "seatac-wa-pd",
+    "page_name": "SeaTac WA PD",
+    "total_cameras": 27,
+    "portal_status": "active"
+  },
+  {
+    "slug": "sedro-woolley-wa-pd",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "selah-wa-pd",
+    "page_name": "Selah WA PD",
+    "total_cameras": 16,
+    "portal_status": "active"
+  },
+  {
+    "slug": "shelton-pd-wa",
+    "page_name": "Shelton PD (WA)",
+    "total_cameras": 12,
+    "portal_status": "active"
+  },
+  {
+    "slug": "skamania-co-wa-so",
+    "page_name": "Skamania CO WA SO",
+    "total_cameras": 0,
+    "portal_status": "inactive"
+  },
+  {
+    "slug": "snohomish-county-wa-so-",
+    "page_name": "Snohomish County WA SO",
+    "total_cameras": 8,
+    "portal_status": "active"
+  },
+  {
+    "slug": "stanwood-wa-pd",
+    "page_name": "Stanwood WA PD",
+    "total_cameras": 13,
+    "portal_status": "active"
+  },
+  {
+    "slug": "sultan-wa-pd",
+    "page_name": "Sultan WA PD",
+    "total_cameras": 6,
+    "portal_status": "active"
+  },
+  {
+    "slug": "sumner-wa-pd",
+    "page_name": "Sumner WA PD",
+    "total_cameras": 12,
+    "portal_status": "active"
+  },
+  {
+    "slug": "sunnyside-wa-pd",
+    "page_name": "Sunnyside WA PD",
+    "total_cameras": 46,
+    "portal_status": "active"
+  },
+  {
+    "slug": "suquamish-wa-pd",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "toppenish-wa-pd",
+    "page_name": "Toppenish WA PD",
+    "total_cameras": 25,
+    "portal_status": "active"
+  },
+  {
+    "slug": "town-of-harrah-wa",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "tukwila-wa-pd",
+    "page_name": "Tukwila WA PD",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "tulalip-tribal-pd-wa",
+    "page_name": "<Error>",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "walla-walla-wa-pd",
+    "page_name": "Walla Walla WA PD",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "yakima-wa-pd",
+    "page_name": "Yakima WA PD",
+    "total_cameras": null,
+    "portal_status": "active"
+  },
+  {
+    "slug": "yelm-wa-pd",
+    "page_name": "Yelm WA PD",
+    "total_cameras": 8,
+    "portal_status": "active"
+  }
+]
