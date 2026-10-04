@@ -47,12 +47,14 @@ The following is the complete dump of all tasks migrated from the Beads local Do
   4. Implement an engine flag in `scrape-flock.py`: `--engine=playwright` (default) or `--engine=camoufox`.
 
 ### Milestone 3: Cross-Referencing with Community ALPR Data (DeFlock & OSM)
-* **Status:** Planned (See [`DEFLOCK_RESEARCH.md`](DEFLOCK_RESEARCH.md))
-* **Goals:**
-  1. Query OpenStreetMap via the Overpass API for all ALPR cameras tagged in Washington State (`surveillance:type=ALPR`, `operator=Flock Safety`).
-  2. Correlate portal camera counts (`total_cameras`) with mapped camera density from DeFlock (`deflock.me`).
-  3. Geocode and map exact camera street intersections disclosed under `#more-info` (e.g. Lucas County OH SO).
-  4. Identify discrepancies between agency transparency portal claims and physical ground-truth camera deployments.
+* **Status:** Implemented (See [`DEFLOCK_RESEARCH.md`](DEFLOCK_RESEARCH.md))
+* **Delivered:**
+  1. Implemented `scripts/seed-from-aggregators.py` to ingest 174 missing verified portals from EyesOnFlock (`data/portal-registry.json`) and query OpenStreetMap Overpass QL for 2,346 physical ALPR cameras in Washington State.
+  2. Generated candidate slugs for 63 distinct Washington State LEA operators (`data/wa-osm-candidates.json`) and exported 77 confirmed live WA portals (`data/wa-confirmed-portals.json`).
+  3. Implemented `scripts/reconcile-osm-cameras.py` comparing physical camera density mapped in OSM against portal disclosures. Identified unindexed operators with physical cameras (Clark County SO 15, Wapato 8, Redmond 6) and significant discrepancies (Lynnwood +15 unlisted cameras, Lakewood -17).
+  4. Cataloged 229 commercial/retail Flock cameras in Washington State (Lowe's, The Home Depot, Safeway, Kroger).
+* **Next in Milestone:**
+  1. Geocode and map exact camera street intersections disclosed under `#more-info` (e.g. Lucas County OH SO).
 
 ### Milestone 4: Scraper Resilience & Rate-Limit Backoff
 * **Status:** Backlog (former `edf`)

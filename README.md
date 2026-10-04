@@ -29,13 +29,19 @@ Tracks Flock Safety subscriber data using the [git-scraping](https://simonwillis
 |------|---------|
 | `scrape.sh` | Entry point — refreshes agency list, runs Playwright scraper |
 | `scrape-flock.py` | Playwright-based scraper for Cloudflare-protected agency pages |
+| `scripts/seed-from-aggregators.py` | Seeds portal inventory from EyesOnFlock and candidate slugs from OpenStreetMap |
+| `scripts/reconcile-osm-cameras.py` | Compares physical OSM camera density against official transparency portal disclosures |
 | `scripts/backfill-portal-data.py` | Re-parses historical HTML snapshots to populate newly added schema fields |
 | `scripts/describe-diff.py` | Generates semantic commit messages from staged `stats.jsonl` diffs |
 | `scripts/health-check.py` | Playwright-based health check; lists errored/blocked agencies in commit body |
 | `scripts/analyze-audit.py` | Categorizes audit CSV search reasons, flags DPA violations and outliers |
 | `scripts/ncic-contradiction.py` | Detects NCIC hotlist / immigration enforcement contradictions |
 | `download.sh` | Refreshes `wa-agencies.json` from eyesonflock.com |
-| `wa-agencies.json` | Cached list of WA agency slugs |
+| `wa-agencies.json` | Cached list of agency slugs (6,627 entries nationwide) |
+| `data/portal-registry.json` | Unified registry indexing all 936 nationwide portals from EyesOnFlock with metadata |
+| `data/wa-confirmed-portals.json` | 77 confirmed live portals in Washington State with status and metrics |
+| `data/wa-osm-candidates.json` | Candidate agency slugs derived from 63 Washington State LEA operators in OSM |
+| `data/osm-alpr-wa.json` | Cached OpenStreetMap ALPR/Flock camera nodes for Washington State |
 | `doc/PLANNING.md` | Persistent project roadmap and archived tasks (replacing Beads) |
 | `doc/CAMOUFOX_EVALUATION.md` | Evaluation of Camoufox anti-detect browser for Cloudflare evasion |
 | `doc/DEFLOCK_RESEARCH.md` | Reverse-engineering intelligence on DeFlock, OpenStreetMap, and Flock hardware |

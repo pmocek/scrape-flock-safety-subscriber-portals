@@ -38,6 +38,8 @@
   - Local asset downloads for agency insignia (`logo.{ext}`) and direct policy PDFs (`policy.pdf`)
   - Cumulative `audit.csv` deduplication and merging across rolling 30-day windows
   - Backfilled all 629 historical HTML snapshots into `stats.jsonl` via `scripts/backfill-portal-data.py`.
+- `scripts/seed-from-aggregators.py` (new): Seeds portal inventory from EyesOnFlock (ingesting 174 previously missing verified portals and demographic metadata into `data/portal-registry.json`) and queries OpenStreetMap Overpass API for Washington State ALPR nodes, generating normalized candidate slugs for 63 distinct LEA operators into `data/wa-osm-candidates.json`. Also exports confirmed live WA portals to `data/wa-confirmed-portals.json`.
+- `scripts/reconcile-osm-cameras.py` (new): Cross-references 2,346 physical ALPR cameras mapped in OpenStreetMap (DeFlock crowdsourced data) against portal disclosures in `data/*/stats.jsonl`. Identifies discrepancies (e.g. Lynnwood +15 unlisted cameras), agencies with zero public portal (Clark County SO with 15 cams, Redmond with 6 cams, Wapato with 8 cams), and 229 commercial/retail Flock cameras (Lowe's, Home Depot, Safeway, Kroger). Supports `--commit-body` and `--json`.
 
 ## Agency list source
 
