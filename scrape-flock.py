@@ -11,6 +11,7 @@ Usage:
 
 import asyncio
 import csv
+import html
 import io
 import json
 import os
@@ -59,13 +60,55 @@ WA_SLUGS = [
 ]
 
 
-def parse_stats(text):
-    """Extract structured stats from the transparency portal page."""
+def parse_stats(text, html_text=None):
+    """Extract structured stats and disclosures from transparency portal text and HTML."""
     stats = {}
 
     lines = text.strip().split("\n")
     if len(lines) >= 3:
         stats["page_name"] = lines[2].strip()
+
+    # If HTML is provided, extract higher-fidelity metadata
+    if html_text:
+        # Check portal status (active, inactive, not_found)
+        if ("Page not found" in html_text and "The page you are looking for doesn" in html_text) or ("Page Not Found" in text and "doesn" in text):
+            stats["portal_status"] = "not_found"
+            return stats
+
+        title_m = re.search(r"<title>(.*?)</title>", html_text, re.IGNORECASE)
+        h1_m = re.search(r"<h1[^>]*>(.*?)</h1>", html_text, re.IGNORECASE | re.DOTALL)
+        title_str = (title_m.group(1) if title_m else "") + " " + (h1_m.group(1) if h1_m else "")
+        if "[Inactive]" in title_str or "[inactive]" in title_str.lower():
+            stats["portal_status"] = "inactive"
+        else:
+            stats["portal_status"] = "active"
+
+        # Refine page_name from h1 if available
+        if h1_m:
+            raw_h1 = re.sub(r"<br\s*/?>", " ", h1_m.group(1))
+            raw_h1 = re.sub(r"<[^>]+>", "", raw_h1)
+            raw_h1 = re.sub(r"\s*Transparency Portal\s*", "", raw_h1, flags=re.IGNORECASE)
+            raw_h1 = re.sub(r"\s*\[Inactive\]\s*", "", raw_h1, flags=re.IGNORECASE).strip()
+            if raw_h1:
+                stats["page_name"] = raw_h1
+
+        # Exact ISO timestamp of portal update
+        ts_m = re.search(r"Last updated:\s*<span[^>]*title=[\"\x27]([^\s\"\x27>]+)[\"\x27]", html_text)
+        if ts_m:
+            stats["portal_last_updated"] = ts_m.group(1)
+
+        # Overview / Mission Statement
+        over_m = re.search(r"<div[^>]*class=[\"\x27][^\"\x27]*tpOverview[^\"\x27]*[\"\x27][^>]*>.*?<p[^>]*>(.*?)</p>", html_text, re.DOTALL)
+        if over_m:
+            stats["overview"] = html.unescape(re.sub(r"<[^>]+>", "", over_m.group(1))).strip()
+
+        # Logo and Hero image assets
+        logo_m = re.search(r"<img[^>]*class=[\"\x27][^\"\x27]*tpHeroLogoImage[^\"\x27]*[\"\x27][^>]*src=[\"\x27]([^\s\"\x27>]+)", html_text)
+        if logo_m:
+            stats["logo_url"] = logo_m.group(1)
+        hero_m = re.search(r"<img[^>]*class=[\"\x27][^\"\x27]*tpHeroImage[^\"\x27]*[\"\x27][^>]*src=[\"\x27]([^\s\"\x27>]+)", html_text)
+        if hero_m:
+            stats["hero_image_url"] = hero_m.group(1)
 
     def grab_int(pattern, key):
         m = re.search(pattern, text, re.DOTALL)
@@ -84,30 +127,50 @@ def parse_stats(text):
 
     for key in ("hotlist_hits_30d", "searches_30d", "vehicles_30d"):
         if key not in stats:
-            m = re.search(rf'{re.escape(key.replace("_"," ")).title()}\s*\n+\s*Data Unavailable', text, re.IGNORECASE)
+            label = key.replace("_", " ").title()
+            m = re.search(rf'{re.escape(label)}\s*\n+\s*Data Unavailable', text, re.IGNORECASE)
             if m:
                 stats[key] = "Data Unavailable"
 
     shares_with = []
     receives_from = []
-    for direction, field in (
-        ("Sharing Network Data With", "shares_data_with"),
-        ("Receiving Network Data From", "receives_data_from"),
-    ):
-        items = []
-        for m in re.finditer(
-            rf'(?:{re.escape(direction)})\s*\n+\s*\n'
-            r'(?:Organizations[^\n]*\.\s*\n+\s*\n)?'
-            r'([\s\S]*?)(?=\n\n[A-Z]|\Z)',
-            text
+
+    # If HTML has data-tp-full-value access tables, use them for 100% fidelity
+    if html_text and "data-tp-full-value" in html_text:
+        s_block = re.search(r"Sharing Network Data With[\s\S]*?(?=Receiving Network Data From|Policy &amp; Trust|<section|\Z)", html_text)
+        if s_block:
+            vals = re.findall(r"data-tp-full-value=[\"\x27]([^\"]+)[\"\x27]", s_block.group(0))
+            if vals:
+                shares_with = [html.unescape(v.strip()) for v in vals if v.strip()]
+                stats["shares_data_with"] = shares_with
+
+        r_block = re.search(r"Receiving Network Data From[\s\S]*?(?=Policy &amp; Trust|<section|\Z)", html_text)
+        if r_block:
+            vals = re.findall(r"data-tp-full-value=[\"\x27]([^\"]+)[\"\x27]", r_block.group(0))
+            if vals:
+                receives_from = [html.unescape(v.strip()) for v in vals if v.strip()]
+                stats["receives_data_from"] = receives_from
+
+    # Text fallback if HTML table extraction yielded nothing
+    if not shares_with and not receives_from:
+        for direction, field in (
+            ("Sharing Network Data With", "shares_data_with"),
+            ("Receiving Network Data From", "receives_data_from"),
         ):
-            items = [a.strip() for a in m.group(1).split("\n") if a.strip() and len(a.strip()) > 3]
-        if items:
-            stats[field] = items
-            if field == "shares_data_with":
-                shares_with.extend(items)
-            else:
-                receives_from.extend(items)
+            items = []
+            for m in re.finditer(
+                rf'(?:{re.escape(direction)})\s*\n+\s*\n'
+                r'(?:Organizations[^\n]*\.\s*\n+\s*\n)?'
+                r'([\s\S]*?)(?=\n\n[A-Z]|\Z)',
+                text
+            ):
+                items = [a.strip() for a in m.group(1).split("\n") if a.strip() and len(a.strip()) > 3]
+            if items:
+                stats[field] = items
+                if field == "shares_data_with":
+                    shares_with.extend(items)
+                else:
+                    receives_from.extend(items)
 
     # Union for backward compatibility (cross-agency spidering)
     all_agencies = shares_with + receives_from
@@ -121,6 +184,7 @@ def parse_stats(text):
     if m:
         stats["hotlists"] = m.group(1).strip()
 
+    # Policies — un-truncated
     for key, label in [("detected", "What's Detected"), ("not_detected", "What's Not Detected"),
                         ("acceptable_use", "Acceptable Use Policy"),
                         ("prohibited_uses", "Prohibited Uses"),
@@ -130,9 +194,75 @@ def parse_stats(text):
         m = re.search(pat, text)
         if m:
             val = m.group(1).strip()
-            if len(val) > 500:
-                val = val[:500]
             stats[key] = val
+
+    # HTML widget and section parsing
+    if html_text:
+        # Top Offense Types widget
+        top_offense_m = re.search(r"Top Offense Types</h3>[\s\S]*?<ol[^>]*>([\s\S]*?)</ol>", html_text)
+        if top_offense_m:
+            items = re.findall(r"<li[^>]*>[\s\S]*?<span[^>]*>(?:<span>)?(.*?)(?:</span>)?</span>[\s\S]*?</li>", top_offense_m.group(1))
+            cleaned_items = [html.unescape(re.sub(r"<[^>]+>", "", it)).strip() for it in items if it.strip()]
+            if cleaned_items:
+                stats["top_offense_types"] = cleaned_items
+
+        # Camera Alert Activity widget
+        alert_act_m = re.search(r"Camera Alert Activity</h3>[\s\S]*?<div[^>]*class=[\"\x27][^\"\x27]*tpActivityValue[^\"\x27]*[\"\x27][^>]*>(.*?)</div>([\s\S]*?)(?=<div class=[\"\x27]tpSection|\Z)", html_text)
+        if alert_act_m:
+            tot_str = re.sub(r"<[^>]+>", "", alert_act_m.group(1)).strip()
+            act_data = {"total": tot_str}
+            rows = re.findall(r"<span class=[\"\x27]tpActivityRowLabel[\"\x27][^>]*>(.*?)</span>[\s\S]*?<strong class=[\"\x27]tpActivityRowValue[\"\x27][^>]*>(.*?)</strong>", alert_act_m.group(2))
+            breakdown = {}
+            for lbl, cnt in rows:
+                clean_lbl = html.unescape(re.sub(r"<[^>]+>", "", lbl)).strip()
+                clean_cnt = re.sub(r"<[^>]+>", "", cnt).strip()
+                if clean_lbl:
+                    breakdown[clean_lbl] = clean_cnt
+            if breakdown:
+                act_data["breakdown"] = breakdown
+            stats["camera_alert_activity"] = act_data
+
+        # Custom disclosures and More Info section
+        standard_card_titles = {
+            "data retention", "total cameras", "unique vehicles detected",
+            "vehicles detected in the last 30 days", "vehicles detected",
+            "number of searches", "hotlists alerted on", "number of hotlist hits",
+            "hotlist hits in the last 21 days", "sharing network data with",
+            "receiving network data from", "what's detected", "what's not detected",
+            "acceptable use policy", "prohibited uses", "access policy",
+            "hotlist policy", "public search audit"
+        }
+        entry_blocks = re.findall(
+            r"<p[^>]*font-weight:\s*600[^>]*>(.*?)</p>[\s\S]*?<div[^>]*white-space:\s*pre-line[^>]*>([\s\S]*?)</div>\s*</div>",
+            html_text
+        )
+        custom_cards = {}
+        policy_links = []
+        funding_sources = []
+        for title_raw, content_raw in entry_blocks:
+            title = html.unescape(re.sub(r"<[^>]+>", "", title_raw)).strip()
+            if not title or title.lower() in standard_card_titles:
+                continue
+
+            for link in re.findall(r"href=[\"\x27](https?://[^\s\"\x27>]+)[\"\x27]", content_raw):
+                policy_links.append(link)
+
+            text_content = html.unescape(re.sub(r"<br\s*/?>", "\n", content_raw))
+            text_content = html.unescape(re.sub(r"<[^>]+>", "", text_content)).strip()
+            custom_cards[title] = text_content
+
+            if "camera location" in title.lower():
+                lines = [line.strip() for line in text_content.split("\n") if line.strip()]
+                stats["camera_locations"] = lines
+            elif "funding" in title.lower():
+                funding_sources.append(text_content)
+
+        if custom_cards:
+            stats["more_info"] = custom_cards
+        if funding_sources:
+            stats["funding_source"] = "\n\n".join(funding_sources)
+        if policy_links:
+            stats["policy_links"] = sorted(list(set(policy_links)))
 
     return stats
 
@@ -258,7 +388,7 @@ async def scrape_one_slug(slug, save_dir, max_retries=3):
             else:
                 html = await page.content()
 
-                stats = parse_stats(text)
+                stats = parse_stats(text, html_text=html)
                 result["success"] = True
                 result["stats"] = stats
                 result["title"] = title
@@ -266,23 +396,85 @@ async def scrape_one_slug(slug, save_dir, max_retries=3):
                 slug_dir = save_dir / slug
                 slug_dir.mkdir(parents=True, exist_ok=True)
 
-                # Extract Public Search Audit CSV, if available
+                # 1. Download official agency logo if available and not yet present
+                logo_url = stats.get("logo_url")
+                if logo_url and logo_url.startswith("http"):
+                    ext = ".png"
+                    if ".svg" in logo_url:
+                        ext = ".svg"
+                    elif ".jpg" in logo_url or ".jpeg" in logo_url:
+                        ext = ".jpg"
+                    logo_file = slug_dir / f"logo{ext}"
+                    if not logo_file.exists():
+                        try:
+                            logo_resp = await context.request.get(logo_url, timeout=15000)
+                            if logo_resp.status == 200:
+                                with open(logo_file, "wb") as f:
+                                    f.write(await logo_resp.body())
+                        except Exception as e:
+                            print(f"    Failed to download logo for {slug}: {e}")
+
+                # 2. Download direct policy PDF if linked and not yet present
+                for plink in stats.get("policy_links", []):
+                    if plink.lower().endswith(".pdf"):
+                        pdf_file = slug_dir / "policy.pdf"
+                        if not pdf_file.exists():
+                            try:
+                                pdf_resp = await context.request.get(plink, timeout=20000)
+                                if pdf_resp.status == 200:
+                                    with open(pdf_file, "wb") as f:
+                                        f.write(await pdf_resp.body())
+                                    break
+                            except Exception as e:
+                                print(f"    Failed to download policy PDF for {slug}: {e}")
+
+                # 3. Extract and cumulatively merge Public Search Audit CSV
                 csv_link = await page.query_selector('a[download="public_search_audit.csv"]')
                 if csv_link:
                     href = await csv_link.get_attribute("href")
                     if href and href.startswith("data:text/csv;charset=utf-8,"):
                         csv_content = urllib.parse.unquote(href[len("data:text/csv;charset=utf-8,"):])
-                        with open(slug_dir / "audit.csv", "w") as f:
-                            f.write(csv_content)
-                        reader = csv.DictReader(io.StringIO(csv_content))
-                        rows = list(reader)
-                        if rows:
-                            stats["audit_count"] = len(rows)
-                            dates = [r["searchDate"] for r in rows if r.get("searchDate")]
+                        new_reader = csv.DictReader(io.StringIO(csv_content))
+                        new_rows = list(new_reader)
+                        fieldnames = list(new_reader.fieldnames) if new_reader.fieldnames else ["id", "userId", "searchDate", "networkCount", "offenseType", "reason"]
+
+                        audit_file = slug_dir / "audit.csv"
+                        existing_rows = []
+                        if audit_file.exists():
+                            try:
+                                with open(audit_file, "r") as f:
+                                    ex_reader = csv.DictReader(f)
+                                    existing_rows = list(ex_reader)
+                                    if ex_reader.fieldnames:
+                                        for fn in ex_reader.fieldnames:
+                                            if fn not in fieldnames:
+                                                fieldnames.append(fn)
+                            except Exception:
+                                pass
+
+                        # Deduplicate by unique key
+                        seen_keys = set()
+                        merged_rows = []
+                        for r in existing_rows + new_rows:
+                            key = (r.get("id"), r.get("searchDate"), r.get("userId"), r.get("reason"), r.get("offenseType"))
+                            if key not in seen_keys:
+                                seen_keys.add(key)
+                                merged_rows.append(r)
+
+                        merged_rows.sort(key=lambda r: r.get("searchDate", ""), reverse=True)
+
+                        with open(audit_file, "w", newline="") as f:
+                            writer = csv.DictWriter(f, fieldnames=fieldnames)
+                            writer.writeheader()
+                            writer.writerows(merged_rows)
+
+                        if merged_rows:
+                            stats["audit_count"] = len(merged_rows)
+                            dates = [r["searchDate"] for r in merged_rows if r.get("searchDate")]
                             if dates:
                                 stats["audit_date_min"] = min(dates)
                                 stats["audit_date_max"] = max(dates)
-                            imm_reasons = _scan_immigration_reasons(rows)
+                            imm_reasons = _scan_immigration_reasons(merged_rows)
                             if imm_reasons:
                                 stats["audit_immigration_entries"] = len(imm_reasons)
                                 stats["audit_immigration_reasons"] = imm_reasons[:20]
