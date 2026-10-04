@@ -71,8 +71,38 @@ Security researchers and hardware teardowns have documented the physical and com
 ### B. Network Traffic & Cloud Architecture
 * **Upload Targets:** Captured plate events, high-resolution vehicle stills, and search sessions are uploaded via TLS to Flock cloud infrastructure hosted in AWS US-East:
   * Public assets: `https://prod-flock-org-files-public.s3.us-east-1.amazonaws.com/`
-  * API endpoints: `https://api.flocksafety.com/` (protected by mutual TLS and OAuth2/JWT).
+  * API endpoints: `https://api.flocksafety.com/`, `https://hpnotiq.flocksafety.com/`
 * **Search Audits:** Search queries performed by police officers are logged centrally and exposed in rolling 30-day windows on transparency portals.
+* **Lack of IP Firewalling:** Because cameras communicate over commercial cellular IoT SIMs (AT&T FirstNet, T-Mobile), traffic originates from mobile carrier Carrier-Grade NAT (CGNAT) pools (e.g., `100.64.0.0/10`). Because these IP addresses are dynamically assigned and shared across millions of general cellular subscribers, **Flock's cloud servers cannot enforce IP allowlisting or firewalling**. Ingestion endpoints must remain globally reachable on the public internet.
+
+### C. Firmware Reverse Engineering & Authentication Breakdown (Micah Lee / Wired / 404 Media)
+In investigations published by Micah Lee, *Wired*, and *404 Media* (following hardware acquisition and firmware leaks analyzed by collective *stegan0gram*), the internal architecture of Flock cameras was exposed:
+
+1. **Operating System & Kernel:**
+   * Cameras run an outdated, end-of-life build of **Android 8.1 (Oreo)** on a Qualcomm Snapdragon SoC (e.g., SDM450) with an obsolete **Linux 3.18** kernel.
+   * Internal camera logic is implemented as standard Android services and APKs (`com.flocksafety.android.camera`, `com.flocksafety.android.common.lib`).
+
+2. **Hardcoded Shared Authentication Keys:**
+   * Embedded directly in the decompiled Java code of `com.flocksafety.android.common.lib` was a static, hardcoded API key:
+     ```text
+     HaJ3FgupAm8RrDJW3MHgT9X7Ft27eVaD
+     ```
+   * All deployed Falcon cameras utilized this identical shared key to authenticate initial bootstrap and registration requests to Flock's backend (`hpnotiq.flocksafety.com`).
+   * Device enrollment was authenticated simply by transmitting this hardcoded key along with the camera's hardware MAC address.
+
+3. **Plaintext Persistent Partitions Surviving OTA Updates:**
+   * To prevent field units from bricking or losing network credentials during over-the-air (OTA) software updates, Flock configured an unencrypted persistent partition (such as `/persist` or `/data/flock`).
+   * This partition stored critical operational secrets in **unencrypted plaintext**, including:
+     * Auth0 client IDs, client secrets, and device OAuth2/JWT tokens.
+     * Temporary AWS S3 credentials for direct image ingestion buckets.
+     * Device private keys and mutual TLS client certificates.
+     * Wi-Fi credentials and cellular APN connection strings.
+     * Exact physical GPS coordinates logged at device boot.
+     * The device's local disk encryption volume keys.
+
+4. **Security & Architectural Implications:**
+   * **No Network Perimeter Defense:** As established above, carrier CGNAT prevents network-level IP filtering. Cloud endpoints rely 100% on application-layer authentication.
+   * **Trivial Impersonation & Ingestion Spoofing:** With cloud endpoints open to the world, a hardcoded global API key, and predictable hardware identifiers (MAC addresses), authenticating to the Flock cloud server requires no proprietary cryptographic handshake. An adversary with credentials extracted from a single lawfully acquired camera or leaked firmware image can communicate directly with the cloud ingestion backend, potentially spoofing plate reads, injecting false hotlist hits, or monitoring device fleet telemetry.
 
 ---
 
