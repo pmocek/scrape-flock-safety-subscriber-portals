@@ -19,7 +19,7 @@ The following is the complete dump of all tasks migrated from the Beads local Do
 | `scrape-flock-safety-subscriber-portals-s6m` | Automate NCIC contradiction detection | P2 | **Implemented / Open** | Created `scripts/ncic-contradiction.py` (6 detection modes, graph BFS for multi-hop sharing). Next: integrate into GitHub Pages dashboard. |
 | `scrape-flock-safety-subscriber-portals-57f` | Copy immigration NCIC analysis into repo `docs/` | P3 | **Open** | Migrate blog post drafts and NCIC Immigration Violator File conflict analysis into version control under `docs/`. |
 | `scrape-flock-safety-subscriber-portals-ee7` | Build GitHub Pages companion site | P3 | **Open** | Build public static site (Hugo-based): agency portal explorer, stats history charts, NCIC compliance matrix, sharing network graph. |
-| `scrape-flock-safety-subscriber-portals-edf` | Track blocked state with retry backoff for consistently denied slugs | P2 | **Backlog** | Add exponential backoff logic to `blocked.jsonl` to reduce wasted scrape attempts on confirmed dead/blocked slugs. |
+| `scrape-flock-safety-subscriber-portals-edf` | Track blocked state with retry backoff for consistently denied slugs | P2 | **Closed** | Implemented exponential backoff ($2^N$ hours capped at 30 days for new slugs, 1 hour for historical slugs) and consecutive block metadata in `blocked.jsonl`. |
 
 ---
 
