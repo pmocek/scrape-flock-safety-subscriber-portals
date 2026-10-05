@@ -1,0 +1,317 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+St. Peters MO PD
+Transparency Portal
+
+Last updated: Mon Oct 05 2026
+
+Overview
+
+The St. Peters Police Department uses Automated License Plate Reader (ALPR) technology as one of many tools available to officers and investigators to help investigate and solve crimes. ALPR cameras capture license plate and vehicle information from vehicles traveling in areas visible to the public. This technology can help officers locate stolen vehicles, identify vehicles associated with criminal activity or investigations, and assist in locating missing or endangered persons.
+
+Community Impact
+Data & Usage Summary
+Camera Alert Activity
+
+Camera alerts by source and topic over the last 30 days.
+
+768 alerts
+NCIC - Protection Order
+551
+NCIC - Sex Offender
+144
+NCIC - Stolen Vehicle
+27
+NCIC - Stolen Plate
+24
+NCIC - Warrants
+10
+NCIC - Gang or Suspected Terrorist
+7
+NCIC - Violent Person
+3
+NCIC - Missing Person
+2
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+LPR Cameras
+
+Number of LPR cameras only.
+
+11
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+417,942
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+2
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCIC, NCMEC Amber Alert
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+4,158
+Top Offense Types
+
+Offense Types used for LPR searches in the last 30 days.
+
+Destruction/Damage/Vandalism of Property
+
+Sharing Network Data With
+
+Organizations granted access to St. Peters MO PD data.
+
+Mercer County MO SO
+[Federal] Federal Bureau of Investigation (FBI)
+[Federal] Midwest HIDTA
+Adrian MO PD
+Arnold MO PD
+Ash Grove MO PD
+Ashland MO PD
+Audrain County MO SO
+Ballwin MO PD
+Barry County SO MO
+Belton MO PD
+Berkeley MO PD
+Billings MO PD
+Blue Springs MO PD
+Boone County MO SO
+Bowling Green MO PD
+Branson MO PD
+Breckenridge Hills MO PD
+Brentwood MO PD
+Bridgeton MO PD
+Buchanan County MO SO
+Byrnes Mill MO PD
+Callaway County MO SO
+Cape Girardeau County MO SO
+Cape Girardeau MO PD
+Carroll County MO SO
+Carrollton MO PD
+Caruthersville MO PD
+Cass County MO SO
+Chaffee MO PD
+Charleston MO DPS
+Chesterfield MO PD
+Christian County MO SO
+City of California MO PD
+City of Jennings MO PD
+City of Maryville MO
+City of Waverly PD MO
+Clarence MO PD
+Clay County MO SO
+Clayton MO PD
+Clever MO PD
+Clinton County MO SO
+Clinton MO PD
+Cole County MO SO
+Columbia MO PD
+Concordia MO PD
+Cooper County MO SO
+Cottleville MO PD
+Crawford County MO
+Crestwood MO PD
+Creve Coeur MO PD
+Crystal City MO PD
+Dent County MO SO
+Des Peres MO DPS
+Desloge MO PD
+Desoto MO PD
+Dexter MO PD
+Douglas County SO (MO)
+Duquesne MO PD
+Edmundson MO PD
+Ellisville MO PD
+Eureka MO PD
+Excelsior Springs MO PD
+Farmington MO PD
+Ferguson MO PD
+Festus MO PD
+Florissant MO PD
+Franklin County MO SO
+Frontenac MO PD
+Fulton MO PD
+Gasconade Co MO SO
+Gladstone MO PD
+Glendale MO PD
+Grain Valley MO PD
+Grandview MO PD
+Greene County MO SO
+Greenwood MO PD
+Hannibal MO PD
+Harrisonville MO PD
+Hazelwood MO PD
+Henry County MO SO
+Herculaneum MO PD
+Higginsville MO PD
+Hillsboro MO PD
+Hillsdale MO PD
+Hollister MO PD
+Independence MO PD
+Indian Point MO PD
+Jackson County MO SO
+Jackson MO PD
+Jefferson City MO PD
+Jefferson County MO SO
+Johnson County MO SO
+Joplin MO PD
+Kansas City MO PD
+Kearney MO PD
+Kimberling City MO PD
+Kirksville MO PD
+Kirkwood MO PD
+La Grange MO PD
+Ladue MO PD
+Lafayette County MO SO
+Lake St. Louis MO PD
+Lake Tapawingo MO PD
+Lebanon MO PD
+Lee's Summit MO PD
+Leeton MO PD
+Liberty MO PD
+Lincoln University PD MO
+Lone Jack MO PD
+Macon County MO SO
+Manchester MO PD
+Maplewood MO PD
+Maries County MO SO
+Marion County MO SO
+Maryland Heights MO PD
+Metro East Auto Theft (IL)
+Mid Missouri Drug Task Force MO
+Miner MO PD
+Mineral Area Drug Task Force MO
+Missouri Department of Conservation
+Missouri Department of Corrections
+Missouri Department of Public Safety
+Missouri Information Analysis Center
+Missouri State Highway Patrol
+MO - Sparta PD
+MOCIC
+Monett MO PD
+Monroe County MO SO
+Montgomery County MO SO
+Morgan Co MO SO
+Morrisville MO PD
+Moscow Mills MO PD
+New Madrid County MO SO
+Nixa MO PD
+Normandy MO PD
+North County Cooperative MO PD
+North Missouri Drug Task Force MO
+North MO DTF Brookfield MO PD
+O'Fallon MO PD
+Oak Grove MO PD
+Odessa MO PD
+Olivette MO PD
+Osage Beach MO PD
+Overland MO PD
+Ozark MO PD
+Ozarks Drug Enforcement Team MO
+Palmyra MO PD
+Park Hills MO PD
+Parkville MO PD
+Peculiar MO PD
+Pemiscot County MO SO
+Perry County MO SO
+Pettis County MO SO
+Pevely MO PD
+Phelps County MO SO
+Platte City MO PD
+Platte County MO SO
+Pleasant Hill MO PD
+Potosi MO PD
+Pulaski County MO SO
+Ralls County MO SO
+Raymore MO PD
+Raytown MO PD
+Reeds Spring MO PD
+Republic MO PD
+Richmond Heights MO PD
+Richmond MO PD
+Rock Hill MO PD
+Rockhurst University Campus PD (MO)
+Sarcoxie MO PD
+Scott City MO PD
+Scott County MO SO
+SE Missouri State University (MO)
+Sedalia MO PD
+SEMO Drug Task Force MO
+Seneca MO PD
+Shrewsbury MO PD
+Sikeston MO DPS
+South Central MO Drug Task Force
+Springfield MO PD
+St. Ann MO PD
+St. Charles City MO PD
+St. Charles Community College Campus Police MO [Inactive]
+St. Charles County MO PD
+St. Francois County MO SO
+St. John MO PD
+St. Joseph MO PD
+St. Louis County MO PD
+St. Peters MO Parks and Rec
+Ste. Genevieve County MO SO
+Stoddard County MO SO
+Stone County MO SO
+Sugar Creek MO PD
+Sunset Hills MO PD
+Sweet Springs MO PD
+Taney County MO SO
+Town & Country MO PD
+Tracy MO PD
+Truesdale MO PD
+Union MO PD
+University City MO PD
+University of Central Missouri PD
+University of Missouri Campus MO PD
+Village of Marlborough MO PD
+Warren County MO SO
+Warrenton MO PD
+Warson Woods MO PD
+Washington County MO SO
+Washington MO PD
+Waynesville MO PD
+Webster Groves MO PD
+Wentzville MO PD
+Woodson Terrace MO PD
+Wright City MO PD
+Policy & Trust
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+SOC 2 Type II
+
+Independently audited controls covering security, availability, and confidentiality.
+
+ISO 27001
+
+Information security management aligned with international standards.
+
+Adherence to Key Privacy Principles
+
+Built to focus on data minimization, purpose limitation, and transparency.
+
+Provided by Flock Safety
