@@ -20,7 +20,7 @@ import sys
 import time
 import argparse
 import urllib.parse
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 PLAYWRIGHT_OK = False
@@ -351,6 +351,131 @@ def append_jsonl(slug_dir, data):
         f.write(line + "\n")
 
 
+def get_block_info(slug, save_dir):
+    """Return (consecutive_blocks, last_block_time, has_history).
+
+    has_history is True if the slug has ever successfully produced page.txt.
+    consecutive_blocks counts consecutive block events since the last successful scrape.
+    """
+    slug_dir = save_dir / slug
+    bf = slug_dir / "blocked.jsonl"
+    sf = slug_dir / "stats.jsonl"
+    has_history = (slug_dir / "page.txt").exists()
+
+    if not bf.exists():
+        return 0, None, has_history
+
+    blines = []
+    with open(bf, "r", errors="replace") as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                try:
+                    blines.append(json.loads(line))
+                except json.JSONDecodeError:
+                    pass
+
+    if not blines:
+        return 0, None, has_history
+
+    last_block = blines[-1]
+    last_block_ts = None
+    if "ts" in last_block:
+        try:
+            last_block_ts = datetime.fromisoformat(last_block["ts"])
+        except ValueError:
+            pass
+
+    # Check if there was a successful scrape after the last block
+    if sf.exists() and has_history:
+        slines = []
+        with open(sf, "r", errors="replace") as f:
+            for line in f:
+                line = line.strip()
+                if line:
+                    try:
+                        slines.append(json.loads(line))
+                    except json.JSONDecodeError:
+                        pass
+        for entry in reversed(slines):
+            if "error" not in entry and entry.get("portal_status") != "not_found":
+                try:
+                    last_succ_ts = datetime.fromisoformat(entry["ts"])
+                    if last_block_ts and last_succ_ts >= last_block_ts:
+                        # Scrape succeeded after or at last block; reset counter
+                        return 0, None, has_history
+                except (ValueError, KeyError):
+                    pass
+                break
+
+    # Determine consecutive block count
+    if "consecutive_blocks" in last_block:
+        consecutive = int(last_block["consecutive_blocks"])
+    elif "retry_count" in last_block:
+        consecutive = int(last_block["retry_count"])
+    else:
+        consecutive = len(blines)
+
+    return consecutive, last_block_ts, has_history
+
+
+def should_attempt_slug(slug, save_dir, now=None):
+    """Determine whether a slug is eligible to be scraped or currently in backoff.
+
+    Returns (should_scrape: bool, reason: str).
+    - Slugs with no historical data (never succeeded) back off exponentially: 2^N hours (capped at 720h / 30d).
+    - Slugs with historical data (has page.txt) back off for 1 hour.
+    """
+    if now is None:
+        now = datetime.now(timezone.utc)
+
+    consecutive, last_block_ts, has_history = get_block_info(slug, save_dir)
+    if consecutive == 0 or last_block_ts is None:
+        return True, "ready"
+
+    if has_history:
+        backoff_hours = 1
+    else:
+        backoff_hours = min(2 ** consecutive, 720)
+
+    retry_after = last_block_ts + timedelta(hours=backoff_hours)
+    if now < retry_after:
+        remaining_hours = (retry_after - now).total_seconds() / 3600.0
+        return False, f"in backoff ({consecutive} blocks, wait {backoff_hours}h, {remaining_hours:.1f}h remaining)"
+
+    return True, "backoff expired"
+
+
+def record_blocked(slug, save_dir, error_msg, now=None):
+    """Record a block event in blocked.jsonl with consecutive count and backoff metadata."""
+    if now is None:
+        now = datetime.now(timezone.utc)
+
+    consecutive, _, has_history = get_block_info(slug, save_dir)
+    new_consecutive = consecutive + 1
+
+    if has_history:
+        backoff_hours = 1
+    else:
+        backoff_hours = min(2 ** new_consecutive, 720)
+
+    retry_after = (now + timedelta(hours=backoff_hours)).isoformat()
+
+    entry = {
+        "ts": now.isoformat(),
+        "error": error_msg,
+        "consecutive_blocks": new_consecutive,
+        "backoff_hours": backoff_hours,
+        "retry_after": retry_after,
+    }
+
+    slug_dir = save_dir / slug
+    slug_dir.mkdir(parents=True, exist_ok=True)
+    line = json.dumps(entry, default=str)
+    with open(slug_dir / "blocked.jsonl", "a") as f:
+        f.write(line + "\n")
+
+
 async def scrape_one_slug(slug, save_dir, max_retries=3):
     """Scrape one agency page and save results. Retries on failure."""
     url = f"https://transparency.flocksafety.com/{slug}"
@@ -519,12 +644,7 @@ async def scrape_one_slug(slug, save_dir, max_retries=3):
             await asyncio.sleep((attempt + 1) * 15)
 
     if not result["success"]:
-        slug_dir = save_dir / slug
-        slug_dir.mkdir(parents=True, exist_ok=True)
-        ts = datetime.now(timezone.utc).isoformat()
-        line = json.dumps({"ts": ts, "error": result.get("error")}, default=str)
-        with open(slug_dir / "blocked.jsonl", "a") as f:
-            f.write(line + "\n")
+        record_blocked(slug, save_dir, result.get("error"))
 
     return result
 
@@ -580,6 +700,8 @@ def main():
                         help="Batch number to scrape (0 = all agencies)")
     parser.add_argument("--total-batches", type=int, default=1,
                         help="Total number of batches (used with --batch)")
+    parser.add_argument("--ignore-backoff", action="store_true",
+                        help="Attempt scraping even if slug is currently in backoff window")
     args = parser.parse_args()
 
     if args.refresh_agencies:
@@ -604,21 +726,23 @@ def main():
     save_dir = Path(args.save_dir) if args.save_dir else DATA_DIR
     save_dir.mkdir(parents=True, exist_ok=True)
 
-    # Apply batching — cap per batch at ~10 to avoid Cloudflare burst detection
-    if args.batch > 0:
-        # Filter slugs that are already confirmed non-existent (blocked, no data)
+    # Filter out slugs currently in backoff unless --ignore-backoff or single --slug specified
+    if not args.ignore_backoff and not args.slug:
         active = []
-        skipped_blocked = 0
+        skipped_backoff = 0
+        now = datetime.now(timezone.utc)
         for s in slugs:
-            d = save_dir / s
-            if d.exists() and not (d / "page.txt").exists() and (d / "blocked.jsonl").exists():
-                skipped_blocked += 1
+            attempt_ok, reason = should_attempt_slug(s, save_dir, now=now)
+            if not attempt_ok:
+                skipped_backoff += 1
             else:
                 active.append(s)
-        if skipped_blocked:
-            print(f"  Skipped {skipped_blocked} already-blocked slugs (no page.txt data)")
+        if skipped_backoff:
+            print(f"  Skipped {skipped_backoff} slugs currently in backoff window")
         slugs = active
 
+    # Apply batching — cap per batch at ~10 to avoid Cloudflare burst detection
+    if args.batch > 0:
         if args.batch > args.total_batches:
             print(f"ERROR: batch {args.batch} > total-batches {args.total_batches}")
             sys.exit(1)

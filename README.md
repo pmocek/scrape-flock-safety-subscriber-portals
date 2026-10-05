@@ -59,7 +59,7 @@ Each agency saves into `data/{slug}/`:
 | `audit.csv` | Cumulative — Public Search Audit CSV merged and deduplicated over time across 30-day rolling windows |
 | `logo.png` / `logo.svg` | Downloaded — official agency badge/insignia asset preserved locally |
 | `policy.pdf` | Downloaded — official ALPR policy document when linked directly as a PDF |
-| `blocked.jsonl` | Append-only — records Cloudflare block events (never pollutes `stats.jsonl`) |
+| `blocked.jsonl` | Append-only — records Cloudflare block events and HTTP errors with consecutive failure counter and exponential backoff retry window (never pollutes `stats.jsonl`) |
 | `health.jsonl` | Append-only — written by the health-check workflow |
 
 Git commits only when `describe-diff.py` detects meaningful changes. Runs where every agency is blocked produce no commit.

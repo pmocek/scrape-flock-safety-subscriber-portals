@@ -57,8 +57,12 @@ The following is the complete dump of all tasks migrated from the Beads local Do
   1. Geocode and map exact camera street intersections disclosed under `#more-info` (e.g. Lucas County OH SO).
 
 ### Milestone 4: Scraper Resilience & Rate-Limit Backoff
-* **Status:** Backlog (former `edf`)
-* **Goals:**
-  1. Extend `blocked.jsonl` to track consecutive block counters and exponential backoff timestamps.
-  2. Skip slugs with repeated consecutive blocks (`Error 1015` or HTTP 404) for escalating durations ($2^N$ hours) to conserve CI runtime.
-  3. Never permanently drop a slug to preserve historical longitudinal tracking.
+* **Status:** Completed (former `edf`)
+* **Delivered:**
+  1. Extended `blocked.jsonl` schema with `consecutive_blocks`, `backoff_hours`, and `retry_after` timestamps.
+  2. Implemented `should_attempt_slug()` and `record_blocked()` in `scrape-flock.py`:
+     * Slugs with no historical data (never succeeded) back off exponentially: $2^N$ hours (capped at 720h / 30d).
+     * Slugs with historical data (`page.txt` exists) back off for a short 1-hour window.
+     * Reset counter to 0 upon successful scrape.
+     * Never permanently drop slugs to ensure long-term longitudinal tracking.
+  3. Integrated backoff filtering into `scrape-flock.py` batching and added `--ignore-backoff` flag.
