@@ -8,7 +8,6 @@ Tracks Flock Safety subscriber data using the [git-scraping](https://simonwillis
 - Scrapes individual agency transparency portals (`transparency.flocksafety.com/*`) via Playwright
 - Extracts structured stats: cameras, vehicles, retention, searches, hotlist hits, directional sharing network data
 - Directional sharing data is preserved separately: `shares_data_with` (agencies this agency sends data to) and `receives_data_from` (agencies this agency receives data from). Raw `page.txt` is the canonical source; directional data is derived in `stats.jsonl`.
-- Aggregated sharing relationships across all agencies are saved to `data/sharing-relationships.json` — each row records a source agency, partner name, direction, and a placeholder for resolved slug.
 - Extracts Public Search Audit CSV data where available; scans search reasons for immigration-related terms and potential Driver Privacy Act (SB 6002) violations
 - Analyzes all audit CSV reasons across agencies — categorizes them, flags federal agency references, vague entries, case-number-only reasons, and on-behalf-of (OSA) patterns
 - Detects Cloudflare blocks via HTTP status code (429) and body text ("Error 1015") — blocks are logged separately, not conflated with data
@@ -62,7 +61,6 @@ Each agency saves into `data/{slug}/`:
 | `policy.pdf` | Downloaded — official ALPR policy document when linked directly as a PDF |
 | `blocked.jsonl` | Append-only — records Cloudflare block events (never pollutes `stats.jsonl`) |
 | `health.jsonl` | Append-only — written by the health-check workflow |
-| `sharing-relationships.json` | Generated — aggregated directional relationships across all agencies (`data/`) |
 
 Git commits only when `describe-diff.py` detects meaningful changes. Runs where every agency is blocked produce no commit.
 
