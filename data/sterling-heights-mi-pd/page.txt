@@ -6,7 +6,7 @@ Visit Flock
 Sterling Heights MI PD
 Transparency Portal
 
-Last updated: Fri Aug 21 2026
+Last updated: Mon Oct 05 2026
 
 Overview
 
@@ -15,9 +15,28 @@ Sterling Heights MI PD uses Flock Safety technology to capture objective evidenc
 Community Impact
 Featured Success Stories
 
-Department Searches for July, 2026
+Departmental Results
 
-When an incident occurs, multiple officers could be performing a search on the same vehicle. With that in mind, there were 266 searches to assist in hit and run accidents, 72 searches for stolen vehicles, 29 searches related to robberies, and 17 searches to assist in locating missing or endangered persons.
+*When an incident occurs, multiple officers could be performing a search on the same vehicle which may result in higher numbers for certain cases or search types.
+
+AUGUST 2026
+During the month of August, there were 1420 searches conducted by Sterling Heights Police Officers. 382 searches were for narcotic/drug investigations, 188 searches for wanted persons/warrants, 177 searches for motor vehicle thefts, 112 searches for larceny, 96 searches for destruction of property, 57 searches for weapons offenses, 53 searches for hit and run accidents, and 34 searches for financial crimes.
+
+Flock was utilzed for an incident where an elderly person was scammed out of $3500 over fraudulent cement work. Subject was located and arrested
+
+A driver was shot at multiple times on Hall Road. The crime was committed versus a random victim and the victim had no information on the suspect. Due to Flock LPR in the area, the suspect was located and arrested within hours. The suspect was arrested in his vehicle with 2 firearms and a bullet proof vest.
+
+OWI accident/hit and run. Intoxicated driver was located and arrested immediately. Without Flock, the intoxicated at fault driver may ot have been found or arrested.
+
+Aggravated stalking subject who was preying on an ex girlfriend was located and arrested. The victim was in fear for her safety and due to utilization of Flock, the suspect was arrested.
+
+
+
+
+
+
+JULY 2026
+During the month of July, there were 266 searches to assist in hit and run accidents, 72 searches for stolen vehicles, 29 searches related to robberies, and 17 searches to assist in locating missing or endangered persons.
 
 Flock was utilized in locating and arresting a subject that had committed a bank robbery while driving a stolen vehicle from another jurisdiction. The arrested subject was from another state so the quick utilization of Flock, allowed an arrest prior to the suspect fleeing the state.
 
@@ -42,7 +61,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-422
+330
 
 Hotlists Alerted On
 
@@ -88,9 +107,9 @@ GENERAL ORDER
 
 GENERAL ORDER NUMBER: 6.81
 SUBJECT: AUTOMATED LICENSE PLATE READERS (ALPR)
-DATE OF ISSUE: 08/04/2026
-EFFECTIVE DATE: 08/04/2026
-RESCINDS: 12/08/2025
+DATE OF ISSUE: 09/10/2026
+EFFECTIVE DATE: 09/10/2026
+RESCINDS: 08/05/2025
 
 I. POLICY
 
@@ -161,11 +180,13 @@ D. Restrictions of Automated License Plate Reader Use:
 2. The ALPR system shall not be used for the sole purpose of immigration
 enforcement.
 
-3. Invasion of Privacy: Except when done pursuant to a court order such as a search warrant, it is a violation of this policy to utilize the ALPR to record license plates on private property. The exception is license plates on private property that are exposed to public view.
+3. The ALPR system shall not be used for the sole purpose of reproductive health care enforcement.
 
-4. Harassment or Intimidation: It is a violation of this policy to use the ALPR system to harass and/or intimidate any individual or group.
+4. Invasion of Privacy: Except when done pursuant to a court order such as a search warrant, it is a violation of this policy to utilize the ALPR to record license plates on private property. The exception is license plates on private property that are exposed to public view.
 
-5. Personal Use: It is a violation of this policy to use the ALPR system for any personal purpose.
+5. Harassment or Intimidation: It is a violation of this policy to use the ALPR system to harass and/or intimidate any individual or group.
+
+6. Personal Use: It is a violation of this policy to use the ALPR system for any personal purpose.
 
 E. Required Documentation for All ALPR Searches:
 
@@ -174,7 +195,6 @@ E. Required Documentation for All ALPR Searches:
 a. Reason for the search
 b. Case number associated with the search
 i. If a case number is not available (such as a BOL that does not have a generated case number), then a detailed description will be documented for why the case number is not available.
-
 
 VI. RESPONSIBILITY
 
@@ -198,7 +218,7 @@ B. Data Retention and Accountability:
 a. All requests for access to historical ALPR data shall be logged in the ALPR system and the reason for the access must be recorded. The appropriate Sterling Heights Police Department case or incident number shall be documented in the request.
 b. All ALPR data downloaded to a mobile workstation shall be accessible only through a login/password protected system capable of documenting all access of information by name, date, and time.
 
-C. Administrative Audits:
+C. Administrative Monthly Audits:
 
 1. It is the responsibility of the Chief of Police to ensure that an Organizational Audit of the ALPR data system is conducted by a Sterling Heights Police ALPR Administrator or designee of the Chief of Police on a monthly basis. The monthly audit will consist of the following:
 a. A review of all search requests to determine that each request has proper documentation for:
@@ -207,6 +227,24 @@ ii. An associated case number (When a case number is not applicable to the searc
 b. Any irregularities found in the search request or case number documentation will be further reviewed to confirm compliance with this General Order.
 c. Any audit that reveals a violation of Section V (D) will require the completion of an ARX internal complaint form to be submitted to the Office of the Chief for review and investigation.
 d. A memo to the Chief of Police by the ALPR Administrator or his designee confirming the completion of the monthly audit which shall be filed in accordance with the current Michigan State Police Record Retention Policy. Sterling Heights Police Department Organizational Flock Monthly Audit form will be available on PowerDMS.
+
+D. Annual Audit Report
+
+1. The Chief of Police shall ensure that an annual organizational audit of the Automated License Plate Reader (ALPR) data system is completed at the beginning of each calendar year for the preceding calendar year. The audit shall be conducted by a Sterling Heights Police Department ALPR Administrator or a designee appointed by the Chief of Police.
+
+2. The Annual Audit Report shall include, at a minimum:
+
+a. The total number of ALPR searches conducted during the preceding calendar year.
+b. The total number of potential policy violations identified and referred to the Chief of Police for review during the preceding calendar year.
+c. Verification that all required monthly audits for the preceding calendar year were completed and appropriately documented.
+d. A review of this General Order to identify any operational, legal, technological, or policy updates deemed necessary by the Chief of Police.
+e. A review of ALPR equipment, camera locations, and system configurations to confirm operational effectiveness and compliance with applicable policy requirements.
+f. Verification that the City’s Transparency Dashboard and any other publicly available ALPR-related data have been reviewed and updated, as appropriate, to reflect accurate and current statistics.
+g. Verification that the ALPR system continues to require and enforce the following safeguards:
+i. A documented reason or purpose for each ALPR search.
+ii. A corresponding case number or other authorized identifying reference for each ALPR search.
+iii. System controls designed to prohibit ALPR searches for immigration-enforcement purposes.
+iv. System controls designed to prohibit ALPR searches related to reproductive health care.
 
 D. ALPR Transparency Dashboard:
 
@@ -225,7 +263,12 @@ c. Endanger officers, witnesses, victims, informants, or members of the public.
 d. Disclose personally identifiable information without legal authority.
 e. Violate state or federal law, court order, data-sharing agreement, or Department policy.
 
-E. Damage to ALPR Camera:
+E. Authorization Agreement for Outside Agencies
+
+1. Any outside law-enforcement agency seeking access to ALPR cameras or ALPR data maintained by the City of Sterling Heights shall execute and comply with the Sterling Heights ALPR Authorization Agreement before access is granted.
+2. Agencies that were granted access to the Sterling Heights ALPR system before implementation of the Authorization Agreement shall be required to execute the agreement and achieve compliance within a timeframe established by the Chief of Police or designee.
+3. Failure to execute, acknowledge, or comply with the terms of the Sterling Heights ALPR Authorization Agreement may result in suspension or termination of access to Sterling Heights ALPR cameras, data, and associated systems
+F. Damage to ALPR Camera:
 
 1. If an officer is dispatched to or locates a damaged ALPR camera, they shall write a case report or note it on a UD-10.
 
@@ -239,8 +282,6 @@ E. Damage to ALPR Camera:
 
 
 
-
-
 _________________________
 Andrew Satterfield
 Chief of Police
@@ -249,8 +290,31 @@ Chief of Police
 
 
 
-
-
-
+Sterling Heights Police Department
+Authorization Agreement
+_________________ (Requesting Agency)
+We have received a request from your department to obtain search privileges through the Sterling Heights Police Department’s (SHPD) Flock System. Pursuant to SHPD policy, all agencies must agree to the following criteria to obtain access to our Flock System.
+As consideration for your agency receiving access to SHPD’s Flock search, you, on behalf of the above-named police agency, must respond to this email certifying that your agency agrees to all the following stipulations for access:
+1. The SHPD Flock Search shall only be used for official and legitimate law enforcement purposes. Only sworn police personnel and dispatchers shall have access to the ALPR system.
+2. The SHPD Flock Search shall not be used for the purpose of immigration enforcement.
+3. Use of SHPD’s Flock Search shall not be used to harass and/or intimidate any individual or group.
+4. The SHPD Flock Search shall not be used for reproductive health enforcement.
+5. The SHPD’s Flock Search shall not be used for any personal purpose.
+6. All SHPD Flock Searches will require the following documentation to be added to the SHPD Flock Search:
+a. Reason for the search
+b. Case number associated with the search
+i. If a case number is not available (such as a BOL that does not have a generated case number), then a detailed description shall be documented for why the case number is not available.
+7. The department shall not publish information that could reasonably:
+a. Compromise an active or pending investigation.
+b. Reveal confidential intelligence or investigative methods.
+c. Endanger officers, witnesses, victims, informants, or members of the public.
+d. Disclose personally identifiable information without legal authority.
+e. Violate state or federal law, court order, data-sharing agreement, or Department policy.
+8. Your agency has implemented general orders, rules, and/or policies regulating       against the misuse of the FLOCK system.
+By responding to this email, you agree that you are a duly authorized representative of the above-named agency and have authority to respond on its behalf.
+Agency:
+Name:
+Title:
+Badge #
 
 Provided by Flock Safety
