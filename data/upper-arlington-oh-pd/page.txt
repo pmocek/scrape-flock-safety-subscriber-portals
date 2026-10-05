@@ -5,7 +5,7 @@ Visit Flock
 Upper Arlington OH PD
 Transparency Portal
 
-Last updated: Wed Aug 12 2026
+Last updated: Mon Oct 05 2026
 
 Overview
 
@@ -32,13 +32,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-402,661
+418,980
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-107
+23
 
 Hotlists Alerted On
 
@@ -50,16 +50,16 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-752
+537
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Drugs/Narcotics
-Stolen Property Offenses
+Hit and Run/Car Accident
 Larceny/Theft Offenses
+Missing/Endangered Person/Runaway
 Traffic Infraction
-Motor Vehicle Theft/Stolen
 
 Sharing Network Data With
 
@@ -77,6 +77,7 @@ Ashland County OH SO
 Ashland OH PD
 Ashtabula County OH SO
 Ashtabula OH PD
+Athalia OH PD
 Athens County OH SO
 Athens OH PD
 Auglaize County OH SO
@@ -119,7 +120,6 @@ Buckeye Lake OH PD
 Butler Township OH PD
 Cambridge OH PD
 Canfield OH PD
-Canton OH PD
 Carey OH PD
 Carroll County OH SO
 Carrollton OH PD
@@ -143,12 +143,10 @@ Clinton County SO - OH
 Clinton Township OH PD
 Clyde PD OH
 Colerain Township PD - OH
-Columbus OH PD
 Columbus Regional Airport Authority OH PD
 Conneaut OH PD
 Copley Township OH PD
 Cortland OH PD
-Coshocton County OH SO
 Cridersville OH PD
 Cross Creek Township OH PD
 Cuyahoga County OH SO
@@ -167,7 +165,6 @@ Dublin OH PD
 East Cleveland OH PD
 Eastlake OH PD
 Eaton OH PD
-Edison State Community College
 Elmore OH PD
 Elyria OH PD
 Englewood OH PD
@@ -193,6 +190,7 @@ Franklin Township OH PD
 Fremont OH PD
 Fulton County OH SO
 Gahanna OH PD
+Galion City School District (OH)
 Gallia County OH SO
 Garfield Heights OH PD
 Gates Mills Village OH PD
@@ -237,6 +235,7 @@ Indian Hill OH PD
 Jackson Township OH PD (Mahoning County)
 Jackson Township OH PD (Stark County)
 Jefferson County OH SO
+Johnstown OH PD
 Kent OH PD
 Kettering OH PD
 Kirtland OH PD
@@ -276,6 +275,7 @@ Marysville OH PD
 Mason PD - OH
 Maumee OH PD
 Mayfield Village OH PD
+McDonald OH PD
 Medina County OH SO
 Medina OH PD
 Medina Township OH PD
@@ -297,9 +297,8 @@ Montgomery County OH SO
 Montgomery OH PD
 Montville Township OH PD
 Moraine OH PD
-Moreland Hills OH PD (Custom Hotlist)
+Morgan County OH SO
 Morrow OH PD
-Mount Orab OH PD
 Mount Vernon OH PD
 Muskingum County OH SO
 Napoleon OH PD
@@ -317,6 +316,7 @@ Noble County OH SO
 North Canton OH PD
 North College Hill OH PD
 North Olmsted OH PD
+North Randall OH PD
 North Ridgeville OH PD
 North Royalton OH PD
 Northeast Ohio Regional Fusion Center
@@ -381,6 +381,7 @@ Perry County OH SO
 Perry Township OH PD
 Perrysburg OH PD
 Perrysburg Twp OH PD
+Pickaway County OH SO
 Pickerington OH PD
 Pierce Township OH PD
 Plain City OH PD
@@ -423,7 +424,7 @@ Springfield OH PD
 St. Clairsville OH PD
 Steubenville OH PD
 Stow OH PD
-Streetsboro OH PD [inactive]
+Streetsboro OH PD
 Strongsville OH PD
 Struthers OH PD
 Sugarcreek Township OH PD
@@ -463,6 +464,7 @@ Warren County OH SO
 Warren OH PD
 Warrensville Heights OH PD
 Washington County OH SO
+Washington Township PD OH
 Waterville OH PD
 Wauseon OH PD
 Wellington OH PD
@@ -494,7 +496,6 @@ Receiving Network Data From
 Organizations sharing their data with Upper Arlington OH PD.
 
 Germantown OH PD
-[DEACTIVATED] - DO NOT USE
 [Federal] Wright Patterson OH Air Force Base
 Acworth GA PD
 Adrian MI PD
@@ -517,7 +518,6 @@ Avon IN PD
 Avon Lake OH PD
 Bainbridge Township OH PD
 Baldwin County GA SO
-Baldwinsville Central School District Inc NY
 Barberton OH PD
 Bath Township OH PD
 Bay Village OH PD
@@ -558,7 +558,6 @@ Cambridge City IN PD
 Canfield OH PD
 Canton IL PD
 Carey OH PD
-Carmel IN PD
 Carroll County OH SO
 Carrollton OH PD
 Cartersville GA PD
@@ -569,7 +568,6 @@ Chardon OH PD
 Chatsworth GA PD
 Cheatham County TN SO
 Chester Township OH PD
-Chesterton IN PD
 Cheviot OH PD
 Clark County OH SO
 Clayton NC PD
@@ -582,13 +580,9 @@ Clyde PD OH
 Cobb County GA PD
 Colerain Township PD - OH
 Coles County IL SO
-Collier County FL SO
-Columbus OH PD
 Columbus Regional Airport Authority OH PD
 Cookeville TN PD
 Copley Township OH PD
-Cortland OH PD
-Coshocton County OH SO
 Covington GA PD
 Crawfordsville IN PD
 Cridersville OH PD
@@ -611,8 +605,8 @@ Easley SC PD
 East Cleveland OH PD
 Eastlake OH PD
 Eaton OH PD
-Edison State Community College
 Elizabethtown KY PD
+Elkhart PD IN
 Elmore OH PD
 Elyria OH PD
 Englewood OH PD
@@ -622,7 +616,6 @@ Euclid OH PD
 Evendale OH PD
 Fairborn OH PD
 Fairfax OH PD
-Fairfield PD - OH
 Fairfield Township OH PD
 Fairlawn OH PD
 Fairmount IN PD
@@ -630,7 +623,6 @@ Fairview Park OH PD
 Farmington Hills MI PD
 Fayette OH PD
 Fishers IN PD
-Flock Safety - Test
 Florence AL PD
 Florence Co. WI SO
 Florence County SC SO
@@ -640,10 +632,8 @@ Forest Park OH PD
 Forsyth County GA SO
 Fort Loramie OH PD
 Fort Mill SC PD
-Fort Wayne IN PD
 Fort Worth TX PD
 Franklin County OH SO
-Franklin County PA SO
 Franklin GA PD
 Franklin IN PD
 Franklin OH PD
@@ -690,7 +680,6 @@ Hazelwood MO PD
 Heath OH PD
 Hebron OH PD
 Henderson KY PD
-Henry County IL SO
 Henry County OH SO
 Hermitage PA PD
 Highland Heights OH PD
@@ -724,14 +713,11 @@ Lafayette TN PD
 Lake County OH SO
 Lakemore OH PD
 Lakewood OH PD
-Lancaster County SC SO
 Lauderdale County TN SO
-Lawrence District Attorney PA
+Lawrence County District Attorney's Office PA
 Lawrenceville GA PD
-Lebanon OH PD
 Lee County IL SO
 Lehigh County PA (RIIC)
-Lexington NC PD
 Lexington TN PD
 Liberty Township OH PD
 Licking County OH SO
@@ -764,7 +750,6 @@ Matteson IL PD
 Mattoon IL PD
 Maumee OH PD
 Mayfield Village OH PD
-McDonough County IL SO
 Medina County OH SO
 Medina OH PD
 Medina Township OH PD
@@ -778,7 +763,6 @@ Miamisburg OH PD
 Middleburg Heights OH PD
 Midlothian IL PD
 Milan MI PD
-Milton GA PD
 Minerva Park OH PD
 Minster OH PD
 Mogadore OH PD
@@ -786,6 +770,7 @@ Monon IN PD
 Monroe County MI SO
 Monroe County WI SO
 Monroe GA PD
+Monroe MI PD
 Monroe OH PD
 Montgomery County OH SO
 Montville Township OH PD
@@ -794,7 +779,6 @@ Moraine OH PD
 Moreland Hills OH PD
 Morrow OH PD
 Mount Morris Township PD MI
-Mount Orab OH PD
 Mount Vernon OH PD
 Mountain Brook AL PD
 Mountain City TN PD
@@ -823,7 +807,6 @@ NRP Group (OH)
 Oakwood Village OH PD (Cuyahoga)
 Oberlin OH PD
 Obetz OH PD
-Ocean View DE PD
 Ogle County IL SO
 OH - Blanchester PD
 OH - Butler County SO
@@ -883,7 +866,6 @@ Ravenna OH PD
 Reading OH PD
 Rehobeth Beach DE PD (DNU)
 Reminderville OH PD
-Reynoldsburg OH PD
 Richfield OH PD
 Richland County OH SO
 Richland County WI SO
@@ -911,7 +893,6 @@ Seville OH PD
 Sharonville OH PD
 Sheffield Village OH PD
 Shelby County IN SO
-Shelby Township MI PD
 Shelbyville IN PD
 Sidney OH PD
 Sikeston MO DPS
@@ -923,7 +904,6 @@ South Central OH Major Crimes Unit
 South Euclid OH PD
 Southgate KY PD
 Spartanburg County SC SO
-Spartanburg SC PD
 Springdale OH PD
 Springfield OH PD
 Springfield TN PD
@@ -943,7 +923,6 @@ Swanton OH PD
 Sylvania OH PD
 Sylvania Township OH PD
 Tallmadge OH PD
-Temple University Campus PA PD
 Thornton CO PD
 Tipp City OH PD
 Tippecanoe County IN SO
@@ -961,7 +940,6 @@ Union OH PD
 Union Township PD (Clermont Co) - OH
 University Circle OH PD
 University Heights OH PD
-University of Delaware PD
 University of Toledo OH PD
 Urbana OH PD
 Vandalia OH PD
@@ -974,7 +952,6 @@ Warren County OH SO
 Warren OH PD
 Warrensville Heights OH PD
 Washington MO PD
-Watauga County NC SO
 Waterville OH PD
 Wells County IN SO
 West Carrollton OH PD
@@ -994,7 +971,6 @@ Woodlawn OH PD
 Woodstock GA PD
 Woodville OH PD
 Wooster OH PD
-Worthington OH PD
 Wyandot County OH SO
 Wyoming OH PD
 Xenia OH PD
