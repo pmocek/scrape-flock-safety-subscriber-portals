@@ -1,0 +1,115 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+Rossford OH PD
+Transparency Portal
+
+Last updated: Mon Oct 05 2026
+
+Overview
+
+The Rossford Police Department uses Flock Safety technology to capture objective evidence without compromising on individual privacy. RPD utilizes retroactive searches to solve crimes after they've occurred. Additionally, RPD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, we have made the below policies and usage statistics available to the public.
+
+Community Impact
+Featured Success Stories
+
+Success Stories
+
+12/2023 A Flock ALPR alerted to a stolen vehicle on Buck Road in Rossford. The vehicle was located at Buck and Glenwood Roads and a felony stop was conducted. The driver of the vehicle was in possession of two loaded firearms, one of which was reported stolen out of Detroit. The vehicle and one of the firearms were also involved in a shooting in Detroit. The driver was arrested and charged with receiving stolen property.
+
+1/2024 Officers responded to a residence in Rossford on a report of a home invasion during which the victim was allegedly tied up and multiple firearms were stolen from his residence. Through the use of Flock, several vehicles were identified that were involved in the offense, which led to arrests being made.
+
+11/2025 Detectives investigated a theft of $14,763.00 worth of merchandise from a business in Rossford. Flock was used to identify the suspect vehicle and they were also notified through Flock that the vehicle was involved in a missing juvenile investigation being conducted by the Toledo Police Department. As a result, the missing juvenile was located and the stolen property was recovered. Two suspects were charged with Felony Theft and also have pending charges related to the missing juvenile out of Toledo.
+
+2/2026 Flock was used to identify the vehicle driven by a suspect in a Felonious Assault investigation which occurred at a business in Rossford. The victim of the assault required reconstructive surgeries to his face. Once the driver of the vehicle was identified, three other suspects were also identified which resulted in their arrests for Felonious Assault, a second degree felony offense.
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+20
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+297,481
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCIC, NCMEC Amber Alert
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+2,624
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Rossford OH PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), non-law enforcement use, personal use.
+
+Access Policy
+
+All system access requires a case number, CAD number, or description of investigation. This information is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+Myth vs. Fact
+Myth
+
+Flock has been hacked.
+
+Fact
+
+Flock's cloud environment has never been breached. Flock invests in a strong security posture, including adhering to NDAA, SOC2 (Type II), ISO 27001, ISO 27018 FedRAMP 20x, and Higher Education Community Vendor Assessment Tool (HECVAT) compliance. Additional security precautions include Role-Based Access Controls, data encrypted at-rest and in transit, required Multi-Factor Authentication, and regular penetration testing.
+
+Myth
+
+Flock sells and/or shares customer data.
+
+Fact
+
+Your community owns 100% of your data and it will never be sold. Only your agency decides who to share your data with, not Flock. Flock Safety does not publicly release agency search data. Flock does not operate or support any public-facing searchable database of law enforcement lookups, and we do not provide license plate search histories to websites or third parties without the agency's knowledge and authorization. Other agencies who you share footage with have been responding to FOIA requests and sharing this search data.
+
+Myth
+
+My data is fed into a national database.
+
+Fact
+
+Each agency controls access to its own data. Agencies may choose to share information through a broader network, but nothing is shared automatically. Participation is opt-in, governed by defined agreements, and limited to lawful investigative purposes.
+
+Myth
+
+Flock cameras use facial recognition.
+
+Fact
+
+Flock cameras do not use facial recognition technology. Searches are based on vehicle characteristics, and not identity. Flock cannot recognize, identify, or track individuals. It is purpose built for specific public safety investigations, not to monitor people.
+
+Provided by Flock Safety

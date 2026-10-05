@@ -5,7 +5,7 @@ Visit Flock
 Roseville MN PD
 Transparency Portal
 
-Last updated: Fri Aug 21 2026
+Last updated: Sun Oct 04 2026
 
 Overview
 
@@ -24,19 +24,19 @@ Total Cameras
 
 Number of LPR and other cameras.
 
-9
+10
 
 Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-283,115
+302,719
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-197
+161
 
 Hotlists Alerted On
 
@@ -48,58 +48,41 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,399
+7,273
 
 Sharing Network Data With
 
 Organizations granted access to Roseville MN PD data.
 
-Todd County MN SO
-Aitkin County MN SO
 Anoka County MN SO
 Anoka MN PD
-Becker County MN SO
 Brooklyn Center MN PD
 Brooklyn Park MN PD [Inactive]
 Champlin MN PD
-Chisago County MN SO
 Coon Rapids MN PD
 Corcoran MN PD
 Cottage Grove Public Safety Dept (MN)
-Crystal MN PD
 Dayton MN PD
-Detroit Lakes MN PD
 Edina MN PD
-Elk River MN PD
 Fridley MN PD
-Grand Rapids MN PD
 Hennepin County MN SO
-Hill City MN PD
 Hopkins MN PD
-Lake City MN PD
-Lakes Area MN PD
-Maple Grove MN PD
 Maplewood MN PD
 Medina MN PD
 Minnetonka MN PD
+Mounds View MN PD
 New Brighton Dept of Pub Safety (MN)
 New Hope MN PD
-Owatonna MN PD
-Pine County MN SO
 Plymouth MN PD
 Prior Lake MN PD
 Ramsey MN PD
 Saint Paul Police Department (MN)
 Spring Lake Park MN PD
-St. Louis County MN SO
 St. Louis Park MN PD
 Stillwater MN PD
 West Hennepin MN Public Safety Department
 West Saint Paul MN PD
-Willmar MN PD
-Winona MN PD
 Woodbury MN
-Wyoming MN PD
 Policy & Trust
 
 What's Detected
