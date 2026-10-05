@@ -5,7 +5,7 @@ Visit Flock
 Lowell MA PD
 Transparency Portal
 
-Last updated: Fri Oct 02 2026
+Last updated: Sat Oct 03 2026
 
 Overview
 
@@ -69,13 +69,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-436,439
+436,635
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-368
+348
 Policy & Trust
 
 What's Detected
