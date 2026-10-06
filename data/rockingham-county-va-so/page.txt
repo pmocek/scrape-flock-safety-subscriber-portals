@@ -1,9 +1,158 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+Rockingham County VA SO
+Transparency Portal
 
-<Error>
-<Code>NoSuchKey</Code>
-<Message>The specified key does not exist.</Message>
-<Key>index.html</Key>
-<RequestId>8SPPSV47DATY3V07</RequestId>
-<HostId>Wi5zXrFgXQxOlpwXGmdFBws7gwlfWl4Yv3G7ox9LiMihGHW1CNin2FvCN2XpPoQlvNLlr/P7wa0EoZCCSp37d+1qFW0a/ZWD</HostId>
-</Error>
+Last updated: Mon Oct 05 2026
+
+Overview
+
+Rockingham County VA SO uses Flock Safety technology to capture objective evidence using license plate cameras (photos only / no videos) in public places without compromising on individual privacy. Rockingham County VA SO utilizes retroactive license plate search and vehicle descriptors to help solve crimes in our community after they have occurred. Additionally, Rockingham County VA SO utilizes real time alerting of "hotlist" vehicles to locate missing, wanted, and endangered persons that are entered into the Virginia State Police VCIN System (AMBER alerts, SENIOR alerts, etc.) In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+4
+
+LPR Cameras
+
+Number of LPR cameras only.
+
+4
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+134,573
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+7
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert, NCIC - VSP
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+8
+
+Sharing Network Data With
+
+Organizations granted access to Rockingham County VA SO data.
+
+Amherst County VA SO
+Bluefield VA PD
+Chesapeake VA PD
+Clarksville VA PD
+Fairfax County VA PD
+Franklin County VA SO
+Front Royal VA PD
+Hanover County VA SO
+Herndon VA PD
+Hopewell VA PD
+King George County VA SO
+Leesburg VA PD
+Mathews County VA SO
+Middlesex County SO VA
+New Kent County VA SO
+Powhatan County VA SO
+Pulaski VA PD
+Roanoke VA PD
+Rockbridge County VA SO
+Smithfield VA PD
+Southampton VA SO
+Spotsylvania County VA SO
+Strasburg VA PD
+Suffolk VA PD
+Woodstock VA PD
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicle Descriptors
+
+What's NOT Detected
+
+Facial recognition, People, Gender, Race, Cell Phone Data, Wireless Technology
+
+Acceptable Use Policy
+
+License plate images are used for law enforcement purposes only and access is strictly governed by the Code of Virginia. All images are owned by Rockingham County VA SO and are never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid law enforcement reason and system access logs are stored.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+SOC 2 Type II
+
+Independently audited controls covering security, availability, and confidentiality.
+
+ISO 27001
+
+Information security management aligned with international standards.
+
+Adherence to Key Privacy Principles
+
+Built to focus on data minimization, purpose limitation, and transparency.
+
+Myth vs. Fact
+Myth
+
+Flock has been hacked.
+
+Fact
+
+Flock's cloud environment has never been breached. Flock invests in a strong security posture, including adhering to NDAA, SOC2 (Type II), ISO 27001, ISO 27018 FedRAMP 20x, and Higher Education Community Vendor Assessment Tool (HECVAT) compliance. Additional security precautions include Role-Based Access Controls, data encrypted at-rest and in transit, required Multi-Factor Authentication, and regular penetration testing.
+
+Myth
+
+Flock sells and/or shares customer data.
+
+Fact
+
+Your community owns 100% of your data and it will never be sold. Only your agency decides who to share your data with, not Flock. Flock Safety does not publicly release agency search data. Flock does not operate or support any public-facing searchable database of law enforcement lookups, and we do not provide license plate search histories to websites or third parties without the agency's knowledge and authorization. Other agencies who you share footage with have been responding to FOIA requests and sharing this search data.
+
+Myth
+
+My data is fed into a national database.
+
+Fact
+
+Each agency controls access to its own data. Agencies may choose to share information through a broader network, but nothing is shared automatically. Participation is opt-in, governed by defined agreements, and limited to lawful investigative purposes.
+
+Myth
+
+Flock cameras use facial recognition.
+
+Fact
+
+Flock cameras do not use facial recognition technology. Searches are based on vehicle characteristics, and not identity. Flock cannot recognize, identify, or track individuals. It is purpose built for specific public safety investigations, not to monitor people.
+
+Provided by Flock Safety
