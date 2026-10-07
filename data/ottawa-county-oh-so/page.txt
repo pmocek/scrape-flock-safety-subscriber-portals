@@ -5,7 +5,7 @@ Visit Flock
 Ottawa County OH SO
 Transparency Portal
 
-Last updated: Tue Oct 06 2026
+Last updated: Wed Oct 07 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-285,181
+277,372
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-145
+144
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-580
+566
 
 Sharing Network Data With
 
@@ -922,7 +922,6 @@ Kendallville IN PD
 Kenilworth NJ PD
 Kenmore Village NY PD
 Kennesaw GA PD
-Kennesaw State University GA PD
 Kenosha County WI SO
 Kent County MI SO
 Kent OH PD

@@ -1,4 +1,28 @@
 id,searchDate,networkCount,reason,offenseType
+9978ff3b-7fea-4abf-8a90-a5140534fb8e,2026-10-06T23:09:27.839Z,1256,stalking suspect,Stalking
+b5a9699d-9afe-4503-9989-d6a9fafff9e9,2026-10-06T22:40:51.887Z,1223,,Motor Vehicle Theft/Stolen
+bf12141e-c1e9-4466-a42f-ca49080556ab,2026-10-06T22:20:14.379Z,1256,stalking suspect,Stalking
+ca16c59b-d1cf-451c-b518-dfb6f822e12e,2026-10-06T22:18:30.960Z,1260,stolen vehicle,Motor Vehicle Theft/Stolen
+49400078-39ad-4cb1-87c7-136154ab71ff,2026-10-06T22:11:46.962Z,1260,Missing person,Missing/Endangered Person/Runaway
+62ea45dc-4645-48a9-8bca-238a6ca98827,2026-10-06T20:28:26.825Z,1255,Report of stolen plate,Stolen Property Offenses
+5e2d3281-5f96-449c-95e9-fc9f215eeb32,2026-10-06T19:40:27.816Z,277,UDAA- attempt to locate stolen vehicle,Stolen Property Offenses
+62be34f8-25bd-4bd0-ad6a-2fad3cf885c6,2026-10-06T19:09:26.706Z,2,Stolen Vehicle,Motor Vehicle Theft/Stolen
+25fdf93d-f3b2-46f1-b28f-c53340fd8e3e,2026-10-06T18:29:55.135Z,2,locate suspect,Pornography/Obscene Material
+3035507f-985f-4f32-bd21-02dfa054ce4d,2026-10-06T18:17:59.784Z,1259,,Drugs/Narcotics
+fd781781-5040-4858-aa07-1396dff87b89,2026-10-06T17:51:09.851Z,2,,Larceny/Theft Offenses
+45fa039a-950d-4fa7-88b8-f07e17d55e3f,2026-10-06T15:25:08.480Z,2,Mental Pick-Up Order,Missing/Endangered Person/Runaway
+98d1daf6-625f-435c-9c90-21818c648f23,2026-10-06T15:03:28.675Z,2,,Drugs/Narcotics
+d2986e4d-97a0-4827-be16-202cda67ae3d,2026-10-06T15:01:03.390Z,277,Fraud Suspect,Financial Crime (Embezzlement/Fraud)
+812f2c78-b643-4c81-bddf-5346f322dad1,2026-10-06T14:49:30.738Z,1261,,Wanted Person (Arrest Warrant/Fugitive)
+151a3a08-3c1b-4455-b990-4f6a1c19aa81,2026-10-06T12:18:05.655Z,278,Stolen Trailer,Stolen Property Offenses
+0ab3bb90-6d1d-4bb8-836a-3de46763cffa,2026-10-06T06:17:24.015Z,1255,Registration forgery,Criminal Motor Vehicle Offense (incl. Road Rage/Reckless)
+3e3b95d4-ba16-4cac-bacf-41ede81438e7,2026-10-06T05:11:15.700Z,1221,,Assault/Battery Offenses
+2cc0e20c-c72f-4720-bbda-7c5f9d318a82,2026-10-06T04:49:53.765Z,1221,,Assault/Battery Offenses
+0e00bb82-0dfc-4113-862a-cb839c17bf79,2026-10-06T01:50:29.767Z,1262,warrant /mental health eval,Wanted Person (Arrest Warrant/Fugitive)
+f37e30a1-430b-44a4-93fa-0e265ba78b19,2026-10-05T19:31:42.927Z,1262,,Motor Vehicle Theft/Stolen
+ec24cd0f-f2b1-4e8d-ab4b-8754eba95009,2026-10-05T19:09:59.500Z,274,,"Protective/Protection Order, Welfare Check"
+897ffcb2-1c0f-4717-a5c4-a3b237d58284,2026-10-05T14:51:46.081Z,1262,,Hit and Run/Car Accident
+b0580149-0b9f-4d42-9e44-d655b7f6b279,2026-10-05T13:31:11.257Z,1262,Suspect,Larceny/Theft Offenses
 acb3a7f6-c23a-4bd8-8333-223e35733789,2026-10-04T11:35:19.192Z,278,suspect vehicle,Stalking
 20c89f8b-e415-488f-965d-2455a9e15d5c,2026-10-03T21:33:59.685Z,279,GHPD Stolen Vehicle,Motor Vehicle Theft/Stolen
 ccc60eec-5493-489a-ac10-d2e61b25e455,2026-10-03T02:52:37.694Z,1224,Suspect Vehicle,Financial Crime (Embezzlement/Fraud)
