@@ -5,7 +5,7 @@ Visit Flock
 El Cajon CA PD
 Transparency Portal
 
-Last updated: Mon Oct 05 2026
+Last updated: Tue Oct 06 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-825,993
+820,571
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-416
+413
 
 Hotlists Alerted On
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-10,364
+10,320
 
 Sharing Network Data With
 
@@ -125,7 +125,6 @@ Auburn WA PD
 Aurora OH PD
 Avenal CA PD
 Avoca PA PD
-Avon CO PD
 Azusa CA PD
 Bakersfield CA PD
 Baldwin Park CA PD
@@ -584,7 +583,7 @@ San Bernardino CA PD
 San Bernardino Community College CA PD
 San Bernardino County CA FD
 San Bernardino County CA Human Services [Law Enforcement]
-San Bernardino County CA SO
+San Bernardino County CA SD
 San Bruno CA PD
 San Diego CA PD
 San Diego County CA SO
@@ -684,13 +683,11 @@ Tulare CA PD
 Tulare County CA SO
 Turlock CA PD
 Tustin CA PD
-Twin Falls ID PD
 Union City CA PD
 University of CA - Santa Barbara CA PD
 University of California
 Berkeley PD
 University of Iowa PD (IA)
-University of the Pacific (CA)
 Upland CA PD
 Urbana OH PD
 UT - Cedar City PD
