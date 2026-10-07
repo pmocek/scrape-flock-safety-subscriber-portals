@@ -5,7 +5,7 @@ Visit Flock
 Golf Manor OH PD
 Transparency Portal
 
-Last updated: Mon Oct 05 2026
+Last updated: Tue Oct 06 2026
 
 Overview
 
@@ -90,7 +90,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-31,484
+31,291
 
 Number of Searches
 
@@ -108,7 +108,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-403
+402
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -219,7 +219,6 @@ Aurora OH PD
 Austin County TX SO
 Avery County NC SO
 Aviston IL PD
-Avon CO PD
 Avon IN PD
 Avon Lake OH PD
 Baldwin GA PD
@@ -1107,7 +1106,6 @@ Kendall County TX SO
 Kendallville IN PD
 Kenmore Village NY PD
 Kennesaw GA PD
-Kennesaw State University GA PD
 Kenosha County WI SO
 Kent County MI SO
 Kenton County KY SO
@@ -2916,7 +2914,6 @@ Forest City NC PD
 Forest Heights MD PD
 Forest Park GA PD
 Forest Park OH PD
-Forest View IL PD
 Forsyth County GA SO
 Fort Loramie OH PD
 Fort Mill SC PD
@@ -3206,7 +3203,6 @@ Kankakee County IL SO
 Kenmore Village NY PD
 Kenner LA PD
 Kennesaw GA PD
-Kennesaw State University GA PD
 Kenosha County WI SO
 Kenton County KY SO
 Kentwood MI PD

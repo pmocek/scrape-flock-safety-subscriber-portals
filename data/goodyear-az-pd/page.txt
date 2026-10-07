@@ -6,7 +6,7 @@ Visit Flock
 Goodyear AZ PD
 Transparency Portal
 
-Last updated: Tue Oct 06 2026
+Last updated: Wed Oct 07 2026
 
 Overview
 
@@ -31,13 +31,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-930,207
+928,088
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-443
+449
 
 Hotlists Alerted On
 
@@ -49,7 +49,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-2,578
+2,527
 Policy & Trust
 
 What's Detected
