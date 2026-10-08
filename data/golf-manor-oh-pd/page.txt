@@ -5,7 +5,7 @@ Visit Flock
 Golf Manor OH PD
 Transparency Portal
 
-Last updated: Tue Oct 06 2026
+Last updated: Wed Oct 07 2026
 
 Overview
 
@@ -58,13 +58,13 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-253 alerts
+248 alerts
 NCIC - Protection Order
-242
+238
 NCIC - Sex Offender
 5
 NCIC - Warrants
-5
+4
 NCIC - Stolen Plate
 1
 
@@ -90,7 +90,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-31,291
+31,354
 
 Number of Searches
 
@@ -108,7 +108,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-402
+397
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -228,6 +228,7 @@ Bardstown PD KY
 Barnesville OH PD
 Barrington Hills IL PD
 Barrow County GA SO
+Barry County MI SO
 Bartlett TN PD
 Bartow County GA SO
 Batavia NY PD
@@ -563,7 +564,6 @@ Cuyahoga County OH SO
 Cuyahoga Falls OH PD
 Cuyahoga Heights OH PD
 CVG Airport KY PD
-Cynthiana KY PD
 Dadeville AL PD
 Dalton GA PD
 Dandridge TN PD
@@ -1388,7 +1388,6 @@ Metro East Auto Theft (IL)
 Metro Police Authority of Genesee County MI
 Metropolis IL PD
 Metropolitan Washington DC PD
-MI - Village of Middleville
 Miami County OH SO
 Miami County Park District OH Rangers
 Miami Township OH PD (Clermont)
@@ -1415,7 +1414,6 @@ Millcreek Twp PA PD
 Millington TN PD
 Milton GA PD
 Milton IN PD
-Milwaukee County WI SO
 Milwaukee WI PD
 Miner MO PD
 Mineral Area Drug Task Force MO
@@ -2566,7 +2564,6 @@ Breese IL PD
 Bremen GA PD
 Brent AL PD
 Brentwood MO PD
-Brevard County FL SO
 Brewster OH PD
 Bridgeport Township MI PD
 Bridgeton MO PD
@@ -2735,6 +2732,7 @@ Coral Springs FL PD
 Cordova AL PD
 Corydon IN PD
 Cottage Grove WI PD
+Cottleville MO PD
 Covington County AL SO
 Covington GA PD
 Covington LA PD
@@ -3557,7 +3555,6 @@ Novi MI PD
 Oak Lawn IL PD
 Oak Park MI Dept of Public Safety
 Oak Ridge TN PD
-Oakbrook Terrace IL PD
 Oakland County MI SO
 Oakland TN PD
 Oakwood GA PD
@@ -3603,7 +3600,6 @@ Ohio County SO WV
 Ohio Department of Rehabilitation and Correction - Office of the Chief Inspector
 Ohio Department of Youth Services - Office of the Chief Inspector
 Ohio State Fire Marshal
-Ohio State University OH PD
 Okeechobee County FL SO
 Olive Branch MS PD
 Olmsted Falls OH PD
@@ -3819,7 +3815,6 @@ Scott County KY SO
 Scottsboro AL PD
 Scurry County TX SO
 SE Missouri State University (MO)
-Sedgwick KS PD
 Selma NC PD
 Seminole County GA SO
 SEMO Drug Task Force MO
@@ -3895,7 +3890,6 @@ St. Charles Parish LA SO
 St. Clair County AL SO
 St. Clair County MI SO
 St. Clairsville OH PD
-St. Cloud FL PD
 St. Francois County MO SO
 St. James Parish LA SO
 St. John MO PD
