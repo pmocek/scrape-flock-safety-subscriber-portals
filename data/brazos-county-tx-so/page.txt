@@ -1,0 +1,653 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+Brazos County TX SO
+Transparency Portal
+
+Last updated: Wed Oct 07 2026
+
+Overview
+
+Protecting the people who live, work, and visit Brazos County is at the heart of what we do at the Brazos County Sheriff’s Office. Investigating crime, identifying those responsible, and keeping our community safe are important responsibilities, and we continually look for responsible ways technology can assist us in that mission.
+
+The Sheriff’s Office uses Flock Safety technology as one of several tools available to our deputies and investigators. The system can assist with criminal investigations by providing objective vehicle information and, in certain circumstances, real-time alerts involving vehicles associated with specific law-enforcement purposes.
+
+This technology has also assisted our agency in locating missing individuals, helping reunite them with their families and loved ones. These are meaningful outcomes that demonstrate how technology can serve our community beyond traditional criminal investigations.
+
+We recognize the responsibility that comes with using this technology. Protecting privacy, maintaining strong safeguards, and ensuring Flock is used responsibly are among our highest priorities. These safeguards have been incorporated into our policies and operating procedures to help ensure the technology is used appropriately and for legitimate law-enforcement purposes.
+
+Community Impact
+141
+TEXAS SUCCESS STORIES IN THE NEWS
+In the Texas News
+LAREDO, TX
+6/25/2026
+
+ARMED ROBBERY
+
+Flock LPR Helps Laredo Officers Arrest Armed Robbery Suspect
+VIDEO
+Read full story
+PERRIN, TX
+6/20/2026
+
+ASSAULT / AGGRAVATED ASSAULT
+
+Flock Cameras Help Texas Deputies Apprehend Assault Suspect Same Day
+VIDEO
+Read full story
+MANSFIELD, TX
+6/8/2026
+
+STOLEN VEHICLE RECOVERY
+
+Flock Drone Helps Mansfield Officers Arrest Three in Retail Theft
+DRONES
+Read full story
+ABILENE, TX
+6/2/2026
+
+ARMED ROBBERY
+
+Flock LPR Helps Link Suspect to Three Armed Robberies in Abilene
+LPR
+Read full story
+BALCH SPRINGS, TX
+6/1/2026
+
+HOMICIDE / MURDER
+
+Flock LPR Helps Track Suspect Vehicle in Balch Springs Homicide
+LPR
+Read full story
+Data & Usage Summary
+
+30 Days
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+10
+
+LPR Cameras
+
+Number of LPR cameras only.
+
+10
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+34
+
+Sharing Network Data With
+
+Organizations granted access to Brazos County TX SO data.
+
+Abilene TX PD
+Amarillo TX PD
+Aubrey TX PD
+Austin County TX SO
+Bay City TX PD
+Bayou Vista TX PD
+Baytown TX PD
+Beaumont TX PD
+Bexar County TX SO
+Big Spring PD TX
+Boyd TX PD
+Bryan TX PD
+Canton TX PD
+Cedar Park TX PD
+Celina TX PD
+College Station TX PD
+Crane County SO TX
+Cross Roads TX PD
+DeSoto TX PD
+Donley County TX SO
+Dublin TX PD
+Eagle Pass TX PD
+Elm Ridge TX PD
+Falfurrias TX PD
+Fort Stockton TX PD
+Fort Worth TX PD
+Friendswood TX PD
+Frisco TX PD
+Galveston TX PD
+Granbury TX PD
+Grapevine TX PD
+Gun Barrel TX PD
+Harris County Const TX Pct 2
+Harrison County TX SO
+Hearne TX PD
+Heart of Texas Auto Theft Task Force
+Heath TX DPS
+Hickory Creek TX PD
+Hidalgo County TX SO
+Holland TX PD
+Howard County TX SO
+Huffman ISD TX PD
+Humble ISD PD TX
+Humble TX PD
+Hunt County TX SO
+Hutchins TX PD
+Jasper TX PD
+Keller TX PD
+Kleberg TX County Attorney's Task Force
+La Porte TX PD
+La Vernia TX PD
+Lee County TX SO
+Leon County TX SO
+Lindale TX PD
+Lubbock County TX SO
+Lumberton TX PD
+Mabank TX PD
+Mansfield TX PD
+McKinney TX PD
+Mexia TX PD
+Midland County TX SO
+Milam County TX SO
+Mont Belvieu TX PD
+Montgomery County Constable
+Precinct 3 (TX)
+Montgomery County Constable
+Precinct 4 (TX)
+Montgomery County Constable
+Precinct 5 (TX)
+Montgomery TX PD
+Mount Vernon TX PD
+Nolanville TX PD
+North Richland Hills TX PD
+Paris TX PD
+Pearland TX PD
+Pharr TX PD
+Presidio TX PD
+Reagan County TX SO
+Regional Vehicle Burglary Suppression Taskforce TX
+Reno TX PD
+Richardson TX PD
+River Oaks TX PD
+Roanoke TX PD
+Rosenberg TX PD
+Round Rock TX PD
+Royse City TX PD
+Sachse TX PD
+San Benito TX PD
+Sansom Park TX PD
+Scurry County TX SO
+Seguin TX PD
+Smith County TX SO
+Snyder TX PD
+Sour Lake TX PD
+South Houston TX PD
+South Plains Auto Theft Task Force TX
+Sterling County TX SO
+Tarleton State University TX PD
+Tarrant County TX SO
+Taylor County TX SO
+Temple TX PD
+Texarkana TX PD
+Texas Department of Criminal Justice
+TX - Bellmead PD
+TX - Bullard PD
+TX - Caddo Mills PD
+TX - City of Orange
+TX - Clute PD
+TX - Cuero PD
+TX - Duncanville Independent School District
+TX - Eastland County SO
+TX - Eastland PD
+TX - Hallettsville PD
+TX - Kermit PD
+TX - Liberty County SO
+TX - Prairie View A & M University Campus PD
+TX - Riesel PD
+TX - Sinton PD
+TX - Swisher County SO
+TX - Trinity County SO
+TX - Vidor PD
+TX - Wink PD
+University of North Texas at Denton PD (TX)
+Waller County TX SO
+Waller TX PD
+Waxahachie TX PD
+Wheeler County TX SO
+Wichita Falls TX PD
+Wylie TX PD
+
+Receiving Network Data From
+
+Organizations sharing their data with Brazos County TX SO.
+
+1st Judicial District
+District Attorney's Office TX
+47th District Attorney's Office TX
+Addison TX PD
+Aldine ISD PD TX
+Allen TX PD
+Alvarado TX PD
+Alvin TX PD
+Amarillo TX PD
+Angelina County TX SO
+Angleton PD TX
+Anthony TX PD
+Arcola TX PD
+Argyle TX PD
+Arlington TX PD
+Armstrong County TX SO
+Athens TX PD
+Aubrey TX PD
+Austin County TX SO
+Azle TX PD
+Balch Springs TX PD
+Bartonville TX PD
+Bastrop County TX SO
+Bastrop TX PD
+Bay City TX PD
+Baytown TX PD
+Beaumont TX PD
+Bee Cave TX PD
+Bellaire TX PD
+Bellville TX PD
+Belton TX PD
+Bertram TX PD
+Bexar County TX SO
+Boerne TX PD
+Bogata TX PD
+Borger TX PD
+Bosque County TX SO
+Brownsville TX PD
+Bryan TX PD
+Burleson TX PD
+Cactus TX PD
+Caldwell CO TX SO
+Caldwell County TX Constable's Pct 2
+Canyon TX PD
+Carrollton TX PD
+Carson County TX SO
+Cass County TX SO
+Castle Hills TX PD
+Castroville TX PD
+Cedar Hill TX PD
+Cedar Park TX PD
+Celina TX PD
+Chambers County TX SO
+Channelview ISD PD TX
+Chanute KS PD
+Cibolo TX PD
+City of Oak Ridge North TX PD
+City of West TX PD
+Clay County TX SO
+Cleburne TX PD
+Coastal Bend College Campus PD
+Coke County TX SO
+College Station TX PD
+Colleyville PD TX
+Commerce TX ISD PD
+Concho County TX SO
+Conroe TX PD
+Cooke County TX SO
+Coppell TX PD
+Corinth TX PD
+Corsicana TX PD
+Crandall TX PD
+Crowell TX PD
+Crowley TX PD
+Cumby TX PD
+Cypress Fairbanks ISD (TX) PD
+Dallam County TX SO
+Dallas Area Rapid Transit PD TX
+Dalworthington Gardens TX PD
+Deer Park TX PD
+Denison TX PD
+Denton County TX SO
+DeSoto TX PD
+DFW Airport PD TX
+Dickinson TX PD
+Donley County TX SO
+Dumas TX PD
+Duncanville TX PD
+Eagle Pass TX PD
+East Tawakoni TX PD
+Ector County Hospital District PD (TX)
+Ector County TX SO
+Edinburg TX PD
+Ellis County TX SO
+Elm Ridge TX PD
+Erath County TX SO
+Euless TX PD
+Falfurrias TX PD
+Fannin County TX SO
+Farmersville TX PD
+Floresville TX PD
+Floyd County TX SO
+Forest Hill TX PD
+Forney TX PD
+Fort Bend County Const TX Pct 1
+Fort Bend County Const TX Pct 4
+Fort Bend County TX SO
+Fort Stockton TX PD
+Fort Worth TX PD
+Franklin County TX SO
+Franklin County Water District TX
+Friendswood TX PD
+Frisco TX PD
+Fulshear TX PD
+Galena Park ISD TX PD
+Galveston County TX SO
+Galveston TX PD
+Garland TX PD
+Glasscock County TX SO
+Granbury TX PD
+Grand Prairie TX PD
+Grapevine TX PD
+Gray County TX SO
+Grayson County TX SO
+Greenwood Independent School District TX
+Guadalupe County TX SO
+Gun Barrel TX PD
+Hardin County SO TX
+Harris County Const TX Pct 1
+Harris County Const TX Pct 2
+Harris County Const TX Pct 3
+Harris County Const TX Pct 4
+Harris County Const TX Pct 5
+Harris County TX SO
+Harrison County TX SO
+Hartley County TX SO
+Heart of Texas Auto Theft Task Force
+Heath TX DPS
+Hedwig Village TX PD
+Henderson TX PD
+Hickory Creek TX PD
+Highland Park TX PD
+Highland Village TX
+Hitchcock TX PD
+Holland TX PD
+Hondo TX PD
+Hopkins County TX SO
+Horizon TX PD
+Houston Metro Transit Authority (TX)
+Houston TX PD
+Huffman ISD TX PD
+Humble ISD PD TX
+Humble TX PD
+Hunt County TX SO
+Hurst TX PD
+Hutchins TX PD
+Ingleside TX PD
+Irving TX PD
+Jack County TX SO
+Jasper TX PD
+Jefferson TX ISD PD
+Jersey Village TX PD
+Johnson County TX SO
+Katy TX PD
+Kaufman County Constable PCT 2
+Kaufman TX PD
+Kendall County TX SO
+Killeen TX PD
+Kleberg TX County Attorney's Task Force
+La Marque TX PD
+La Porte TX PD
+La Vernia TX PD
+Lake Travis ISD TX PD [Inactive]
+Lake Worth TX PD
+Lakeview TX PD
+Lakeway TX PD
+Lamar County MS SO
+Lamar University TX PD
+Lancaster TX PD
+Lavon TX PD
+Leander TX PD
+Lee County TX SO
+Leon County TX SO
+Lewisville TX PD
+Liberty Hill TX PD
+Lindale TX PD
+Lindsay TX PD
+Live Oak TX PD
+Livingston TX PD
+Llano TX PD
+Lubbock County TX SO
+Lufkin TX PD
+Luling TX PD
+Lumberton TX PD
+Mabank TX PD
+Mansfield TX PD
+Marble Falls TX PD
+Marshall TX PD
+Martin County TX SO
+McKinney TX PD
+Meadows Place TX PD
+Memorial Villages TX PD
+Mesquite TX PD
+Mexia TX PD
+Midland County Hospital District PD TX
+Midland County TX SO
+Milam County TX SO
+Mineola TX PD
+Mineral Wells TX PD
+Missouri City TX PD
+MOCIC
+Monahans TX PD
+Mont Belvieu TX PD
+Montague County TX SO
+Montgomery County TX SO
+Montgomery TX PD
+Moore County TX SO
+Morgan's Point PD TX
+Morgan's Point Resort TX PD
+Mount Vernon TX ISD PD
+Mount Vernon TX PD
+Murphy TX PD
+Nash TX PD
+Nassau Bay TX PD
+Nolanville TX PD
+Northlake TX PD
+Oak Point TX PD
+Ochiltree County TX SO
+Odessa TX PD
+Onalaska TX PD
+Ovilla TX PD
+Owner's Association of Patriot Estates
+Inc (TX)
+Pampa TX PD
+Panola County TX SO
+Pantego TX PD
+Paris TX PD
+Pearland TX PD
+Pharr TX PD
+Polk County TX SO
+Ponder TX PD
+Port Aransas TX PD
+Potter County TX SO
+Presidio TX PD
+Princeton TX PD
+Prosper TX PD
+Rains County TX SO
+Randall County TX SO
+Reagan County TX SO
+Red Oak PD TX
+Red River TX SO
+Reeves CO TX SO
+Regional Vehicle Burglary Suppression Taskforce TX
+Reno TX PD
+Rice University TX PD
+Richland Hills TX PD
+Richmond TX PD
+River Oaks TX PD
+Roanoke TX PD
+Robertson County TX SO
+Robstown TX PD
+Rockwall County TX SO
+Rockwall TX PD
+Roman Forest TX PD
+Rosebud TX PD
+Rosenberg TX PD
+Round Rock TX PD
+Rowlett PD TX
+Rusk CO TX SO
+Saginaw TX PD
+San Antonio TX PD
+San Benito TX PD
+San Patricio County TX SO
+Sansom Park TX PD
+Santa Rosa PD TX
+Schertz TX PD
+Seagoville TX PD
+Sealy TX PD
+Seguin TX PD
+Selma TX PD
+Shenandoah TX PD
+Smith County TX SO
+Snyder TX PD
+Sour Lake TX PD
+Southmayd TX PD
+Splendora TX PD
+Spring Branch TX ISD PD
+Spring Valley Village TX PD
+Stafford TX PD
+Sugar Land TX PD
+Sulphur Springs TX PD
+Sunnyvale TX PD
+Sweeny TX PD
+Tarleton State University TX PD
+Tarrant County TX SO
+Tarrant Regional Water District TX PD
+Taylor County TX SO
+Temple TX PD
+Texarkana TX PD
+Texas City TX PD
+Texas Department of Criminal Justice
+Texas Financial Crimes Intelligence Center
+Texas Medical Center PD
+The Colony TX PD
+Thrall City PD TX
+Tomball TX PD
+Traditions Club and Community (TX)
+Trophy Club TX PD
+TX - Alpine PD
+TX - Alvin College Campus PD
+TX - Bangs PD
+TX - Baylor County SO
+TX - Bee County SO
+TX - Bellmead PD
+TX - Brazoria County
+TX - Brookshire PD
+TX - Bullard PD
+TX - Caddo Mills PD
+TX - Caldwell PD
+TX - City of Agua Dulce
+TX - City of Bandera
+TX - City of Town of Pecos
+TX - Clear Lake Shores PD
+TX - Clute PD
+TX - Collinsville PD
+TX - Commerce PD
+TX - Cuero PD
+TX - Duncanville Independent School District
+TX - Eastland County SO
+TX - Eastland PD
+TX - Gatesville PD
+TX - Groves PD
+TX - Gunter PD
+TX - Hallsville PD
+TX - Hollywood Park PD
+TX - Horseshoe Bay PD
+TX - Jefferson County SO
+TX - Kermit PD
+TX - Krugerville PD
+TX - Lee College Campus PD
+TX - Liberty PD
+TX - Loving County SO
+TX - Mount Enterprise PD
+TX - Mustang Ridge PD
+TX - Nederland PD
+TX - Newton County SO
+TX - Palmer PD
+TX - Prairie View A & M University Campus PD
+TX - San Saba County SO
+TX - Seymour PD
+TX - Shelby County SO
+TX - Silsbee PD
+TX - Sinton PD
+TX - Trinity County SO
+TX - Vidor PD
+TX - Wink PD
+TX - Young County SO
+Tye TX PD
+Tyler TX PD
+Universal City TX PD
+University of Houston Downtown TX PD
+University of North Texas at Denton PD (TX)
+University of Texas at Dallas TX PD
+UT Southwestern Medical Center TX
+Venus TX PD
+Waller County TX SO
+Waller TX PD
+Ward County TX SO
+Watauga TX PD
+Waxahachie TX PD
+Weatherford College Campus PD TX
+Westworth Village TX PD
+Wheeler County TX SO
+Wichita Falls TX PD
+Wilson County TX SO
+Winnsboro TX PD
+Wolfforth TX PD
+Wylie TX PD
+Policy & Trust
+
+What's Detected
+
+The Flock technology utilized by the Brazos County Sheriff’s Office is focused on vehicles and vehicle characteristics. The system captures license plate information and visible characteristics of vehicles, such as make, model, color, and other identifying features that may assist with criminal investigations, locating missing individuals, and other legitimate law-enforcement purposes.
+
+What's Not Detected
+
+The Flock technology utilized by the Brazos County Sheriff’s Office is focused on vehicles and vehicle characteristics. It does not collect or identify information about a person’s identity, gender, or race.
+
+Acceptable Use Policy
+
+Flock data is used by the Brazos County Sheriff’s Office for legitimate law-enforcement purposes, including criminal investigations, locating missing individuals, and other public-safety needs. Access to and use of the system is governed by agency policies and operating procedures designed to ensure the technology is used appropriately and responsibly.
+
+Data collected through the system is owned by the Brazos County Sheriff’s Office and is not sold to third parties.
+
+Prohibited Uses
+
+Flock technology may not be used by the Brazos County Sheriff’s Office for purposes outside of legitimate law-enforcement and public-safety needs. Prohibited uses include:
+
+-Immigration enforcement
+-Issuing traffic citations. The Flock cameras utilized by the Brazos County Sheriff’s Office do not have the capability to issue citations for traffic violations.
+-Harassment, intimidation, or retaliation
+-Targeting or conducting searches based solely on a protected characteristic, including race, sex, religion, or other protected status
+-Personal use or access for reasons unrelated to official law-enforcement duties
+
+The system may only be accessed and used in accordance with established agency policies and operating procedures.
+
+Access Policy
+
+Access to the Flock system is limited to authorized personnel and requires a valid law-enforcement purpose. All searches are logged to support accountability and appropriate use of the system. Search logs are retained indefinitely.
+
+Hotlist Policy
+
+Flock hotlist alerts are intended to provide an investigative lead and do not, by themselves, provide sufficient grounds for law-enforcement action. Before taking action based on a hotlist alert, deputies must independently verify the alert and confirm that the vehicle and license plate information match the circumstances identified in the alert.
+SOC 2 Type II
+
+Independently audited controls covering security, availability, and confidentiality.
+
+ISO 27001
+
+Information security management aligned with international standards.
+
+Adherence to Key Privacy Principles
+
+Built to focus on data minimization, purpose limitation, and transparency.
+
+Provided by Flock Safety
