@@ -5,7 +5,7 @@ Visit Flock
 El Cajon CA PD
 Transparency Portal
 
-Last updated: Wed Oct 07 2026
+Last updated: Thu Oct 08 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-820,467
+820,387
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-417
+420
 
 Hotlists Alerted On
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-10,313
+10,318
 
 Sharing Network Data With
 
@@ -196,11 +196,18 @@ Citrus Heights CA PD
 City of Agoura Hills CA (LASD)
 City of Commerce CA (LASD)
 City of Compton CA (LASD)
+City of Diamond Bar CA (LASD)
+City of Duarte CA (LASD)
 City of Lemoore CA
+City of Paramount CA (LASD)
 City of Peoria PD AZ
+City of Pico Rivera CA (LASD)
 City of Riverside CA PD
+City of Rosemead CA (LASD)
 City of San Dimas CA (LASD)
 City of Santa Clarita CA (LASD)
+City of South El Monte CA (LASD)
+City of Walnut CA (LASD)
 City of West Hollywood CA (LASD)
 Claremont CA PD
 Clarksville IN PD
@@ -270,7 +277,6 @@ Evansville IN PD
 Fairfield CA PD
 Fairmount IN PD
 Fishers IN PD
-Flagstaff AZ PD [Inactive]
 Florida Highway Patrol
 Floyd County IN SO
 Folsom CA PD
