@@ -1,0 +1,99 @@
+{
+  "slug": "lynchburg-va-pd",
+  "name": "Lynchburg VA PD",
+  "last_updated": "2026-08-20T13:19:10.565760+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-07T13:44:43.005263+00:00",
+      "cameras": 15,
+      "searches": 248,
+      "hotlist_hits": 1023,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-08T13:20:20.453484+00:00",
+      "cameras": 15,
+      "searches": 239,
+      "hotlist_hits": 1020,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-09T13:27:18.775109+00:00",
+      "cameras": 15,
+      "searches": 237,
+      "hotlist_hits": 1002,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-10T13:50:44.064201+00:00",
+      "cameras": 15,
+      "searches": 226,
+      "hotlist_hits": 972,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-11T13:50:05.552010+00:00",
+      "cameras": 15,
+      "searches": 223,
+      "hotlist_hits": 959,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-12T13:53:38.915264+00:00",
+      "cameras": 15,
+      "searches": 216,
+      "hotlist_hits": 957,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-14T13:50:23.710280+00:00",
+      "cameras": 15,
+      "searches": 211,
+      "hotlist_hits": 920,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-15T13:04:46.005764+00:00",
+      "cameras": 15,
+      "searches": 215,
+      "hotlist_hits": 917,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-16T13:06:19.095403+00:00",
+      "cameras": 15,
+      "searches": 212,
+      "hotlist_hits": 902,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-17T13:12:50.539702+00:00",
+      "cameras": 15,
+      "searches": 193,
+      "hotlist_hits": 892,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-18T13:15:23.299748+00:00",
+      "cameras": 15,
+      "searches": 190,
+      "hotlist_hits": 873,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-19T13:16:43.068597+00:00",
+      "cameras": 15,
+      "searches": 196,
+      "hotlist_hits": 855,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-20T13:19:10.565760+00:00",
+      "cameras": 15,
+      "searches": 201,
+      "hotlist_hits": 846,
+      "status": "active",
+      "name": "Lynchburg VA PD"
+    }
+  ]
+}

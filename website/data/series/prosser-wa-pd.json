@@ -1,0 +1,36 @@
+{
+  "slug": "prosser-wa-pd",
+  "name": "Prosser WA PD",
+  "last_updated": "2026-07-31T16:14:36.324082+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-26T12:30:13.652562+00:00",
+      "cameras": 20
+    },
+    {
+      "ts": "2026-06-27T15:45:03.738362+00:00",
+      "cameras": 20
+    },
+    {
+      "ts": "2026-06-27T19:47:57.698076+00:00",
+      "cameras": 20,
+      "name": "Prosser WA PD"
+    },
+    {
+      "ts": "2026-06-28T19:49:02.102949+00:00",
+      "cameras": 20,
+      "name": "Prosser WA PD"
+    },
+    {
+      "ts": "2026-07-31T16:14:36.324082+00:00",
+      "cameras": 20,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-07-31T16:14:36.324082+00:00",
+      "cameras": 20,
+      "status": "active",
+      "name": "Prosser WA PD"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "tukwila-wa-pd",
+  "name": "Tukwila WA PD",
+  "last_updated": "2026-06-28T23:33:57.671389+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-25T20:26:13.397345+00:00",
+      "vehicles": 580307,
+      "searches": 157,
+      "hotlist_hits": 617
+    },
+    {
+      "ts": "2026-06-25T23:49:06.019268+00:00",
+      "vehicles": 580307,
+      "searches": 157,
+      "hotlist_hits": 617
+    },
+    {
+      "ts": "2026-06-26T20:14:35.172531+00:00",
+      "vehicles": 582501,
+      "searches": 170,
+      "hotlist_hits": 565
+    },
+    {
+      "ts": "2026-06-26T23:37:25.205222+00:00",
+      "vehicles": 582501,
+      "searches": 170,
+      "hotlist_hits": 565
+    },
+    {
+      "ts": "2026-06-27T23:32:12.721015+00:00",
+      "vehicles": 585498,
+      "searches": 173,
+      "hotlist_hits": 541,
+      "name": "Tukwila WA PD"
+    },
+    {
+      "ts": "2026-06-28T23:33:57.671389+00:00",
+      "vehicles": 585252,
+      "searches": 175,
+      "hotlist_hits": 493,
+      "name": "Tukwila WA PD"
+    },
+    {
+      "ts": "2026-06-28T23:33:57.671389+00:00",
+      "vehicles": 593451,
+      "searches": 112,
+      "hotlist_hits": 1776,
+      "status": "active",
+      "name": "Tukwila WA PD"
+    }
+  ]
+}

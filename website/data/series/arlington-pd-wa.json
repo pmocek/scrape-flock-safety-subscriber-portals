@@ -1,0 +1,58 @@
+{
+  "slug": "arlington-pd-wa",
+  "name": "Arlington PD (WA)",
+  "last_updated": "2026-06-27T18:13:08.292975+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-25T19:39:29.352930+00:00",
+      "cameras": 22,
+      "vehicles": 290305,
+      "searches": 29,
+      "hotlist_hits": 316
+    },
+    {
+      "ts": "2026-06-26T03:34:31.699495+00:00",
+      "cameras": 22,
+      "vehicles": 290305,
+      "searches": 29,
+      "hotlist_hits": 316
+    },
+    {
+      "ts": "2026-06-26T04:42:01.000581+00:00",
+      "cameras": 22,
+      "vehicles": 290305,
+      "searches": 29,
+      "hotlist_hits": 316
+    },
+    {
+      "ts": "2026-06-26T05:24:28.428542+00:00",
+      "cameras": 22,
+      "vehicles": 290305,
+      "searches": 29,
+      "hotlist_hits": 316
+    },
+    {
+      "ts": "2026-06-26T20:24:06.872480+00:00",
+      "cameras": 22,
+      "vehicles": 291767,
+      "searches": 30,
+      "hotlist_hits": 288
+    },
+    {
+      "ts": "2026-06-26T21:21:46.262846+00:00",
+      "cameras": 22,
+      "vehicles": 291767,
+      "searches": 30,
+      "hotlist_hits": 288
+    },
+    {
+      "ts": "2026-06-27T18:13:08.292975+00:00",
+      "cameras": 22,
+      "vehicles": 292302,
+      "searches": 30,
+      "hotlist_hits": 269,
+      "status": "active",
+      "name": "Arlington PD (WA)"
+    }
+  ]
+}

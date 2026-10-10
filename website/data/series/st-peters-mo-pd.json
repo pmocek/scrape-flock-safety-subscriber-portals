@@ -1,0 +1,21 @@
+{
+  "slug": "st-peters-mo-pd",
+  "name": "St. Peters MO PD",
+  "last_updated": "2026-10-06T21:03:21.386992+00:00",
+  "entries": [
+    {
+      "ts": "2026-10-05T21:48:08.325131+00:00",
+      "searches": 2,
+      "hotlist_hits": 4158,
+      "status": "active",
+      "name": "St. Peters MO PD"
+    },
+    {
+      "ts": "2026-10-06T21:03:21.386992+00:00",
+      "searches": 2,
+      "hotlist_hits": 4079,
+      "status": "active",
+      "name": "St. Peters MO PD"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "broadway-va-pd",
+  "name": "Broadway VA PD",
+  "last_updated": "2026-08-05T03:37:32.697839+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-05T03:37:32.697839+00:00",
+      "cameras": 8,
+      "hotlist_hits": 94,
+      "status": "active",
+      "name": "Broadway VA PD"
+    }
+  ]
+}

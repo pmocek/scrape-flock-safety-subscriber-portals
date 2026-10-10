@@ -1,0 +1,15 @@
+{
+  "slug": "stillwater-mn-pd",
+  "name": "Stillwater MN PD",
+  "last_updated": "2026-08-04T20:00:59.384595+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-04T20:00:59.384595+00:00",
+      "vehicles": 257414,
+      "searches": 49,
+      "hotlist_hits": 3223,
+      "status": "active",
+      "name": "Stillwater MN PD"
+    }
+  ]
+}

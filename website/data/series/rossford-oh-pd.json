@@ -1,0 +1,15 @@
+{
+  "slug": "rossford-oh-pd",
+  "name": "Rossford OH PD",
+  "last_updated": "2026-10-05T19:20:06.058267+00:00",
+  "entries": [
+    {
+      "ts": "2026-10-05T19:20:06.058267+00:00",
+      "cameras": 20,
+      "vehicles": 297481,
+      "hotlist_hits": 2624,
+      "status": "active",
+      "name": "Rossford OH PD"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "shelton-pd-wa",
+  "name": "Shelton PD (WA)",
+  "last_updated": "2026-06-28T23:32:54.024858+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-26T16:31:33.312642+00:00",
+      "cameras": 12,
+      "vehicles": 124758,
+      "searches": 44,
+      "hotlist_hits": 81
+    },
+    {
+      "ts": "2026-06-27T23:31:09.227169+00:00",
+      "cameras": 12,
+      "vehicles": 125468,
+      "searches": 48,
+      "hotlist_hits": 78,
+      "name": "Shelton PD (WA)"
+    },
+    {
+      "ts": "2026-06-28T23:32:54.024858+00:00",
+      "cameras": 12,
+      "vehicles": 125783,
+      "searches": 43,
+      "hotlist_hits": 65,
+      "name": "Shelton PD (WA)"
+    },
+    {
+      "ts": "2026-06-28T23:32:54.024858+00:00",
+      "cameras": 12,
+      "vehicles": 125783,
+      "searches": 43,
+      "hotlist_hits": 65,
+      "status": "active",
+      "name": "Shelton PD (WA)"
+    }
+  ]
+}

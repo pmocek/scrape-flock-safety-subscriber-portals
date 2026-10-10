@@ -1,0 +1,58 @@
+{
+  "slug": "eatonville-wa-pd",
+  "name": "Eatonville WA PD",
+  "last_updated": "2026-10-06T06:29:03.730763+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-25T19:40:38.833041+00:00",
+      "cameras": 6
+    },
+    {
+      "ts": "2026-06-26T03:35:17.392444+00:00",
+      "cameras": 6
+    },
+    {
+      "ts": "2026-06-26T04:42:45.677782+00:00",
+      "cameras": 6
+    },
+    {
+      "ts": "2026-06-26T05:25:14.567307+00:00",
+      "cameras": 6
+    },
+    {
+      "ts": "2026-06-26T20:24:53.051653+00:00",
+      "cameras": 6
+    },
+    {
+      "ts": "2026-06-26T21:22:32.922549+00:00",
+      "cameras": 6
+    },
+    {
+      "ts": "2026-06-27T18:14:03.702583+00:00",
+      "cameras": 6,
+      "name": "Eatonville WA PD [Inactive]"
+    },
+    {
+      "ts": "2026-06-28T06:38:56.778592+00:00",
+      "cameras": 6,
+      "name": "Eatonville WA PD [Inactive]"
+    },
+    {
+      "ts": "2026-06-29T07:08:19.846894+00:00",
+      "cameras": 6,
+      "name": "Eatonville WA PD [Inactive]"
+    },
+    {
+      "ts": "2026-06-29T07:08:19.846894+00:00",
+      "cameras": 6,
+      "status": "inactive",
+      "name": "Eatonville WA PD"
+    },
+    {
+      "ts": "2026-10-06T06:29:03.730763+00:00",
+      "cameras": 0,
+      "status": "inactive",
+      "name": "Eatonville WA PD"
+    }
+  ]
+}

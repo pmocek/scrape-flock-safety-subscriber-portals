@@ -1,0 +1,26 @@
+{
+  "slug": "sultan-wa-pd",
+  "name": "Sultan WA PD",
+  "last_updated": "2026-06-28T23:33:30.626474+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-27T23:31:45.449819+00:00",
+      "cameras": 6,
+      "hotlist_hits": 48,
+      "name": "Sultan WA PD"
+    },
+    {
+      "ts": "2026-06-28T23:33:30.626474+00:00",
+      "cameras": 6,
+      "hotlist_hits": 48,
+      "name": "Sultan WA PD"
+    },
+    {
+      "ts": "2026-06-28T23:33:30.626474+00:00",
+      "cameras": 6,
+      "hotlist_hits": 19,
+      "status": "active",
+      "name": "Sultan WA PD"
+    }
+  ]
+}

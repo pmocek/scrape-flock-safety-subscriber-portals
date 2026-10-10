@@ -1,0 +1,15 @@
+{
+  "slug": "idaho-falls-id-pd",
+  "name": "Idaho Falls ID PD",
+  "last_updated": "2026-08-01T08:36:50.755936+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-01T08:36:50.755936+00:00",
+      "cameras": 20,
+      "searches": 164,
+      "hotlist_hits": 1948,
+      "status": "active",
+      "name": "Idaho Falls ID PD"
+    }
+  ]
+}

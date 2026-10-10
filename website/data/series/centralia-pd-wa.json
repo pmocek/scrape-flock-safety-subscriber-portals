@@ -1,0 +1,66 @@
+{
+  "slug": "centralia-pd-wa",
+  "name": "Centralia WA PD",
+  "last_updated": "2026-06-27T18:13:36.033668+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-25T19:40:11.532095+00:00",
+      "cameras": 17,
+      "vehicles": 167470,
+      "searches": 98,
+      "hotlist_hits": 72
+    },
+    {
+      "ts": "2026-06-26T03:34:49.929832+00:00",
+      "cameras": 17,
+      "vehicles": 167470,
+      "searches": 98,
+      "hotlist_hits": 72
+    },
+    {
+      "ts": "2026-06-26T04:42:18.918162+00:00",
+      "cameras": 17,
+      "vehicles": 167470,
+      "searches": 98,
+      "hotlist_hits": 72
+    },
+    {
+      "ts": "2026-06-26T05:24:47.652744+00:00",
+      "cameras": 17,
+      "vehicles": 167470,
+      "searches": 98,
+      "hotlist_hits": 72
+    },
+    {
+      "ts": "2026-06-26T20:24:25.354962+00:00",
+      "cameras": 17,
+      "vehicles": 167625,
+      "searches": 100,
+      "hotlist_hits": 57
+    },
+    {
+      "ts": "2026-06-26T21:22:05.146771+00:00",
+      "cameras": 17,
+      "vehicles": 167625,
+      "searches": 100,
+      "hotlist_hits": 57
+    },
+    {
+      "ts": "2026-06-27T18:13:36.033668+00:00",
+      "cameras": 17,
+      "vehicles": 169078,
+      "searches": 95,
+      "hotlist_hits": 55,
+      "name": "Centralia WA PD"
+    },
+    {
+      "ts": "2026-06-27T18:13:36.033668+00:00",
+      "cameras": 17,
+      "vehicles": 169078,
+      "searches": 95,
+      "hotlist_hits": 55,
+      "status": "active",
+      "name": "Centralia WA PD"
+    }
+  ]
+}

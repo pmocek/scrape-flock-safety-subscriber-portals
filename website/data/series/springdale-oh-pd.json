@@ -1,0 +1,16 @@
+{
+  "slug": "springdale-oh-pd",
+  "name": "Springdale OH PD",
+  "last_updated": "2026-08-01T23:14:38.340886+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-01T23:14:38.340886+00:00",
+      "cameras": 12,
+      "vehicles": 344159,
+      "searches": 106,
+      "hotlist_hits": 3575,
+      "status": "active",
+      "name": "Springdale OH PD"
+    }
+  ]
+}

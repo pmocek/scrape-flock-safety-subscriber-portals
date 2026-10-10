@@ -1,0 +1,98 @@
+{
+  "slug": "college-place-wa-pd",
+  "name": "College Place WA PD",
+  "last_updated": "2026-08-22T04:57:43.101042+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-25T19:40:20.503748+00:00",
+      "cameras": 8,
+      "vehicles": 8,
+      "searches": 8,
+      "hotlist_hits": 8
+    },
+    {
+      "ts": "2026-06-26T03:34:59.079811+00:00",
+      "cameras": 8,
+      "vehicles": 8,
+      "searches": 8,
+      "hotlist_hits": 8
+    },
+    {
+      "ts": "2026-06-26T04:42:27.776959+00:00",
+      "cameras": 8,
+      "vehicles": 8,
+      "searches": 8,
+      "hotlist_hits": 8
+    },
+    {
+      "ts": "2026-06-26T05:24:56.550922+00:00",
+      "cameras": 8,
+      "vehicles": 8,
+      "searches": 8,
+      "hotlist_hits": 8
+    },
+    {
+      "ts": "2026-06-26T20:24:34.352436+00:00",
+      "cameras": 8,
+      "vehicles": 8,
+      "searches": 7,
+      "hotlist_hits": 7
+    },
+    {
+      "ts": "2026-06-26T21:22:14.433737+00:00",
+      "cameras": 8,
+      "vehicles": 8,
+      "searches": 7,
+      "hotlist_hits": 7
+    },
+    {
+      "ts": "2026-06-27T18:13:45.204140+00:00",
+      "cameras": 8,
+      "vehicles": 8,
+      "searches": 7,
+      "hotlist_hits": 7,
+      "name": "College Place WA PD"
+    },
+    {
+      "ts": "2026-08-01T05:37:35.772608+00:00",
+      "cameras": 8,
+      "vehicles": 72969,
+      "searches": 21,
+      "hotlist_hits": 2,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-04T05:26:50.276496+00:00",
+      "cameras": 8,
+      "vehicles": 71924,
+      "searches": 20,
+      "hotlist_hits": 2,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-07T04:34:45.051610+00:00",
+      "cameras": 8,
+      "vehicles": 71123,
+      "searches": 20,
+      "hotlist_hits": 2,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-07T05:55:58.638837+00:00",
+      "cameras": 8,
+      "vehicles": 71123,
+      "searches": 20,
+      "hotlist_hits": 2,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-22T04:57:43.101042+00:00",
+      "cameras": 8,
+      "vehicles": 66524,
+      "searches": 12,
+      "hotlist_hits": 10,
+      "status": "active",
+      "name": "College Place WA PD"
+    }
+  ]
+}

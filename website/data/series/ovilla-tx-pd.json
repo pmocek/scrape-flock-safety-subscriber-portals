@@ -1,0 +1,15 @@
+{
+  "slug": "ovilla-tx-pd",
+  "name": "Ovilla TX PD",
+  "last_updated": "2026-08-03T16:43:37.351678+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-03T16:43:37.351678+00:00",
+      "cameras": 1,
+      "searches": 30,
+      "hotlist_hits": 37,
+      "status": "active",
+      "name": "Ovilla TX PD"
+    }
+  ]
+}

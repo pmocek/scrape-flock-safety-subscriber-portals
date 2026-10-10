@@ -1,0 +1,15 @@
+{
+  "slug": "springfield-mo-pd",
+  "name": "Springfield MO PD",
+  "last_updated": "2026-08-01T23:15:05.991545+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-01T23:15:05.991545+00:00",
+      "vehicles": 806602,
+      "searches": 1129,
+      "hotlist_hits": 67246,
+      "status": "active",
+      "name": "Springfield MO PD"
+    }
+  ]
+}

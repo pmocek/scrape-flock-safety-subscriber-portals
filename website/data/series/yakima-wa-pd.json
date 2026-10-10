@@ -1,0 +1,46 @@
+{
+  "slug": "yakima-wa-pd",
+  "name": "Yakima WA PD",
+  "last_updated": "2026-06-28T23:34:15.837578+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-25T20:26:31.691167+00:00",
+      "vehicles": 360537,
+      "searches": 437,
+      "hotlist_hits": 1328
+    },
+    {
+      "ts": "2026-06-25T23:49:47.977152+00:00",
+      "vehicles": 360537,
+      "searches": 437,
+      "hotlist_hits": 1328
+    },
+    {
+      "ts": "2026-06-26T20:14:52.926796+00:00",
+      "vehicles": 360102,
+      "searches": 446,
+      "hotlist_hits": 1238
+    },
+    {
+      "ts": "2026-06-26T23:37:43.240876+00:00",
+      "vehicles": 360102,
+      "searches": 446,
+      "hotlist_hits": 1238
+    },
+    {
+      "ts": "2026-06-28T23:34:15.837578+00:00",
+      "vehicles": 361211,
+      "searches": 463,
+      "hotlist_hits": 1005,
+      "name": "Yakima WA PD"
+    },
+    {
+      "ts": "2026-06-28T23:34:15.837578+00:00",
+      "vehicles": 361211,
+      "searches": 463,
+      "hotlist_hits": 1005,
+      "status": "active",
+      "name": "Yakima WA PD"
+    }
+  ]
+}

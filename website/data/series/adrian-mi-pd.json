@@ -1,0 +1,15 @@
+{
+  "slug": "adrian-mi-pd",
+  "name": "Adrian MI PD",
+  "last_updated": "2026-08-02T00:39:31.357989+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-02T00:39:31.357989+00:00",
+      "cameras": 10,
+      "searches": 42,
+      "hotlist_hits": 819,
+      "status": "active",
+      "name": "Adrian MI PD"
+    }
+  ]
+}

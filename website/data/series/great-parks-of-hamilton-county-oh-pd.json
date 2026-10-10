@@ -1,0 +1,24 @@
+{
+  "slug": "great-parks-of-hamilton-county-oh-pd",
+  "name": "Great Parks of Hamilton County OH PD",
+  "last_updated": "2026-08-06T09:14:37.266578+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-05T09:13:02.548767+00:00",
+      "cameras": 13,
+      "vehicles": 55514,
+      "searches": 37,
+      "hotlist_hits": 82,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-06T09:14:37.266578+00:00",
+      "cameras": 13,
+      "vehicles": 55726,
+      "searches": 41,
+      "hotlist_hits": 78,
+      "status": "active",
+      "name": "Great Parks of Hamilton County OH PD"
+    }
+  ]
+}

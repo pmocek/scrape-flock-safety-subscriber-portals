@@ -1,0 +1,106 @@
+{
+  "slug": "grand-rapids-mi-pd",
+  "name": "Grand Rapids MI PD",
+  "last_updated": "2026-09-22T09:23:43.526402+00:00",
+  "entries": [
+    {
+      "ts": "2026-09-09T09:03:10.867798+00:00",
+      "cameras": 29,
+      "vehicles": 29,
+      "hotlist_hits": 11925,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-10T09:02:03.561891+00:00",
+      "cameras": 29,
+      "vehicles": 29,
+      "hotlist_hits": 11738,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-11T08:59:40.940978+00:00",
+      "cameras": 29,
+      "vehicles": 29,
+      "hotlist_hits": 11599,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-12T08:43:15.429334+00:00",
+      "cameras": 29,
+      "vehicles": 29,
+      "hotlist_hits": 11469,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-13T09:38:04.298856+00:00",
+      "cameras": 29,
+      "vehicles": 29,
+      "hotlist_hits": 11408,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-14T10:00:22.203639+00:00",
+      "cameras": 29,
+      "vehicles": 29,
+      "hotlist_hits": 11432,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-15T09:30:48.988094+00:00",
+      "cameras": 29,
+      "vehicles": 29,
+      "hotlist_hits": 11353,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-16T09:23:23.735427+00:00",
+      "cameras": 29,
+      "vehicles": 29,
+      "hotlist_hits": 11278,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-17T09:34:15.713154+00:00",
+      "cameras": 29,
+      "vehicles": 29,
+      "hotlist_hits": 11235,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-18T09:05:39.923271+00:00",
+      "cameras": 29,
+      "vehicles": 29,
+      "hotlist_hits": 11098,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-19T08:52:50.410476+00:00",
+      "cameras": 29,
+      "vehicles": 29,
+      "hotlist_hits": 11371,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-20T09:22:29.830842+00:00",
+      "cameras": 29,
+      "vehicles": 29,
+      "hotlist_hits": 11282,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-21T08:00:58.329481+00:00",
+      "cameras": 29,
+      "vehicles": 29,
+      "hotlist_hits": 11034,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-22T09:23:43.526402+00:00",
+      "cameras": 29,
+      "vehicles": 29,
+      "hotlist_hits": 10861,
+      "status": "active",
+      "name": "Grand Rapids MI PD"
+    }
+  ]
+}

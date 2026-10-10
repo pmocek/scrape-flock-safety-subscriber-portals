@@ -1,0 +1,168 @@
+{
+  "slug": "coldwater-mi-pd",
+  "name": "Coldwater MI PD",
+  "last_updated": "2026-08-26T05:02:12.915780+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-07T04:33:42.477012+00:00",
+      "cameras": 5,
+      "vehicles": 112530,
+      "searches": 12,
+      "hotlist_hits": 151,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-08T05:13:01.254076+00:00",
+      "cameras": 5,
+      "vehicles": 110777,
+      "searches": 12,
+      "hotlist_hits": 151,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-09T05:27:58.691704+00:00",
+      "cameras": 5,
+      "vehicles": 109131,
+      "searches": 12,
+      "hotlist_hits": 152,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-10T04:09:33.501676+00:00",
+      "cameras": 5,
+      "vehicles": 107491,
+      "searches": 12,
+      "hotlist_hits": 147,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-11T05:33:32.317472+00:00",
+      "cameras": 5,
+      "vehicles": 104677,
+      "searches": 12,
+      "hotlist_hits": 149,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-12T04:18:53.917589+00:00",
+      "cameras": 5,
+      "vehicles": 102405,
+      "searches": 13,
+      "hotlist_hits": 144,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-13T04:22:48.437447+00:00",
+      "cameras": 5,
+      "vehicles": 100121,
+      "searches": 13,
+      "hotlist_hits": 140,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-14T04:19:56.878231+00:00",
+      "cameras": 5,
+      "vehicles": 100023,
+      "searches": 12,
+      "hotlist_hits": 143,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-15T04:53:59.311190+00:00",
+      "cameras": 5,
+      "vehicles": 99775,
+      "searches": 12,
+      "hotlist_hits": 138,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-16T04:57:26.811745+00:00",
+      "cameras": 5,
+      "vehicles": 100358,
+      "searches": 11,
+      "hotlist_hits": 137,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-17T05:04:39.171614+00:00",
+      "cameras": 5,
+      "vehicles": 101146,
+      "searches": 11,
+      "hotlist_hits": 137,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-18T04:58:36.424392+00:00",
+      "cameras": 5,
+      "vehicles": 100352,
+      "searches": 13,
+      "hotlist_hits": 141,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-19T04:59:01.339510+00:00",
+      "cameras": 5,
+      "vehicles": 99840,
+      "searches": 13,
+      "hotlist_hits": 141,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-20T05:00:41.631690+00:00",
+      "cameras": 5,
+      "vehicles": 99020,
+      "searches": 13,
+      "hotlist_hits": 140,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-21T05:00:51.236369+00:00",
+      "cameras": 5,
+      "vehicles": 98749,
+      "searches": 13,
+      "hotlist_hits": 141,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-22T04:56:16.845969+00:00",
+      "cameras": 5,
+      "vehicles": 98524,
+      "searches": 13,
+      "hotlist_hits": 143,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-23T04:59:01.916169+00:00",
+      "cameras": 5,
+      "vehicles": 98653,
+      "searches": 13,
+      "hotlist_hits": 143,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-24T05:08:39.665513+00:00",
+      "cameras": 5,
+      "vehicles": 98970,
+      "searches": 12,
+      "hotlist_hits": 148,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-25T05:01:04.481601+00:00",
+      "cameras": 5,
+      "vehicles": 98433,
+      "searches": 12,
+      "hotlist_hits": 139,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-26T05:02:12.915780+00:00",
+      "cameras": 5,
+      "vehicles": 97543,
+      "searches": 14,
+      "hotlist_hits": 135,
+      "status": "active",
+      "name": "Coldwater MI PD"
+    }
+  ]
+}

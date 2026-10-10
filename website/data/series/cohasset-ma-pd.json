@@ -1,0 +1,94 @@
+{
+  "slug": "cohasset-ma-pd",
+  "name": "Cohasset MA PD",
+  "last_updated": "2026-10-05T05:50:26.665695+00:00",
+  "entries": [
+    {
+      "ts": "2026-09-23T04:51:22.962291+00:00",
+      "cameras": 4,
+      "searches": 5,
+      "hotlist_hits": 141,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-24T04:59:20.556479+00:00",
+      "cameras": 4,
+      "searches": 5,
+      "hotlist_hits": 134,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-25T05:04:01.239217+00:00",
+      "cameras": 4,
+      "searches": 3,
+      "hotlist_hits": 130,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-26T05:06:15.433461+00:00",
+      "cameras": 4,
+      "searches": 3,
+      "hotlist_hits": 137,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-27T05:24:11.027369+00:00",
+      "cameras": 4,
+      "searches": 3,
+      "hotlist_hits": 127,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-28T05:31:49.335947+00:00",
+      "cameras": 4,
+      "searches": 3,
+      "hotlist_hits": 124,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-29T05:49:54.710274+00:00",
+      "cameras": 4,
+      "searches": 3,
+      "hotlist_hits": 121,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-30T05:39:09.037208+00:00",
+      "cameras": 4,
+      "searches": 2,
+      "hotlist_hits": 114,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-02T05:46:30.421343+00:00",
+      "cameras": 4,
+      "searches": 1,
+      "hotlist_hits": 107,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-03T05:27:28.579337+00:00",
+      "cameras": 4,
+      "searches": 1,
+      "hotlist_hits": 106,
+      "status": "active",
+      "name": "Cohasset MA PD"
+    },
+    {
+      "ts": "2026-10-04T06:00:11.291227+00:00",
+      "cameras": 4,
+      "searches": 1,
+      "hotlist_hits": 101,
+      "status": "active",
+      "name": "Cohasset MA PD"
+    },
+    {
+      "ts": "2026-10-05T05:50:26.665695+00:00",
+      "cameras": 4,
+      "searches": 2,
+      "hotlist_hits": 97,
+      "status": "active",
+      "name": "Cohasset MA PD"
+    }
+  ]
+}

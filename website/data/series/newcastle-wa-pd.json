@@ -1,0 +1,28 @@
+{
+  "slug": "newcastle-wa-pd",
+  "name": "Newcastle WA PD",
+  "last_updated": "2026-06-28T15:45:56.920829+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-26T12:29:55.598713+00:00",
+      "cameras": 0,
+      "searches": 99,
+      "hotlist_hits": 99
+    },
+    {
+      "ts": "2026-06-28T15:45:56.920829+00:00",
+      "cameras": 0,
+      "searches": 97,
+      "hotlist_hits": 97,
+      "name": "Newcastle WA PD"
+    },
+    {
+      "ts": "2026-06-28T15:45:56.920829+00:00",
+      "cameras": 0,
+      "searches": 97,
+      "hotlist_hits": 97,
+      "status": "active",
+      "name": "Newcastle WA PD"
+    }
+  ]
+}

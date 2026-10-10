@@ -1,0 +1,59 @@
+{
+  "slug": "lake-stevens-wa-pd",
+  "name": "Lake Stevens WA PD",
+  "last_updated": "2026-07-31T09:20:44.303658+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-25T19:41:26.321150+00:00",
+      "cameras": 4,
+      "searches": 31,
+      "hotlist_hits": 67
+    },
+    {
+      "ts": "2026-06-26T04:43:30.836050+00:00",
+      "cameras": 4,
+      "searches": 31,
+      "hotlist_hits": 67
+    },
+    {
+      "ts": "2026-06-26T06:33:20.348297+00:00",
+      "cameras": 4,
+      "searches": 31,
+      "hotlist_hits": 67
+    },
+    {
+      "ts": "2026-06-26T21:24:29.779142+00:00",
+      "cameras": 4,
+      "searches": 29,
+      "hotlist_hits": 63
+    },
+    {
+      "ts": "2026-06-27T06:04:47.237071+00:00",
+      "cameras": 4,
+      "searches": 29,
+      "hotlist_hits": 63
+    },
+    {
+      "ts": "2026-06-28T11:59:50.184669+00:00",
+      "cameras": 4,
+      "searches": 26,
+      "hotlist_hits": 62,
+      "name": "Lake Stevens WA PD"
+    },
+    {
+      "ts": "2026-07-31T08:33:14.567587+00:00",
+      "cameras": 4,
+      "searches": 118,
+      "hotlist_hits": 109,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-07-31T09:20:44.303658+00:00",
+      "cameras": 4,
+      "searches": 118,
+      "hotlist_hits": 109,
+      "status": "active",
+      "name": "Lake Stevens WA PD"
+    }
+  ]
+}

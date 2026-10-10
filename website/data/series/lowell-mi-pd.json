@@ -1,0 +1,16 @@
+{
+  "slug": "lowell-mi-pd",
+  "name": "Lowell MI PD",
+  "last_updated": "2026-09-09T13:01:14.577150+00:00",
+  "entries": [
+    {
+      "ts": "2026-09-09T13:01:14.577150+00:00",
+      "cameras": 5,
+      "vehicles": 5,
+      "searches": 22,
+      "hotlist_hits": 215,
+      "status": "active",
+      "name": "Lowell MI PD"
+    }
+  ]
+}

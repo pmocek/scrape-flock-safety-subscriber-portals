@@ -1,0 +1,106 @@
+{
+  "slug": "jacksonville-ar-pd",
+  "name": "Jacksonville AR PD",
+  "last_updated": "2026-08-20T10:51:35.517732+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-07T11:10:46.435805+00:00",
+      "cameras": 117,
+      "searches": 95,
+      "hotlist_hits": 2843,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-08T10:54:41.811203+00:00",
+      "cameras": 117,
+      "searches": 94,
+      "hotlist_hits": 2806,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-09T10:56:05.416444+00:00",
+      "cameras": 117,
+      "searches": 91,
+      "hotlist_hits": 2775,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-10T11:28:43.577029+00:00",
+      "cameras": 117,
+      "searches": 91,
+      "hotlist_hits": 2724,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-11T11:08:28.750816+00:00",
+      "cameras": 117,
+      "searches": 91,
+      "hotlist_hits": 2697,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-12T11:12:54.802912+00:00",
+      "cameras": 117,
+      "searches": 91,
+      "hotlist_hits": 2690,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-13T11:14:14.842323+00:00",
+      "cameras": 117,
+      "searches": 91,
+      "hotlist_hits": 2704,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-14T11:12:03.658307+00:00",
+      "cameras": 117,
+      "searches": 93,
+      "hotlist_hits": 2706,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-15T10:43:48.492096+00:00",
+      "cameras": 117,
+      "searches": 92,
+      "hotlist_hits": 2695,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-16T10:44:15.127705+00:00",
+      "cameras": 117,
+      "searches": 86,
+      "hotlist_hits": 2715,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-17T10:51:48.424426+00:00",
+      "cameras": 117,
+      "searches": 84,
+      "hotlist_hits": 2731,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-18T10:50:31.933275+00:00",
+      "cameras": 117,
+      "searches": 84,
+      "hotlist_hits": 2735,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-19T10:49:53.797786+00:00",
+      "cameras": 117,
+      "searches": 81,
+      "hotlist_hits": 2738,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-20T10:51:35.517732+00:00",
+      "cameras": 117,
+      "searches": 73,
+      "hotlist_hits": 2689,
+      "status": "active",
+      "name": "Jacksonville AR PD"
+    }
+  ]
+}

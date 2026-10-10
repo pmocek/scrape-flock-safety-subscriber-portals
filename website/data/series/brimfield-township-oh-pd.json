@@ -1,0 +1,16 @@
+{
+  "slug": "brimfield-township-oh-pd",
+  "name": "Brimfield Township OH PD",
+  "last_updated": "2026-08-12T23:06:17.997226+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-12T23:06:17.997226+00:00",
+      "cameras": 4,
+      "vehicles": 216189,
+      "searches": 41,
+      "hotlist_hits": 326,
+      "status": "active",
+      "name": "Brimfield Township OH PD"
+    }
+  ]
+}

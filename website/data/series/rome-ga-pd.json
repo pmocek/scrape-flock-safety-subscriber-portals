@@ -1,0 +1,107 @@
+{
+  "slug": "rome-ga-pd",
+  "name": "Rome GA PD",
+  "last_updated": "2026-10-04T18:14:39.378510+00:00",
+  "entries": [
+    {
+      "ts": "2026-09-09T19:19:17.881882+00:00",
+      "cameras": 32,
+      "searches": 140,
+      "hotlist_hits": 40653,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-22T18:10:03.413587+00:00",
+      "cameras": 32,
+      "searches": 109,
+      "hotlist_hits": 43792,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-23T18:27:33.141584+00:00",
+      "cameras": 32,
+      "searches": 114,
+      "hotlist_hits": 44125,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-24T18:28:41.161868+00:00",
+      "cameras": 32,
+      "searches": 111,
+      "hotlist_hits": 44127,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-25T18:44:36.450974+00:00",
+      "cameras": 32,
+      "searches": 107,
+      "hotlist_hits": 44021,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-26T19:16:49.541920+00:00",
+      "cameras": 32,
+      "searches": 112,
+      "hotlist_hits": 43696,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-27T18:31:34.286320+00:00",
+      "cameras": 32,
+      "searches": 114,
+      "hotlist_hits": 43377,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-28T18:11:44.770848+00:00",
+      "cameras": 32,
+      "searches": 118,
+      "hotlist_hits": 43099,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-29T18:10:35.733024+00:00",
+      "cameras": 32,
+      "searches": 112,
+      "hotlist_hits": 42713,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-30T18:02:31.522318+00:00",
+      "cameras": 32,
+      "searches": 109,
+      "hotlist_hits": 42795,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-01T18:29:06.839478+00:00",
+      "cameras": 32,
+      "searches": 113,
+      "hotlist_hits": 42612,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-02T19:24:48.598654+00:00",
+      "cameras": 32,
+      "searches": 117,
+      "hotlist_hits": 42425,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-03T18:02:08.992331+00:00",
+      "cameras": 32,
+      "searches": 115,
+      "hotlist_hits": 42317,
+      "status": "active",
+      "name": "Rome GA PD"
+    },
+    {
+      "ts": "2026-10-04T18:14:39.378510+00:00",
+      "cameras": 32,
+      "searches": 105,
+      "hotlist_hits": 42099,
+      "status": "active",
+      "name": "Rome GA PD"
+    }
+  ]
+}

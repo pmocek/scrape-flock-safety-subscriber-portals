@@ -1,0 +1,36 @@
+{
+  "slug": "indianola-ia-pd",
+  "name": "Indianola IA PD",
+  "last_updated": "2026-10-08T11:30:01.423445+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-05T23:27:31.710660+00:00",
+      "cameras": 9,
+      "searches": 17,
+      "hotlist_hits": 2936,
+      "status": "active",
+      "name": "Indianola IA PD"
+    },
+    {
+      "ts": "2026-10-06T11:25:15.318865+00:00",
+      "cameras": 8,
+      "hotlist_hits": 891,
+      "status": "active",
+      "name": "Indianola IA PD"
+    },
+    {
+      "ts": "2026-10-07T11:12:32.570724+00:00",
+      "cameras": 8,
+      "hotlist_hits": 808,
+      "status": "active",
+      "name": "Indianola IA PD"
+    },
+    {
+      "ts": "2026-10-08T11:30:01.423445+00:00",
+      "cameras": 8,
+      "hotlist_hits": 712,
+      "status": "active",
+      "name": "Indianola IA PD"
+    }
+  ]
+}

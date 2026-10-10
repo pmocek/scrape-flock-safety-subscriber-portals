@@ -1,0 +1,232 @@
+{
+  "slug": "palos-park-il-pd",
+  "name": "Palos Park IL PD",
+  "last_updated": "2026-09-22T17:05:28.507633+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-27T17:42:37.624885+00:00",
+      "cameras": 7,
+      "searches": 5,
+      "hotlist_hits": 11314,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-28T16:46:09.005582+00:00",
+      "cameras": 7,
+      "searches": 5,
+      "hotlist_hits": 11314,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-29T16:49:08.080652+00:00",
+      "cameras": 7,
+      "searches": 5,
+      "hotlist_hits": 11256,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-29T17:46:25.479753+00:00",
+      "cameras": 7,
+      "searches": 10,
+      "hotlist_hits": 11124,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-30T16:49:50.111100+00:00",
+      "cameras": 7,
+      "searches": 10,
+      "hotlist_hits": 11124,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-31T16:12:45.151074+00:00",
+      "cameras": 7,
+      "searches": 11,
+      "hotlist_hits": 11223,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-31T17:39:24.279115+00:00",
+      "cameras": 7,
+      "searches": 11,
+      "hotlist_hits": 11349,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-01T16:46:46.158785+00:00",
+      "cameras": 7,
+      "searches": 11,
+      "hotlist_hits": 11349,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-02T16:42:37.622411+00:00",
+      "cameras": 7,
+      "searches": 11,
+      "hotlist_hits": 11528,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-02T17:57:37.101233+00:00",
+      "cameras": 7,
+      "searches": 11,
+      "hotlist_hits": 11643,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-03T16:34:06.622903+00:00",
+      "cameras": 7,
+      "searches": 11,
+      "hotlist_hits": 11643,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-03T17:55:33.438504+00:00",
+      "cameras": 7,
+      "searches": 11,
+      "hotlist_hits": 11622,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-04T16:30:00.538586+00:00",
+      "cameras": 7,
+      "searches": 11,
+      "hotlist_hits": 11622,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-05T16:53:19.213505+00:00",
+      "cameras": 7,
+      "searches": 11,
+      "hotlist_hits": 11711,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-06T17:10:17.546205+00:00",
+      "cameras": 7,
+      "searches": 14,
+      "hotlist_hits": 11865,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-07T17:47:42.704949+00:00",
+      "cameras": 7,
+      "searches": 11,
+      "hotlist_hits": 12048,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-08T16:45:22.086363+00:00",
+      "cameras": 7,
+      "searches": 11,
+      "hotlist_hits": 12048,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-08T17:58:44.592765+00:00",
+      "cameras": 7,
+      "searches": 11,
+      "hotlist_hits": 12098,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-10T16:36:28.871643+00:00",
+      "cameras": 7,
+      "searches": 11,
+      "hotlist_hits": 12234,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-10T17:45:56.790685+00:00",
+      "cameras": 7,
+      "searches": 11,
+      "hotlist_hits": 12234,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-11T16:38:09.334912+00:00",
+      "cameras": 7,
+      "searches": 11,
+      "hotlist_hits": 12386,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-12T17:18:36.670414+00:00",
+      "cameras": 7,
+      "searches": 13,
+      "hotlist_hits": 12602,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-13T16:29:04.154707+00:00",
+      "cameras": 7,
+      "searches": 13,
+      "hotlist_hits": 12739,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-14T16:24:49.261857+00:00",
+      "cameras": 7,
+      "searches": 13,
+      "hotlist_hits": 12891,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-15T17:10:00.343943+00:00",
+      "cameras": 7,
+      "searches": 13,
+      "hotlist_hits": 13024,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-16T17:09:48.189611+00:00",
+      "cameras": 7,
+      "searches": 13,
+      "hotlist_hits": 13183,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-17T17:10:52.883245+00:00",
+      "cameras": 7,
+      "searches": 13,
+      "hotlist_hits": 13329,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-18T16:35:46.111380+00:00",
+      "cameras": 7,
+      "searches": 13,
+      "hotlist_hits": 13969,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-19T17:21:08.499210+00:00",
+      "cameras": 7,
+      "searches": 13,
+      "hotlist_hits": 14094,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-20T16:19:29.490101+00:00",
+      "cameras": 7,
+      "searches": 12,
+      "hotlist_hits": 14163,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-21T16:30:55.250779+00:00",
+      "cameras": 7,
+      "searches": 12,
+      "hotlist_hits": 14321,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-22T17:05:28.507633+00:00",
+      "cameras": 7,
+      "searches": 12,
+      "hotlist_hits": 14405,
+      "status": "active",
+      "name": "Palos Park IL PD"
+    }
+  ]
+}

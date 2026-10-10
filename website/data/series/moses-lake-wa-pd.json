@@ -1,0 +1,41 @@
+{
+  "slug": "moses-lake-wa-pd",
+  "name": "Moses Lake WA PD",
+  "last_updated": "2026-08-02T14:05:07.468350+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-27T11:49:00.643838+00:00",
+      "cameras": 13,
+      "searches": 82,
+      "hotlist_hits": 47
+    },
+    {
+      "ts": "2026-06-28T15:45:28.606425+00:00",
+      "cameras": 13,
+      "searches": 84,
+      "hotlist_hits": 47,
+      "name": "Moses Lake WA PD"
+    },
+    {
+      "ts": "2026-07-31T14:05:58.639431+00:00",
+      "cameras": 13,
+      "searches": 94,
+      "hotlist_hits": 301,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-07-31T14:05:58.639431+00:00",
+      "cameras": 13,
+      "searches": 94,
+      "hotlist_hits": 301
+    },
+    {
+      "ts": "2026-08-02T14:05:07.468350+00:00",
+      "cameras": 13,
+      "searches": 88,
+      "hotlist_hits": 315,
+      "status": "active",
+      "name": "Moses Lake WA PD"
+    }
+  ]
+}

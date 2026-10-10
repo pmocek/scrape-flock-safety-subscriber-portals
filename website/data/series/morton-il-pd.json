@@ -1,0 +1,15 @@
+{
+  "slug": "morton-il-pd",
+  "name": "Morton IL PD",
+  "last_updated": "2026-08-02T14:04:49.661035+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-02T14:04:49.661035+00:00",
+      "cameras": 26,
+      "searches": 51,
+      "hotlist_hits": 1706,
+      "status": "active",
+      "name": "Morton IL PD"
+    }
+  ]
+}

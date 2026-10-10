@@ -1,0 +1,163 @@
+{
+  "slug": "itasca-il-pd",
+  "name": "Itasca IL PD",
+  "last_updated": "2026-10-05T11:42:29.421279+00:00",
+  "entries": [
+    {
+      "ts": "2026-09-09T11:34:24.245144+00:00",
+      "cameras": 17,
+      "searches": 65,
+      "hotlist_hits": 2928,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-10T11:31:34.072253+00:00",
+      "cameras": 17,
+      "searches": 76,
+      "hotlist_hits": 2934,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-11T11:32:54.280674+00:00",
+      "cameras": 17,
+      "searches": 84,
+      "hotlist_hits": 2952,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-12T10:57:21.462126+00:00",
+      "cameras": 17,
+      "searches": 85,
+      "hotlist_hits": 2990,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-15T11:54:09.022109+00:00",
+      "cameras": 17,
+      "searches": 103,
+      "hotlist_hits": 3157,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-16T11:48:38.076804+00:00",
+      "cameras": 17,
+      "searches": 104,
+      "hotlist_hits": 3168,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-17T11:52:01.727615+00:00",
+      "cameras": 17,
+      "searches": 104,
+      "hotlist_hits": 3222,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-18T11:28:04.250599+00:00",
+      "cameras": 17,
+      "searches": 110,
+      "hotlist_hits": 3399,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-19T11:11:31.618653+00:00",
+      "cameras": 17,
+      "searches": 111,
+      "hotlist_hits": 3440,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-20T11:36:16.307538+00:00",
+      "cameras": 17,
+      "searches": 112,
+      "hotlist_hits": 3420,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-22T11:50:49.389043+00:00",
+      "cameras": 17,
+      "searches": 120,
+      "hotlist_hits": 3378,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-23T11:50:56.128005+00:00",
+      "cameras": 17,
+      "searches": 129,
+      "hotlist_hits": 3395,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-24T11:58:35.519318+00:00",
+      "cameras": 17,
+      "searches": 134,
+      "hotlist_hits": 3351,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-25T12:00:41.446640+00:00",
+      "cameras": 17,
+      "searches": 148,
+      "hotlist_hits": 3329,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-26T11:34:36.238822+00:00",
+      "cameras": 17,
+      "searches": 153,
+      "hotlist_hits": 3329,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-28T11:05:40.030689+00:00",
+      "cameras": 17,
+      "searches": 148,
+      "hotlist_hits": 3374,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-29T10:49:36.229412+00:00",
+      "cameras": 17,
+      "searches": 158,
+      "hotlist_hits": 3419,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-30T10:36:29.321367+00:00",
+      "cameras": 17,
+      "searches": 154,
+      "hotlist_hits": 3452,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-02T10:39:29.298528+00:00",
+      "cameras": 17,
+      "searches": 153,
+      "hotlist_hits": 3437,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-03T11:50:13.544773+00:00",
+      "cameras": 17,
+      "searches": 142,
+      "hotlist_hits": 3380,
+      "status": "active",
+      "name": "Itasca IL PD"
+    },
+    {
+      "ts": "2026-10-04T10:41:02.039052+00:00",
+      "cameras": 17,
+      "searches": 139,
+      "hotlist_hits": 3361,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-05T11:42:29.421279+00:00",
+      "cameras": 17,
+      "searches": 131,
+      "hotlist_hits": 3302,
+      "status": "active",
+      "name": "Itasca IL PD"
+    }
+  ]
+}

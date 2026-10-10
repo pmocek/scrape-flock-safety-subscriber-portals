@@ -1,0 +1,30 @@
+{
+  "slug": "roseville-mn-pd",
+  "name": "Roseville MN PD",
+  "last_updated": "2026-10-05T19:19:38.411341+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-05T19:59:08.793309+00:00",
+      "cameras": 9,
+      "searches": 226,
+      "hotlist_hits": 5912,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-21T19:00:49.843416+00:00",
+      "cameras": 9,
+      "searches": 197,
+      "hotlist_hits": 6399,
+      "status": "active",
+      "name": "Roseville MN PD"
+    },
+    {
+      "ts": "2026-10-05T19:19:38.411341+00:00",
+      "cameras": 10,
+      "searches": 161,
+      "hotlist_hits": 7273,
+      "status": "active",
+      "name": "Roseville MN PD"
+    }
+  ]
+}

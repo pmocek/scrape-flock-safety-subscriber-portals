@@ -1,0 +1,31 @@
+{
+  "slug": "olympia-wa-pd-",
+  "name": "Olympia WA PD",
+  "last_updated": "2026-07-31T14:09:04.673698+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-26T12:30:04.624743+00:00",
+      "cameras": 0
+    },
+    {
+      "ts": "2026-06-27T15:44:54.689000+00:00",
+      "cameras": 0
+    },
+    {
+      "ts": "2026-06-28T15:46:06.216384+00:00",
+      "cameras": 0,
+      "name": "Olympia WA PD"
+    },
+    {
+      "ts": "2026-07-31T14:09:04.673698+00:00",
+      "cameras": 0,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-07-31T14:09:04.673698+00:00",
+      "cameras": 0,
+      "status": "active",
+      "name": "Olympia WA PD"
+    }
+  ]
+}

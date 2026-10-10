@@ -1,0 +1,199 @@
+{
+  "slug": "grandville-pd-mi",
+  "name": "Grandville PD MI",
+  "last_updated": "2026-10-05T09:13:38.112052+00:00",
+  "entries": [
+    {
+      "ts": "2026-09-08T08:58:35.393349+00:00",
+      "vehicles": 9,
+      "searches": 63,
+      "hotlist_hits": 1179,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-09T09:04:04.403192+00:00",
+      "vehicles": 9,
+      "searches": 60,
+      "hotlist_hits": 1200,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-11T09:00:58.775988+00:00",
+      "vehicles": 9,
+      "searches": 59,
+      "hotlist_hits": 1107,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-12T08:44:10.252665+00:00",
+      "vehicles": 9,
+      "searches": 57,
+      "hotlist_hits": 1160,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-13T09:38:58.388898+00:00",
+      "vehicles": 9,
+      "searches": 58,
+      "hotlist_hits": 1169,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-14T10:01:16.334971+00:00",
+      "vehicles": 9,
+      "searches": 58,
+      "hotlist_hits": 1153,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-15T09:31:42.834129+00:00",
+      "vehicles": 9,
+      "searches": 55,
+      "hotlist_hits": 1123,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-16T09:24:18.230503+00:00",
+      "vehicles": 9,
+      "searches": 55,
+      "hotlist_hits": 1114,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-17T09:35:58.469989+00:00",
+      "vehicles": 9,
+      "searches": 54,
+      "hotlist_hits": 1102,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-18T09:06:34.111465+00:00",
+      "vehicles": 9,
+      "searches": 51,
+      "hotlist_hits": 1146,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-19T08:53:44.805556+00:00",
+      "vehicles": 9,
+      "searches": 51,
+      "hotlist_hits": 1107,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-20T09:23:24.504708+00:00",
+      "vehicles": 9,
+      "searches": 51,
+      "hotlist_hits": 1103,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-21T08:01:52.926535+00:00",
+      "vehicles": 9,
+      "searches": 56,
+      "hotlist_hits": 1102,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-22T09:24:38.166118+00:00",
+      "vehicles": 9,
+      "searches": 58,
+      "hotlist_hits": 1096,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-23T09:24:41.371077+00:00",
+      "vehicles": 9,
+      "searches": 58,
+      "hotlist_hits": 1055,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-24T09:25:17.448715+00:00",
+      "vehicles": 9,
+      "searches": 55,
+      "hotlist_hits": 1039,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-25T09:44:08.800919+00:00",
+      "vehicles": 9,
+      "searches": 52,
+      "hotlist_hits": 1015,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-26T09:27:06.758338+00:00",
+      "vehicles": 9,
+      "searches": 50,
+      "hotlist_hits": 994,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-27T08:18:17.674880+00:00",
+      "vehicles": 9,
+      "searches": 49,
+      "hotlist_hits": 997,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-28T08:45:54.163639+00:00",
+      "vehicles": 9,
+      "searches": 46,
+      "hotlist_hits": 1008,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-29T08:39:03.704720+00:00",
+      "vehicles": 9,
+      "searches": 46,
+      "hotlist_hits": 979,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-30T08:40:08.798048+00:00",
+      "vehicles": 9,
+      "searches": 49,
+      "hotlist_hits": 973,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-01T09:04:40.668124+00:00",
+      "vehicles": 9,
+      "searches": 53,
+      "hotlist_hits": 989,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-02T08:38:35.425613+00:00",
+      "vehicles": 9,
+      "searches": 51,
+      "hotlist_hits": 975,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-03T08:15:22.411415+00:00",
+      "vehicles": 9,
+      "searches": 52,
+      "hotlist_hits": 989,
+      "status": "active",
+      "name": "Grandville PD MI"
+    },
+    {
+      "ts": "2026-10-04T08:31:15.124041+00:00",
+      "vehicles": 9,
+      "searches": 47,
+      "hotlist_hits": 987,
+      "status": "active",
+      "name": "Grandville PD MI"
+    },
+    {
+      "ts": "2026-10-05T09:13:38.112052+00:00",
+      "vehicles": 9,
+      "searches": 47,
+      "hotlist_hits": 954,
+      "status": "active",
+      "name": "Grandville PD MI"
+    }
+  ]
+}

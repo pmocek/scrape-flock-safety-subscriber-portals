@@ -1,0 +1,521 @@
+{
+  "slug": "urbandale-ia-pd",
+  "name": "Urbandale IA PD",
+  "last_updated": "2026-10-04T23:20:06.350216+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-05T23:26:46.362546+00:00",
+      "cameras": 28,
+      "vehicles": 426804,
+      "searches": 163,
+      "hotlist_hits": 5938,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-07T22:58:29.275880+00:00",
+      "cameras": 28,
+      "vehicles": 422942,
+      "searches": 164,
+      "hotlist_hits": 5790,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-08T22:51:35.156638+00:00",
+      "cameras": 28,
+      "vehicles": 421650,
+      "searches": 162,
+      "hotlist_hits": 5721,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-09T22:56:57.746751+00:00",
+      "cameras": 28,
+      "vehicles": 420564,
+      "searches": 161,
+      "hotlist_hits": 5677,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-10T23:00:18.230276+00:00",
+      "cameras": 28,
+      "vehicles": 414523,
+      "searches": 156,
+      "hotlist_hits": 5650,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-11T23:07:14.306557+00:00",
+      "cameras": 28,
+      "vehicles": 414533,
+      "searches": 170,
+      "hotlist_hits": 5567,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-13T23:06:36.412663+00:00",
+      "cameras": 28,
+      "vehicles": 414671,
+      "searches": 181,
+      "hotlist_hits": 5364,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-14T22:44:10.165270+00:00",
+      "cameras": 28,
+      "vehicles": 412734,
+      "searches": 176,
+      "hotlist_hits": 5243,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-15T22:42:35.010877+00:00",
+      "cameras": 28,
+      "vehicles": 411265,
+      "searches": 182,
+      "hotlist_hits": 5201,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-16T22:41:46.050952+00:00",
+      "cameras": 28,
+      "vehicles": 410195,
+      "searches": 176,
+      "hotlist_hits": 5055,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-17T22:44:59.349940+00:00",
+      "cameras": 28,
+      "vehicles": 408732,
+      "searches": 175,
+      "hotlist_hits": 4981,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-18T22:45:16.634644+00:00",
+      "cameras": 28,
+      "vehicles": 407928,
+      "searches": 175,
+      "hotlist_hits": 4897,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-19T22:46:00.360356+00:00",
+      "cameras": 28,
+      "vehicles": 406457,
+      "searches": 180,
+      "hotlist_hits": 4803,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-20T22:49:00.113808+00:00",
+      "cameras": 28,
+      "vehicles": 407310,
+      "searches": 167,
+      "hotlist_hits": 4728,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-21T22:44:57.736116+00:00",
+      "cameras": 28,
+      "vehicles": 406817,
+      "searches": 151,
+      "hotlist_hits": 4659,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-22T22:42:09.200891+00:00",
+      "cameras": 28,
+      "vehicles": 407110,
+      "searches": 146,
+      "hotlist_hits": 4624,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-23T22:42:06.961388+00:00",
+      "cameras": 28,
+      "vehicles": 407973,
+      "searches": 143,
+      "hotlist_hits": 4589,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-24T22:47:20.064298+00:00",
+      "cameras": 28,
+      "vehicles": 404672,
+      "searches": 130,
+      "hotlist_hits": 4569,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-25T22:48:38.538418+00:00",
+      "cameras": 28,
+      "vehicles": 402743,
+      "searches": 131,
+      "hotlist_hits": 4582,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-26T23:46:35.296782+00:00",
+      "cameras": 28,
+      "vehicles": 404832,
+      "searches": 133,
+      "hotlist_hits": 4570,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-27T22:26:38.755743+00:00",
+      "cameras": 28,
+      "vehicles": 404832,
+      "searches": 133,
+      "hotlist_hits": 4570,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-27T23:50:39.064590+00:00",
+      "cameras": 28,
+      "vehicles": 405055,
+      "searches": 131,
+      "hotlist_hits": 4542,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-28T22:29:27.364372+00:00",
+      "cameras": 28,
+      "vehicles": 405055,
+      "searches": 131,
+      "hotlist_hits": 4542,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-28T23:35:50.892129+00:00",
+      "cameras": 28,
+      "vehicles": 405185,
+      "searches": 143,
+      "hotlist_hits": 4490,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-29T22:42:21.602822+00:00",
+      "cameras": 28,
+      "vehicles": 405185,
+      "searches": 143,
+      "hotlist_hits": 4490,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-30T22:50:25.963910+00:00",
+      "cameras": 28,
+      "vehicles": 406789,
+      "searches": 150,
+      "hotlist_hits": 4498,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-31T22:54:54.605850+00:00",
+      "cameras": 28,
+      "vehicles": 408997,
+      "searches": 156,
+      "hotlist_hits": 4530,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-31T23:56:28.145427+00:00",
+      "cameras": 28,
+      "vehicles": 407002,
+      "searches": 159,
+      "hotlist_hits": 4547,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-01T22:39:50.221360+00:00",
+      "cameras": 28,
+      "vehicles": 407002,
+      "searches": 159,
+      "hotlist_hits": 4547,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-02T22:43:18.093405+00:00",
+      "cameras": 28,
+      "vehicles": 407044,
+      "searches": 172,
+      "hotlist_hits": 4613,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-03T22:39:46.739121+00:00",
+      "cameras": 28,
+      "vehicles": 409380,
+      "searches": 180,
+      "hotlist_hits": 4635,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-04T22:25:55.556892+00:00",
+      "cameras": 28,
+      "vehicles": 409614,
+      "searches": 176,
+      "hotlist_hits": 4716,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-05T22:06:45.800211+00:00",
+      "cameras": 28,
+      "vehicles": 411281,
+      "searches": 175,
+      "hotlist_hits": 4804,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-05T23:58:13.539215+00:00",
+      "cameras": 28,
+      "vehicles": 413095,
+      "searches": 181,
+      "hotlist_hits": 4908,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-06T22:10:42.650547+00:00",
+      "cameras": 28,
+      "vehicles": 413095,
+      "searches": 181,
+      "hotlist_hits": 4908,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-07T00:00:21.646997+00:00",
+      "cameras": 28,
+      "vehicles": 413194,
+      "searches": 177,
+      "hotlist_hits": 4956,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-07T22:53:57.217847+00:00",
+      "cameras": 28,
+      "vehicles": 413194,
+      "searches": 177,
+      "hotlist_hits": 4956,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-08T22:46:07.534698+00:00",
+      "cameras": 28,
+      "vehicles": 409764,
+      "searches": 174,
+      "hotlist_hits": 5001,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-09T22:38:55.389515+00:00",
+      "cameras": 28,
+      "vehicles": 408513,
+      "searches": 173,
+      "hotlist_hits": 5053,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-10T22:41:24.450297+00:00",
+      "cameras": 28,
+      "vehicles": 407043,
+      "searches": 182,
+      "hotlist_hits": 5247,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-11T22:41:11.438740+00:00",
+      "cameras": 28,
+      "vehicles": 413888,
+      "searches": 177,
+      "hotlist_hits": 4967,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-12T22:24:46.461676+00:00",
+      "cameras": 28,
+      "vehicles": 414887,
+      "searches": 164,
+      "hotlist_hits": 5058,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-13T22:30:10.093306+00:00",
+      "cameras": 28,
+      "vehicles": 416664,
+      "searches": 161,
+      "hotlist_hits": 5116,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-14T23:14:06.739631+00:00",
+      "cameras": 28,
+      "vehicles": 414762,
+      "searches": 154,
+      "hotlist_hits": 5225,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-15T22:58:47.964977+00:00",
+      "cameras": 28,
+      "vehicles": 413712,
+      "searches": 158,
+      "hotlist_hits": 5355,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-16T23:03:32.734919+00:00",
+      "cameras": 28,
+      "vehicles": 414562,
+      "searches": 163,
+      "hotlist_hits": 5476,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-17T22:55:58.623487+00:00",
+      "cameras": 28,
+      "vehicles": 416066,
+      "searches": 169,
+      "hotlist_hits": 5464,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-18T22:41:25.129272+00:00",
+      "cameras": 28,
+      "vehicles": 417288,
+      "searches": 165,
+      "hotlist_hits": 5710,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-19T22:22:46.515459+00:00",
+      "cameras": 28,
+      "vehicles": 418354,
+      "searches": 174,
+      "hotlist_hits": 5734,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-20T22:34:02.912752+00:00",
+      "cameras": 28,
+      "vehicles": 419185,
+      "searches": 169,
+      "hotlist_hits": 5737,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-21T22:03:07.363112+00:00",
+      "cameras": 28,
+      "vehicles": 416554,
+      "searches": 169,
+      "hotlist_hits": 5796,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-22T23:02:40.610740+00:00",
+      "cameras": 28,
+      "vehicles": 416656,
+      "searches": 169,
+      "hotlist_hits": 5820,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-23T23:01:09.569166+00:00",
+      "cameras": 28,
+      "vehicles": 417456,
+      "searches": 188,
+      "hotlist_hits": 5836,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-24T23:17:55.407818+00:00",
+      "cameras": 28,
+      "vehicles": 419701,
+      "searches": 193,
+      "hotlist_hits": 5854,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-25T23:22:39.805977+00:00",
+      "cameras": 28,
+      "vehicles": 419397,
+      "searches": 191,
+      "hotlist_hits": 5855,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-26T23:00:54.449265+00:00",
+      "cameras": 28,
+      "vehicles": 419944,
+      "searches": 194,
+      "hotlist_hits": 5858,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-27T23:10:29.210166+00:00",
+      "cameras": 28,
+      "vehicles": 419251,
+      "searches": 182,
+      "hotlist_hits": 5868,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-28T22:08:28.237483+00:00",
+      "cameras": 28,
+      "vehicles": 417242,
+      "searches": 171,
+      "hotlist_hits": 5883,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-29T22:22:16.293580+00:00",
+      "cameras": 28,
+      "vehicles": 415164,
+      "searches": 174,
+      "hotlist_hits": 5823,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-30T22:23:37.148829+00:00",
+      "cameras": 28,
+      "vehicles": 415127,
+      "searches": 169,
+      "hotlist_hits": 5766,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-01T22:47:37.498109+00:00",
+      "cameras": 28,
+      "vehicles": 414202,
+      "searches": 161,
+      "hotlist_hits": 5763,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-02T22:20:52.595868+00:00",
+      "cameras": 28,
+      "vehicles": 414058,
+      "searches": 153,
+      "hotlist_hits": 5735,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-03T23:10:50.293934+00:00",
+      "cameras": 28,
+      "vehicles": 413061,
+      "searches": 156,
+      "hotlist_hits": 5665,
+      "status": "active",
+      "name": "Urbandale IA PD"
+    },
+    {
+      "ts": "2026-10-04T23:20:06.350216+00:00",
+      "cameras": 28,
+      "vehicles": 414576,
+      "searches": 154,
+      "hotlist_hits": 5654,
+      "status": "active",
+      "name": "Urbandale IA PD"
+    }
+  ]
+}

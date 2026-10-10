@@ -1,0 +1,12 @@
+{{ define "main" }}
+<h2 class="section-title">Data Sharing Network Graph</h2>
+<p class="subtitle">Bilateral data-sharing flows between WA Flock Safety portals. Nodes sized by camera count.</p>
+
+<div id="network-graph" style="min-height:500px;background:#fff;border-radius:4px;"></div>
+<div style="margin-top:var(--spacing-md);font-size:0.85rem;color:var(--color-muted)">
+    Zoom/pan supported. Drag nodes to rearrange. Legend: ● active  ● inactive  ● not found
+</div>
+
+<script src="{{ "js/d3.min.js" | absURL }}"></script>
+<script src="{{ "js/network-graph.js" | absURL }}"></script>
+{{ end }}

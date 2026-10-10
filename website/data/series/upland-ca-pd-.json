@@ -1,0 +1,25 @@
+{
+  "slug": "upland-ca-pd-",
+  "name": "Upland CA PD",
+  "last_updated": "2026-10-08T23:25:31.862466+00:00",
+  "entries": [
+    {
+      "ts": "2026-10-05T22:45:27.940910+00:00",
+      "cameras": 12,
+      "vehicles": 567768,
+      "searches": 460,
+      "hotlist_hits": 3870,
+      "status": "active",
+      "name": "Upland CA PD"
+    },
+    {
+      "ts": "2026-10-08T23:25:31.862466+00:00",
+      "cameras": 12,
+      "vehicles": 564387,
+      "searches": 510,
+      "hotlist_hits": 3824,
+      "status": "active",
+      "name": "Upland CA PD"
+    }
+  ]
+}

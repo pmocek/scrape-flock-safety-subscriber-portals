@@ -1,0 +1,28 @@
+{
+  "slug": "goochland-county-va-so",
+  "name": "Goochland County VA SO",
+  "last_updated": "2026-10-08T09:06:08.130000+00:00",
+  "entries": [
+    {
+      "ts": "2026-10-06T09:06:18.918343+00:00",
+      "cameras": 11,
+      "hotlist_hits": 2,
+      "status": "active",
+      "name": "Goochland County VA SO"
+    },
+    {
+      "ts": "2026-10-07T08:47:48.452384+00:00",
+      "cameras": 11,
+      "hotlist_hits": 2,
+      "status": "active",
+      "name": "Goochland County VA SO"
+    },
+    {
+      "ts": "2026-10-08T09:06:08.130000+00:00",
+      "cameras": 11,
+      "hotlist_hits": 2,
+      "status": "active",
+      "name": "Goochland County VA SO"
+    }
+  ]
+}

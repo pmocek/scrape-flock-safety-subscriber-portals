@@ -1,0 +1,31 @@
+{
+  "slug": "livonia-mi-pd",
+  "name": "Livonia MI PD",
+  "last_updated": "2026-10-08T13:43:03.963312+00:00",
+  "entries": [
+    {
+      "ts": "2026-10-06T13:26:43.313780+00:00",
+      "cameras": 25,
+      "searches": 441,
+      "hotlist_hits": 3001,
+      "status": "active",
+      "name": "Livonia MI PD"
+    },
+    {
+      "ts": "2026-10-07T13:36:59.362480+00:00",
+      "cameras": 25,
+      "searches": 442,
+      "hotlist_hits": 3006,
+      "status": "active",
+      "name": "Livonia MI PD"
+    },
+    {
+      "ts": "2026-10-08T13:43:03.963312+00:00",
+      "cameras": 25,
+      "searches": 458,
+      "hotlist_hits": 3031,
+      "status": "active",
+      "name": "Livonia MI PD"
+    }
+  ]
+}

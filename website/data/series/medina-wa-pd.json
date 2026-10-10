@@ -1,0 +1,47 @@
+{
+  "slug": "medina-wa-pd",
+  "name": "Medina WA PD",
+  "last_updated": "2026-07-31T09:23:26.233323+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-27T11:48:32.742719+00:00",
+      "cameras": 23,
+      "vehicles": 56806,
+      "searches": 16,
+      "hotlist_hits": 16
+    },
+    {
+      "ts": "2026-06-28T12:01:52.862430+00:00",
+      "cameras": 23,
+      "vehicles": 56813,
+      "searches": 17,
+      "hotlist_hits": 17,
+      "name": "Medina WA PD"
+    },
+    {
+      "ts": "2026-07-31T08:34:14.473013+00:00",
+      "cameras": 23,
+      "vehicles": 57513,
+      "searches": 6,
+      "hotlist_hits": 28,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-07-31T09:23:26.233323+00:00",
+      "cameras": 23,
+      "vehicles": 57513,
+      "searches": 6,
+      "hotlist_hits": 28,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-07-31T09:23:26.233323+00:00",
+      "cameras": 23,
+      "vehicles": 57513,
+      "searches": 6,
+      "hotlist_hits": 28,
+      "status": "active",
+      "name": "Medina WA PD"
+    }
+  ]
+}

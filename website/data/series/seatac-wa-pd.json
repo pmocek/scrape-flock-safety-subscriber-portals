@@ -1,0 +1,47 @@
+{
+  "slug": "seatac-wa-pd",
+  "name": "SeaTac WA PD",
+  "last_updated": "2026-07-31T16:15:45.285124+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-26T16:31:14.556715+00:00",
+      "cameras": 27,
+      "vehicles": 483373,
+      "searches": 262,
+      "hotlist_hits": 7
+    },
+    {
+      "ts": "2026-06-27T19:49:45.157299+00:00",
+      "cameras": 27,
+      "vehicles": 486264,
+      "searches": 263,
+      "hotlist_hits": 7,
+      "name": "SeaTac WA PD"
+    },
+    {
+      "ts": "2026-06-28T19:49:40.910632+00:00",
+      "cameras": 27,
+      "vehicles": 485844,
+      "searches": 246,
+      "hotlist_hits": 5,
+      "name": "SeaTac WA PD"
+    },
+    {
+      "ts": "2026-07-31T16:15:45.285124+00:00",
+      "cameras": 27,
+      "vehicles": 498621,
+      "searches": 153,
+      "hotlist_hits": 710,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-07-31T16:15:45.285124+00:00",
+      "cameras": 27,
+      "vehicles": 502072,
+      "searches": 153,
+      "hotlist_hits": 706,
+      "status": "active",
+      "name": "SeaTac WA PD"
+    }
+  ]
+}

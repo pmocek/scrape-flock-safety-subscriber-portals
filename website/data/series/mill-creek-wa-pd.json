@@ -1,0 +1,27 @@
+{
+  "slug": "mill-creek-wa-pd",
+  "name": "Mill Creek WA PD",
+  "last_updated": "2026-07-31T08:34:23.469147+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-27T11:48:42.685291+00:00",
+      "cameras": 17,
+      "searches": 34,
+      "hotlist_hits": 53
+    },
+    {
+      "ts": "2026-06-28T12:02:01.869762+00:00",
+      "cameras": 17,
+      "searches": 35,
+      "hotlist_hits": 46,
+      "name": "Mill Creek WA PD"
+    },
+    {
+      "ts": "2026-07-31T08:34:23.469147+00:00",
+      "searches": 55,
+      "hotlist_hits": 371,
+      "status": "active",
+      "name": "Mill Creek WA PD"
+    }
+  ]
+}

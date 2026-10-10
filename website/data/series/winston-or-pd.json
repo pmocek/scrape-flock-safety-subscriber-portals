@@ -1,0 +1,15 @@
+{
+  "slug": "winston-or-pd",
+  "name": "Winston OR PD",
+  "last_updated": "2026-08-07T19:20:19.027510+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-07T19:20:19.027510+00:00",
+      "cameras": 5,
+      "searches": 28,
+      "hotlist_hits": 29,
+      "status": "active",
+      "name": "Winston OR PD"
+    }
+  ]
+}

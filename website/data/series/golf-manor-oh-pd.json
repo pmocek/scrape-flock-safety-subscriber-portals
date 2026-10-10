@@ -1,0 +1,31 @@
+{
+  "slug": "golf-manor-oh-pd",
+  "name": "Golf Manor OH PD",
+  "last_updated": "2026-10-08T09:05:50.137038+00:00",
+  "entries": [
+    {
+      "ts": "2026-10-06T09:06:00.587963+00:00",
+      "cameras": 8,
+      "searches": 4,
+      "hotlist_hits": 403,
+      "status": "active",
+      "name": "Golf Manor OH PD"
+    },
+    {
+      "ts": "2026-10-07T08:47:30.440020+00:00",
+      "cameras": 8,
+      "searches": 4,
+      "hotlist_hits": 402,
+      "status": "active",
+      "name": "Golf Manor OH PD"
+    },
+    {
+      "ts": "2026-10-08T09:05:50.137038+00:00",
+      "cameras": 8,
+      "searches": 4,
+      "hotlist_hits": 397,
+      "status": "active",
+      "name": "Golf Manor OH PD"
+    }
+  ]
+}

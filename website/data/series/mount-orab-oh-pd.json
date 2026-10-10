@@ -1,0 +1,321 @@
+{
+  "slug": "mount-orab-oh-pd",
+  "name": "Mount Orab OH PD",
+  "last_updated": "2026-10-05T14:58:10.617182+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-28T14:24:38.450204+00:00",
+      "cameras": 3,
+      "vehicles": 89672,
+      "searches": 17,
+      "hotlist_hits": 119,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-29T15:07:12.430332+00:00",
+      "cameras": 3,
+      "vehicles": 89851,
+      "searches": 14,
+      "hotlist_hits": 118,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-30T14:53:49.107703+00:00",
+      "cameras": 3,
+      "vehicles": 90448,
+      "searches": 13,
+      "hotlist_hits": 116,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-31T14:06:10.191347+00:00",
+      "cameras": 3,
+      "vehicles": 90457,
+      "searches": 13,
+      "hotlist_hits": 113,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-01T14:57:52.569854+00:00",
+      "cameras": 3,
+      "vehicles": 90097,
+      "searches": 14,
+      "hotlist_hits": 108,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-02T14:33:04.538970+00:00",
+      "cameras": 3,
+      "vehicles": 89465,
+      "searches": 14,
+      "hotlist_hits": 106,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-03T14:37:40.884179+00:00",
+      "cameras": 3,
+      "vehicles": 89467,
+      "searches": 13,
+      "hotlist_hits": 105,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-04T14:24:37.599774+00:00",
+      "cameras": 3,
+      "vehicles": 89290,
+      "searches": 13,
+      "hotlist_hits": 106,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-05T15:21:42.852018+00:00",
+      "cameras": 3,
+      "vehicles": 89989,
+      "searches": 18,
+      "hotlist_hits": 102,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-06T15:34:43.475435+00:00",
+      "cameras": 3,
+      "vehicles": 90801,
+      "searches": 17,
+      "hotlist_hits": 100,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-07T14:17:56.356473+00:00",
+      "cameras": 3,
+      "vehicles": 91314,
+      "searches": 15,
+      "hotlist_hits": 99,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-08T14:38:10.409464+00:00",
+      "cameras": 3,
+      "vehicles": 91604,
+      "searches": 15,
+      "hotlist_hits": 97,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-09T14:40:35.053125+00:00",
+      "cameras": 3,
+      "vehicles": 91377,
+      "searches": 15,
+      "hotlist_hits": 94,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-10T14:30:36.494158+00:00",
+      "cameras": 3,
+      "vehicles": 91469,
+      "searches": 14,
+      "hotlist_hits": 96,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-11T14:29:41.867146+00:00",
+      "cameras": 3,
+      "vehicles": 91926,
+      "searches": 14,
+      "hotlist_hits": 92,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-12T15:38:56.517679+00:00",
+      "cameras": 3,
+      "vehicles": 92579,
+      "searches": 14,
+      "hotlist_hits": 97,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-13T14:28:18.949218+00:00",
+      "cameras": 3,
+      "vehicles": 92631,
+      "searches": 13,
+      "hotlist_hits": 96,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-14T15:04:31.291969+00:00",
+      "cameras": 3,
+      "vehicles": 92831,
+      "searches": 11,
+      "hotlist_hits": 94,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-15T15:05:04.046161+00:00",
+      "cameras": 3,
+      "vehicles": 92490,
+      "searches": 12,
+      "hotlist_hits": 94,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-16T15:01:45.649316+00:00",
+      "cameras": 3,
+      "vehicles": 92397,
+      "searches": 15,
+      "hotlist_hits": 102,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-17T15:05:26.503879+00:00",
+      "cameras": 3,
+      "vehicles": 92816,
+      "searches": 15,
+      "hotlist_hits": 109,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-18T14:33:46.387089+00:00",
+      "cameras": 3,
+      "vehicles": 92974,
+      "searches": 15,
+      "hotlist_hits": 125,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-19T15:58:12.658514+00:00",
+      "cameras": 3,
+      "vehicles": 92737,
+      "searches": 15,
+      "hotlist_hits": 128,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-20T14:17:00.054643+00:00",
+      "cameras": 3,
+      "vehicles": 93449,
+      "searches": 14,
+      "hotlist_hits": 131,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-21T15:09:24.731007+00:00",
+      "cameras": 3,
+      "vehicles": 92764,
+      "searches": 14,
+      "hotlist_hits": 133,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-22T15:01:23.908378+00:00",
+      "cameras": 3,
+      "vehicles": 91645,
+      "searches": 14,
+      "hotlist_hits": 136,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-23T15:06:29.555123+00:00",
+      "cameras": 3,
+      "vehicles": 91295,
+      "searches": 14,
+      "hotlist_hits": 136,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-24T15:16:20.584747+00:00",
+      "cameras": 3,
+      "vehicles": 91539,
+      "searches": 13,
+      "hotlist_hits": 139,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-25T15:20:42.300415+00:00",
+      "cameras": 3,
+      "vehicles": 91464,
+      "searches": 13,
+      "hotlist_hits": 141,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-26T14:34:04.007061+00:00",
+      "cameras": 3,
+      "vehicles": 92211,
+      "searches": 13,
+      "hotlist_hits": 140,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-27T14:03:05.875235+00:00",
+      "cameras": 3,
+      "vehicles": 92828,
+      "searches": 13,
+      "hotlist_hits": 140,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-28T14:11:14.857756+00:00",
+      "cameras": 3,
+      "vehicles": 92197,
+      "searches": 13,
+      "hotlist_hits": 139,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-29T14:53:23.828401+00:00",
+      "cameras": 3,
+      "vehicles": 91697,
+      "searches": 13,
+      "hotlist_hits": 142,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-30T14:58:45.247285+00:00",
+      "cameras": 3,
+      "vehicles": 91876,
+      "searches": 14,
+      "hotlist_hits": 146,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-01T15:31:20.629391+00:00",
+      "cameras": 3,
+      "vehicles": 92230,
+      "searches": 13,
+      "hotlist_hits": 147,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-02T14:47:25.918111+00:00",
+      "cameras": 3,
+      "vehicles": 92694,
+      "searches": 13,
+      "hotlist_hits": 149,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-03T14:46:12.037413+00:00",
+      "cameras": 3,
+      "vehicles": 92196,
+      "searches": 13,
+      "hotlist_hits": 150,
+      "status": "active",
+      "name": "Mount Orab OH PD"
+    },
+    {
+      "ts": "2026-10-04T14:08:49.558361+00:00",
+      "cameras": 3,
+      "vehicles": 91731,
+      "searches": 13,
+      "hotlist_hits": 151,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-05T14:58:10.617182+00:00",
+      "cameras": 3,
+      "vehicles": 90430,
+      "searches": 8,
+      "hotlist_hits": 151,
+      "status": "active",
+      "name": "Mount Orab OH PD"
+    }
+  ]
+}

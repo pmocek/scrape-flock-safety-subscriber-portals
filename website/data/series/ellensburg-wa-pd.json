@@ -1,0 +1,98 @@
+{
+  "slug": "ellensburg-wa-pd",
+  "name": "Ellensburg WA PD",
+  "last_updated": "2026-08-06T07:11:04.382569+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-25T19:40:57.893362+00:00",
+      "cameras": 13,
+      "vehicles": 151075,
+      "searches": 43
+    },
+    {
+      "ts": "2026-06-26T03:35:35.284045+00:00",
+      "cameras": 13,
+      "vehicles": 151075,
+      "searches": 43
+    },
+    {
+      "ts": "2026-06-26T04:43:03.661179+00:00",
+      "cameras": 13,
+      "vehicles": 151075,
+      "searches": 43
+    },
+    {
+      "ts": "2026-06-26T05:25:32.342391+00:00",
+      "cameras": 13,
+      "vehicles": 151075,
+      "searches": 43
+    },
+    {
+      "ts": "2026-06-26T06:32:53.322606+00:00",
+      "cameras": 13,
+      "vehicles": 151075,
+      "searches": 43
+    },
+    {
+      "ts": "2026-06-26T20:25:11.078212+00:00",
+      "cameras": 13,
+      "vehicles": 151578,
+      "searches": 39
+    },
+    {
+      "ts": "2026-06-26T21:23:14.849861+00:00",
+      "cameras": 13,
+      "vehicles": 151578,
+      "searches": 39
+    },
+    {
+      "ts": "2026-06-27T06:04:19.793194+00:00",
+      "cameras": 13,
+      "vehicles": 151578,
+      "searches": 39
+    },
+    {
+      "ts": "2026-06-27T18:14:22.361265+00:00",
+      "cameras": 13,
+      "vehicles": 152722,
+      "searches": 38,
+      "name": "Ellensburg WA PD"
+    },
+    {
+      "ts": "2026-06-28T06:39:38.378783+00:00",
+      "cameras": 13,
+      "vehicles": 152722,
+      "searches": 38,
+      "name": "Ellensburg WA PD"
+    },
+    {
+      "ts": "2026-06-29T07:08:37.651057+00:00",
+      "cameras": 13,
+      "vehicles": 154130,
+      "searches": 38,
+      "name": "Ellensburg WA PD"
+    },
+    {
+      "ts": "2026-08-04T07:06:28.588237+00:00",
+      "cameras": 13,
+      "vehicles": 163533,
+      "searches": 44,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-05T07:08:51.389469+00:00",
+      "cameras": 13,
+      "vehicles": 163635,
+      "searches": 45,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-06T07:11:04.382569+00:00",
+      "cameras": 13,
+      "vehicles": 162525,
+      "searches": 41,
+      "status": "active",
+      "name": "Ellensburg WA PD"
+    }
+  ]
+}

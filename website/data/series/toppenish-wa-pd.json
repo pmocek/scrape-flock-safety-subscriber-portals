@@ -1,0 +1,53 @@
+{
+  "slug": "toppenish-wa-pd",
+  "name": "Toppenish WA PD",
+  "last_updated": "2026-07-31T23:18:45.260436+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-25T20:25:40.454364+00:00",
+      "cameras": 25,
+      "vehicles": 83703,
+      "hotlist_hits": 230
+    },
+    {
+      "ts": "2026-06-25T23:48:57.006248+00:00",
+      "cameras": 25,
+      "vehicles": 83703,
+      "hotlist_hits": 230
+    },
+    {
+      "ts": "2026-06-26T20:14:26.325758+00:00",
+      "cameras": 25,
+      "vehicles": 83742,
+      "hotlist_hits": 206
+    },
+    {
+      "ts": "2026-06-26T23:37:16.286810+00:00",
+      "cameras": 25,
+      "vehicles": 83742,
+      "hotlist_hits": 206
+    },
+    {
+      "ts": "2026-06-27T23:32:03.433465+00:00",
+      "cameras": 25,
+      "vehicles": 83968,
+      "hotlist_hits": 187,
+      "name": "Toppenish WA PD"
+    },
+    {
+      "ts": "2026-06-28T23:33:48.607948+00:00",
+      "cameras": 25,
+      "vehicles": 83894,
+      "hotlist_hits": 163,
+      "name": "Toppenish WA PD"
+    },
+    {
+      "ts": "2026-07-31T23:18:45.260436+00:00",
+      "cameras": 25,
+      "vehicles": 88992,
+      "hotlist_hits": 331,
+      "status": "active",
+      "name": "Toppenish WA PD"
+    }
+  ]
+}

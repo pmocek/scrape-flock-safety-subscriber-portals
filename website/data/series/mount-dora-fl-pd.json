@@ -1,0 +1,217 @@
+{
+  "slug": "mount-dora-fl-pd",
+  "name": "Mount Dora FL PD",
+  "last_updated": "2026-10-05T14:57:34.506243+00:00",
+  "entries": [
+    {
+      "ts": "2026-09-09T14:39:59.380109+00:00",
+      "cameras": 6,
+      "vehicles": 72211,
+      "searches": 21,
+      "hotlist_hits": 7307,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-10T14:30:00.770337+00:00",
+      "cameras": 6,
+      "vehicles": 73614,
+      "searches": 24,
+      "hotlist_hits": 6751,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-11T14:29:06.205192+00:00",
+      "cameras": 6,
+      "vehicles": 73715,
+      "searches": 25,
+      "hotlist_hits": 6414,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-12T15:38:20.517964+00:00",
+      "cameras": 6,
+      "vehicles": 74046,
+      "searches": 25,
+      "hotlist_hits": 6121,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-13T14:27:43.777295+00:00",
+      "cameras": 6,
+      "vehicles": 74694,
+      "searches": 25,
+      "hotlist_hits": 5861,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-14T15:03:55.429965+00:00",
+      "cameras": 6,
+      "vehicles": 74422,
+      "searches": 25,
+      "hotlist_hits": 5517,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-15T15:04:28.784510+00:00",
+      "cameras": 6,
+      "vehicles": 74102,
+      "searches": 25,
+      "hotlist_hits": 5220,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-16T15:01:09.296934+00:00",
+      "cameras": 6,
+      "vehicles": 73437,
+      "searches": 25,
+      "hotlist_hits": 4975,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-17T15:04:50.695977+00:00",
+      "cameras": 6,
+      "vehicles": 72101,
+      "searches": 25,
+      "hotlist_hits": 4722,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-18T14:33:10.068286+00:00",
+      "cameras": 6,
+      "vehicles": 71010,
+      "searches": 25,
+      "hotlist_hits": 4451,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-19T15:57:36.435452+00:00",
+      "cameras": 6,
+      "vehicles": 69772,
+      "searches": 26,
+      "hotlist_hits": 4134,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-20T14:16:23.707271+00:00",
+      "cameras": 6,
+      "vehicles": 68548,
+      "searches": 26,
+      "hotlist_hits": 3820,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-21T15:08:48.702007+00:00",
+      "cameras": 6,
+      "vehicles": 66609,
+      "searches": 23,
+      "hotlist_hits": 3436,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-23T15:05:53.244466+00:00",
+      "cameras": 6,
+      "vehicles": 63110,
+      "searches": 23,
+      "hotlist_hits": 2934,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-24T15:14:56.465437+00:00",
+      "cameras": 6,
+      "vehicles": 62596,
+      "searches": 17,
+      "hotlist_hits": 2632,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-25T15:20:06.275562+00:00",
+      "cameras": 6,
+      "vehicles": 61876,
+      "searches": 14,
+      "hotlist_hits": 2350,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-26T14:33:27.892235+00:00",
+      "cameras": 6,
+      "vehicles": 61357,
+      "searches": 12,
+      "hotlist_hits": 2045,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-27T14:02:29.847224+00:00",
+      "cameras": 6,
+      "vehicles": 61176,
+      "searches": 9,
+      "hotlist_hits": 1727,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-28T14:10:38.339464+00:00",
+      "cameras": 6,
+      "vehicles": 59939,
+      "searches": 9,
+      "hotlist_hits": 1342,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-29T14:52:47.664102+00:00",
+      "cameras": 6,
+      "vehicles": 58580,
+      "searches": 9,
+      "hotlist_hits": 1042,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-30T14:58:08.880346+00:00",
+      "cameras": 6,
+      "vehicles": 57525,
+      "searches": 9,
+      "hotlist_hits": 798,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-01T15:30:44.193744+00:00",
+      "cameras": 6,
+      "vehicles": 56764,
+      "searches": 9,
+      "hotlist_hits": 496,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-02T14:46:49.883791+00:00",
+      "cameras": 8,
+      "vehicles": 55735,
+      "searches": 7,
+      "hotlist_hits": 192,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-03T14:45:35.943322+00:00",
+      "cameras": 8,
+      "vehicles": 54892,
+      "searches": 7,
+      "hotlist_hits": 72,
+      "status": "active",
+      "name": "Mount Dora FL PD"
+    },
+    {
+      "ts": "2026-10-04T14:08:12.972044+00:00",
+      "cameras": 8,
+      "vehicles": 54006,
+      "searches": 6,
+      "hotlist_hits": 69,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-05T14:57:34.506243+00:00",
+      "cameras": 8,
+      "vehicles": 52343,
+      "searches": 6,
+      "hotlist_hits": 63,
+      "status": "active",
+      "name": "Mount Dora FL PD"
+    }
+  ]
+}

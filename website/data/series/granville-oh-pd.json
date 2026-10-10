@@ -1,0 +1,50 @@
+{
+  "slug": "granville-oh-pd",
+  "name": "Granville OH PD",
+  "last_updated": "2026-08-20T08:59:09.795431+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-13T09:36:14.100613+00:00",
+      "searches": 3,
+      "hotlist_hits": 75,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-14T09:31:36.162618+00:00",
+      "searches": 3,
+      "hotlist_hits": 75,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-15T08:48:17.356994+00:00",
+      "hotlist_hits": 71,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-16T08:50:16.304293+00:00",
+      "hotlist_hits": 72,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-17T09:04:07.464560+00:00",
+      "hotlist_hits": 75,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-18T08:56:08.166753+00:00",
+      "hotlist_hits": 78,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-19T08:57:58.100888+00:00",
+      "hotlist_hits": 79,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-20T08:59:09.795431+00:00",
+      "hotlist_hits": 79,
+      "status": "active",
+      "name": "Granville OH PD"
+    }
+  ]
+}

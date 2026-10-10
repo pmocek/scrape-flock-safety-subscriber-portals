@@ -1,0 +1,268 @@
+{
+  "slug": "loveland-oh-pd",
+  "name": "Loveland OH PD",
+  "last_updated": "2026-10-04T12:33:03.115429+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-29T12:44:47.354701+00:00",
+      "cameras": 10,
+      "vehicles": 164339,
+      "searches": 35,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-30T13:49:45.422358+00:00",
+      "cameras": 10,
+      "vehicles": 164528,
+      "searches": 33,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-01T13:32:06.797859+00:00",
+      "cameras": 10,
+      "vehicles": 160602,
+      "searches": 34,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-02T12:48:39.046258+00:00",
+      "cameras": 10,
+      "vehicles": 158887,
+      "searches": 34,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-03T12:51:59.404478+00:00",
+      "cameras": 10,
+      "vehicles": 158497,
+      "searches": 33,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-04T12:45:44.455572+00:00",
+      "cameras": 10,
+      "vehicles": 158606,
+      "searches": 37,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-05T13:28:29.542798+00:00",
+      "cameras": 10,
+      "vehicles": 158783,
+      "searches": 37,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-06T13:43:17.828479+00:00",
+      "cameras": 10,
+      "vehicles": 160455,
+      "searches": 37,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-07T12:46:02.822434+00:00",
+      "cameras": 10,
+      "vehicles": 161747,
+      "searches": 38,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-08T12:54:27.684576+00:00",
+      "cameras": 10,
+      "vehicles": 161539,
+      "searches": 38,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-09T13:00:38.466706+00:00",
+      "cameras": 10,
+      "vehicles": 161223,
+      "searches": 37,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-10T12:57:55.989306+00:00",
+      "cameras": 10,
+      "vehicles": 161261,
+      "searches": 37,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-11T12:52:15.878160+00:00",
+      "cameras": 10,
+      "vehicles": 161517,
+      "searches": 37,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-12T12:13:22.456201+00:00",
+      "cameras": 10,
+      "vehicles": 161517,
+      "searches": 37,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-12T13:38:39.934616+00:00",
+      "cameras": 10,
+      "vehicles": 163356,
+      "searches": 35,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-13T13:21:04.410021+00:00",
+      "cameras": 10,
+      "vehicles": 164654,
+      "searches": 35,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-14T13:02:03.282270+00:00",
+      "cameras": 10,
+      "vehicles": 163789,
+      "searches": 39,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-15T13:38:45.829171+00:00",
+      "cameras": 10,
+      "vehicles": 162190,
+      "searches": 44,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-16T13:33:54.792691+00:00",
+      "cameras": 10,
+      "vehicles": 161803,
+      "searches": 37,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-17T13:33:56.066174+00:00",
+      "cameras": 10,
+      "vehicles": 160991,
+      "searches": 34,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-18T13:00:54.158911+00:00",
+      "cameras": 10,
+      "vehicles": 159087,
+      "searches": 33,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-19T12:33:12.262309+00:00",
+      "cameras": 10,
+      "vehicles": 156881,
+      "searches": 34,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-19T13:57:44.878717+00:00",
+      "cameras": 10,
+      "vehicles": 156881,
+      "searches": 34,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-20T13:06:06.864586+00:00",
+      "cameras": 10,
+      "vehicles": 154902,
+      "searches": 34,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-21T13:01:05.999840+00:00",
+      "cameras": 10,
+      "vehicles": 151553,
+      "searches": 34,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-22T13:28:00.107070+00:00",
+      "cameras": 10,
+      "vehicles": 147042,
+      "searches": 34,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-23T13:43:59.848865+00:00",
+      "cameras": 10,
+      "vehicles": 143003,
+      "searches": 34,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-24T13:36:21.781013+00:00",
+      "cameras": 10,
+      "vehicles": 140010,
+      "searches": 33,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-25T13:54:23.218039+00:00",
+      "cameras": 10,
+      "vehicles": 137022,
+      "searches": 33,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-26T13:12:21.191953+00:00",
+      "cameras": 10,
+      "vehicles": 133952,
+      "searches": 34,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-27T12:13:17.752426+00:00",
+      "cameras": 10,
+      "vehicles": 133952,
+      "searches": 34,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-29T13:09:56.475612+00:00",
+      "cameras": 10,
+      "vehicles": 123173,
+      "searches": 32,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-30T12:47:33.040389+00:00",
+      "cameras": 10,
+      "vehicles": 121411,
+      "searches": 29,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-01T13:32:24.380345+00:00",
+      "cameras": 10,
+      "vehicles": 120533,
+      "searches": 30,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-02T12:50:57.000848+00:00",
+      "cameras": 10,
+      "vehicles": 118837,
+      "searches": 32,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-03T13:28:43.571900+00:00",
+      "cameras": 10,
+      "vehicles": 116163,
+      "searches": 32,
+      "status": "active",
+      "name": "Loveland OH PD"
+    },
+    {
+      "ts": "2026-10-04T12:33:03.115429+00:00",
+      "cameras": 10,
+      "vehicles": 116163,
+      "searches": 32,
+      "status": "active",
+      "name": "Loveland OH PD"
+    }
+  ]
+}

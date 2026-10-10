@@ -1,0 +1,47 @@
+{
+  "slug": "selah-wa-pd",
+  "name": "Selah WA PD",
+  "last_updated": "2026-07-31T16:16:27.124565+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-26T16:31:23.925825+00:00",
+      "cameras": 16,
+      "vehicles": 82576,
+      "searches": 15,
+      "hotlist_hits": 31
+    },
+    {
+      "ts": "2026-06-27T19:49:54.072292+00:00",
+      "cameras": 16,
+      "vehicles": 82752,
+      "searches": 15,
+      "hotlist_hits": 28,
+      "name": "Selah WA PD"
+    },
+    {
+      "ts": "2026-06-28T19:49:51.398940+00:00",
+      "cameras": 16,
+      "vehicles": 83072,
+      "searches": 14,
+      "hotlist_hits": 23,
+      "name": "Selah WA PD"
+    },
+    {
+      "ts": "2026-07-31T16:16:27.124565+00:00",
+      "cameras": 16,
+      "vehicles": 83543,
+      "searches": 6,
+      "hotlist_hits": 56,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-07-31T16:16:27.124565+00:00",
+      "cameras": 16,
+      "vehicles": 83543,
+      "searches": 6,
+      "hotlist_hits": 56,
+      "status": "active",
+      "name": "Selah WA PD"
+    }
+  ]
+}

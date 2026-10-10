@@ -1,0 +1,22 @@
+{
+  "slug": "auburn-wa-pd",
+  "name": "Auburn WA PD",
+  "last_updated": "2026-06-27T18:13:17.516417+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-27T18:13:17.516417+00:00",
+      "cameras": 36,
+      "searches": 359,
+      "hotlist_hits": 763,
+      "name": "Auburn WA PD"
+    },
+    {
+      "ts": "2026-06-27T18:13:17.516417+00:00",
+      "cameras": 36,
+      "searches": 359,
+      "hotlist_hits": 763,
+      "status": "active",
+      "name": "Auburn WA PD"
+    }
+  ]
+}

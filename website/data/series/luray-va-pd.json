@@ -1,0 +1,71 @@
+{
+  "slug": "luray-va-pd",
+  "name": "Luray VA PD",
+  "last_updated": "2026-08-21T13:18:34.651676+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-13T13:54:18.011131+00:00",
+      "cameras": 4,
+      "searches": 58,
+      "hotlist_hits": 20,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-14T13:49:38.899622+00:00",
+      "cameras": 4,
+      "searches": 67,
+      "hotlist_hits": 20,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-15T13:04:01.283400+00:00",
+      "cameras": 4,
+      "searches": 68,
+      "hotlist_hits": 20,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-16T13:05:34.557486+00:00",
+      "cameras": 4,
+      "searches": 69,
+      "hotlist_hits": 20,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-17T13:12:05.826927+00:00",
+      "cameras": 4,
+      "searches": 70,
+      "hotlist_hits": 20,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-18T13:14:38.683053+00:00",
+      "cameras": 4,
+      "searches": 69,
+      "hotlist_hits": 19,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-19T13:15:58.390834+00:00",
+      "cameras": 4,
+      "searches": 69,
+      "hotlist_hits": 18,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-20T13:18:25.561203+00:00",
+      "cameras": 4,
+      "searches": 77,
+      "hotlist_hits": 17,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-21T13:18:34.651676+00:00",
+      "cameras": 4,
+      "searches": 72,
+      "hotlist_hits": 15,
+      "status": "active",
+      "name": "Luray VA PD"
+    }
+  ]
+}

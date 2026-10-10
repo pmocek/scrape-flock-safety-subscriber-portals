@@ -1,0 +1,205 @@
+{
+  "slug": "lovejoy-ga-pd",
+  "name": "Lovejoy GA PD",
+  "last_updated": "2026-10-04T12:32:45.312274+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-03T13:22:45.956794+00:00",
+      "cameras": 6,
+      "searches": 49,
+      "hotlist_hits": 5040,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-09T13:00:20.224188+00:00",
+      "cameras": 6,
+      "searches": 32,
+      "hotlist_hits": 4861,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-10T12:57:37.584563+00:00",
+      "cameras": 6,
+      "searches": 32,
+      "hotlist_hits": 4861,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-11T12:51:58.301847+00:00",
+      "cameras": 6,
+      "searches": 32,
+      "hotlist_hits": 4820,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-12T12:13:04.657739+00:00",
+      "cameras": 6,
+      "searches": 28,
+      "hotlist_hits": 4808,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-12T13:38:21.507770+00:00",
+      "cameras": 6,
+      "searches": 23,
+      "hotlist_hits": 4857,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-13T13:20:46.817346+00:00",
+      "cameras": 6,
+      "searches": 17,
+      "hotlist_hits": 4865,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-14T13:01:45.363197+00:00",
+      "cameras": 6,
+      "searches": 17,
+      "hotlist_hits": 4865,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-15T13:38:27.923145+00:00",
+      "cameras": 6,
+      "searches": 8,
+      "hotlist_hits": 4944,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-16T13:33:36.665377+00:00",
+      "cameras": 6,
+      "searches": 7,
+      "hotlist_hits": 4968,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-17T13:33:38.007232+00:00",
+      "cameras": 6,
+      "searches": 7,
+      "hotlist_hits": 5004,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-18T13:00:36.126338+00:00",
+      "cameras": 6,
+      "searches": 7,
+      "hotlist_hits": 5004,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-19T12:32:54.607881+00:00",
+      "cameras": 6,
+      "searches": 8,
+      "hotlist_hits": 5236,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-19T13:57:26.899338+00:00",
+      "cameras": 6,
+      "searches": 11,
+      "hotlist_hits": 5293,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-20T13:05:48.852696+00:00",
+      "cameras": 6,
+      "searches": 11,
+      "hotlist_hits": 5293,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-21T13:00:47.948491+00:00",
+      "cameras": 6,
+      "searches": 11,
+      "hotlist_hits": 5345,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-22T13:27:41.832594+00:00",
+      "cameras": 6,
+      "searches": 10,
+      "hotlist_hits": 5312,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-23T13:43:17.749776+00:00",
+      "cameras": 6,
+      "searches": 10,
+      "hotlist_hits": 5355,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-24T13:36:03.747359+00:00",
+      "cameras": 6,
+      "searches": 9,
+      "hotlist_hits": 5367,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-25T13:54:04.193338+00:00",
+      "cameras": 6,
+      "searches": 9,
+      "hotlist_hits": 5365,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-26T13:12:03.158874+00:00",
+      "cameras": 6,
+      "searches": 9,
+      "hotlist_hits": 5365,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-27T12:12:59.681264+00:00",
+      "cameras": 6,
+      "searches": 9,
+      "hotlist_hits": 5399,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-29T13:08:35.260118+00:00",
+      "cameras": 6,
+      "searches": 9,
+      "hotlist_hits": 5466,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-30T12:47:15.021717+00:00",
+      "cameras": 6,
+      "searches": 9,
+      "hotlist_hits": 5485,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-01T13:32:06.324997+00:00",
+      "cameras": 6,
+      "searches": 10,
+      "hotlist_hits": 5596,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-02T12:50:38.876975+00:00",
+      "cameras": 6,
+      "searches": 10,
+      "hotlist_hits": 5596,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-03T13:28:25.538446+00:00",
+      "cameras": 6,
+      "searches": 8,
+      "hotlist_hits": 5678,
+      "status": "active",
+      "name": "Lovejoy GA PD"
+    },
+    {
+      "ts": "2026-10-04T12:32:45.312274+00:00",
+      "cameras": 6,
+      "searches": 8,
+      "hotlist_hits": 5678,
+      "status": "active",
+      "name": "Lovejoy GA PD"
+    }
+  ]
+}

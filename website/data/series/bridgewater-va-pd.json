@@ -1,0 +1,91 @@
+{
+  "slug": "bridgewater-va-pd",
+  "name": "Bridgewater VA PD",
+  "last_updated": "2026-09-29T02:03:30.622611+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-04T03:41:45.025386+00:00",
+      "cameras": 5,
+      "vehicles": 70669,
+      "hotlist_hits": 44,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-06T03:42:57.811935+00:00",
+      "cameras": 5,
+      "vehicles": 69937,
+      "hotlist_hits": 37,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-07T03:19:33.874464+00:00",
+      "cameras": 5,
+      "vehicles": 69017,
+      "hotlist_hits": 35,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-22T03:10:50.503069+00:00",
+      "cameras": 5,
+      "vehicles": 62627,
+      "hotlist_hits": 14,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-23T02:02:47.243416+00:00",
+      "cameras": 5,
+      "vehicles": 62479,
+      "hotlist_hits": 13,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-24T03:19:41.824012+00:00",
+      "cameras": 5,
+      "vehicles": 63258,
+      "hotlist_hits": 11,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-25T03:15:25.654669+00:00",
+      "cameras": 5,
+      "vehicles": 63907,
+      "hotlist_hits": 11,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-26T02:02:21.270804+00:00",
+      "cameras": 5,
+      "vehicles": 64136,
+      "hotlist_hits": 9,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-27T03:22:53.538724+00:00",
+      "cameras": 5,
+      "vehicles": 64945,
+      "hotlist_hits": 9,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-28T02:13:19.370954+00:00",
+      "cameras": 5,
+      "vehicles": 65452,
+      "hotlist_hits": 9,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-29T02:52:03.391375+00:00",
+      "cameras": 5,
+      "vehicles": 65596,
+      "hotlist_hits": 7,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-29T02:03:30.622611+00:00",
+      "cameras": 5,
+      "vehicles": 17782,
+      "status": "active",
+      "name": "Bridgewater VA PD"
+    }
+  ]
+}

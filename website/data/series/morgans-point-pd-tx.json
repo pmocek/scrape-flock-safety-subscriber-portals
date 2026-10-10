@@ -1,0 +1,16 @@
+{
+  "slug": "morgans-point-pd-tx",
+  "name": "Morgan's Point PD TX",
+  "last_updated": "2026-08-03T15:22:17.777605+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-03T15:22:17.777605+00:00",
+      "cameras": 4,
+      "vehicles": 28851,
+      "searches": 4,
+      "hotlist_hits": 72,
+      "status": "active",
+      "name": "Morgan's Point PD TX"
+    }
+  ]
+}

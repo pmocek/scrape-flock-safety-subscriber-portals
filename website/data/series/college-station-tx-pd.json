@@ -1,0 +1,29 @@
+{
+  "slug": "college-station-tx-pd",
+  "name": "College Station TX PD",
+  "last_updated": "2026-08-07T05:56:07.425998+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-04T05:26:59.211329+00:00",
+      "cameras": 75,
+      "searches": 276,
+      "hotlist_hits": 7660,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-06T05:28:32.971646+00:00",
+      "cameras": 75,
+      "searches": 285,
+      "hotlist_hits": 7499,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-07T05:56:07.425998+00:00",
+      "cameras": 75,
+      "searches": 276,
+      "hotlist_hits": 7563,
+      "status": "active",
+      "name": "College Station TX PD"
+    }
+  ]
+}

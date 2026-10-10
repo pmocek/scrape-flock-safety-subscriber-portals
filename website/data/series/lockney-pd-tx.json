@@ -1,0 +1,13 @@
+{
+  "slug": "lockney-pd-tx",
+  "name": "Lockney TX PD",
+  "last_updated": "2026-10-07T13:38:09.222176+00:00",
+  "entries": [
+    {
+      "ts": "2026-10-07T13:38:09.222176+00:00",
+      "cameras": 0,
+      "status": "active",
+      "name": "Lockney TX PD"
+    }
+  ]
+}

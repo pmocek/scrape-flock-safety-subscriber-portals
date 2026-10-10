@@ -1,0 +1,15 @@
+{
+  "slug": "auburn-ma-pd",
+  "name": "Auburn MA PD",
+  "last_updated": "2026-09-22T13:28:36.544813+00:00",
+  "entries": [
+    {
+      "ts": "2026-09-22T13:28:36.544813+00:00",
+      "cameras": 4,
+      "searches": 10,
+      "hotlist_hits": 9,
+      "status": "active",
+      "name": "Auburn MA PD"
+    }
+  ]
+}

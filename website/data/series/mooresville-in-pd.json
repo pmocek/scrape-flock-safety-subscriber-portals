@@ -1,0 +1,15 @@
+{
+  "slug": "mooresville-in-pd",
+  "name": "Mooresville IN PD",
+  "last_updated": "2026-10-07T15:37:00.533469+00:00",
+  "entries": [
+    {
+      "ts": "2026-10-07T15:37:00.533469+00:00",
+      "cameras": 7,
+      "vehicles": 151149,
+      "hotlist_hits": 12382,
+      "status": "active",
+      "name": "Mooresville IN PD"
+    }
+  ]
+}

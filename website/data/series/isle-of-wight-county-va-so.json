@@ -1,0 +1,74 @@
+{
+  "slug": "isle-of-wight-county-va-so",
+  "name": "Isle Of Wight County VA SO",
+  "last_updated": "2026-10-05T11:41:38.317164+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-03T11:48:11.345299+00:00",
+      "cameras": 12,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-09T11:33:56.300332+00:00",
+      "cameras": 12,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-10T11:31:07.264289+00:00",
+      "cameras": 12,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-23T11:50:05.328266+00:00",
+      "cameras": 12,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-24T11:58:08.220520+00:00",
+      "cameras": 12,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-25T11:59:26.360608+00:00",
+      "cameras": 12,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-26T11:34:08.949097+00:00",
+      "cameras": 12,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-28T11:05:13.158563+00:00",
+      "cameras": 12,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-29T10:48:45.237966+00:00",
+      "cameras": 12,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-30T10:36:01.397707+00:00",
+      "cameras": 12,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-03T11:49:46.265757+00:00",
+      "cameras": 12,
+      "status": "active",
+      "name": "Isle Of Wight County VA SO"
+    },
+    {
+      "ts": "2026-10-04T10:40:35.381986+00:00",
+      "cameras": 12,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-05T11:41:38.317164+00:00",
+      "cameras": 12,
+      "status": "active",
+      "name": "Isle Of Wight County VA SO"
+    }
+  ]
+}

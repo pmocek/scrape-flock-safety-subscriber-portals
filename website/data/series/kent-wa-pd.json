@@ -1,0 +1,95 @@
+{
+  "slug": "kent-wa-pd",
+  "name": "Kent WA PD",
+  "last_updated": "2026-06-29T07:08:55.662270+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-25T19:41:17.354718+00:00",
+      "cameras": 19,
+      "vehicles": 622352,
+      "searches": 262,
+      "hotlist_hits": 201
+    },
+    {
+      "ts": "2026-06-26T03:35:53.235346+00:00",
+      "cameras": 19,
+      "vehicles": 622352,
+      "searches": 262,
+      "hotlist_hits": 201
+    },
+    {
+      "ts": "2026-06-26T04:43:21.940751+00:00",
+      "cameras": 19,
+      "vehicles": 622352,
+      "searches": 262,
+      "hotlist_hits": 201
+    },
+    {
+      "ts": "2026-06-26T05:25:50.150478+00:00",
+      "cameras": 19,
+      "vehicles": 622352,
+      "searches": 262,
+      "hotlist_hits": 201
+    },
+    {
+      "ts": "2026-06-26T06:33:11.415370+00:00",
+      "cameras": 19,
+      "vehicles": 622352,
+      "searches": 262,
+      "hotlist_hits": 201
+    },
+    {
+      "ts": "2026-06-26T20:22:49.271753+00:00",
+      "cameras": 19,
+      "vehicles": 623314,
+      "searches": 254,
+      "hotlist_hits": 198
+    },
+    {
+      "ts": "2026-06-26T20:25:29.816001+00:00",
+      "cameras": 19,
+      "vehicles": 623314,
+      "searches": 254,
+      "hotlist_hits": 198
+    },
+    {
+      "ts": "2026-06-26T21:23:56.604896+00:00",
+      "cameras": 19,
+      "vehicles": 623314,
+      "searches": 254,
+      "hotlist_hits": 198
+    },
+    {
+      "ts": "2026-06-27T06:04:38.040434+00:00",
+      "cameras": 19,
+      "vehicles": 623314,
+      "searches": 254,
+      "hotlist_hits": 198
+    },
+    {
+      "ts": "2026-06-28T06:39:56.172493+00:00",
+      "cameras": 19,
+      "vehicles": 625139,
+      "searches": 242,
+      "hotlist_hits": 195,
+      "name": "Kent WA PD"
+    },
+    {
+      "ts": "2026-06-29T07:08:55.662270+00:00",
+      "cameras": 19,
+      "vehicles": 627597,
+      "searches": 221,
+      "hotlist_hits": 188,
+      "name": "Kent WA PD"
+    },
+    {
+      "ts": "2026-06-29T07:08:55.662270+00:00",
+      "cameras": 19,
+      "vehicles": 613480,
+      "searches": 123,
+      "hotlist_hits": 1443,
+      "status": "active",
+      "name": "Kent WA PD"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "mount-vernon-oh-pd",
+  "name": "Mount Vernon OH PD",
+  "last_updated": "2026-08-27T15:22:29.814608+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-04T14:46:19.350744+00:00",
+      "cameras": 8,
+      "vehicles": 163491,
+      "searches": 82,
+      "hotlist_hits": 793,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-21T14:58:45.489991+00:00",
+      "cameras": 8,
+      "vehicles": 152824,
+      "searches": 37,
+      "hotlist_hits": 594,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-22T14:43:34.402882+00:00",
+      "cameras": 8,
+      "vehicles": 152786,
+      "searches": 38,
+      "hotlist_hits": 581,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-23T14:45:29.445466+00:00",
+      "cameras": 8,
+      "vehicles": 152705,
+      "searches": 35,
+      "hotlist_hits": 559,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-24T15:06:13.908755+00:00",
+      "cameras": 8,
+      "vehicles": 152126,
+      "searches": 33,
+      "hotlist_hits": 570,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-25T15:11:25.426078+00:00",
+      "cameras": 8,
+      "vehicles": 149799,
+      "searches": 32,
+      "hotlist_hits": 559,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-26T15:57:08.469635+00:00",
+      "cameras": 8,
+      "vehicles": 148611,
+      "searches": 34,
+      "hotlist_hits": 546,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-27T15:22:29.814608+00:00",
+      "cameras": 8,
+      "vehicles": 148863,
+      "searches": 33,
+      "hotlist_hits": 532,
+      "status": "active",
+      "name": "Mount Vernon OH PD"
+    }
+  ]
+}

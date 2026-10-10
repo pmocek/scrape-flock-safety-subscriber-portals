@@ -1,0 +1,53 @@
+{
+  "slug": "yelm-wa-pd",
+  "name": "Yelm WA PD",
+  "last_updated": "2026-07-31T19:55:24.904644+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-25T20:26:40.809371+00:00",
+      "cameras": 8,
+      "searches": 11,
+      "hotlist_hits": 45
+    },
+    {
+      "ts": "2026-06-25T23:49:57.259768+00:00",
+      "cameras": 8,
+      "searches": 11,
+      "hotlist_hits": 45
+    },
+    {
+      "ts": "2026-06-26T20:15:01.954739+00:00",
+      "cameras": 8,
+      "searches": 10,
+      "hotlist_hits": 43
+    },
+    {
+      "ts": "2026-06-26T23:37:52.246738+00:00",
+      "cameras": 8,
+      "searches": 10,
+      "hotlist_hits": 43
+    },
+    {
+      "ts": "2026-06-28T23:34:48.746859+00:00",
+      "cameras": 8,
+      "searches": 3,
+      "hotlist_hits": 37,
+      "name": "Yelm WA PD"
+    },
+    {
+      "ts": "2026-07-31T19:55:24.904644+00:00",
+      "cameras": 8,
+      "searches": 3,
+      "hotlist_hits": 64,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-07-31T19:55:24.904644+00:00",
+      "cameras": 8,
+      "searches": 3,
+      "hotlist_hits": 64,
+      "status": "active",
+      "name": "Yelm WA PD"
+    }
+  ]
+}

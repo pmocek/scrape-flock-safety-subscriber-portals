@@ -1,0 +1,54 @@
+{
+  "slug": "puyallup-wa-pd",
+  "name": "Puyallup WA PD",
+  "last_updated": "2026-07-31T16:14:45.406266+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-26T12:30:46.563704+00:00",
+      "cameras": 45,
+      "vehicles": 653761,
+      "searches": 169,
+      "hotlist_hits": 456
+    },
+    {
+      "ts": "2026-06-27T15:45:12.602223+00:00",
+      "cameras": 45,
+      "vehicles": 653639,
+      "searches": 162,
+      "hotlist_hits": 412
+    },
+    {
+      "ts": "2026-06-27T19:48:30.517570+00:00",
+      "cameras": 45,
+      "vehicles": 653007,
+      "searches": 161,
+      "hotlist_hits": 385,
+      "name": "Puyallup WA PD"
+    },
+    {
+      "ts": "2026-06-28T19:49:11.644288+00:00",
+      "cameras": 45,
+      "vehicles": 652440,
+      "searches": 164,
+      "hotlist_hits": 327,
+      "name": "Puyallup WA PD"
+    },
+    {
+      "ts": "2026-07-31T16:14:45.406266+00:00",
+      "cameras": 45,
+      "vehicles": 661504,
+      "searches": 222,
+      "hotlist_hits": 1159,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-07-31T16:14:45.406266+00:00",
+      "cameras": 45,
+      "vehicles": 658430,
+      "searches": 218,
+      "hotlist_hits": 1162,
+      "status": "active",
+      "name": "Puyallup WA PD"
+    }
+  ]
+}

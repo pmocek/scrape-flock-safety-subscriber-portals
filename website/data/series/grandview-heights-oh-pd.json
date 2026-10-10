@@ -1,0 +1,370 @@
+{
+  "slug": "grandview-heights-oh-pd",
+  "name": "Grandview Heights OH PD",
+  "last_updated": "2026-10-05T09:12:55.786497+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-21T09:01:20.072357+00:00",
+      "cameras": 8,
+      "vehicles": 198754,
+      "searches": 21,
+      "hotlist_hits": 129,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-22T08:53:10.901368+00:00",
+      "cameras": 8,
+      "vehicles": 199749,
+      "searches": 22,
+      "hotlist_hits": 125,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-23T08:51:54.208183+00:00",
+      "cameras": 8,
+      "vehicles": 199979,
+      "searches": 23,
+      "hotlist_hits": 117,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-24T09:07:36.875054+00:00",
+      "cameras": 8,
+      "vehicles": 199297,
+      "searches": 23,
+      "hotlist_hits": 119,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-25T09:02:54.875014+00:00",
+      "cameras": 8,
+      "vehicles": 197562,
+      "searches": 23,
+      "hotlist_hits": 111,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-26T09:06:03.869756+00:00",
+      "cameras": 8,
+      "vehicles": 198746,
+      "searches": 24,
+      "hotlist_hits": 110,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-27T09:55:16.345275+00:00",
+      "cameras": 8,
+      "vehicles": 198844,
+      "searches": 24,
+      "hotlist_hits": 102,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-29T09:08:22.582156+00:00",
+      "cameras": 8,
+      "vehicles": 199653,
+      "searches": 33,
+      "hotlist_hits": 86,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-30T08:22:50.503375+00:00",
+      "cameras": 8,
+      "vehicles": 198603,
+      "searches": 31,
+      "hotlist_hits": 83,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-31T08:42:59.431258+00:00",
+      "cameras": 8,
+      "vehicles": 197562,
+      "searches": 32,
+      "hotlist_hits": 84,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-01T09:31:11.968557+00:00",
+      "cameras": 8,
+      "vehicles": 196348,
+      "searches": 34,
+      "hotlist_hits": 86,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-02T08:53:47.509078+00:00",
+      "cameras": 8,
+      "vehicles": 197362,
+      "searches": 34,
+      "hotlist_hits": 91,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-03T09:02:55.382809+00:00",
+      "cameras": 8,
+      "vehicles": 197933,
+      "searches": 36,
+      "hotlist_hits": 93,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-04T08:56:34.500024+00:00",
+      "cameras": 8,
+      "vehicles": 198851,
+      "searches": 34,
+      "hotlist_hits": 96,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-05T08:27:55.316712+00:00",
+      "cameras": 8,
+      "vehicles": 200765,
+      "searches": 29,
+      "hotlist_hits": 101,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-06T08:45:51.623020+00:00",
+      "cameras": 8,
+      "vehicles": 203298,
+      "searches": 29,
+      "hotlist_hits": 101,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-07T09:31:32.310265+00:00",
+      "cameras": 8,
+      "vehicles": 203347,
+      "searches": 28,
+      "hotlist_hits": 103,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-08T08:58:17.435405+00:00",
+      "cameras": 8,
+      "vehicles": 202606,
+      "searches": 28,
+      "hotlist_hits": 106,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-09T09:03:46.424338+00:00",
+      "cameras": 8,
+      "vehicles": 203844,
+      "searches": 27,
+      "hotlist_hits": 108,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-10T09:02:39.396024+00:00",
+      "cameras": 8,
+      "vehicles": 205020,
+      "searches": 27,
+      "hotlist_hits": 110,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-11T09:00:40.713213+00:00",
+      "cameras": 8,
+      "vehicles": 207197,
+      "searches": 31,
+      "hotlist_hits": 115,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-12T08:43:51.868668+00:00",
+      "cameras": 8,
+      "vehicles": 209003,
+      "searches": 31,
+      "hotlist_hits": 118,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-13T09:38:40.289030+00:00",
+      "cameras": 8,
+      "vehicles": 209845,
+      "searches": 31,
+      "hotlist_hits": 119,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-14T10:00:58.236123+00:00",
+      "cameras": 8,
+      "vehicles": 210223,
+      "searches": 34,
+      "hotlist_hits": 117,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-15T09:31:24.830494+00:00",
+      "cameras": 8,
+      "vehicles": 210675,
+      "searches": 35,
+      "hotlist_hits": 116,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-16T09:24:00.013041+00:00",
+      "cameras": 8,
+      "vehicles": 212446,
+      "searches": 35,
+      "hotlist_hits": 121,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-17T09:35:40.187400+00:00",
+      "cameras": 8,
+      "vehicles": 213244,
+      "searches": 35,
+      "hotlist_hits": 123,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-18T09:06:16.059907+00:00",
+      "cameras": 8,
+      "vehicles": 214590,
+      "searches": 38,
+      "hotlist_hits": 134,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-19T08:53:26.974294+00:00",
+      "cameras": 8,
+      "vehicles": 214327,
+      "searches": 37,
+      "hotlist_hits": 135,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-20T09:23:06.214351+00:00",
+      "cameras": 8,
+      "vehicles": 215982,
+      "searches": 34,
+      "hotlist_hits": 138,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-21T08:01:34.770293+00:00",
+      "cameras": 8,
+      "vehicles": 215982,
+      "searches": 34,
+      "hotlist_hits": 138,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-22T09:24:19.899586+00:00",
+      "cameras": 8,
+      "vehicles": 213158,
+      "searches": 32,
+      "hotlist_hits": 138,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-23T09:24:23.084783+00:00",
+      "cameras": 8,
+      "vehicles": 212669,
+      "searches": 32,
+      "hotlist_hits": 139,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-24T09:24:59.238276+00:00",
+      "cameras": 8,
+      "vehicles": 213318,
+      "searches": 35,
+      "hotlist_hits": 142,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-25T09:43:26.582031+00:00",
+      "cameras": 8,
+      "vehicles": 212637,
+      "searches": 34,
+      "hotlist_hits": 147,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-26T09:26:48.129364+00:00",
+      "cameras": 8,
+      "vehicles": 214386,
+      "searches": 34,
+      "hotlist_hits": 149,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-27T08:17:59.499804+00:00",
+      "cameras": 8,
+      "vehicles": 215371,
+      "searches": 34,
+      "hotlist_hits": 156,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-28T08:45:35.999095+00:00",
+      "cameras": 8,
+      "vehicles": 214487,
+      "searches": 22,
+      "hotlist_hits": 161,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-29T08:38:45.637642+00:00",
+      "cameras": 8,
+      "vehicles": 213476,
+      "searches": 21,
+      "hotlist_hits": 161,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-30T08:39:50.752744+00:00",
+      "cameras": 8,
+      "vehicles": 214310,
+      "searches": 20,
+      "hotlist_hits": 165,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-01T09:03:58.314935+00:00",
+      "cameras": 8,
+      "vehicles": 214464,
+      "searches": 18,
+      "hotlist_hits": 171,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-02T08:38:17.245538+00:00",
+      "cameras": 8,
+      "vehicles": 213771,
+      "searches": 18,
+      "hotlist_hits": 175,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-03T08:14:41.109183+00:00",
+      "cameras": 8,
+      "vehicles": 212990,
+      "searches": 16,
+      "hotlist_hits": 179,
+      "status": "active",
+      "name": "Grandview Heights OH PD"
+    },
+    {
+      "ts": "2026-10-04T08:30:56.917049+00:00",
+      "cameras": 8,
+      "vehicles": 211671,
+      "searches": 16,
+      "hotlist_hits": 182,
+      "status": "active",
+      "name": "Grandview Heights OH PD"
+    },
+    {
+      "ts": "2026-10-05T09:12:55.786497+00:00",
+      "cameras": 8,
+      "vehicles": 208667,
+      "searches": 16,
+      "hotlist_hits": 182,
+      "status": "active",
+      "name": "Grandview Heights OH PD"
+    }
+  ]
+}

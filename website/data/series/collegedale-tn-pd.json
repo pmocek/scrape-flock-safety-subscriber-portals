@@ -1,0 +1,23 @@
+{
+  "slug": "collegedale-tn-pd",
+  "name": "Collegedale TN PD",
+  "last_updated": "2026-08-07T05:56:16.231864+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-04T05:27:08.099859+00:00",
+      "vehicles": 4337,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-06T05:28:41.759756+00:00",
+      "vehicles": 4296,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-07T05:56:16.231864+00:00",
+      "vehicles": 4274,
+      "status": "active",
+      "name": "Collegedale TN PD"
+    }
+  ]
+}

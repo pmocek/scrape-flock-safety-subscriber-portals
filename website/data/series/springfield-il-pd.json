@@ -1,0 +1,16 @@
+{
+  "slug": "springfield-il-pd",
+  "name": "Springfield IL PD",
+  "last_updated": "2026-08-01T23:14:56.644023+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-01T23:14:56.644023+00:00",
+      "cameras": 140,
+      "vehicles": 611363,
+      "searches": 1423,
+      "hotlist_hits": 28891,
+      "status": "active",
+      "name": "Springfield IL PD"
+    }
+  ]
+}

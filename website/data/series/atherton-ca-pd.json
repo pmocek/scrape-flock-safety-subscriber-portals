@@ -1,0 +1,16 @@
+{
+  "slug": "atherton-ca-pd",
+  "name": "Atherton CA PD",
+  "last_updated": "2026-08-05T05:27:56.033124+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-05T05:27:56.033124+00:00",
+      "cameras": 53,
+      "vehicles": 366060,
+      "searches": 28,
+      "hotlist_hits": 1296,
+      "status": "active",
+      "name": "Atherton CA PD"
+    }
+  ]
+}

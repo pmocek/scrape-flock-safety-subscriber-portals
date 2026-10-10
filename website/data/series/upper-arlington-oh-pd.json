@@ -1,0 +1,47 @@
+{
+  "slug": "upper-arlington-oh-pd",
+  "name": "Upper Arlington OH PD",
+  "last_updated": "2026-10-08T23:25:58.758792+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-12T23:04:38.786992+00:00",
+      "cameras": 20,
+      "searches": 107,
+      "hotlist_hits": 752,
+      "status": "active",
+      "name": "Upper Arlington OH PD"
+    },
+    {
+      "ts": "2026-10-05T22:45:55.469139+00:00",
+      "cameras": 20,
+      "searches": 23,
+      "hotlist_hits": 537,
+      "status": "active",
+      "name": "Upper Arlington OH PD"
+    },
+    {
+      "ts": "2026-10-06T22:41:50.309861+00:00",
+      "cameras": 20,
+      "searches": 25,
+      "hotlist_hits": 528,
+      "status": "active",
+      "name": "Upper Arlington OH PD"
+    },
+    {
+      "ts": "2026-10-07T23:10:13.579926+00:00",
+      "cameras": 20,
+      "searches": 28,
+      "hotlist_hits": 520,
+      "status": "active",
+      "name": "Upper Arlington OH PD"
+    },
+    {
+      "ts": "2026-10-08T23:25:58.758792+00:00",
+      "cameras": 20,
+      "searches": 29,
+      "hotlist_hits": 516,
+      "status": "active",
+      "name": "Upper Arlington OH PD"
+    }
+  ]
+}

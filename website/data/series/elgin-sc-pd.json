@@ -1,0 +1,88 @@
+{
+  "slug": "elgin-sc-pd",
+  "name": "Elgin SC PD",
+  "last_updated": "2026-08-22T07:05:42.788971+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-03T07:54:21.804096+00:00",
+      "cameras": 2,
+      "vehicles": 69323,
+      "searches": 3,
+      "hotlist_hits": 253,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-13T07:58:34.202182+00:00",
+      "cameras": 2,
+      "vehicles": 67010,
+      "searches": 3,
+      "hotlist_hits": 186,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-14T07:54:46.519783+00:00",
+      "cameras": 2,
+      "vehicles": 67036,
+      "searches": 3,
+      "hotlist_hits": 181,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-15T07:03:08.131003+00:00",
+      "cameras": 2,
+      "vehicles": 66990,
+      "searches": 2,
+      "hotlist_hits": 172,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-16T07:04:55.300648+00:00",
+      "cameras": 2,
+      "vehicles": 67288,
+      "searches": 1,
+      "hotlist_hits": 172,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-17T07:27:17.166928+00:00",
+      "cameras": 2,
+      "vehicles": 67219,
+      "searches": 1,
+      "hotlist_hits": 168,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-18T07:09:28.905988+00:00",
+      "cameras": 2,
+      "vehicles": 66782,
+      "searches": 1,
+      "hotlist_hits": 157,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-19T07:10:36.748683+00:00",
+      "cameras": 2,
+      "vehicles": 66353,
+      "searches": 1,
+      "hotlist_hits": 152,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-21T07:12:32.520739+00:00",
+      "cameras": 2,
+      "vehicles": 66339,
+      "searches": 3,
+      "hotlist_hits": 145,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-22T07:05:42.788971+00:00",
+      "cameras": 2,
+      "vehicles": 66565,
+      "searches": 3,
+      "hotlist_hits": 144,
+      "status": "active",
+      "name": "Elgin SC PD"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "sunriver-or-pd",
+  "name": "Sunriver OR PD",
+  "last_updated": "2026-08-07T19:20:01.083334+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-07T19:20:01.083334+00:00",
+      "cameras": 4,
+      "vehicles": 84592,
+      "searches": 19,
+      "hotlist_hits": 12,
+      "status": "active",
+      "name": "Sunriver OR PD"
+    }
+  ]
+}

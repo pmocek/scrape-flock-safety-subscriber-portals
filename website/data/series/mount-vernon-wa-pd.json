@@ -1,0 +1,37 @@
+{
+  "slug": "mount-vernon-wa-pd",
+  "name": "Mount Vernon WA PD",
+  "last_updated": "2026-08-25T15:12:40.162654+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-26T12:29:22.736543+00:00",
+      "searches": 38,
+      "hotlist_hits": 48
+    },
+    {
+      "ts": "2026-06-27T15:43:34.229475+00:00",
+      "searches": 38,
+      "hotlist_hits": 47
+    },
+    {
+      "ts": "2026-06-28T15:45:37.911119+00:00",
+      "searches": 37,
+      "hotlist_hits": 47,
+      "name": "Mount Vernon WA PD"
+    },
+    {
+      "ts": "2026-07-31T14:06:31.612897+00:00",
+      "searches": 1,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-07-31T14:06:31.612897+00:00",
+      "searches": 1
+    },
+    {
+      "ts": "2026-08-25T15:12:40.162654+00:00",
+      "status": "active",
+      "name": "Mount Vernon WA PD"
+    }
+  ]
+}

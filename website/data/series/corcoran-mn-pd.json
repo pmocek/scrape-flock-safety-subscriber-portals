@@ -1,0 +1,15 @@
+{
+  "slug": "corcoran-mn-pd",
+  "name": "Corcoran MN PD",
+  "last_updated": "2026-08-04T20:01:44.352393+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-04T20:01:44.352393+00:00",
+      "cameras": 9,
+      "searches": 17,
+      "hotlist_hits": 1627,
+      "status": "active",
+      "name": "Corcoran MN PD"
+    }
+  ]
+}

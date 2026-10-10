@@ -1,0 +1,331 @@
+{
+  "slug": "palmyra-mo-pd",
+  "name": "Palmyra MO PD",
+  "last_updated": "2026-10-05T17:12:39.818776+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-04T16:25:52.671325+00:00",
+      "cameras": 7,
+      "searches": 22,
+      "hotlist_hits": 100,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-27T17:42:10.750987+00:00",
+      "cameras": 7,
+      "searches": 31,
+      "hotlist_hits": 159,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-28T16:45:42.129406+00:00",
+      "cameras": 7,
+      "searches": 31,
+      "hotlist_hits": 153,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-29T16:48:17.271037+00:00",
+      "cameras": 7,
+      "searches": 31,
+      "hotlist_hits": 145,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-29T17:45:58.976479+00:00",
+      "cameras": 7,
+      "searches": 31,
+      "hotlist_hits": 145,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-30T16:49:23.033964+00:00",
+      "cameras": 7,
+      "searches": 30,
+      "hotlist_hits": 137,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-31T16:12:18.603538+00:00",
+      "cameras": 7,
+      "searches": 40,
+      "hotlist_hits": 134,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-31T17:38:56.741736+00:00",
+      "cameras": 7,
+      "searches": 40,
+      "hotlist_hits": 134,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-01T16:46:19.223856+00:00",
+      "cameras": 7,
+      "searches": 49,
+      "hotlist_hits": 126,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-02T16:42:10.529762+00:00",
+      "cameras": 7,
+      "searches": 49,
+      "hotlist_hits": 113,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-02T17:57:10.195925+00:00",
+      "cameras": 7,
+      "searches": 49,
+      "hotlist_hits": 113,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-03T16:33:39.846224+00:00",
+      "cameras": 7,
+      "searches": 49,
+      "hotlist_hits": 108,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-03T17:55:06.601075+00:00",
+      "cameras": 7,
+      "searches": 49,
+      "hotlist_hits": 108,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-04T16:29:33.122147+00:00",
+      "cameras": 7,
+      "searches": 47,
+      "hotlist_hits": 104,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-05T16:52:52.213899+00:00",
+      "cameras": 7,
+      "searches": 47,
+      "hotlist_hits": 103,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-06T17:09:50.110386+00:00",
+      "cameras": 7,
+      "searches": 49,
+      "hotlist_hits": 91,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-07T17:47:15.603954+00:00",
+      "cameras": 7,
+      "searches": 53,
+      "hotlist_hits": 83,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-08T16:44:55.604184+00:00",
+      "cameras": 7,
+      "searches": 54,
+      "hotlist_hits": 73,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-08T17:58:17.392074+00:00",
+      "cameras": 7,
+      "searches": 54,
+      "hotlist_hits": 73,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-09T16:47:02.395574+00:00",
+      "cameras": 7,
+      "searches": 53,
+      "hotlist_hits": 66,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-10T17:45:30.459209+00:00",
+      "cameras": 7,
+      "searches": 55,
+      "hotlist_hits": 67,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-11T16:37:42.417173+00:00",
+      "cameras": 7,
+      "searches": 48,
+      "hotlist_hits": 61,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-12T17:18:09.824556+00:00",
+      "cameras": 7,
+      "searches": 48,
+      "hotlist_hits": 49,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-13T16:28:37.359253+00:00",
+      "cameras": 7,
+      "searches": 48,
+      "hotlist_hits": 48,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-14T16:24:22.218888+00:00",
+      "cameras": 7,
+      "searches": 44,
+      "hotlist_hits": 46,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-15T17:09:33.520487+00:00",
+      "cameras": 7,
+      "searches": 45,
+      "hotlist_hits": 43,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-16T17:09:21.035115+00:00",
+      "cameras": 7,
+      "searches": 45,
+      "hotlist_hits": 39,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-17T17:10:25.774391+00:00",
+      "cameras": 7,
+      "searches": 44,
+      "hotlist_hits": 36,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-18T16:35:19.388304+00:00",
+      "cameras": 7,
+      "searches": 44,
+      "hotlist_hits": 34,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-19T17:20:41.176464+00:00",
+      "cameras": 7,
+      "searches": 35,
+      "hotlist_hits": 29,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-20T16:19:02.267167+00:00",
+      "cameras": 7,
+      "searches": 35,
+      "hotlist_hits": 24,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-21T16:30:27.601574+00:00",
+      "cameras": 7,
+      "searches": 35,
+      "hotlist_hits": 18,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-22T17:05:00.380625+00:00",
+      "cameras": 7,
+      "searches": 35,
+      "hotlist_hits": 18,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-23T17:16:48.383175+00:00",
+      "cameras": 7,
+      "searches": 34,
+      "hotlist_hits": 18,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-24T17:22:58.167762+00:00",
+      "cameras": 7,
+      "searches": 31,
+      "hotlist_hits": 20,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-25T17:21:24.745951+00:00",
+      "cameras": 7,
+      "searches": 31,
+      "hotlist_hits": 20,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-26T16:32:50.749793+00:00",
+      "cameras": 7,
+      "searches": 31,
+      "hotlist_hits": 22,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-27T17:06:32.322492+00:00",
+      "cameras": 7,
+      "searches": 31,
+      "hotlist_hits": 22,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-28T16:49:18.873358+00:00",
+      "cameras": 7,
+      "searches": 31,
+      "hotlist_hits": 22,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-29T16:35:51.932255+00:00",
+      "cameras": 7,
+      "searches": 32,
+      "hotlist_hits": 23,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-30T16:27:07.195141+00:00",
+      "cameras": 7,
+      "searches": 23,
+      "hotlist_hits": 22,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-01T17:04:27.710254+00:00",
+      "cameras": 7,
+      "searches": 14,
+      "hotlist_hits": 22,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-02T16:18:44.885999+00:00",
+      "cameras": 7,
+      "searches": 17,
+      "hotlist_hits": 17,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-03T16:33:34.141090+00:00",
+      "cameras": 7,
+      "searches": 17,
+      "hotlist_hits": 18,
+      "status": "active",
+      "name": "Palmyra MO PD"
+    },
+    {
+      "ts": "2026-10-04T16:55:47.715723+00:00",
+      "cameras": 7,
+      "searches": 22,
+      "hotlist_hits": 18,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-05T17:12:39.818776+00:00",
+      "cameras": 7,
+      "searches": 25,
+      "hotlist_hits": 16,
+      "status": "active",
+      "name": "Palmyra MO PD"
+    }
+  ]
+}

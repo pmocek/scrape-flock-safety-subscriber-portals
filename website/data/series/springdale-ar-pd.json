@@ -1,0 +1,15 @@
+{
+  "slug": "springdale-ar-pd",
+  "name": "Springdale AR PD",
+  "last_updated": "2026-08-01T23:14:29.364082+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-01T23:14:29.364082+00:00",
+      "cameras": 153,
+      "searches": 696,
+      "hotlist_hits": 1511,
+      "status": "active",
+      "name": "Springdale AR PD"
+    }
+  ]
+}

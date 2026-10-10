@@ -1,0 +1,24 @@
+{
+  "slug": "green-bay-wi-pd",
+  "name": "Green Bay WI PD",
+  "last_updated": "2026-08-05T09:13:29.366948+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-04T09:15:38.687350+00:00",
+      "cameras": 46,
+      "vehicles": 462388,
+      "searches": 454,
+      "hotlist_hits": 9634,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-05T09:13:29.366948+00:00",
+      "cameras": 46,
+      "vehicles": 460015,
+      "searches": 472,
+      "hotlist_hits": 9634,
+      "status": "active",
+      "name": "Green Bay WI PD"
+    }
+  ]
+}

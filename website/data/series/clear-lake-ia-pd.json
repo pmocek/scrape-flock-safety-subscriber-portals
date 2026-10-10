@@ -1,0 +1,15 @@
+{
+  "slug": "clear-lake-ia-pd",
+  "name": "Clear Lake IA PD",
+  "last_updated": "2026-08-04T20:01:26.390137+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-04T20:01:26.390137+00:00",
+      "cameras": 11,
+      "searches": 34,
+      "hotlist_hits": 620,
+      "status": "active",
+      "name": "Clear Lake IA PD"
+    }
+  ]
+}

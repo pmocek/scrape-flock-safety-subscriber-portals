@@ -1,0 +1,249 @@
+{
+  "slug": "palm-springs-ca-pd",
+  "name": "Palm Springs CA PD",
+  "last_updated": "2026-10-05T17:12:12.731077+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-04T16:25:25.860445+00:00",
+      "cameras": 224,
+      "vehicles": 449868,
+      "searches": 762,
+      "hotlist_hits": 7822,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-08T16:44:28.929964+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 488,
+      "hotlist_hits": 6805,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-08T17:57:50.606235+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 488,
+      "hotlist_hits": 6805,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-09T16:46:35.498669+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 474,
+      "hotlist_hits": 6870,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-10T17:45:02.105611+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 474,
+      "hotlist_hits": 6895,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-11T16:37:15.320896+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 464,
+      "hotlist_hits": 6969,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-12T17:17:19.057284+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 490,
+      "hotlist_hits": 7023,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-13T16:28:10.163447+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 495,
+      "hotlist_hits": 7134,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-14T16:23:55.314520+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 493,
+      "hotlist_hits": 7107,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-15T17:09:06.812544+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 495,
+      "hotlist_hits": 7244,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-16T17:08:52.716775+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 508,
+      "hotlist_hits": 7309,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-17T17:09:58.447791+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 504,
+      "hotlist_hits": 7396,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-18T16:34:52.323413+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 514,
+      "hotlist_hits": 7808,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-19T17:20:13.728304+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 504,
+      "hotlist_hits": 7914,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-20T16:17:31.857663+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 482,
+      "hotlist_hits": 8080,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-21T16:30:00.094239+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 468,
+      "hotlist_hits": 8062,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-22T17:04:33.267932+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 471,
+      "hotlist_hits": 8168,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-23T17:16:21.411814+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 460,
+      "hotlist_hits": 8346,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-24T17:22:30.980028+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 463,
+      "hotlist_hits": 8408,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-25T17:20:57.216089+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 437,
+      "hotlist_hits": 8463,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-26T16:32:23.572318+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 416,
+      "hotlist_hits": 8543,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-27T17:05:40.909840+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 394,
+      "hotlist_hits": 8521,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-28T16:48:51.713380+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 387,
+      "hotlist_hits": 8406,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-29T16:34:36.903840+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 379,
+      "hotlist_hits": 8407,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-30T16:26:40.658488+00:00",
+      "cameras": 224,
+      "vehicles": 224,
+      "searches": 389,
+      "hotlist_hits": 8490,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-01T17:04:01.133058+00:00",
+      "cameras": 224,
+      "vehicles": 451174,
+      "searches": 404,
+      "hotlist_hits": 8494,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-02T16:18:18.305867+00:00",
+      "cameras": 224,
+      "vehicles": 453178,
+      "searches": 394,
+      "hotlist_hits": 8527,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-03T16:33:07.502879+00:00",
+      "cameras": 224,
+      "vehicles": 457585,
+      "searches": 396,
+      "hotlist_hits": 8575,
+      "status": "active",
+      "name": "Palm Springs CA PD"
+    },
+    {
+      "ts": "2026-10-04T16:55:20.550054+00:00",
+      "cameras": 224,
+      "vehicles": 459185,
+      "searches": 399,
+      "hotlist_hits": 8469,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-05T17:12:12.731077+00:00",
+      "cameras": 224,
+      "vehicles": 458329,
+      "searches": 399,
+      "hotlist_hits": 8402,
+      "status": "active",
+      "name": "Palm Springs CA PD"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "ottawa-county-oh-so",
+  "name": "Ottawa County OH SO",
+  "last_updated": "2026-10-07T17:28:32.387001+00:00",
+  "entries": [
+    {
+      "ts": "2026-10-06T16:52:20.455430+00:00",
+      "cameras": 18,
+      "vehicles": 285181,
+      "searches": 145,
+      "hotlist_hits": 580,
+      "status": "active",
+      "name": "Ottawa County OH SO"
+    },
+    {
+      "ts": "2026-10-07T17:28:32.387001+00:00",
+      "cameras": 18,
+      "vehicles": 277372,
+      "searches": 144,
+      "hotlist_hits": 566,
+      "status": "active",
+      "name": "Ottawa County OH SO"
+    }
+  ]
+}

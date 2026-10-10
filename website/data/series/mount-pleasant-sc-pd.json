@@ -1,0 +1,289 @@
+{
+  "slug": "mount-pleasant-sc-pd",
+  "name": "Mount Pleasant SC PD",
+  "last_updated": "2026-10-05T14:58:19.753859+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-27T15:21:36.374549+00:00",
+      "cameras": 22,
+      "searches": 348,
+      "hotlist_hits": 6475,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-28T14:24:47.568186+00:00",
+      "cameras": 22,
+      "searches": 346,
+      "hotlist_hits": 6396,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-29T15:07:21.794184+00:00",
+      "cameras": 22,
+      "searches": 338,
+      "hotlist_hits": 6326,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-30T14:53:58.011361+00:00",
+      "cameras": 22,
+      "searches": 331,
+      "hotlist_hits": 6274,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-31T14:06:19.298258+00:00",
+      "cameras": 22,
+      "searches": 319,
+      "hotlist_hits": 6156,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-01T14:58:01.652582+00:00",
+      "cameras": 22,
+      "searches": 304,
+      "hotlist_hits": 6029,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-02T14:33:13.682241+00:00",
+      "cameras": 22,
+      "searches": 313,
+      "hotlist_hits": 5964,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-03T14:37:49.944919+00:00",
+      "cameras": 22,
+      "searches": 315,
+      "hotlist_hits": 5987,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-04T14:24:46.685198+00:00",
+      "cameras": 22,
+      "searches": 305,
+      "hotlist_hits": 5933,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-05T15:21:51.946592+00:00",
+      "cameras": 22,
+      "searches": 301,
+      "hotlist_hits": 5886,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-06T15:34:52.524747+00:00",
+      "cameras": 22,
+      "searches": 286,
+      "hotlist_hits": 5862,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-07T14:18:05.815944+00:00",
+      "cameras": 22,
+      "searches": 278,
+      "hotlist_hits": 5793,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-08T14:38:19.157617+00:00",
+      "cameras": 22,
+      "searches": 262,
+      "hotlist_hits": 5688,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-09T14:40:44.079041+00:00",
+      "cameras": 22,
+      "searches": 248,
+      "hotlist_hits": 5652,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-10T14:30:45.524138+00:00",
+      "cameras": 22,
+      "searches": 245,
+      "hotlist_hits": 5626,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-11T14:29:50.792496+00:00",
+      "cameras": 22,
+      "searches": 230,
+      "hotlist_hits": 5540,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-12T15:39:05.605984+00:00",
+      "cameras": 22,
+      "searches": 237,
+      "hotlist_hits": 5451,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-13T14:28:27.800491+00:00",
+      "cameras": 22,
+      "searches": 246,
+      "hotlist_hits": 5378,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-14T15:04:40.333077+00:00",
+      "cameras": 22,
+      "searches": 234,
+      "hotlist_hits": 5260,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-15T15:05:12.935863+00:00",
+      "cameras": 22,
+      "searches": 220,
+      "hotlist_hits": 5153,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-16T15:02:18.837890+00:00",
+      "cameras": 22,
+      "searches": 219,
+      "hotlist_hits": 5029,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-17T15:05:35.605942+00:00",
+      "cameras": 22,
+      "searches": 224,
+      "hotlist_hits": 4949,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-18T14:33:55.558280+00:00",
+      "cameras": 22,
+      "searches": 221,
+      "hotlist_hits": 4981,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-19T15:58:21.781356+00:00",
+      "cameras": 22,
+      "searches": 229,
+      "hotlist_hits": 4886,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-20T14:17:09.165873+00:00",
+      "cameras": 22,
+      "searches": 231,
+      "hotlist_hits": 4821,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-21T15:09:33.865257+00:00",
+      "cameras": 22,
+      "searches": 223,
+      "hotlist_hits": 4700,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-22T15:01:33.104491+00:00",
+      "cameras": 22,
+      "searches": 230,
+      "hotlist_hits": 4601,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-23T15:06:38.717243+00:00",
+      "cameras": 22,
+      "searches": 232,
+      "hotlist_hits": 4504,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-24T15:16:29.688703+00:00",
+      "cameras": 22,
+      "searches": 236,
+      "hotlist_hits": 4497,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-25T15:20:52.530741+00:00",
+      "cameras": 22,
+      "searches": 237,
+      "hotlist_hits": 4421,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-26T14:34:13.152222+00:00",
+      "cameras": 22,
+      "searches": 229,
+      "hotlist_hits": 4372,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-27T14:03:14.845785+00:00",
+      "cameras": 22,
+      "searches": 232,
+      "hotlist_hits": 4331,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-28T14:11:24.135921+00:00",
+      "cameras": 22,
+      "searches": 227,
+      "hotlist_hits": 4346,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-29T14:53:33.003560+00:00",
+      "cameras": 22,
+      "searches": 216,
+      "hotlist_hits": 4318,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-30T14:58:54.416527+00:00",
+      "cameras": 22,
+      "searches": 225,
+      "hotlist_hits": 4328,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-01T15:31:29.881699+00:00",
+      "cameras": 22,
+      "searches": 237,
+      "hotlist_hits": 4366,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-02T14:47:35.043992+00:00",
+      "cameras": 22,
+      "searches": 227,
+      "hotlist_hits": 4385,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-03T14:46:21.143736+00:00",
+      "cameras": 22,
+      "searches": 232,
+      "hotlist_hits": 4388,
+      "status": "active",
+      "name": "Mount Pleasant SC PD"
+    },
+    {
+      "ts": "2026-10-04T14:08:58.750442+00:00",
+      "cameras": 22,
+      "searches": 228,
+      "hotlist_hits": 4366,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-05T14:58:19.753859+00:00",
+      "cameras": 22,
+      "searches": 219,
+      "hotlist_hits": 4359,
+      "status": "active",
+      "name": "Mount Pleasant SC PD"
+    }
+  ]
+}

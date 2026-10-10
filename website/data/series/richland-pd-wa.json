@@ -1,0 +1,37 @@
+{
+  "slug": "richland-pd-wa",
+  "name": "Richland WA PD",
+  "last_updated": "2026-07-31T19:57:24.763673+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-26T16:31:04.663914+00:00",
+      "cameras": 10
+    },
+    {
+      "ts": "2026-06-27T19:49:12.330698+00:00",
+      "cameras": 10,
+      "name": "Richland WA PD"
+    },
+    {
+      "ts": "2026-06-28T19:49:31.658025+00:00",
+      "cameras": 10,
+      "name": "Richland WA PD"
+    },
+    {
+      "ts": "2026-07-31T16:15:36.325582+00:00",
+      "cameras": 2,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-07-31T19:23:44.616040+00:00",
+      "cameras": 2,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-07-31T19:57:24.763673+00:00",
+      "cameras": 2,
+      "status": "active",
+      "name": "Richland WA PD"
+    }
+  ]
+}

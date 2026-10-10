@@ -1,0 +1,380 @@
+{
+  "slug": "ut-cedar-city-pd",
+  "name": "UT - Cedar City PD",
+  "last_updated": "2026-10-04T23:20:15.363211+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-05T23:26:55.439837+00:00",
+      "cameras": 44,
+      "vehicles": 577906,
+      "hotlist_hits": 1977,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-13T23:06:45.356948+00:00",
+      "cameras": 44,
+      "vehicles": 558190,
+      "hotlist_hits": 1840,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-14T22:44:19.079524+00:00",
+      "cameras": 44,
+      "vehicles": 562706,
+      "hotlist_hits": 1786,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-15T22:42:43.992930+00:00",
+      "cameras": 44,
+      "vehicles": 564683,
+      "hotlist_hits": 1813,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-16T22:41:55.114943+00:00",
+      "cameras": 44,
+      "vehicles": 566692,
+      "hotlist_hits": 1808,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-17T22:45:08.279953+00:00",
+      "cameras": 44,
+      "vehicles": 565323,
+      "hotlist_hits": 1708,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-18T22:45:25.598370+00:00",
+      "cameras": 44,
+      "vehicles": 564475,
+      "hotlist_hits": 1659,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-19T22:46:09.306589+00:00",
+      "cameras": 44,
+      "vehicles": 559807,
+      "hotlist_hits": 1628,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-20T22:49:08.903279+00:00",
+      "cameras": 44,
+      "vehicles": 559345,
+      "hotlist_hits": 1653,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-21T22:45:06.513911+00:00",
+      "cameras": 44,
+      "vehicles": 560806,
+      "hotlist_hits": 1627,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-22T22:42:18.102571+00:00",
+      "cameras": 44,
+      "vehicles": 562907,
+      "hotlist_hits": 1554,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-23T22:42:15.848705+00:00",
+      "cameras": 44,
+      "vehicles": 563127,
+      "hotlist_hits": 1541,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-24T22:47:29.004176+00:00",
+      "cameras": 44,
+      "vehicles": 560360,
+      "hotlist_hits": 1541,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-25T22:48:47.520065+00:00",
+      "cameras": 44,
+      "vehicles": 553247,
+      "hotlist_hits": 1488,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-26T23:46:44.278769+00:00",
+      "cameras": 44,
+      "vehicles": 544718,
+      "hotlist_hits": 1449,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-27T22:26:47.529582+00:00",
+      "cameras": 44,
+      "vehicles": 541589,
+      "hotlist_hits": 1413,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-27T23:50:47.958150+00:00",
+      "cameras": 44,
+      "vehicles": 541589,
+      "hotlist_hits": 1413,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-28T22:29:36.317335+00:00",
+      "cameras": 44,
+      "vehicles": 541500,
+      "hotlist_hits": 1394,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-28T23:35:59.865517+00:00",
+      "cameras": 44,
+      "vehicles": 541500,
+      "hotlist_hits": 1394,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-29T22:42:30.566142+00:00",
+      "cameras": 44,
+      "vehicles": 545834,
+      "hotlist_hits": 1361,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-30T22:50:34.961887+00:00",
+      "cameras": 44,
+      "vehicles": 549329,
+      "hotlist_hits": 1349,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-31T22:55:03.544126+00:00",
+      "cameras": 44,
+      "vehicles": 546391,
+      "hotlist_hits": 1321,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-31T23:56:37.113710+00:00",
+      "cameras": 44,
+      "vehicles": 546391,
+      "hotlist_hits": 1321,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-01T22:39:59.119653+00:00",
+      "cameras": 44,
+      "vehicles": 541398,
+      "hotlist_hits": 1264,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-02T22:43:27.027683+00:00",
+      "cameras": 44,
+      "vehicles": 531491,
+      "hotlist_hits": 1245,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-03T22:39:55.645905+00:00",
+      "cameras": 44,
+      "vehicles": 533495,
+      "hotlist_hits": 1305,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-04T22:26:04.282797+00:00",
+      "cameras": 44,
+      "vehicles": 534302,
+      "hotlist_hits": 1370,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-05T22:06:54.998207+00:00",
+      "cameras": 44,
+      "vehicles": 541754,
+      "hotlist_hits": 1401,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-05T23:58:22.451768+00:00",
+      "cameras": 44,
+      "vehicles": 541754,
+      "hotlist_hits": 1401,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-06T22:10:51.563931+00:00",
+      "cameras": 44,
+      "vehicles": 553120,
+      "hotlist_hits": 1447,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-07T00:00:30.666379+00:00",
+      "cameras": 44,
+      "vehicles": 553120,
+      "hotlist_hits": 1447,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-07T22:54:06.132480+00:00",
+      "cameras": 44,
+      "vehicles": 551273,
+      "hotlist_hits": 1440,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-08T22:46:16.528759+00:00",
+      "cameras": 44,
+      "vehicles": 549697,
+      "hotlist_hits": 1444,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-09T22:39:04.354619+00:00",
+      "cameras": 44,
+      "vehicles": 541091,
+      "hotlist_hits": 1472,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-10T22:41:33.359060+00:00",
+      "cameras": 44,
+      "vehicles": 541857,
+      "hotlist_hits": 1479,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-11T22:41:20.377044+00:00",
+      "cameras": 44,
+      "vehicles": 544889,
+      "hotlist_hits": 1510,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-12T22:24:55.364121+00:00",
+      "cameras": 44,
+      "vehicles": 549856,
+      "hotlist_hits": 1493,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-13T22:30:19.080970+00:00",
+      "cameras": 44,
+      "vehicles": 552646,
+      "hotlist_hits": 1490,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-14T23:14:15.668920+00:00",
+      "cameras": 44,
+      "vehicles": 549344,
+      "hotlist_hits": 1534,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-15T22:58:56.773290+00:00",
+      "cameras": 44,
+      "vehicles": 545711,
+      "hotlist_hits": 1574,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-16T23:03:41.616436+00:00",
+      "cameras": 44,
+      "vehicles": 542629,
+      "hotlist_hits": 1571,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-22T23:02:49.503746+00:00",
+      "cameras": 44,
+      "vehicles": 550099,
+      "hotlist_hits": 1673,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-23T23:01:18.523841+00:00",
+      "cameras": 44,
+      "vehicles": 543595,
+      "hotlist_hits": 1708,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-24T23:19:06.784359+00:00",
+      "cameras": 44,
+      "vehicles": 544971,
+      "hotlist_hits": 1742,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-25T23:22:48.847229+00:00",
+      "cameras": 44,
+      "vehicles": 548376,
+      "hotlist_hits": 1753,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-27T23:10:37.901820+00:00",
+      "cameras": 44,
+      "vehicles": 560382,
+      "hotlist_hits": 1766,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-28T22:08:37.099714+00:00",
+      "cameras": 44,
+      "vehicles": 560485,
+      "hotlist_hits": 1750,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-29T22:22:25.371898+00:00",
+      "cameras": 44,
+      "vehicles": 560391,
+      "hotlist_hits": 1746,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-30T22:23:46.223371+00:00",
+      "cameras": 44,
+      "vehicles": 551405,
+      "hotlist_hits": 1748,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-01T22:47:46.658515+00:00",
+      "cameras": 44,
+      "vehicles": 553644,
+      "hotlist_hits": 1713,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-02T23:57:01.876312+00:00",
+      "cameras": 44,
+      "vehicles": 559048,
+      "hotlist_hits": 1645,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-03T23:10:59.063134+00:00",
+      "cameras": 44,
+      "vehicles": 564290,
+      "hotlist_hits": 1599,
+      "status": "active",
+      "name": "UT - Cedar City PD"
+    },
+    {
+      "ts": "2026-10-04T23:20:15.363211+00:00",
+      "cameras": 44,
+      "vehicles": 569468,
+      "hotlist_hits": 1548,
+      "status": "active",
+      "name": "UT - Cedar City PD"
+    }
+  ]
+}

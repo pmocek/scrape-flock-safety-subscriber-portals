@@ -1,0 +1,31 @@
+{
+  "slug": "goodyear-az-pd",
+  "name": "Goodyear AZ PD",
+  "last_updated": "2026-10-08T09:06:44.114793+00:00",
+  "entries": [
+    {
+      "ts": "2026-10-06T09:06:45.942507+00:00",
+      "cameras": 33,
+      "searches": 443,
+      "hotlist_hits": 2578,
+      "status": "active",
+      "name": "Goodyear AZ PD"
+    },
+    {
+      "ts": "2026-10-07T08:48:24.487992+00:00",
+      "cameras": 33,
+      "searches": 449,
+      "hotlist_hits": 2527,
+      "status": "active",
+      "name": "Goodyear AZ PD"
+    },
+    {
+      "ts": "2026-10-08T09:06:44.114793+00:00",
+      "cameras": 33,
+      "searches": 471,
+      "hotlist_hits": 2511,
+      "status": "active",
+      "name": "Goodyear AZ PD"
+    }
+  ]
+}

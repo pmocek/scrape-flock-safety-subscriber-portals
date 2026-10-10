@@ -1,0 +1,43 @@
+{
+  "slug": "el-segundo-ca-pd",
+  "name": "El Segundo CA PD",
+  "last_updated": "2026-08-26T07:14:05.067302+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-22T07:04:58.680725+00:00",
+      "cameras": 17,
+      "searches": 182,
+      "hotlist_hits": 1026,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-23T07:07:41.379710+00:00",
+      "cameras": 17,
+      "searches": 182,
+      "hotlist_hits": 1014,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-24T07:33:27.596417+00:00",
+      "cameras": 17,
+      "searches": 182,
+      "hotlist_hits": 1001,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-25T07:14:00.962496+00:00",
+      "cameras": 17,
+      "searches": 182,
+      "hotlist_hits": 932,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-26T07:14:05.067302+00:00",
+      "cameras": 17,
+      "searches": 181,
+      "hotlist_hits": 925,
+      "status": "active",
+      "name": "El Segundo CA PD"
+    }
+  ]
+}

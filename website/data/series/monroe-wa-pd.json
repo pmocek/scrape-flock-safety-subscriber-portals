@@ -1,0 +1,25 @@
+{
+  "slug": "monroe-wa-pd",
+  "name": "Monroe WA PD",
+  "last_updated": "2026-07-31T14:05:25.642287+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-27T11:48:51.647396+00:00",
+      "vehicles": 283121,
+      "hotlist_hits": 183
+    },
+    {
+      "ts": "2026-06-28T15:45:19.054164+00:00",
+      "vehicles": 288274,
+      "hotlist_hits": 161,
+      "name": "Monroe WA PD"
+    },
+    {
+      "ts": "2026-07-31T14:05:25.642287+00:00",
+      "vehicles": 309127,
+      "hotlist_hits": 461,
+      "status": "active",
+      "name": "Monroe WA PD"
+    }
+  ]
+}

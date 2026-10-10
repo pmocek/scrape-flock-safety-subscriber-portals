@@ -1,0 +1,22 @@
+{
+  "slug": "mukilteo-wa-pd",
+  "name": "Mukilteo WA PD",
+  "last_updated": "2026-06-28T15:45:47.552536+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-28T15:45:47.552536+00:00",
+      "cameras": 9,
+      "searches": 7,
+      "hotlist_hits": 42,
+      "name": "Mukilteo WA PD"
+    },
+    {
+      "ts": "2026-06-28T15:45:47.552536+00:00",
+      "cameras": 9,
+      "searches": 7,
+      "hotlist_hits": 42,
+      "status": "active",
+      "name": "Mukilteo WA PD"
+    }
+  ]
+}

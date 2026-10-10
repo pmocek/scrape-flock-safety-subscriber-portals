@@ -1,0 +1,31 @@
+{
+  "slug": "indio-ca-pd",
+  "name": "Indio CA PD",
+  "last_updated": "2026-10-08T11:30:19.536513+00:00",
+  "entries": [
+    {
+      "ts": "2026-10-06T11:25:48.310122+00:00",
+      "cameras": 72,
+      "searches": 246,
+      "hotlist_hits": 15033,
+      "status": "active",
+      "name": "Indio CA PD"
+    },
+    {
+      "ts": "2026-10-07T11:12:50.287344+00:00",
+      "cameras": 72,
+      "searches": 258,
+      "hotlist_hits": 15131,
+      "status": "active",
+      "name": "Indio CA PD"
+    },
+    {
+      "ts": "2026-10-08T11:30:19.536513+00:00",
+      "cameras": 72,
+      "searches": 261,
+      "hotlist_hits": 15201,
+      "status": "active",
+      "name": "Indio CA PD"
+    }
+  ]
+}

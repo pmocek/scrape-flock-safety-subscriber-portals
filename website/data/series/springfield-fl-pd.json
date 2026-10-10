@@ -1,0 +1,15 @@
+{
+  "slug": "springfield-fl-pd",
+  "name": "Springfield FL PD",
+  "last_updated": "2026-08-01T23:14:47.475119+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-01T23:14:47.475119+00:00",
+      "cameras": 7,
+      "searches": 18,
+      "hotlist_hits": 16369,
+      "status": "active",
+      "name": "Springfield FL PD"
+    }
+  ]
+}

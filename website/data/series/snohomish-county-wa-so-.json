@@ -1,0 +1,35 @@
+{
+  "slug": "snohomish-county-wa-so-",
+  "name": "Snohomish County WA SO",
+  "last_updated": "2026-06-28T23:33:12.671704+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-26T16:31:51.971937+00:00",
+      "cameras": 8,
+      "searches": 341,
+      "hotlist_hits": 446
+    },
+    {
+      "ts": "2026-06-27T23:31:27.350965+00:00",
+      "cameras": 8,
+      "searches": 346,
+      "hotlist_hits": 419,
+      "name": "Snohomish County WA SO"
+    },
+    {
+      "ts": "2026-06-28T23:33:12.671704+00:00",
+      "cameras": 8,
+      "searches": 349,
+      "hotlist_hits": 393,
+      "name": "Snohomish County WA SO"
+    },
+    {
+      "ts": "2026-06-28T23:33:12.671704+00:00",
+      "cameras": 8,
+      "searches": 349,
+      "hotlist_hits": 393,
+      "status": "active",
+      "name": "Snohomish County WA SO"
+    }
+  ]
+}

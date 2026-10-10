@@ -1,0 +1,82 @@
+{
+  "slug": "des-moines-wa-pd",
+  "name": "Des Moines WA PD",
+  "last_updated": "2026-06-29T07:08:10.607282+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-25T19:40:29.510114+00:00",
+      "cameras": 14,
+      "vehicles": 247515,
+      "searches": 45,
+      "hotlist_hits": 150
+    },
+    {
+      "ts": "2026-06-26T03:35:08.137950+00:00",
+      "cameras": 14,
+      "vehicles": 247515,
+      "searches": 45,
+      "hotlist_hits": 150
+    },
+    {
+      "ts": "2026-06-26T04:42:36.732025+00:00",
+      "cameras": 14,
+      "vehicles": 247515,
+      "searches": 45,
+      "hotlist_hits": 150
+    },
+    {
+      "ts": "2026-06-26T05:25:05.679119+00:00",
+      "cameras": 14,
+      "vehicles": 247515,
+      "searches": 45,
+      "hotlist_hits": 150
+    },
+    {
+      "ts": "2026-06-26T20:24:43.691736+00:00",
+      "cameras": 14,
+      "vehicles": 246574,
+      "searches": 46,
+      "hotlist_hits": 134
+    },
+    {
+      "ts": "2026-06-26T21:22:23.414093+00:00",
+      "cameras": 14,
+      "vehicles": 246574,
+      "searches": 46,
+      "hotlist_hits": 134
+    },
+    {
+      "ts": "2026-06-27T18:13:54.482134+00:00",
+      "cameras": 14,
+      "vehicles": 244811,
+      "searches": 43,
+      "hotlist_hits": 124,
+      "name": "Des Moines WA PD"
+    },
+    {
+      "ts": "2026-06-28T06:38:47.555359+00:00",
+      "cameras": 14,
+      "vehicles": 244811,
+      "searches": 43,
+      "hotlist_hits": 124,
+      "name": "Des Moines WA PD"
+    },
+    {
+      "ts": "2026-06-29T07:08:10.607282+00:00",
+      "cameras": 14,
+      "vehicles": 244731,
+      "searches": 46,
+      "hotlist_hits": 112,
+      "name": "Des Moines WA PD"
+    },
+    {
+      "ts": "2026-06-29T07:08:10.607282+00:00",
+      "cameras": 14,
+      "vehicles": 250260,
+      "searches": 66,
+      "hotlist_hits": 464,
+      "status": "active",
+      "name": "Des Moines WA PD"
+    }
+  ]
+}

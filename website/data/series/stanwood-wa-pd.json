@@ -1,0 +1,242 @@
+{
+  "slug": "stanwood-wa-pd",
+  "name": "Stanwood WA PD",
+  "last_updated": "2026-10-04T21:37:40.935131+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-25T20:25:22.342177+00:00",
+      "cameras": 12,
+      "vehicles": 107232,
+      "searches": 3,
+      "hotlist_hits": 19
+    },
+    {
+      "ts": "2026-06-25T23:48:38.956975+00:00",
+      "cameras": 12,
+      "vehicles": 107232,
+      "searches": 3,
+      "hotlist_hits": 19
+    },
+    {
+      "ts": "2026-06-26T20:14:08.345515+00:00",
+      "cameras": 12,
+      "vehicles": 107146,
+      "searches": 3,
+      "hotlist_hits": 13
+    },
+    {
+      "ts": "2026-06-26T23:36:58.166781+00:00",
+      "cameras": 12,
+      "vehicles": 107146,
+      "searches": 3,
+      "hotlist_hits": 13
+    },
+    {
+      "ts": "2026-06-27T23:31:36.322556+00:00",
+      "cameras": 12,
+      "vehicles": 105685,
+      "searches": 3,
+      "hotlist_hits": 13,
+      "name": "Stanwood WA PD"
+    },
+    {
+      "ts": "2026-06-28T23:33:21.645634+00:00",
+      "cameras": 12,
+      "vehicles": 105794,
+      "searches": 3,
+      "hotlist_hits": 11,
+      "name": "Stanwood WA PD"
+    },
+    {
+      "ts": "2026-07-31T23:18:00.532250+00:00",
+      "cameras": 12,
+      "vehicles": 118499,
+      "hotlist_hits": 109,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-09T20:59:35.054441+00:00",
+      "cameras": 13,
+      "vehicles": 98375,
+      "hotlist_hits": 85,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-10T20:56:06.388506+00:00",
+      "cameras": 13,
+      "vehicles": 98479,
+      "hotlist_hits": 83,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-11T21:02:12.748536+00:00",
+      "cameras": 13,
+      "vehicles": 98069,
+      "hotlist_hits": 78,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-12T20:38:33.724218+00:00",
+      "cameras": 13,
+      "vehicles": 98542,
+      "hotlist_hits": 76,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-13T20:54:37.105385+00:00",
+      "cameras": 13,
+      "vehicles": 99371,
+      "hotlist_hits": 66,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-14T20:20:30.030674+00:00",
+      "cameras": 13,
+      "vehicles": 99197,
+      "hotlist_hits": 66,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-15T21:27:06.354111+00:00",
+      "cameras": 13,
+      "vehicles": 99170,
+      "hotlist_hits": 63,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-16T21:23:12.968542+00:00",
+      "cameras": 13,
+      "vehicles": 99122,
+      "hotlist_hits": 53,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-17T21:28:06.193882+00:00",
+      "cameras": 13,
+      "vehicles": 99330,
+      "hotlist_hits": 61,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-18T20:59:19.824011+00:00",
+      "cameras": 13,
+      "vehicles": 99517,
+      "hotlist_hits": 61,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-19T20:48:02.084824+00:00",
+      "cameras": 13,
+      "vehicles": 100053,
+      "hotlist_hits": 57,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-20T20:54:47.864057+00:00",
+      "cameras": 13,
+      "vehicles": 101240,
+      "hotlist_hits": 57,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-21T20:27:57.737819+00:00",
+      "cameras": 13,
+      "vehicles": 101010,
+      "hotlist_hits": 61,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-22T21:25:18.030238+00:00",
+      "cameras": 13,
+      "vehicles": 101431,
+      "hotlist_hits": 64,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-23T21:34:50.091177+00:00",
+      "cameras": 13,
+      "vehicles": 101472,
+      "hotlist_hits": 61,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-24T20:02:10.640567+00:00",
+      "cameras": 13,
+      "vehicles": 101787,
+      "hotlist_hits": 49,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-25T20:03:33.039135+00:00",
+      "cameras": 13,
+      "vehicles": 101672,
+      "hotlist_hits": 45,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-26T21:16:25.402899+00:00",
+      "cameras": 13,
+      "vehicles": 102217,
+      "hotlist_hits": 39,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-27T21:26:31.548405+00:00",
+      "cameras": 13,
+      "vehicles": 103226,
+      "hotlist_hits": 39,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-28T20:37:26.381100+00:00",
+      "cameras": 13,
+      "vehicles": 102384,
+      "hotlist_hits": 36,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-29T20:55:05.177485+00:00",
+      "cameras": 13,
+      "vehicles": 102109,
+      "hotlist_hits": 33,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-30T20:52:06.925764+00:00",
+      "cameras": 13,
+      "vehicles": 100842,
+      "hotlist_hits": 29,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-01T21:08:46.827610+00:00",
+      "cameras": 13,
+      "vehicles": 100472,
+      "hotlist_hits": 23,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-02T20:49:29.909928+00:00",
+      "cameras": 13,
+      "vehicles": 99793,
+      "hotlist_hits": 24,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-03T21:25:14.038536+00:00",
+      "cameras": 13,
+      "vehicles": 98612,
+      "hotlist_hits": 25,
+      "status": "active",
+      "name": "Stanwood WA PD"
+    },
+    {
+      "ts": "2026-10-04T21:37:40.935131+00:00",
+      "cameras": 13,
+      "vehicles": 98254,
+      "hotlist_hits": 25,
+      "status": "active",
+      "name": "Stanwood WA PD"
+    }
+  ]
+}

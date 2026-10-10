@@ -1,0 +1,16 @@
+{
+  "slug": "park-city-ks-pd",
+  "name": "Park City KS PD",
+  "last_updated": "2026-08-05T16:14:19.140096+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-05T16:14:19.140096+00:00",
+      "cameras": 14,
+      "vehicles": 156467,
+      "searches": 52,
+      "hotlist_hits": 2829,
+      "status": "active",
+      "name": "Park City KS PD"
+    }
+  ]
+}

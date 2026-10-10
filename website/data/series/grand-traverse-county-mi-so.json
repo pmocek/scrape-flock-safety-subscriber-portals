@@ -1,0 +1,338 @@
+{
+  "slug": "grand-traverse-county-mi-so",
+  "name": "Grand Traverse County MI SO",
+  "last_updated": "2026-10-05T09:12:13.615167+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-22T08:52:05.169483+00:00",
+      "cameras": 28,
+      "vehicles": 420895,
+      "searches": 195,
+      "hotlist_hits": 1743,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-26T09:05:44.856435+00:00",
+      "cameras": 28,
+      "vehicles": 415082,
+      "searches": 208,
+      "hotlist_hits": 1736,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-27T09:54:58.327791+00:00",
+      "cameras": 28,
+      "vehicles": 413883,
+      "searches": 199,
+      "hotlist_hits": 1717,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-29T09:08:04.708902+00:00",
+      "cameras": 28,
+      "vehicles": 411512,
+      "searches": 204,
+      "hotlist_hits": 1682,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-30T08:22:32.614055+00:00",
+      "cameras": 28,
+      "vehicles": 412444,
+      "searches": 201,
+      "hotlist_hits": 1667,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-31T08:42:41.452598+00:00",
+      "cameras": 28,
+      "vehicles": 410922,
+      "searches": 198,
+      "hotlist_hits": 1631,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-01T09:30:54.130458+00:00",
+      "cameras": 28,
+      "vehicles": 406250,
+      "searches": 186,
+      "hotlist_hits": 1620,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-02T08:53:29.794183+00:00",
+      "cameras": 28,
+      "vehicles": 401826,
+      "searches": 189,
+      "hotlist_hits": 1608,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-03T09:02:37.341171+00:00",
+      "cameras": 28,
+      "vehicles": 400209,
+      "searches": 193,
+      "hotlist_hits": 1613,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-04T08:56:16.700495+00:00",
+      "cameras": 28,
+      "vehicles": 398882,
+      "searches": 189,
+      "hotlist_hits": 1609,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-05T08:27:37.542060+00:00",
+      "cameras": 28,
+      "vehicles": 397633,
+      "searches": 194,
+      "hotlist_hits": 1606,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-06T08:45:34.097230+00:00",
+      "cameras": 28,
+      "vehicles": 398146,
+      "searches": 197,
+      "hotlist_hits": 1615,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-07T09:31:14.378186+00:00",
+      "cameras": 28,
+      "vehicles": 398493,
+      "searches": 199,
+      "hotlist_hits": 1641,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-08T08:57:59.656581+00:00",
+      "cameras": 28,
+      "vehicles": 397428,
+      "searches": 206,
+      "hotlist_hits": 1622,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-09T09:03:28.638844+00:00",
+      "cameras": 28,
+      "vehicles": 393254,
+      "searches": 203,
+      "hotlist_hits": 1617,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-10T09:02:21.534749+00:00",
+      "cameras": 28,
+      "vehicles": 392850,
+      "searches": 212,
+      "hotlist_hits": 1667,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-11T08:59:58.911497+00:00",
+      "cameras": 28,
+      "vehicles": 392750,
+      "searches": 219,
+      "hotlist_hits": 1589,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-12T08:43:34.125640+00:00",
+      "cameras": 28,
+      "vehicles": 394267,
+      "searches": 233,
+      "hotlist_hits": 1588,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-13T09:38:22.363085+00:00",
+      "cameras": 28,
+      "vehicles": 396218,
+      "searches": 231,
+      "hotlist_hits": 1511,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-14T10:00:40.337059+00:00",
+      "cameras": 28,
+      "vehicles": 395264,
+      "searches": 220,
+      "hotlist_hits": 1479,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-15T09:31:06.988299+00:00",
+      "cameras": 28,
+      "vehicles": 390592,
+      "searches": 219,
+      "hotlist_hits": 1482,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-16T09:23:41.876133+00:00",
+      "cameras": 28,
+      "vehicles": 387114,
+      "searches": 219,
+      "hotlist_hits": 1480,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-17T09:34:57.994191+00:00",
+      "cameras": 28,
+      "vehicles": 386237,
+      "searches": 220,
+      "hotlist_hits": 1481,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-18T09:05:58.143863+00:00",
+      "cameras": 28,
+      "vehicles": 384900,
+      "searches": 221,
+      "hotlist_hits": 1535,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-19T08:53:08.654193+00:00",
+      "cameras": 28,
+      "vehicles": 384553,
+      "searches": 219,
+      "hotlist_hits": 1543,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-20T09:22:48.046704+00:00",
+      "cameras": 28,
+      "vehicles": 383486,
+      "searches": 208,
+      "hotlist_hits": 1555,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-21T08:01:17.032997+00:00",
+      "cameras": 28,
+      "vehicles": 384700,
+      "searches": 202,
+      "hotlist_hits": 1524,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-22T09:24:01.767062+00:00",
+      "cameras": 28,
+      "vehicles": 382461,
+      "searches": 196,
+      "hotlist_hits": 1486,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-23T09:24:04.889575+00:00",
+      "cameras": 28,
+      "vehicles": 378336,
+      "searches": 197,
+      "hotlist_hits": 1514,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-24T09:24:17.036583+00:00",
+      "cameras": 28,
+      "vehicles": 376943,
+      "searches": 191,
+      "hotlist_hits": 1538,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-25T09:42:05.233493+00:00",
+      "cameras": 28,
+      "vehicles": 376654,
+      "searches": 199,
+      "hotlist_hits": 1545,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-26T09:26:29.904496+00:00",
+      "cameras": 28,
+      "vehicles": 377219,
+      "searches": 193,
+      "hotlist_hits": 1591,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-27T08:17:41.294078+00:00",
+      "cameras": 28,
+      "vehicles": 378892,
+      "searches": 190,
+      "hotlist_hits": 1607,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-28T08:45:17.845059+00:00",
+      "cameras": 28,
+      "vehicles": 378983,
+      "searches": 186,
+      "hotlist_hits": 1622,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-29T08:38:27.497570+00:00",
+      "cameras": 28,
+      "vehicles": 377081,
+      "searches": 182,
+      "hotlist_hits": 1591,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-09-30T08:39:32.398033+00:00",
+      "cameras": 28,
+      "vehicles": 374641,
+      "searches": 182,
+      "hotlist_hits": 1595,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-01T09:02:12.899555+00:00",
+      "cameras": 28,
+      "vehicles": 375099,
+      "searches": 187,
+      "hotlist_hits": 1643,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-02T08:37:58.977220+00:00",
+      "cameras": 28,
+      "vehicles": 373310,
+      "searches": 186,
+      "hotlist_hits": 1595,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-10-03T08:13:59.745800+00:00",
+      "cameras": 28,
+      "vehicles": 371911,
+      "searches": 187,
+      "hotlist_hits": 1579,
+      "status": "active",
+      "name": "Grand Traverse County MI SO"
+    },
+    {
+      "ts": "2026-10-04T08:30:38.743910+00:00",
+      "cameras": 28,
+      "vehicles": 374243,
+      "searches": 184,
+      "hotlist_hits": 1526,
+      "status": "active",
+      "name": "Grand Traverse County MI SO"
+    },
+    {
+      "ts": "2026-10-05T09:12:13.615167+00:00",
+      "cameras": 28,
+      "vehicles": 371463,
+      "searches": 173,
+      "hotlist_hits": 1471,
+      "status": "active",
+      "name": "Grand Traverse County MI SO"
+    }
+  ]
+}

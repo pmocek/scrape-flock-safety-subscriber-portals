@@ -1,0 +1,22 @@
+{
+  "slug": "va-george-mason-university-campus-pd",
+  "name": "VA - George Mason University Campus PD",
+  "last_updated": "2026-08-04T23:28:59.137979+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-03T23:29:34.989676+00:00",
+      "cameras": 29,
+      "searches": 59,
+      "hotlist_hits": 45,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-04T23:28:59.137979+00:00",
+      "cameras": 29,
+      "searches": 59,
+      "hotlist_hits": 46,
+      "status": "active",
+      "name": "VA - George Mason University Campus PD"
+    }
+  ]
+}

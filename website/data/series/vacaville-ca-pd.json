@@ -1,0 +1,24 @@
+{
+  "slug": "vacaville-ca-pd",
+  "name": "Vacaville CA PD",
+  "last_updated": "2026-08-04T23:29:25.925902+00:00",
+  "entries": [
+    {
+      "ts": "2026-08-03T23:30:02.208134+00:00",
+      "cameras": 260,
+      "vehicles": 1594367,
+      "searches": 1278,
+      "hotlist_hits": 19943,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-08-04T23:29:25.925902+00:00",
+      "cameras": 260,
+      "vehicles": 1596541,
+      "searches": 1252,
+      "hotlist_hits": 19965,
+      "status": "active",
+      "name": "Vacaville CA PD"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "sumner-wa-pd",
+  "name": "Sumner WA PD",
+  "last_updated": "2026-06-28T23:33:39.657770+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-25T20:25:31.393618+00:00",
+      "cameras": 12,
+      "vehicles": 219306,
+      "searches": 33,
+      "hotlist_hits": 121
+    },
+    {
+      "ts": "2026-06-25T23:48:47.982064+00:00",
+      "cameras": 12,
+      "vehicles": 219306,
+      "searches": 33,
+      "hotlist_hits": 121
+    },
+    {
+      "ts": "2026-06-26T20:14:17.253143+00:00",
+      "cameras": 12,
+      "vehicles": 218320,
+      "searches": 30,
+      "hotlist_hits": 113
+    },
+    {
+      "ts": "2026-06-26T23:37:07.220813+00:00",
+      "cameras": 12,
+      "vehicles": 218320,
+      "searches": 30,
+      "hotlist_hits": 113
+    },
+    {
+      "ts": "2026-06-27T23:31:54.429391+00:00",
+      "cameras": 12,
+      "vehicles": 219561,
+      "searches": 30,
+      "hotlist_hits": 99,
+      "name": "Sumner WA PD"
+    },
+    {
+      "ts": "2026-06-28T23:33:39.657770+00:00",
+      "cameras": 12,
+      "vehicles": 218538,
+      "searches": 30,
+      "hotlist_hits": 79,
+      "name": "Sumner WA PD"
+    },
+    {
+      "ts": "2026-06-28T23:33:39.657770+00:00",
+      "cameras": 12,
+      "vehicles": 218794,
+      "searches": 25,
+      "hotlist_hits": 513,
+      "status": "active",
+      "name": "Sumner WA PD"
+    }
+  ]
+}

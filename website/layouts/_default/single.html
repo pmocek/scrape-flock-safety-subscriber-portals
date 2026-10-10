@@ -3,23 +3,37 @@
     <header>
         <h2 class="section-title">{{ .Title }}</h2>
         <div class="meta">
-            <span class="status-badge status-active">Active Portal</span>
+            {{ if eq .Params.status "inactive" }}
+                <span class="status-badge status-inactive">Inactive</span>
+            {{ else if eq .Params.status "not_found" }}
+                <span class="status-badge status-not-found">Not Found</span>
+            {{ else }}
+                <span class="status-badge status-active">Active Portal</span>
+            {{ end }}
         </div>
     </header>
 
+    {{ $slug := replace .File.Dir "/" "" | replace .File.Dir "\\" "" }}
+    <script>
+        // Inject series data from Hugo-generated JSON
+        window.AGENCY_SERIES = {{"data/series/" | printf "%s.json" $slug | readFile | default "{}" | unescapeHtml}};
+    </script>
+    <script src="{{ "js/d3.min.js" | absURL }}"></script>
+    <script src="{{ "js/time-series-chart.js" | absURL }}"></script>
+
     <div class="dashboard-grid">
         <div class="chart-container">
-            <h3>Portal Access Counts Over Time</h3>
+            <h3>Portal Activity Over Time</h3>
             <div id="portal-activity-chart"></div>
         </div>
         <div class="chart-container">
-            <h3>Unique Vehicles Detected</h3>
+            <h3>Vehicles Detected (30-day Rolling)</h3>
             <div id="vehicles-chart"></div>
         </div>
     </div>
 
     <div class="chart-container" style="margin-top: var(--spacing-lg)">
-        <h3>Search Activity Breakdown</h3>
+        <h3>Search Volume (30-day Rolling)</h3>
         <div id="search-volume-chart"></div>
     </div>
 

@@ -1,0 +1,43 @@
+{
+  "slug": "lakewood-wa-pd",
+  "name": "Lakewood WA PD",
+  "last_updated": "2026-07-31T09:21:57.482667+00:00",
+  "entries": [
+    {
+      "ts": "2026-06-25T19:41:36.291871+00:00",
+      "cameras": 58
+    },
+    {
+      "ts": "2026-06-26T06:33:29.312051+00:00",
+      "cameras": 58
+    },
+    {
+      "ts": "2026-06-27T06:04:56.413880+00:00",
+      "cameras": 58
+    },
+    {
+      "ts": "2026-06-28T12:01:02.208798+00:00",
+      "cameras": 58,
+      "name": "Lakewood WA PD"
+    },
+    {
+      "ts": "2026-07-31T08:33:23.570810+00:00",
+      "cameras": 58,
+      "searches": 1,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-07-31T09:21:57.482667+00:00",
+      "cameras": 58,
+      "searches": 1,
+      "name": "Policy & Trust"
+    },
+    {
+      "ts": "2026-07-31T09:21:57.482667+00:00",
+      "cameras": 58,
+      "searches": 1,
+      "status": "active",
+      "name": "Lakewood WA PD"
+    }
+  ]
+}
