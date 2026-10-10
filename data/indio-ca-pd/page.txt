@@ -6,7 +6,7 @@ Visit Flock
 Indio CA PD
 Transparency Portal
 
-Last updated: Fri Oct 09 2026
+Last updated: Sat Oct 10 2026
 
 Overview
 
@@ -46,13 +46,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-488,168
+493,459
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-260
+244
 
 Hotlists Alerted On
 
@@ -64,7 +64,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-15,260
+15,348
 
 Sharing Network Data With
 
