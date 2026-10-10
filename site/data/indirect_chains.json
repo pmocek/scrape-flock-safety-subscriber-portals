@@ -1,0 +1,2711 @@
+[
+  {
+    "start_slug": "antioch-ca-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "antioch-ca-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "antioch-ca-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "antioch-ca-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "antioch-ca-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "antioch-ca-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "antioch-ca-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "antioch-ca-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "antioch-ca-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "arvada-co-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "arvada-co-pd",
+      "grand-island-ne-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "arvada-co-pd \u2192 grand-island-ne-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "arvada-co-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "arvada-co-pd",
+      "grand-island-ne-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "arvada-co-pd \u2192 grand-island-ne-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "arvada-co-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 3,
+    "path": [
+      "arvada-co-pd",
+      "grand-island-ne-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "arvada-co-pd \u2192 grand-island-ne-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "atherton-ca-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "atherton-ca-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "atherton-ca-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "atherton-ca-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "atherton-ca-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "atherton-ca-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "atherton-ca-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "atherton-ca-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "atherton-ca-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "bratenahl-oh-pd",
+    "target_slug": "mount-vernon-oh-pd",
+    "hops": 2,
+    "path": [
+      "bratenahl-oh-pd",
+      "great-parks-of-hamilton-county-oh-pd",
+      "mount-vernon-oh-pd"
+    ],
+    "path_display": "bratenahl-oh-pd \u2192 great-parks-of-hamilton-county-oh-pd \u2192 mount-vernon-oh-pd"
+  },
+  {
+    "start_slug": "bratenahl-oh-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "bratenahl-oh-pd",
+      "great-parks-of-hamilton-county-oh-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "bratenahl-oh-pd \u2192 great-parks-of-hamilton-county-oh-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "brawley-ca-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "brawley-ca-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "brawley-ca-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "brawley-ca-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "brawley-ca-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "brawley-ca-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "brawley-ca-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "brawley-ca-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "brawley-ca-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "brimfield-township-oh-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "brimfield-township-oh-pd",
+      "grandview-heights-oh-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "brimfield-township-oh-pd \u2192 grandview-heights-oh-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "brimfield-township-oh-pd",
+    "target_slug": "mount-vernon-oh-pd",
+    "hops": 3,
+    "path": [
+      "brimfield-township-oh-pd",
+      "grandview-heights-oh-pd",
+      "great-parks-of-hamilton-county-oh-pd",
+      "mount-vernon-oh-pd"
+    ],
+    "path_display": "brimfield-township-oh-pd \u2192 grandview-heights-oh-pd \u2192 great-parks-of-hamilton-county-oh-pd \u2192 mount-vernon-oh-pd"
+  },
+  {
+    "start_slug": "centralia-pd-wa",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "centralia-pd-wa",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "centralia-pd-wa \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "centralia-pd-wa",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "centralia-pd-wa",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "centralia-pd-wa \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "centralia-pd-wa",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "centralia-pd-wa",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "centralia-pd-wa \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "clear-lake-ia-pd",
+    "target_slug": "elk-river-mn-pd",
+    "hops": 2,
+    "path": [
+      "clear-lake-ia-pd",
+      "stillwater-mn-pd",
+      "elk-river-mn-pd"
+    ],
+    "path_display": "clear-lake-ia-pd \u2192 stillwater-mn-pd \u2192 elk-river-mn-pd"
+  },
+  {
+    "start_slug": "clear-lake-ia-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "clear-lake-ia-pd",
+      "stillwater-mn-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "clear-lake-ia-pd \u2192 stillwater-mn-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "clear-lake-ia-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "clear-lake-ia-pd",
+      "stillwater-mn-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "clear-lake-ia-pd \u2192 stillwater-mn-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "college-place-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "college-place-wa-pd",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "college-place-wa-pd \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "college-place-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "college-place-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "college-place-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "college-place-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "college-place-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "college-place-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "college-place-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "college-place-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "college-place-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "collegedale-tn-pd",
+    "target_slug": "mount-vernon-oh-pd",
+    "hops": 2,
+    "path": [
+      "collegedale-tn-pd",
+      "elgin-sc-pd",
+      "mount-vernon-oh-pd"
+    ],
+    "path_display": "collegedale-tn-pd \u2192 elgin-sc-pd \u2192 mount-vernon-oh-pd"
+  },
+  {
+    "start_slug": "collegedale-tn-pd",
+    "target_slug": "rossville-ga-pd",
+    "hops": 2,
+    "path": [
+      "collegedale-tn-pd",
+      "lynn-haven-fl-pd",
+      "rossville-ga-pd"
+    ],
+    "path_display": "collegedale-tn-pd \u2192 lynn-haven-fl-pd \u2192 rossville-ga-pd"
+  },
+  {
+    "start_slug": "colma-ca-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "colma-ca-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "colma-ca-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "colma-ca-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "colma-ca-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "colma-ca-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "colma-ca-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "colma-ca-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "colma-ca-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "colonial-beach-va-pd",
+    "target_slug": "mount-vernon-oh-pd",
+    "hops": 2,
+    "path": [
+      "colonial-beach-va-pd",
+      "elgin-sc-pd",
+      "mount-vernon-oh-pd"
+    ],
+    "path_display": "colonial-beach-va-pd \u2192 elgin-sc-pd \u2192 mount-vernon-oh-pd"
+  },
+  {
+    "start_slug": "colonial-beach-va-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 3,
+    "path": [
+      "colonial-beach-va-pd",
+      "elgin-sc-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "colonial-beach-va-pd \u2192 elgin-sc-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "colonial-beach-va-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 3,
+    "path": [
+      "colonial-beach-va-pd",
+      "elgin-sc-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "colonial-beach-va-pd \u2192 elgin-sc-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "colonial-beach-va-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 3,
+    "path": [
+      "colonial-beach-va-pd",
+      "elgin-sc-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "colonial-beach-va-pd \u2192 elgin-sc-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "columbia-heights-mn-pd",
+    "target_slug": "arvada-co-pd",
+    "hops": 2,
+    "path": [
+      "columbia-heights-mn-pd",
+      "grand-island-ne-pd",
+      "arvada-co-pd"
+    ],
+    "path_display": "columbia-heights-mn-pd \u2192 grand-island-ne-pd \u2192 arvada-co-pd"
+  },
+  {
+    "start_slug": "columbia-heights-mn-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "columbia-heights-mn-pd",
+      "grand-island-ne-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "columbia-heights-mn-pd \u2192 grand-island-ne-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "columbia-heights-mn-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "columbia-heights-mn-pd",
+      "grand-island-ne-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "columbia-heights-mn-pd \u2192 grand-island-ne-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "corcoran-mn-pd",
+    "target_slug": "arvada-co-pd",
+    "hops": 2,
+    "path": [
+      "corcoran-mn-pd",
+      "grand-island-ne-pd",
+      "arvada-co-pd"
+    ],
+    "path_display": "corcoran-mn-pd \u2192 grand-island-ne-pd \u2192 arvada-co-pd"
+  },
+  {
+    "start_slug": "corcoran-mn-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "corcoran-mn-pd",
+      "grand-island-ne-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "corcoran-mn-pd \u2192 grand-island-ne-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "corcoran-mn-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "corcoran-mn-pd",
+      "grand-island-ne-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "corcoran-mn-pd \u2192 grand-island-ne-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "cranbury-nj-pd",
+    "target_slug": "mount-vernon-oh-pd",
+    "hops": 2,
+    "path": [
+      "cranbury-nj-pd",
+      "ottawa-county-oh-so",
+      "mount-vernon-oh-pd"
+    ],
+    "path_display": "cranbury-nj-pd \u2192 ottawa-county-oh-so \u2192 mount-vernon-oh-pd"
+  },
+  {
+    "start_slug": "cranbury-nj-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "cranbury-nj-pd",
+      "ottawa-county-oh-so",
+      "rossford-oh-pd"
+    ],
+    "path_display": "cranbury-nj-pd \u2192 ottawa-county-oh-so \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "des-moines-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "des-moines-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "des-moines-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "des-moines-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "des-moines-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "des-moines-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "des-moines-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "des-moines-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "des-moines-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "eatonville-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "eatonville-wa-pd",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "eatonville-wa-pd \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "eatonville-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "eatonville-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "eatonville-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "eatonville-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "eatonville-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "eatonville-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "eatonville-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "eatonville-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "eatonville-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "el-segundo-ca-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "el-segundo-ca-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "el-segundo-ca-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "el-segundo-ca-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "el-segundo-ca-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "el-segundo-ca-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "el-segundo-ca-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "el-segundo-ca-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "el-segundo-ca-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "elgin-sc-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "elgin-sc-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "elgin-sc-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "elgin-sc-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "elgin-sc-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "elgin-sc-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "elgin-sc-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "elgin-sc-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "elgin-sc-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "elk-river-mn-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "elk-river-mn-pd",
+      "owatonna-mn-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "elk-river-mn-pd \u2192 owatonna-mn-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "elk-river-mn-pd",
+    "target_slug": "clear-lake-ia-pd",
+    "hops": 2,
+    "path": [
+      "elk-river-mn-pd",
+      "stillwater-mn-pd",
+      "clear-lake-ia-pd"
+    ],
+    "path_display": "elk-river-mn-pd \u2192 stillwater-mn-pd \u2192 clear-lake-ia-pd"
+  },
+  {
+    "start_slug": "elk-river-mn-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "elk-river-mn-pd",
+      "stillwater-mn-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "elk-river-mn-pd \u2192 stillwater-mn-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "ellensburg-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "ellensburg-wa-pd",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "ellensburg-wa-pd \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "ellensburg-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "ellensburg-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "ellensburg-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "ellensburg-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "ellensburg-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "ellensburg-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "ellensburg-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "ellensburg-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "ellensburg-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "everett-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "everett-wa-pd",
+      "lake-stevens-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "everett-wa-pd \u2192 lake-stevens-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "goodyear-az-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "goodyear-az-pd",
+      "coldwater-mi-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "goodyear-az-pd \u2192 coldwater-mi-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "goodyear-az-pd",
+    "target_slug": "mount-vernon-oh-pd",
+    "hops": 2,
+    "path": [
+      "goodyear-az-pd",
+      "coldwater-mi-pd",
+      "mount-vernon-oh-pd"
+    ],
+    "path_display": "goodyear-az-pd \u2192 coldwater-mi-pd \u2192 mount-vernon-oh-pd"
+  },
+  {
+    "start_slug": "goodyear-az-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "goodyear-az-pd",
+      "coldwater-mi-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "goodyear-az-pd \u2192 coldwater-mi-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "grand-rapids-mn-pd",
+    "target_slug": "elk-river-mn-pd",
+    "hops": 2,
+    "path": [
+      "grand-rapids-mn-pd",
+      "owatonna-mn-pd",
+      "elk-river-mn-pd"
+    ],
+    "path_display": "grand-rapids-mn-pd \u2192 owatonna-mn-pd \u2192 elk-river-mn-pd"
+  },
+  {
+    "start_slug": "grand-rapids-mn-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "grand-rapids-mn-pd",
+      "owatonna-mn-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "grand-rapids-mn-pd \u2192 owatonna-mn-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "grand-traverse-county-mi-so",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "grand-traverse-county-mi-so",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "grand-traverse-county-mi-so \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "grand-traverse-county-mi-so",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "grand-traverse-county-mi-so",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "grand-traverse-county-mi-so \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "grandview-heights-oh-pd",
+    "target_slug": "mount-vernon-oh-pd",
+    "hops": 2,
+    "path": [
+      "grandview-heights-oh-pd",
+      "great-parks-of-hamilton-county-oh-pd",
+      "mount-vernon-oh-pd"
+    ],
+    "path_display": "grandview-heights-oh-pd \u2192 great-parks-of-hamilton-county-oh-pd \u2192 mount-vernon-oh-pd"
+  },
+  {
+    "start_slug": "grandview-heights-oh-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "grandview-heights-oh-pd",
+      "great-parks-of-hamilton-county-oh-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "grandview-heights-oh-pd \u2192 great-parks-of-hamilton-county-oh-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "grass-valley-ca-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "grass-valley-ca-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "grass-valley-ca-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "grass-valley-ca-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "grass-valley-ca-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "grass-valley-ca-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "grass-valley-ca-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "grass-valley-ca-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "grass-valley-ca-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "great-parks-of-hamilton-county-oh-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "great-parks-of-hamilton-county-oh-pd",
+      "bratenahl-oh-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "great-parks-of-hamilton-county-oh-pd \u2192 bratenahl-oh-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "idaho-falls-id-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "idaho-falls-id-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "idaho-falls-id-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "idaho-falls-id-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "idaho-falls-id-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "idaho-falls-id-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "idaho-falls-id-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "idaho-falls-id-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "idaho-falls-id-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "indianola-ia-pd",
+    "target_slug": "clear-lake-ia-pd",
+    "hops": 2,
+    "path": [
+      "indianola-ia-pd",
+      "urbandale-ia-pd",
+      "clear-lake-ia-pd"
+    ],
+    "path_display": "indianola-ia-pd \u2192 urbandale-ia-pd \u2192 clear-lake-ia-pd"
+  },
+  {
+    "start_slug": "indianola-ia-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 3,
+    "path": [
+      "indianola-ia-pd",
+      "urbandale-ia-pd",
+      "coldwater-mi-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "indianola-ia-pd \u2192 urbandale-ia-pd \u2192 coldwater-mi-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "indianola-ia-pd",
+    "target_slug": "mount-vernon-oh-pd",
+    "hops": 3,
+    "path": [
+      "indianola-ia-pd",
+      "urbandale-ia-pd",
+      "coldwater-mi-pd",
+      "mount-vernon-oh-pd"
+    ],
+    "path_display": "indianola-ia-pd \u2192 urbandale-ia-pd \u2192 coldwater-mi-pd \u2192 mount-vernon-oh-pd"
+  },
+  {
+    "start_slug": "indianola-ia-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 3,
+    "path": [
+      "indianola-ia-pd",
+      "urbandale-ia-pd",
+      "coldwater-mi-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "indianola-ia-pd \u2192 urbandale-ia-pd \u2192 coldwater-mi-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "jackson-mi-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "jackson-mi-pd",
+      "coldwater-mi-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "jackson-mi-pd \u2192 coldwater-mi-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "jackson-mi-pd",
+    "target_slug": "mount-vernon-oh-pd",
+    "hops": 2,
+    "path": [
+      "jackson-mi-pd",
+      "coldwater-mi-pd",
+      "mount-vernon-oh-pd"
+    ],
+    "path_display": "jackson-mi-pd \u2192 coldwater-mi-pd \u2192 mount-vernon-oh-pd"
+  },
+  {
+    "start_slug": "jackson-mi-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "jackson-mi-pd",
+      "coldwater-mi-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "jackson-mi-pd \u2192 coldwater-mi-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "jacksonville-ar-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "jacksonville-ar-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "jacksonville-ar-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "jacksonville-ar-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "jacksonville-ar-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "jacksonville-ar-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "jacksonville-ar-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "jacksonville-ar-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "jacksonville-ar-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "kent-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "kent-wa-pd",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "kent-wa-pd \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "kent-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "kent-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "kent-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "kent-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "kent-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "kent-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "kent-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "kent-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "kent-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "lake-stevens-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "lake-stevens-wa-pd",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "lake-stevens-wa-pd \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "lake-stevens-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "lake-stevens-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "lake-stevens-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "lake-stevens-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "lake-stevens-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "lake-stevens-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "lake-stevens-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "lake-stevens-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "lake-stevens-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "livonia-mi-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "livonia-mi-pd",
+      "coldwater-mi-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "livonia-mi-pd \u2192 coldwater-mi-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "livonia-mi-pd",
+    "target_slug": "mount-vernon-oh-pd",
+    "hops": 2,
+    "path": [
+      "livonia-mi-pd",
+      "coldwater-mi-pd",
+      "mount-vernon-oh-pd"
+    ],
+    "path_display": "livonia-mi-pd \u2192 coldwater-mi-pd \u2192 mount-vernon-oh-pd"
+  },
+  {
+    "start_slug": "livonia-mi-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "livonia-mi-pd",
+      "coldwater-mi-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "livonia-mi-pd \u2192 coldwater-mi-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "lockney-pd-tx",
+    "target_slug": "arvada-co-pd",
+    "hops": 2,
+    "path": [
+      "lockney-pd-tx",
+      "grand-island-ne-pd",
+      "arvada-co-pd"
+    ],
+    "path_display": "lockney-pd-tx \u2192 grand-island-ne-pd \u2192 arvada-co-pd"
+  },
+  {
+    "start_slug": "lockney-pd-tx",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "lockney-pd-tx",
+      "grand-island-ne-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "lockney-pd-tx \u2192 grand-island-ne-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "lockney-pd-tx",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "lockney-pd-tx",
+      "grand-island-ne-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "lockney-pd-tx \u2192 grand-island-ne-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "loveland-oh-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "loveland-oh-pd",
+      "coldwater-mi-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "loveland-oh-pd \u2192 coldwater-mi-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "loveland-oh-pd",
+    "target_slug": "mount-vernon-oh-pd",
+    "hops": 2,
+    "path": [
+      "loveland-oh-pd",
+      "coldwater-mi-pd",
+      "mount-vernon-oh-pd"
+    ],
+    "path_display": "loveland-oh-pd \u2192 coldwater-mi-pd \u2192 mount-vernon-oh-pd"
+  },
+  {
+    "start_slug": "loveland-oh-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "loveland-oh-pd",
+      "coldwater-mi-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "loveland-oh-pd \u2192 coldwater-mi-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "lynn-haven-fl-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "lynn-haven-fl-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "lynn-haven-fl-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "lynn-haven-fl-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "lynn-haven-fl-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "lynn-haven-fl-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "lynn-haven-fl-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "lynn-haven-fl-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "lynn-haven-fl-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "lynnwood-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "lynnwood-wa-pd",
+      "moses-lake-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "lynnwood-wa-pd \u2192 moses-lake-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "marysville-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "marysville-wa-pd",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "marysville-wa-pd \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "marysville-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "marysville-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "marysville-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "marysville-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "marysville-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "marysville-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "marysville-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "marysville-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "marysville-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "monroe-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "monroe-wa-pd",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "monroe-wa-pd \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "monroe-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "monroe-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "monroe-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "monroe-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "monroe-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "monroe-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "monroe-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "monroe-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "monroe-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "morgans-point-pd-tx",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "morgans-point-pd-tx",
+      "lockney-pd-tx",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "morgans-point-pd-tx \u2192 lockney-pd-tx \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "morgans-point-pd-tx",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "morgans-point-pd-tx",
+      "sterling-heights-mi-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "morgans-point-pd-tx \u2192 sterling-heights-mi-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "morgans-point-pd-tx",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "morgans-point-pd-tx",
+      "sterling-heights-mi-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "morgans-point-pd-tx \u2192 sterling-heights-mi-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "morton-il-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "morton-il-pd",
+      "coldwater-mi-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "morton-il-pd \u2192 coldwater-mi-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "morton-il-pd",
+    "target_slug": "mount-vernon-oh-pd",
+    "hops": 2,
+    "path": [
+      "morton-il-pd",
+      "coldwater-mi-pd",
+      "mount-vernon-oh-pd"
+    ],
+    "path_display": "morton-il-pd \u2192 coldwater-mi-pd \u2192 mount-vernon-oh-pd"
+  },
+  {
+    "start_slug": "morton-il-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "morton-il-pd",
+      "coldwater-mi-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "morton-il-pd \u2192 coldwater-mi-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "moses-lake-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "moses-lake-wa-pd",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "moses-lake-wa-pd \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "moses-lake-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "moses-lake-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "moses-lake-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "moses-lake-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "moses-lake-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "moses-lake-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "moses-lake-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "moses-lake-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "moses-lake-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "mount-dora-fl-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "mount-dora-fl-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "mount-dora-fl-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "mount-dora-fl-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "mount-dora-fl-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "mount-dora-fl-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "mount-dora-fl-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "mount-dora-fl-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "mount-dora-fl-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "mount-orab-oh-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "mount-orab-oh-pd",
+      "bratenahl-oh-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "mount-orab-oh-pd \u2192 bratenahl-oh-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "mount-vernon-oh-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "mount-vernon-oh-pd",
+      "coldwater-mi-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "mount-vernon-oh-pd \u2192 coldwater-mi-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "mount-vernon-oh-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "mount-vernon-oh-pd",
+      "coldwater-mi-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "mount-vernon-oh-pd \u2192 coldwater-mi-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "mount-vernon-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "mount-vernon-wa-pd",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "mount-vernon-wa-pd \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "mount-vernon-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "mount-vernon-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "mount-vernon-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "mount-vernon-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "mount-vernon-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "mount-vernon-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "mount-vernon-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "mount-vernon-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "mount-vernon-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "mt-juliet-tn-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "mt-juliet-tn-pd",
+      "coldwater-mi-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "mt-juliet-tn-pd \u2192 coldwater-mi-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "mt-juliet-tn-pd",
+    "target_slug": "mount-vernon-oh-pd",
+    "hops": 2,
+    "path": [
+      "mt-juliet-tn-pd",
+      "coldwater-mi-pd",
+      "mount-vernon-oh-pd"
+    ],
+    "path_display": "mt-juliet-tn-pd \u2192 coldwater-mi-pd \u2192 mount-vernon-oh-pd"
+  },
+  {
+    "start_slug": "mt-juliet-tn-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "mt-juliet-tn-pd",
+      "coldwater-mi-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "mt-juliet-tn-pd \u2192 coldwater-mi-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "mukilteo-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "mukilteo-wa-pd",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "mukilteo-wa-pd \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "mukilteo-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "mukilteo-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "mukilteo-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "mukilteo-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "mukilteo-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "mukilteo-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "mukilteo-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "mukilteo-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "mukilteo-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "newcastle-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "newcastle-wa-pd",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "newcastle-wa-pd \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "newcastle-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "newcastle-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "newcastle-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "newcastle-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "newcastle-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "newcastle-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "newcastle-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "newcastle-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "newcastle-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "olympia-wa-pd-",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "olympia-wa-pd-",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "olympia-wa-pd- \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "olympia-wa-pd-",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "olympia-wa-pd-",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "olympia-wa-pd- \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "olympia-wa-pd-",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "olympia-wa-pd-",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "olympia-wa-pd- \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "olympia-wa-pd-",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "olympia-wa-pd-",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "olympia-wa-pd- \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "ottawa-county-oh-so",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "ottawa-county-oh-so",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "ottawa-county-oh-so \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "ottawa-county-oh-so",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "ottawa-county-oh-so",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "ottawa-county-oh-so \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "ottawa-county-oh-so",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "ottawa-county-oh-so",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "ottawa-county-oh-so \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "owatonna-mn-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "owatonna-mn-pd",
+      "coldwater-mi-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "owatonna-mn-pd \u2192 coldwater-mi-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "owatonna-mn-pd",
+    "target_slug": "mount-vernon-oh-pd",
+    "hops": 2,
+    "path": [
+      "owatonna-mn-pd",
+      "coldwater-mi-pd",
+      "mount-vernon-oh-pd"
+    ],
+    "path_display": "owatonna-mn-pd \u2192 coldwater-mi-pd \u2192 mount-vernon-oh-pd"
+  },
+  {
+    "start_slug": "owatonna-mn-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "owatonna-mn-pd",
+      "coldwater-mi-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "owatonna-mn-pd \u2192 coldwater-mi-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "palm-springs-ca-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "palm-springs-ca-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "palm-springs-ca-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "palm-springs-ca-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "palm-springs-ca-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "palm-springs-ca-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "palm-springs-ca-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "palm-springs-ca-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "palm-springs-ca-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "palo-alto-ca-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 3,
+    "path": [
+      "palo-alto-ca-pd",
+      "antioch-ca-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "palo-alto-ca-pd \u2192 antioch-ca-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "palo-alto-ca-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 3,
+    "path": [
+      "palo-alto-ca-pd",
+      "antioch-ca-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "palo-alto-ca-pd \u2192 antioch-ca-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "palo-alto-ca-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 3,
+    "path": [
+      "palo-alto-ca-pd",
+      "antioch-ca-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "palo-alto-ca-pd \u2192 antioch-ca-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "park-city-ks-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "park-city-ks-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "park-city-ks-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "park-city-ks-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "park-city-ks-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "park-city-ks-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "park-city-ks-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "park-city-ks-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "park-city-ks-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "prosser-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "prosser-wa-pd",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "prosser-wa-pd \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "prosser-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "prosser-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "prosser-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "prosser-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "prosser-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "prosser-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "prosser-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "prosser-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "prosser-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "renton-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "renton-wa-pd",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "renton-wa-pd \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "renton-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "renton-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "renton-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "renton-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "renton-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "renton-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "renton-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "renton-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "renton-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "richland-pd-wa",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "richland-pd-wa",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "richland-pd-wa \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "richland-pd-wa",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "richland-pd-wa",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "richland-pd-wa \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "richland-pd-wa",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "richland-pd-wa",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "richland-pd-wa \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "richland-pd-wa",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "richland-pd-wa",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "richland-pd-wa \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "rockport-tx-pd-",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "rockport-tx-pd-",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "rockport-tx-pd- \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "rockport-tx-pd-",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "rockport-tx-pd-",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "rockport-tx-pd- \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "rockport-tx-pd-",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "rockport-tx-pd-",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "rockport-tx-pd- \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "roseville-mn-pd",
+    "target_slug": "elk-river-mn-pd",
+    "hops": 2,
+    "path": [
+      "roseville-mn-pd",
+      "corcoran-mn-pd",
+      "elk-river-mn-pd"
+    ],
+    "path_display": "roseville-mn-pd \u2192 corcoran-mn-pd \u2192 elk-river-mn-pd"
+  },
+  {
+    "start_slug": "roseville-mn-pd",
+    "target_slug": "arvada-co-pd",
+    "hops": 2,
+    "path": [
+      "roseville-mn-pd",
+      "grand-island-ne-pd",
+      "arvada-co-pd"
+    ],
+    "path_display": "roseville-mn-pd \u2192 grand-island-ne-pd \u2192 arvada-co-pd"
+  },
+  {
+    "start_slug": "roseville-mn-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "roseville-mn-pd",
+      "grand-island-ne-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "roseville-mn-pd \u2192 grand-island-ne-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "roseville-mn-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "roseville-mn-pd",
+      "grand-island-ne-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "roseville-mn-pd \u2192 grand-island-ne-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "rossford-oh-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "rossford-oh-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "rossford-oh-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "rossford-oh-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "rossford-oh-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "rossford-oh-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "rossville-ga-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 3,
+    "path": [
+      "rossville-ga-pd",
+      "lynn-haven-fl-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "rossville-ga-pd \u2192 lynn-haven-fl-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "rossville-ga-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 3,
+    "path": [
+      "rossville-ga-pd",
+      "lynn-haven-fl-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "rossville-ga-pd \u2192 lynn-haven-fl-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "rossville-ga-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 3,
+    "path": [
+      "rossville-ga-pd",
+      "lynn-haven-fl-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "rossville-ga-pd \u2192 lynn-haven-fl-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "seatac-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "seatac-wa-pd",
+      "centralia-pd-wa",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "seatac-wa-pd \u2192 centralia-pd-wa \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "selah-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "selah-wa-pd",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "selah-wa-pd \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "selah-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "selah-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "selah-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "selah-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "selah-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "selah-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "selah-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "selah-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "selah-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "shelton-pd-wa",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "shelton-pd-wa",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "shelton-pd-wa \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "shelton-pd-wa",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "shelton-pd-wa",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "shelton-pd-wa \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "shelton-pd-wa",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "shelton-pd-wa",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "shelton-pd-wa \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "shelton-pd-wa",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "shelton-pd-wa",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "shelton-pd-wa \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "snohomish-county-wa-so-",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "snohomish-county-wa-so-",
+      "marysville-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "snohomish-county-wa-so- \u2192 marysville-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "snohomish-county-wa-so-",
+    "target_slug": "everett-wa-pd",
+    "hops": 2,
+    "path": [
+      "snohomish-county-wa-so-",
+      "marysville-wa-pd",
+      "everett-wa-pd"
+    ],
+    "path_display": "snohomish-county-wa-so- \u2192 marysville-wa-pd \u2192 everett-wa-pd"
+  },
+  {
+    "start_slug": "springdale-oh-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "springdale-oh-pd",
+      "coldwater-mi-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "springdale-oh-pd \u2192 coldwater-mi-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "springdale-oh-pd",
+    "target_slug": "mount-vernon-oh-pd",
+    "hops": 2,
+    "path": [
+      "springdale-oh-pd",
+      "coldwater-mi-pd",
+      "mount-vernon-oh-pd"
+    ],
+    "path_display": "springdale-oh-pd \u2192 coldwater-mi-pd \u2192 mount-vernon-oh-pd"
+  },
+  {
+    "start_slug": "springdale-oh-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "springdale-oh-pd",
+      "coldwater-mi-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "springdale-oh-pd \u2192 coldwater-mi-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "springfield-il-pd",
+    "target_slug": "arvada-co-pd",
+    "hops": 2,
+    "path": [
+      "springfield-il-pd",
+      "grand-island-ne-pd",
+      "arvada-co-pd"
+    ],
+    "path_display": "springfield-il-pd \u2192 grand-island-ne-pd \u2192 arvada-co-pd"
+  },
+  {
+    "start_slug": "springfield-il-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "springfield-il-pd",
+      "grand-island-ne-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "springfield-il-pd \u2192 grand-island-ne-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "springfield-il-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "springfield-il-pd",
+      "grand-island-ne-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "springfield-il-pd \u2192 grand-island-ne-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "springfield-or-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "springfield-or-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "springfield-or-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "springfield-or-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "springfield-or-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "springfield-or-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "springfield-or-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "springfield-or-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "springfield-or-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "st-louis-county-mn-so",
+    "target_slug": "elk-river-mn-pd",
+    "hops": 2,
+    "path": [
+      "st-louis-county-mn-so",
+      "columbia-heights-mn-pd",
+      "elk-river-mn-pd"
+    ],
+    "path_display": "st-louis-county-mn-so \u2192 columbia-heights-mn-pd \u2192 elk-river-mn-pd"
+  },
+  {
+    "start_slug": "stanwood-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "stanwood-wa-pd",
+      "centralia-pd-wa",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "stanwood-wa-pd \u2192 centralia-pd-wa \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "sultan-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "sultan-wa-pd",
+      "lake-stevens-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "sultan-wa-pd \u2192 lake-stevens-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "sultan-wa-pd",
+    "target_slug": "everett-wa-pd",
+    "hops": 2,
+    "path": [
+      "sultan-wa-pd",
+      "lake-stevens-wa-pd",
+      "everett-wa-pd"
+    ],
+    "path_display": "sultan-wa-pd \u2192 lake-stevens-wa-pd \u2192 everett-wa-pd"
+  },
+  {
+    "start_slug": "sumner-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "sumner-wa-pd",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "sumner-wa-pd \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "sumner-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "sumner-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "sumner-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "sumner-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "sumner-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "sumner-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "sumner-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "sumner-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "sumner-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "toppenish-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "toppenish-wa-pd",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "toppenish-wa-pd \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "toppenish-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "toppenish-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "toppenish-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "toppenish-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "toppenish-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "toppenish-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "toppenish-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "toppenish-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "toppenish-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "tukwila-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "tukwila-wa-pd",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "tukwila-wa-pd \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "tukwila-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "tukwila-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "tukwila-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "tukwila-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "tukwila-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "tukwila-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "tukwila-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "tukwila-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "tukwila-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "upland-ca-pd-",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "upland-ca-pd-",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "upland-ca-pd- \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "upland-ca-pd-",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "upland-ca-pd-",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "upland-ca-pd- \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "upland-ca-pd-",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "upland-ca-pd-",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "upland-ca-pd- \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "urbandale-ia-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "urbandale-ia-pd",
+      "coldwater-mi-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "urbandale-ia-pd \u2192 coldwater-mi-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "urbandale-ia-pd",
+    "target_slug": "mount-vernon-oh-pd",
+    "hops": 2,
+    "path": [
+      "urbandale-ia-pd",
+      "coldwater-mi-pd",
+      "mount-vernon-oh-pd"
+    ],
+    "path_display": "urbandale-ia-pd \u2192 coldwater-mi-pd \u2192 mount-vernon-oh-pd"
+  },
+  {
+    "start_slug": "urbandale-ia-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "urbandale-ia-pd",
+      "coldwater-mi-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "urbandale-ia-pd \u2192 coldwater-mi-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "vacaville-ca-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "vacaville-ca-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "vacaville-ca-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "vacaville-ca-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "vacaville-ca-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "vacaville-ca-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "vacaville-ca-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "vacaville-ca-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "vacaville-ca-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "walla-walla-wa-pd",
+    "target_slug": "des-moines-wa-pd",
+    "hops": 2,
+    "path": [
+      "walla-walla-wa-pd",
+      "auburn-wa-pd",
+      "des-moines-wa-pd"
+    ],
+    "path_display": "walla-walla-wa-pd \u2192 auburn-wa-pd \u2192 des-moines-wa-pd"
+  },
+  {
+    "start_slug": "walla-walla-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "walla-walla-wa-pd",
+      "auburn-wa-pd",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "walla-walla-wa-pd \u2192 auburn-wa-pd \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "walla-walla-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "walla-walla-wa-pd",
+      "auburn-wa-pd",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "walla-walla-wa-pd \u2192 auburn-wa-pd \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "walla-walla-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "walla-walla-wa-pd",
+      "auburn-wa-pd",
+      "rossford-oh-pd"
+    ],
+    "path_display": "walla-walla-wa-pd \u2192 auburn-wa-pd \u2192 rossford-oh-pd"
+  },
+  {
+    "start_slug": "yakima-wa-pd",
+    "target_slug": "grand-traverse-county-mi-so",
+    "hops": 2,
+    "path": [
+      "yakima-wa-pd",
+      "-el-cajon-pd-ca",
+      "grand-traverse-county-mi-so"
+    ],
+    "path_display": "yakima-wa-pd \u2192 -el-cajon-pd-ca \u2192 grand-traverse-county-mi-so"
+  },
+  {
+    "start_slug": "yakima-wa-pd",
+    "target_slug": "rockport-tx-pd-",
+    "hops": 2,
+    "path": [
+      "yakima-wa-pd",
+      "-el-cajon-pd-ca",
+      "rockport-tx-pd-"
+    ],
+    "path_display": "yakima-wa-pd \u2192 -el-cajon-pd-ca \u2192 rockport-tx-pd-"
+  },
+  {
+    "start_slug": "yakima-wa-pd",
+    "target_slug": "rossford-oh-pd",
+    "hops": 2,
+    "path": [
+      "yakima-wa-pd",
+      "-el-cajon-pd-ca",
+      "rossford-oh-pd"
+    ],
+    "path_display": "yakima-wa-pd \u2192 -el-cajon-pd-ca \u2192 rossford-oh-pd"
+  }
+]

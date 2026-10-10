@@ -1,0 +1,36 @@
+{{ define "main" }}
+{{ $chains := index .Site.Data "indirect_chains" }}
+
+<div style="margin-bottom: 2rem;">
+  <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 0.5rem;">
+    <span class="badge badge-warning">Network Leakage Graph</span>
+    <h1 style="font-size: 2rem;">Interstate Multi-Hop Sharing Chains ({{ len $chains }})</h1>
+  </div>
+  <p style="color: var(--text-muted); max-width: 900px;">
+    Tracing multi-hop data sharing paths across state boundaries. These paths demonstrate how ALPR plate reads collected in sanctuary jurisdictions (bound by state laws such as Washington's Keep Washington Working Act) flow through intermediary sharing nodes to partner agencies nationwide that have no Flock-level immigration prohibitions.
+  </p>
+</div>
+
+<div class="card" style="padding: 0; overflow-x: auto;">
+  <table>
+    <thead>
+      <tr>
+        <th>Sanctuary Origin</th>
+        <th>Target Partner</th>
+        <th>Hops</th>
+        <th>Data Flow Path</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range $chains }}
+      <tr>
+        <td style="font-weight: 600;"><a href="{{ printf "/agencies/%s/" .start_slug | relURL }}" style="color: var(--accent); text-decoration: none;">{{ .start_slug }}</a></td>
+        <td><a href="{{ printf "/agencies/%s/" .target_slug | relURL }}" style="color: var(--text-muted); text-decoration: none;">{{ .target_slug }}</a></td>
+        <td><span class="badge badge-warning">{{ .hops }} Hops</span></td>
+        <td><code>{{ .path_display }}</code></td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>
+{{ end }}

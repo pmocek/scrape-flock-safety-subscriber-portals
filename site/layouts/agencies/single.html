@@ -1,0 +1,46 @@
+{{ define "main" }}
+<div style="margin-bottom: 1.5rem;">
+  <a href="{{ "/agencies/" | relURL }}" style="color: var(--text-muted); text-decoration: none;">← Back to Agency Directory</a>
+</div>
+
+<div class="card" style="border-left: 4px solid var(--accent);">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
+    <div>
+      <h1 style="font-size: 2rem; margin-bottom: 0.5rem;">{{ .Title }}</h1>
+      <p style="color: var(--text-muted); font-size: 0.9rem;">Portal Slug: <code>{{ .Params.slug }}</code> • Retention: {{ .Params.retention_days }} days</p>
+    </div>
+    <div>
+      {{ if eq .Params.has_immigration_prohibition true }}
+        <span class="badge badge-success" style="font-size: 0.875rem; padding: 0.5rem 1rem;">Immigration Prohibition Flagged</span>
+      {{ else }}
+        <span class="badge badge-danger" style="font-size: 0.875rem; padding: 0.5rem 1rem;">No Immigration Prohibition</span>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+<div class="grid" style="margin-bottom: 2rem;">
+  <div class="card">
+    <div class="stat-num">{{ .Params.total_cameras }}</div>
+    <div class="stat-label">Active Cameras</div>
+  </div>
+  <div class="card">
+    <div class="stat-num">{{ lang.FormatNumber 0 .Params.vehicles_30d }}</div>
+    <div class="stat-label">Plate Reads (30 Days)</div>
+  </div>
+  <div class="card">
+    <div class="stat-num">{{ .Params.searches_30d }}</div>
+    <div class="stat-label">Officer Searches</div>
+  </div>
+  <div class="card">
+    <div class="stat-num">{{ .Params.hotlist_hits_30d }}</div>
+    <div class="stat-label">Hotlist Hits</div>
+  </div>
+</div>
+
+<div class="card">
+  <div style="line-height: 1.8;">
+    {{ .Content }}
+  </div>
+</div>
+{{ end }}

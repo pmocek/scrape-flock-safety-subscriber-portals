@@ -1,0 +1,20 @@
+---
+title: "Upper Allen Township Pa Pd"
+slug: "upper-allen-township-pa-pd"
+vehicles_30d: 0
+total_cameras: 0
+searches_30d: 0
+hotlist_hits_30d: 0
+retention_days: "N/A"
+has_immigration_prohibition: false
+sharing_partners_count: 0
+last_updated: "2026-10-07T23:10:04.450192+00:00"
+---
+
+### Policy Overview
+* **Prohibited Uses**: None specified
+* **Acceptable Use**: Standard law enforcement usage
+* **Access Policy**: Reason required
+
+### Direct External Sharing Network (0 Agencies)
+

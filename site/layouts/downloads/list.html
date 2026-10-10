@@ -1,0 +1,34 @@
+{{ define "main" }}
+<div style="margin-bottom: 2rem;">
+  <h1>Raw Data & Dataset Exports</h1>
+  <p style="color: var(--text-muted); margin-top: 0.5rem;">
+    Download raw aggregated datasets, statistics files, and NCIC policy analysis indexes for research, journalism, and community advocacy.
+  </p>
+</div>
+
+<div class="grid">
+  <div class="card">
+    <h3 style="color: var(--accent); margin-bottom: 0.5rem;">Maass Contradictions Dataset (JSON)</h3>
+    <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1rem;">
+      Structured JSON export of all 86 agencies exhibiting policy contradictions between portal statements and NCIC national hotlist queries.
+    </p>
+    <a href="{{ "/data/contradictions.json" | relURL }}" target="_blank" class="badge badge-success" style="padding: 0.5rem 1rem; text-decoration: none;">Download contradictions.json ↓</a>
+  </div>
+
+  <div class="card">
+    <h3 style="color: var(--accent); margin-bottom: 0.5rem;">Interstate Sharing Chains (JSON)</h3>
+    <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1rem;">
+      Adjacency list and path exports for all 127 multi-hop inter-state data sharing chains.
+    </p>
+    <a href="{{ "/data/indirect_chains.json" | relURL }}" target="_blank" class="badge badge-success" style="padding: 0.5rem 1rem; text-decoration: none;">Download indirect_chains.json ↓</a>
+  </div>
+
+  <div class="card">
+    <h3 style="color: var(--accent); margin-bottom: 0.5rem;">Nationwide Summary Metrics (JSON)</h3>
+    <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1rem;">
+      Aggregated counts across 456 scraped portals (2,242 cameras, 13.2M+ vehicle reads, search queries, and hotlist hits).
+    </p>
+    <a href="{{ "/data/summary.json" | relURL }}" target="_blank" class="badge badge-success" style="padding: 0.5rem 1rem; text-decoration: none;">Download summary.json ↓</a>
+  </div>
+</div>
+{{ end }}

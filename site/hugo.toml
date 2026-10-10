@@ -1,0 +1,34 @@
+baseURL = 'https://pmocek.github.io/scrape-flock-safety-subscriber-portals/'
+languageCode = 'en-us'
+title = 'ALPR Portal Transparency Project'
+
+[params]
+  description = 'Nationwide surveillance oversight dashboard and dataset tracking ALPR subscriber portals, NCIC hotlist contradictions, and multi-hop data sharing chains.'
+  alpr_week_date = 'August 17, 2026'
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    identifier = 'agencies'
+    name = 'Agency Directory'
+    url = '/agencies/'
+    weight = 2
+  [[menu.main]]
+    identifier = 'contradictions'
+    name = 'Maass Contradictions (86)'
+    url = '/contradictions/'
+    weight = 3
+  [[menu.main]]
+    identifier = 'sharing'
+    name = 'Sharing Chains (127)'
+    url = '/sharing-network/'
+    weight = 4
+  [[menu.main]]
+    identifier = 'downloads'
+    name = 'Data Exports'
+    url = '/downloads/'
+    weight = 5

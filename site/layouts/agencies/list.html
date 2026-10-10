@@ -1,0 +1,60 @@
+{{ define "main" }}
+<div style="margin-bottom: 2rem;">
+  <h1>Scraped Agency Directory ({{ len .Pages }})</h1>
+  <p style="color: var(--text-muted); margin-top: 0.5rem;">
+    Filter and inspect nationwide Flock Safety transparency portals. Search by agency name, state, or policy status.
+  </p>
+</div>
+
+<input type="search" id="agencySearch" placeholder="Search agencies by name (e.g. Puyallup, Vacaville, Kent)..." onkeyup="filterAgencies()">
+
+<div class="card" style="padding: 0; overflow-x: auto;">
+  <table id="agenciesTable">
+    <thead>
+      <tr>
+        <th>Agency</th>
+        <th>Cameras</th>
+        <th>30-Day Plate Reads</th>
+        <th>Officer Searches</th>
+        <th>Sharing Partners</th>
+        <th>Immigration Policy</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range .Pages }}
+      <tr>
+        <td><a href="{{ .RelPermalink }}" style="color: var(--accent); font-weight: 600; text-decoration: none;">{{ .Title }}</a></td>
+        <td>{{ .Params.total_cameras }}</td>
+        <td>{{ lang.FormatNumber 0 .Params.vehicles_30d }}</td>
+        <td>{{ .Params.searches_30d }}</td>
+        <td>{{ .Params.sharing_partners_count }}</td>
+        <td>
+          {{ if eq .Params.has_immigration_prohibition true }}
+            <span class="badge badge-success">Prohibits</span>
+          {{ else }}
+            <span class="badge badge-danger">No Prohibition</span>
+          {{ end }}
+        </td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>
+
+<script>
+function filterAgencies() {
+  var input = document.getElementById("agencySearch");
+  var filter = input.value.toLowerCase();
+  var rows = document.querySelectorAll("#agenciesTable tbody tr");
+  
+  rows.forEach(function(row) {
+    var text = row.textContent.toLowerCase();
+    if (text.indexOf(filter) > -1) {
+      row.style.display = "";
+    } else {
+      row.style.display = "none";
+    }
+  });
+}
+</script>
+{{ end }}

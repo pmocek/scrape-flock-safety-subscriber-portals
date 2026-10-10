@@ -1,0 +1,40 @@
+{{ define "main" }}
+{{ $contradictions := index .Site.Data "contradictions" }}
+
+<div style="margin-bottom: 2rem;">
+  <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 0.5rem;">
+    <span class="badge badge-danger">Policy Contradiction Index</span>
+    <h1 style="font-size: 2rem;">Maass Contradictions ({{ len $contradictions }} Agencies)</h1>
+  </div>
+  <p style="color: var(--text-muted); max-width: 900px;">
+    Documenting law enforcement agencies that explicitly state in their public Flock Safety transparency portal policy that ALPR technology is <strong>prohibited for immigration enforcement</strong>, while simultaneously subscribing to <strong>NCIC National Hotlists</strong> (which query the FBI NCIC Immigration Violator File maintained by ICE).
+  </p>
+</div>
+
+<div class="card" style="padding: 0; overflow-x: auto;">
+  <table>
+    <thead>
+      <tr>
+        <th>Agency Name</th>
+        <th>Portal Slug</th>
+        <th>Cameras</th>
+        <th>30-Day Plate Reads</th>
+        <th>Hotlists Subscribed</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range $contradictions }}
+      <tr>
+        <td style="font-weight: 600;">{{ .name }}</td>
+        <td><code>{{ .slug }}</code></td>
+        <td>{{ .cameras }}</td>
+        <td>{{ lang.FormatNumber 0 .vehicles_30d }}</td>
+        <td style="color: var(--text-muted); font-size: 0.85rem;">{{ .hotlists }}</td>
+        <td><a href="{{ printf "/agencies/%s/" .slug | relURL }}" style="color: var(--accent); text-decoration: none;">View Profile →</a></td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>
+{{ end }}

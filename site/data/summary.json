@@ -1,0 +1,14 @@
+{
+  "stats": {
+    "scraped_portals_count": 765,
+    "total_cameras": 3079,
+    "total_vehicles_30d": 16830838,
+    "total_searches_30d": 17880,
+    "total_hotlist_hits_30d": 721078,
+    "prohibiting_agencies_count": 150,
+    "non_prohibiting_agencies_count": 615
+  },
+  "maass_contradictions_count": 136,
+  "indirect_chains_count": 245,
+  "candidate_queue_count": 5972
+}

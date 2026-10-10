@@ -1,0 +1,60 @@
+{{ define "main" }}
+{{ $summary := index .Site.Data "summary" }}
+<div class="card" style="border-left: 4px solid var(--accent); background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+    <div>
+      <span class="badge badge-warning" style="margin-bottom: 0.5rem;">ALPR Week of Action Spotlight</span>
+      <h1 style="font-size: 2rem; margin-bottom: 0.5rem;">Nationwide ALPR Portal Oversight</h1>
+      <p style="color: var(--text-muted); max-width: 800px;">
+        Tracking automated license plate reader (ALPR) subscriber portals, NCIC national hotlist policy contradictions, and inter-state data sharing leakage across police departments nationwide.
+      </p>
+    </div>
+    <div>
+      <a href="{{ "/contradictions/" | relURL }}" class="badge badge-danger" style="padding: 0.75rem 1.25rem; font-size: 0.9rem; text-decoration: none;">View Maass Contradictions ({{ $summary.maass_contradictions_count }}) →</a>
+    </div>
+  </div>
+</div>
+
+<div class="grid" style="margin-bottom: 2rem;">
+  <div class="card">
+    <div class="stat-num">{{ lang.FormatNumber 0 $summary.stats.scraped_portals_count }}</div>
+    <div class="stat-label">Scraped Portals</div>
+  </div>
+  <div class="card">
+    <div class="stat-num">{{ lang.FormatNumber 0 $summary.stats.total_cameras }}</div>
+    <div class="stat-label">Active ALPR Cameras</div>
+  </div>
+  <div class="card">
+    <div class="stat-num">{{ lang.FormatNumber 0 $summary.stats.total_vehicles_30d }}</div>
+    <div class="stat-label">Plate Reads (30-Day Window)</div>
+  </div>
+  <div class="card">
+    <div class="stat-num" style="color: var(--danger);">{{ $summary.maass_contradictions_count }}</div>
+    <div class="stat-label">Maass Contradictions</div>
+  </div>
+</div>
+
+<div class="grid">
+  <div class="card">
+    <h2 style="margin-bottom: 1rem; color: var(--accent);">Key Oversight Findings</h2>
+    <ul style="padding-left: 1.25rem; color: var(--text-muted); line-height: 1.8;">
+      <li><strong style="color: var(--text);">79.4% of Portals ({{ $summary.stats.non_prohibiting_agencies_count }} Agencies)</strong> lack explicit prohibitions against using ALPR plate data for immigration enforcement in their public policies.</li>
+      <li><strong style="color: var(--text);">86 Agencies</strong> exhibit the Maass Contradiction: claiming local immigration prohibitions while querying NCIC National Hotlists (including the FBI NCIC Immigration Violator File).</li>
+      <li><strong style="color: var(--text);">{{ $summary.indirect_chains_count }} Multi-Hop Sharing Chains</strong> leak surveillance data from sanctuary jurisdictions to non-prohibiting partners across state lines.</li>
+    </ul>
+  </div>
+
+  <div class="card" style="border-left: 4px solid var(--warning);">
+    <h2 style="margin-bottom: 1rem; color: var(--warning);">Case Study Spotlight: Puyallup WA PD</h2>
+    <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem;">
+      Puyallup, WA operates <strong>45 ALPR cameras</strong> scanning <strong>658,430 plates every 30 days</strong>. Puyallup PD actively stacks ALPR real-time alerts with autonomous <strong>Drone as a First Responder (DFR)</strong> dispatch and <strong>StarChase GPS dart tracking</strong>.
+    </p>
+    <p style="color: var(--text-muted); font-size: 0.95rem;">
+      Puyallup shares data directly with 80+ partner agencies, serving as a primary regional sharing node feeding multi-hop chains nationwide.
+    </p>
+    <div style="margin-top: 1rem;">
+      <a href="{{ "/agencies/puyallup-wa-pd/" | relURL }}" style="color: var(--accent); font-weight: 600; text-decoration: none;">Explore Puyallup WA PD Portal Profile →</a>
+    </div>
+  </div>
+</div>
+{{ end }}

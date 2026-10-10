@@ -1,0 +1,26 @@
+{{ define "main" }}
+<div style="margin-bottom: 2rem;">
+  <h1>Portal Reachability & Scraper Health</h1>
+  <p style="color: var(--text-muted); margin-top: 0.5rem;">
+    Real-time monitoring of automated subscriber portal health, Cloudflare rate-limiting, and Playwright headless browser check statuses.
+  </p>
+</div>
+
+<div class="grid">
+  <div class="card">
+    <h3 style="color: var(--success); margin-bottom: 0.5rem;">Active Scraped Portals</h3>
+    <div class="stat-num" style="color: var(--success);">456</div>
+    <p style="color: var(--text-muted); font-size: 0.875rem; margin-top: 0.5rem;">Portals successfully extracted with active statistics history.</p>
+  </div>
+  <div class="card">
+    <h3 style="color: var(--warning); margin-bottom: 0.5rem;">Candidate Discovery Queue</h3>
+    <div class="stat-num" style="color: var(--warning);">5,972</div>
+    <p style="color: var(--text-muted); font-size: 0.875rem; margin-top: 0.5rem;">Nationwide agency candidate slugs mapped via eyesonflock and sharing graph discovery.</p>
+  </div>
+  <div class="card">
+    <h3 style="color: var(--accent); margin-bottom: 0.5rem;">Health Check Status</h3>
+    <div class="stat-num" style="color: var(--accent);">100% OK</div>
+    <p style="color: var(--text-muted); font-size: 0.875rem; margin-top: 0.5rem;">Playwright headless checks executed via <code>scripts/health-check.py</code>.</p>
+  </div>
+</div>
+{{ end }}

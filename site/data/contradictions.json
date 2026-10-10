@@ -1,0 +1,1090 @@
+[
+  {
+    "slug": "-el-cajon-pd-ca",
+    "name": " El Cajon Pd Ca",
+    "cameras": 103,
+    "vehicles_30d": 820467,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "adrian-mi-pd",
+    "name": "Adrian Mi Pd",
+    "cameras": 10,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "antioch-ca-pd",
+    "name": "Antioch Ca Pd",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), or personal use. We do NOT share with agencies outside of CA or Federal agencies.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "arlington-pd-wa",
+    "name": "Arlington Pd Wa",
+    "cameras": 22,
+    "vehicles_30d": 292302,
+    "prohibited_uses": "Traffic enforcement, immigration enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion) or personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "atherton-ca-pd",
+    "name": "Atherton Ca Pd",
+    "cameras": 53,
+    "vehicles_30d": 366060,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "auburn-ma-pd",
+    "name": "Auburn Ma Pd",
+    "cameras": 4,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, reproductive care, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "auburn-wa-pd",
+    "name": "Auburn Wa Pd",
+    "cameras": 36,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "beverly-ma-pd",
+    "name": "Beverly Ma Pd",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, reproductive care, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "bonney-lake-wa-pd",
+    "name": "Bonney Lake Wa Pd",
+    "cameras": 22,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "bratenahl-oh-pd",
+    "name": "Bratenahl Oh Pd",
+    "cameras": 10,
+    "vehicles_30d": 51147,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "brawley-ca-pd",
+    "name": "Brawley Ca Pd",
+    "cameras": 41,
+    "vehicles_30d": 120306,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "bridgewater-va-pd",
+    "name": "Bridgewater Va Pd",
+    "cameras": 5,
+    "vehicles_30d": 17782,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "brimfield-township-oh-pd",
+    "name": "Brimfield Township Oh Pd",
+    "cameras": 4,
+    "vehicles_30d": 216189,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "broadway-va-pd",
+    "name": "Broadway Va Pd",
+    "cameras": 8,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "centralia-pd-wa",
+    "name": "Centralia Pd Wa",
+    "cameras": 17,
+    "vehicles_30d": 169078,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "city-of-newman-ca-pd",
+    "name": "City Of Newman Ca Pd",
+    "cameras": 8,
+    "vehicles_30d": 8,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "city-of-westlake-tx",
+    "name": "City Of Westlake Tx",
+    "cameras": 21,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "cohasset-ma-pd",
+    "name": "Cohasset Ma Pd",
+    "cameras": 4,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "coldwater-mi-pd",
+    "name": "Coldwater Mi Pd",
+    "cameras": 5,
+    "vehicles_30d": 97543,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "college-place-wa-pd",
+    "name": "College Place Wa Pd",
+    "cameras": 8,
+    "vehicles_30d": 66524,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "college-station-tx-pd",
+    "name": "College Station Tx Pd",
+    "cameras": 75,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "colma-ca-pd",
+    "name": "Colma Ca Pd",
+    "cameras": 11,
+    "vehicles_30d": 356922,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "colonial-beach-va-pd",
+    "name": "Colonial Beach Va Pd",
+    "cameras": 4,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "colonial-heights-va-pd",
+    "name": "Colonial Heights Va Pd",
+    "cameras": 13,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "columbia-heights-mn-pd",
+    "name": "Columbia Heights Mn Pd",
+    "cameras": 5,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "corcoran-mn-pd",
+    "name": "Corcoran Mn Pd",
+    "cameras": 9,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "cranbury-nj-pd",
+    "name": "Cranbury Nj Pd",
+    "cameras": 12,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "darien-ct-pd",
+    "name": "Darien Ct Pd",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, reproductive health care, gender-affirming health services, or any health care services that are legal in the State of Connecticut, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "eatonville-wa-pd",
+    "name": "Eatonville Wa Pd",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "el-dorado-ks-pd",
+    "name": "El Dorado Ks Pd",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "el-paso-co-so",
+    "name": "El Paso Co So",
+    "cameras": 32,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "el-segundo-ca-pd",
+    "name": "El Segundo Ca Pd",
+    "cameras": 17,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "elgin-sc-pd",
+    "name": "Elgin Sc Pd",
+    "cameras": 2,
+    "vehicles_30d": 66565,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "elizabethtown-ky-pd",
+    "name": "Elizabethtown Ky Pd",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "golf-manor-oh-pd",
+    "name": "Golf Manor Oh Pd",
+    "cameras": 8,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "goochland-county-va-so",
+    "name": "Goochland County Va So",
+    "cameras": 11,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "goodyear-az-pd",
+    "name": "Goodyear Az Pd",
+    "cameras": 33,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "graham-nc-pd",
+    "name": "Graham Nc Pd",
+    "cameras": 6,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "grand-island-ne-pd",
+    "name": "Grand Island Ne Pd",
+    "cameras": 9,
+    "vehicles_30d": 156983,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "grand-rapids-mi-pd",
+    "name": "Grand Rapids Mi Pd",
+    "cameras": 29,
+    "vehicles_30d": 29,
+    "prohibited_uses": "Immigration enforcement.\nReproductive rights investigations.\nTraffic enforcement.\nHarassment or intimidation of any individual or group, based solely on a protected class (i.e. race, sex, religion).\nPersonal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "grand-rapids-mn-pd",
+    "name": "Grand Rapids Mn Pd",
+    "cameras": 9,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "grandview-heights-oh-pd",
+    "name": "Grandview Heights Oh Pd",
+    "cameras": 8,
+    "vehicles_30d": 208667,
+    "prohibited_uses": "Immigration enforcement, general traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "grandville-pd-mi",
+    "name": "Grandville Pd Mi",
+    "cameras": 0,
+    "vehicles_30d": 9,
+    "prohibited_uses": "The Grandville Police Department does not use the system for immigration enforcement, traffic enforcement, harassing or intimidation, usage based on a protected class (i.e. race, sex, religion), or personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "granville-oh-pd",
+    "name": "Granville Oh Pd",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "grass-valley-ca-pd",
+    "name": "Grass Valley Ca Pd",
+    "cameras": 81,
+    "vehicles_30d": 149344,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "green-bay-wi-pd",
+    "name": "Green Bay Wi Pd",
+    "cameras": 46,
+    "vehicles_30d": 460015,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "herrin-il-pd",
+    "name": "Herrin Il Pd",
+    "cameras": 12,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "idaho-falls-id-pd",
+    "name": "Idaho Falls Id Pd",
+    "cameras": 20,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "indianola-ia-pd",
+    "name": "Indianola Ia Pd",
+    "cameras": 8,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "indio-ca-pd",
+    "name": "Indio Ca Pd",
+    "cameras": 72,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "isle-of-wight-county-va-so",
+    "name": "Isle Of Wight County Va So",
+    "cameras": 12,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "itasca-il-pd",
+    "name": "Itasca Il Pd",
+    "cameras": 17,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "jackson-township-oh-pd-mahoning-county",
+    "name": "Jackson Township Oh Pd Mahoning County",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "jacksonville-ar-pd",
+    "name": "Jacksonville Ar Pd",
+    "cameras": 117,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "james-city-county-va-pd",
+    "name": "James City County Va Pd",
+    "cameras": 20,
+    "vehicles_30d": 247020,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "kildeer-il-pd",
+    "name": "Kildeer Il Pd",
+    "cameras": 2,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "lake-stevens-wa-pd",
+    "name": "Lake Stevens Wa Pd",
+    "cameras": 4,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "lakewood-wa-pd",
+    "name": "Lakewood Wa Pd",
+    "cameras": 58,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "lockney-pd-tx",
+    "name": "Lockney Pd Tx",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "lovejoy-ga-pd",
+    "name": "Lovejoy Ga Pd",
+    "cameras": 6,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "loveland-oh-pd",
+    "name": "Loveland Oh Pd",
+    "cameras": 10,
+    "vehicles_30d": 116163,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National Crime Information Center (NCIC) which includes vehicles wanted for crimes, missing and wanted persons, AMBER & Silver Alerts"
+  },
+  {
+    "slug": "lucas-county-oh-so",
+    "name": "Lucas County Oh So",
+    "cameras": 33,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "luray-va-pd",
+    "name": "Luray Va Pd",
+    "cameras": 4,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "lynchburg-va-pd",
+    "name": "Lynchburg Va Pd",
+    "cameras": 15,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "lynn-haven-fl-pd",
+    "name": "Lynn Haven Fl Pd",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "marysville-wa-pd",
+    "name": "Marysville Wa Pd",
+    "cameras": 0,
+    "vehicles_30d": 419616,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), or personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "medina-wa-pd",
+    "name": "Medina Wa Pd",
+    "cameras": 23,
+    "vehicles_30d": 57513,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "monroe-wa-pd",
+    "name": "Monroe Wa Pd",
+    "cameras": 0,
+    "vehicles_30d": 309127,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e., race, sex, religion), or personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "monument-co-pd",
+    "name": "Monument Co Pd",
+    "cameras": 6,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "mooresville-in-pd",
+    "name": "Mooresville In Pd",
+    "cameras": 7,
+    "vehicles_30d": 151149,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "morgans-point-pd-tx",
+    "name": "Morgans Point Pd Tx",
+    "cameras": 4,
+    "vehicles_30d": 28851,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "morton-il-pd",
+    "name": "Morton Il Pd",
+    "cameras": 26,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "moses-lake-wa-pd",
+    "name": "Moses Lake Wa Pd",
+    "cameras": 13,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "mount-dora-fl-pd",
+    "name": "Mount Dora Fl Pd",
+    "cameras": 8,
+    "vehicles_30d": 52343,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "mount-orab-oh-pd",
+    "name": "Mount Orab Oh Pd",
+    "cameras": 3,
+    "vehicles_30d": 90430,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "mount-pleasant-sc-pd",
+    "name": "Mount Pleasant Sc Pd",
+    "cameras": 22,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "mount-vernon-wa-pd",
+    "name": "Mount Vernon Wa Pd",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "mt-juliet-tn-pd",
+    "name": "Mt Juliet Tn Pd",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "mukilteo-wa-pd",
+    "name": "Mukilteo Wa Pd",
+    "cameras": 9,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "newcastle-wa-pd",
+    "name": "Newcastle Wa Pd",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "olympia-wa-pd-",
+    "name": "Olympia Wa Pd ",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "ottawa-county-oh-so",
+    "name": "Ottawa County Oh So",
+    "cameras": 18,
+    "vehicles_30d": 277372,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "ovilla-tx-pd",
+    "name": "Ovilla Tx Pd",
+    "cameras": 1,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "owatonna-mn-pd",
+    "name": "Owatonna Mn Pd",
+    "cameras": 8,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "palm-springs-ca-pd",
+    "name": "Palm Springs Ca Pd",
+    "cameras": 224,
+    "vehicles_30d": 458329,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "palmyra-mo-pd",
+    "name": "Palmyra Mo Pd",
+    "cameras": 7,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "palo-alto-ca-pd",
+    "name": "Palo Alto Ca Pd",
+    "cameras": 30,
+    "vehicles_30d": 749591,
+    "prohibited_uses": "Activities that are considered immigration enforcement, commercial, non-law enforcement, personal, and prohibited as defined by applicable laws or policies.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "palos-park-il-pd",
+    "name": "Palos Park Il Pd",
+    "cameras": 7,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), personal use, and other use as prohibited by law.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "park-city-ks-pd",
+    "name": "Park City Ks Pd",
+    "cameras": 14,
+    "vehicles_30d": 156467,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "prosser-wa-pd",
+    "name": "Prosser Wa Pd",
+    "cameras": 20,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Traffic enforcement, immigration enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), or personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "puyallup-wa-pd",
+    "name": "Puyallup Wa Pd",
+    "cameras": 45,
+    "vehicles_30d": 658430,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "renton-wa-pd",
+    "name": "Renton Wa Pd",
+    "cameras": 23,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "richland-pd-wa",
+    "name": "Richland Pd Wa",
+    "cameras": 2,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Traffic enforcement, immigration enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), or personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "rockingham-county-va-so",
+    "name": "Rockingham County Va So",
+    "cameras": 4,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "rome-ga-pd",
+    "name": "Rome Ga Pd",
+    "cameras": 32,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "romeoville-il-pd",
+    "name": "Romeoville Il Pd",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "roseburg-or-pd",
+    "name": "Roseburg Or Pd",
+    "cameras": 15,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "roseville-mn-pd",
+    "name": "Roseville Mn Pd",
+    "cameras": 10,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "safford-az-pd",
+    "name": "Safford Az Pd",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "seatac-wa-pd",
+    "name": "Seatac Wa Pd",
+    "cameras": 27,
+    "vehicles_30d": 502072,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "selah-wa-pd",
+    "name": "Selah Wa Pd",
+    "cameras": 16,
+    "vehicles_30d": 83543,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "shelton-pd-wa",
+    "name": "Shelton Pd Wa",
+    "cameras": 12,
+    "vehicles_30d": 125783,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "skamania-co-wa-so",
+    "name": "Skamania Co Wa So",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "snohomish-county-wa-so-",
+    "name": "Snohomish County Wa So ",
+    "cameras": 8,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "spotsylvania-county-va-so",
+    "name": "Spotsylvania County Va So",
+    "cameras": 11,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "springdale-ar-pd",
+    "name": "Springdale Ar Pd",
+    "cameras": 153,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, reproductive health care, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "springdale-oh-pd",
+    "name": "Springdale Oh Pd",
+    "cameras": 12,
+    "vehicles_30d": 344159,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "springfield-fl-pd",
+    "name": "Springfield Fl Pd",
+    "cameras": 7,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "springfield-il-pd",
+    "name": "Springfield Il Pd",
+    "cameras": 140,
+    "vehicles_30d": 611363,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "springfield-mo-pd",
+    "name": "Springfield Mo Pd",
+    "cameras": 0,
+    "vehicles_30d": 806602,
+    "prohibited_uses": "Personal use, Immigration enforcement, and Traffic enforcement.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "springfield-or-pd",
+    "name": "Springfield Or Pd",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "st-louis-county-mn-so",
+    "name": "St Louis County Mn So",
+    "cameras": 10,
+    "vehicles_30d": 103007,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "st-pauls-nc-pd",
+    "name": "St Pauls Nc Pd",
+    "cameras": 4,
+    "vehicles_30d": 60231,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "stamping-ground-ky-pd",
+    "name": "Stamping Ground Ky Pd",
+    "cameras": 5,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "stanley-va-pd",
+    "name": "Stanley Va Pd",
+    "cameras": 4,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "stanwood-wa-pd",
+    "name": "Stanwood Wa Pd",
+    "cameras": 13,
+    "vehicles_30d": 98254,
+    "prohibited_uses": "\u2022 All employees of the Stanwood Police Department, including commissioned deputies and civilian personnel, shall abide by the policies and procedures related to ALPR cameras as set forth in the Standard Operating Procedure Manual.\n\n\u2022 Stanwood Police Department employees are prohibited from using Flock Safety Camera technology in the following circumstances:\n- - Employees may not use Flock Safety Cameras for non-work-related purposes or otherwise operate the Flock Safety Cameras outside their legitimate law enforcement duties.\n- - Flock Safety Cameras may be used to collect data that is within public view but will not be used for the sole purpose of monitoring or tracking individuals or expressive activities protected by the First Amendment of the United States Constitution.\n- - Flock Safety Cameras shall not be used solely for the purpose of immigration enforcement.\n- - Flock Safety Cameras shall not be used to investigate or issue infractions.\n- - In no case shall the Stanwood Police Department Flock Safety Cameras be used for any purpose other than legitimate law enforcement or community safety purposes.\n- - Users will not target any person based on their actual or perceived age, color, creed, criminal history, disability, ethnic background, gender, gender expression or identity, lifestyle, marital status, national origin, partnership status, political affiliation or beliefs, pregnancy status, race, religion, sex, sexual orientation as defined by RCW 49.60.040, social or economic status, veteran status, and, to the extent permitted by law, alienage or citizenship status, or any other legally protected status.\n- - Without another clearly articulated nexus to criminal activity associated with Washington State law, Flock Safety Cameras shall not be used to specifically target or track the movement of vehicles traveling to or from healthcare facilities, including, but not limited to hospitals, clinics, mental health providers, or reproductive health care centers. This restriction applies irrespective of the vehicle\u2019s origin, destination, or the medical services sought by the individual.\n\n\u2022 Flock Safety Camera use is prohibited on the premises or immediate surroundings of schools, places of worship, courts, or food banks.\n\n\u2022 Immigration enforcement, traffic enforcement, harassment or intimidation, personal use, usage based solely on a protected class (i.e. race, sex, religion).",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "sterling-county-tx-so",
+    "name": "Sterling County Tx So",
+    "cameras": 4,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, reproductive healthcare tracking, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "sterling-heights-mi-pd",
+    "name": "Sterling Heights Mi Pd",
+    "cameras": 24,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "stewart-county-tn-so",
+    "name": "Stewart County Tn So",
+    "cameras": 4,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "stillwater-mn-pd",
+    "name": "Stillwater Mn Pd",
+    "cameras": 0,
+    "vehicles_30d": 257414,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "sultan-wa-pd",
+    "name": "Sultan Wa Pd",
+    "cameras": 6,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "sumner-wa-pd",
+    "name": "Sumner Wa Pd",
+    "cameras": 12,
+    "vehicles_30d": 218794,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "sunnyside-wa-pd",
+    "name": "Sunnyside Wa Pd",
+    "cameras": 46,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "sunriver-or-pd",
+    "name": "Sunriver Or Pd",
+    "cameras": 4,
+    "vehicles_30d": 84592,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "toppenish-wa-pd",
+    "name": "Toppenish Wa Pd",
+    "cameras": 25,
+    "vehicles_30d": 88992,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "tukwila-wa-pd",
+    "name": "Tukwila Wa Pd",
+    "cameras": 0,
+    "vehicles_30d": 593451,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "upland-ca-pd-",
+    "name": "Upland Ca Pd ",
+    "cameras": 12,
+    "vehicles_30d": 567768,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "upper-arlington-oh-pd",
+    "name": "Upper Arlington Oh Pd",
+    "cameras": 20,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "urbandale-ia-pd",
+    "name": "Urbandale Ia Pd",
+    "cameras": 28,
+    "vehicles_30d": 414576,
+    "prohibited_uses": "Immigration enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "ut-cedar-city-pd",
+    "name": "Ut Cedar City Pd",
+    "cameras": 44,
+    "vehicles_30d": 569468,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "va-george-mason-university-campus-pd",
+    "name": "Va George Mason University Campus Pd",
+    "cameras": 29,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "vacaville-ca-pd",
+    "name": "Vacaville Ca Pd",
+    "cameras": 260,
+    "vehicles_30d": 1596541,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "walla-walla-wa-pd",
+    "name": "Walla Walla Wa Pd",
+    "cameras": 0,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "winston-or-pd",
+    "name": "Winston Or Pd",
+    "cameras": 5,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "yakima-wa-pd",
+    "name": "Yakima Wa Pd",
+    "cameras": 0,
+    "vehicles_30d": 361211,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harrassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  },
+  {
+    "slug": "yelm-wa-pd",
+    "name": "Yelm Wa Pd",
+    "cameras": 8,
+    "vehicles_30d": 0,
+    "prohibited_uses": "Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.",
+    "hotlists": "National and statewide hotlist sources."
+  }
+]
