@@ -1,0 +1,52 @@
+{{ define "main" }}
+<article class="agency-detail">
+    <header>
+        <h2 class="section-title">{{ .Title }}</h2>
+        <div class="meta">
+            {{ if eq .Params.status "inactive" }}
+                <span class="status-badge status-inactive">Inactive</span>
+            {{ else if eq .Params.status "not_found" }}
+                <span class="status-badge status-not-found">Not Found</span>
+            {{ else }}
+                <span class="status-badge status-active">Active Portal</span>
+            {{ end }}
+        </div>
+    </header>
+
+    {{ $series_file := printf "data/series/%s.json" (.File.ContentBaseName) }}
+    {{ $series_raw := readFile $series_file | default "{}" }}
+    {{ $series_data := $series_raw | jsonify }}
+    <script>
+        window.AGENCY_SERIES = {{ $series_data }};
+    </script>
+    <script src="{{ "js/d3.min.js" | absURL }}"></script>
+    <script src="{{ "js/time-series-chart.js" | absURL }}"></script>
+
+    <div class="dashboard-grid">
+        <div class="chart-container">
+            <h3>Portal Activity Over Time</h3>
+            <div id="portal-activity-chart"></div>
+        </div>
+        <div class="chart-container">
+            <h3>Vehicles Detected (30-day Rolling)</h3>
+            <div id="vehicles-chart"></div>
+        </div>
+    </div>
+
+    <div class="chart-container" style="margin-top: var(--spacing-lg)">
+        <h3>Search Volume (30-day Rolling)</h3>
+        <div id="search-volume-chart"></div>
+    </div>
+
+    <section style="margin-top: var(--spacing-xl)">
+        <h3 class="section-title">Portal Information</h3>
+        {{ .Content }}
+        {{ if gt .Params.cameras 0 }}
+        <ul>
+            <li>Cameras deployed: {{ .Params.cameras }}</li>
+            <li>Data sharing partners: {{ .Params.shares_data_with }}</li>
+        </ul>
+        {{ end }}
+    </section>
+</article>
+{{ end }}

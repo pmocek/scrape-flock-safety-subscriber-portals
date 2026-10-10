@@ -16,7 +16,7 @@
                 {{ if eq .status "not_found" }}
                     {{ .name }}
                 {{ else }}
-                    <a href="/agencies/{{ .slug }}/">{{ .name }}</a>
+                    <a href="{{ "/agencies/" | absURL }}{{ .slug }}/">{{ .name }}</a>
                 {{ end }}
             </td>
             <td><span class="status-badge status-{{ .status }}">{{ .status }}</span></td>
