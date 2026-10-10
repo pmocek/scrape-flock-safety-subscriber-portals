@@ -4,8 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
 </head>
 <body>
-    {{ block "main" . }}{{ end }}
+    {{ partial "header.html" . }}
+    <main class="container">
+        {{ block "main" . }}{{ end }}
+    </main>
+    <footer class="site-footer">
+        <div class="container">
+            <p>Data sourced from public Flock Safety subscriber portals.</p>
+        </div>
+    </footer>
+    {{ block "scripts" . }}{{ end }}
 </body>
 </html>

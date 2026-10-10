@@ -1,0 +1,12 @@
+<header class="site-header">
+    <div class="container">
+        <h1>{{ .Site.Title }}</h1>
+        <p class="subtitle">{{ .Site.Params.Description }}</p>
+        <nav class="main-nav" aria-label="Main navigation">
+            <a href="{{ "" | absURL }}"{{ if eq .Title "Flock Safety WA Portal Transparency" }} class="active"{{ end }}>Overview</a>
+            <a href="{{ "agencies/" | absURL }}"{{ if or (eq .Type "agencies") (eq .Title "Agencies") }} class="active"{{ end }}>Directory</a>
+            <a href="{{ "network/" | absURL }}"{{ if eq .Title "Network Graph" }} class="active"{{ end }}>Network Graph</a>
+            <a href="{{ "audit/" | absURL }}"{{ if eq .Title "Audit Analysis" }} class="active"{{ end }}>Audit Breakdown</a>
+        </nav>
+    </div>
+</header>

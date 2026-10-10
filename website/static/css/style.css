@@ -1,0 +1,211 @@
+/* Flock Safety WA Portal Transparency - Dashboard Styles */
+:root {
+    --color-bg: #fafafa;
+    --color-text: #2c3e50;
+    --color-heading: #1a2332;
+    --color-muted: #6c757d;
+    --color-border: #dee2e6;
+    --color-primary: #2469ae;
+    --color-primary-dark: #1a4f85;
+    --color-active: #e8f0fe;
+    --color-success: #34a853;
+    --color-warning: #fbbc04;
+    --color-error: #ea4335;
+    --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --font-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    --container-max: 1200px;
+    --spacing-xs: 0.5rem;
+    --spacing-sm: 0.75rem;
+    --spacing-md: 1rem;
+    --spacing-lg: 1.5rem;
+    --spacing-xl: 2rem;
+    --radius: 4px;
+    --shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    font-family: var(--font-sans);
+    color: var(--color-text);
+    background: var(--color-bg);
+    line-height: 1.6;
+}
+
+.container {
+    max-width: var(--container-max);
+    margin: 0 auto;
+    padding: 0 var(--spacing-md);
+}
+
+/* Header */
+.site-header {
+    background: white;
+    border-bottom: 1px solid var(--color-border);
+    padding: var(--spacing-xl) 0;
+}
+
+.site-header h1 {
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: var(--color-heading);
+    margin-bottom: var(--spacing-xs);
+}
+
+.subtitle {
+    color: var(--color-muted);
+    font-size: 0.95rem;
+    margin-bottom: var(--spacing-lg);
+}
+
+.main-nav {
+    display: flex;
+    gap: var(--spacing-xs);
+    flex-wrap: wrap;
+}
+
+.main-nav a {
+    text-decoration: none;
+    color: var(--color-muted);
+    padding: var(--spacing-xs) var(--spacing-sm);
+    border-radius: var(--radius);
+    font-size: 0.9rem;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.main-nav a:hover, .main-nav a.active {
+    background: var(--color-active);
+    color: var(--color-primary);
+}
+
+/* Content sections */
+main { padding: var(--spacing-xl) 0; }
+
+.section-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--color-heading);
+    margin-bottom: var(--spacing-lg);
+    padding-bottom: var(--spacing-sm);
+    border-bottom: 1px solid var(--color-border);
+}
+
+/* Summary cards grid */
+.summary-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: var(--spacing-lg);
+    margin-bottom: var(--spacing-xl);
+}
+
+.summary-card {
+    background: white;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: var(--spacing-lg);
+    text-align: center;
+    box-shadow: var(--shadow);
+}
+
+.summary-card .value {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--color-primary);
+    display: block;
+    margin-bottom: var(--spacing-xs);
+}
+
+.summary-card .label {
+    color: var(--color-muted);
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* Agency list/table */
+.agency-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+}
+
+.agency-table th,
+.agency-table td {
+    padding: var(--spacing-sm) var(--spacing-md);
+    text-align: left;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.agency-table th {
+    font-weight: 600;
+    color: var(--color-heading);
+    background: #f8f9fa;
+}
+
+.agency-table tr:hover { background: #f8f9fa; }
+
+.status-badge {
+    display: inline-block;
+    padding: 0.2em 0.5em;
+    border-radius: var(--radius);
+    font-size: 0.8em;
+    font-weight: 500;
+}
+
+.status-active { background: #e6f4ea; color: var(--color-success); }
+.status-inactive { background: #fef3e0; color: var(--color-warning); }
+.status-not-found { background: #fce8e6; color: var(--color-error); }
+
+/* Grid layouts for content sections */
+.dashboard-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--spacing-lg);
+    margin-top: var(--spacing-xl);
+}
+
+.chart-container {
+    background: white;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    padding: var(--spacing-lg);
+    box-shadow: var(--shadow);
+}
+
+.chart-container h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--color-heading);
+    margin-bottom: var(--spacing-md);
+}
+
+/* Charts (D3.js containers) */
+.chart-container svg {
+    width: 100%;
+    height: auto;
+}
+
+.axis text { font-size: 11px; fill: var(--color-muted); }
+.axis line, .axis path { stroke: var(--color-border); }
+
+/* Footer */
+.site-footer {
+    border-top: 1px solid var(--color-border);
+    padding: var(--spacing-lg) 0;
+    color: var(--color-muted);
+    font-size: 0.85rem;
+    margin-top: var(--spacing-xl);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .dashboard-grid { grid-template-columns: 1fr; }
+    .summary-grid { grid-template-columns: repeat(2, 1fr); }
+    .site-header h1 { font-size: 1.4rem; }
+    .agency-table { font-size: 0.8rem; }
+}
+
+@media (max-width: 480px) {
+    .summary-grid { grid-template-columns: 1fr; }
+    .main-nav { flex-direction: column; }
+}

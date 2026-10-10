@@ -1,0 +1,31 @@
+{{ define "main" }}
+<article class="agency-detail">
+    <header>
+        <h2 class="section-title">{{ .Title }}</h2>
+        <div class="meta">
+            <span class="status-badge status-active">Active Portal</span>
+        </div>
+    </header>
+
+    <div class="dashboard-grid">
+        <div class="chart-container">
+            <h3>Portal Access Counts Over Time</h3>
+            <div id="portal-activity-chart"></div>
+        </div>
+        <div class="chart-container">
+            <h3>Unique Vehicles Detected</h3>
+            <div id="vehicles-chart"></div>
+        </div>
+    </div>
+
+    <div class="chart-container" style="margin-top: var(--spacing-lg)">
+        <h3>Search Activity Breakdown</h3>
+        <div id="search-volume-chart"></div>
+    </div>
+
+    <section style="margin-top: var(--spacing-xl)">
+        <h3 class="section-title">Portal Information</h3>
+        {{ .Content }}
+    </section>
+</article>
+{{ end }}

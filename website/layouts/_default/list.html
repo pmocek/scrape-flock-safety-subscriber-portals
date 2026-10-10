@@ -1,0 +1,20 @@
+{{ define "main" }}
+<h2 class="section-title">{{ .Title }}</h2>
+<p class="subtitle">Directory of all known Flock Safety portal subscribers in Washington State.</p>
+
+{{ $data := .Content }}
+{{ if eq .Title "Agencies" }}
+<div id="agency-list">
+    {{ range .Data.Pages }}
+    <div class="summary-card" style="text-align:left; margin-bottom: var(--spacing-md)">
+        <a href="{{ .Permalink }}" style="font-weight: 600; color: var(--color-primary)">{{ .Title }}</a>
+        <div style="margin-top: var(--spacing-xs); color: var(--color-muted); font-size: 0.85rem">
+            Status: <span class="status-badge status-active">Active</span>
+        </div>
+    </div>
+    {{ end }}
+</div>
+{{ else }}
+{{ .Content }}
+{{ end }}
+{{ end }}
