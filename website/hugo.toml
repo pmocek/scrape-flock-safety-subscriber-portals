@@ -1,0 +1,6 @@
+baseURL = 'https://pmocek.github.io/scrape-flock-safety-subscriber-portals/'
+languageCode = 'en-us'
+title = 'Flock Safety WA Portal Transparency'
+
+[params]
+description = 'Public transparency dashboard for Washington State Flock Safety ALPR portals — agency stats, data sharing networks, and NCIC compliance analysis.'

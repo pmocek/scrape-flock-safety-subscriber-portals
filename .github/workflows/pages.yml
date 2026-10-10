@@ -5,9 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'data/**'
-      - 'site/**'
-      - 'scripts/build-site.py'
+      - 'website/**'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
   workflow_run:
@@ -31,15 +29,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Compile site Markdown & JSON data
-        run: |
-          python3 scripts/build-site.py
-
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
@@ -48,12 +37,13 @@ jobs:
 
       - name: Build Hugo static site
         run: |
-          hugo --source site --destination ../public --minify
+          cd website
+          hugo --minify
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./website/public
 
   deploy:
     environment:
