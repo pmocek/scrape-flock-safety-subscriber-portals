@@ -5,7 +5,7 @@ Visit Flock
 Golf Manor OH PD
 Transparency Portal
 
-Last updated: Wed Oct 07 2026
+Last updated: Fri Oct 09 2026
 
 Overview
 
@@ -58,14 +58,16 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-248 alerts
+253 alerts
 NCIC - Protection Order
-238
+242
 NCIC - Sex Offender
 5
 NCIC - Warrants
 4
 NCIC - Stolen Plate
+1
+NCIC - Stolen Vehicle
 1
 
 Data Retention
@@ -90,13 +92,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-31,354
+31,410
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-4
+5
 
 Hotlists Alerted On
 
@@ -108,12 +110,13 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-397
+395
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Robbery
+Missing/Endangered Person/Runaway
 Motor Vehicle Theft/Stolen
 Wanted Person (Arrest Warrant/Fugitive)
 
@@ -218,7 +221,6 @@ Aurora IL PD
 Aurora OH PD
 Austin County TX SO
 Avery County NC SO
-Aviston IL PD
 Avon IN PD
 Avon Lake OH PD
 Baldwin GA PD
@@ -1659,7 +1661,6 @@ Ohio Department of Youth Services - Office of the Chief Inspector
 Ohio DPS
 Ohio State Fire Marshal
 Ohio State Highway Patrol
-Ohio State University OH PD
 OK - Washita County SO
 Old Fort NC PD
 Old Westbury Village NY PD
@@ -1817,7 +1818,6 @@ Ralls County MO SO
 Randolph County IN SO
 Rantoul IL PD
 Ravenna OH PD
-Raytown MO PD
 Reading OH PD
 Red Bay AL PD
 Redford Twp MI PD
@@ -2446,6 +2446,7 @@ Allegan County SO MI
 Allen County IN SO
 Allentown PA PD
 Alpharetta GA PD
+Alvin TX PD
 Amberley Village OH PD
 Amherst OH PD
 Anderson County SC SO
@@ -2483,7 +2484,6 @@ Auglaize County OH SO
 Aurora OH PD
 Austin County TX SO
 Avery County NC SO
-Aviston IL PD
 Avoca PA PD
 Avon IN PD
 Avon Lake OH PD
@@ -2909,7 +2909,6 @@ Floyd County IN SO
 Flushing City MI PD
 Foley AL PD
 Forest City NC PD
-Forest Heights MD PD
 Forest Park GA PD
 Forest Park OH PD
 Forsyth County GA SO
@@ -3134,6 +3133,7 @@ Hunting Valley OH PD
 Huntington IN PD
 Huntsville AL PD
 Huron OH PD
+Hurst TX PD
 IA - Eldridge PD
 Iberville Parish LA SO
 Illinois Attorney General
@@ -3173,7 +3173,6 @@ Jasper GA PD
 Jasper IN PD
 Jefferson City MO PD
 Jefferson City TN PD
-Jefferson County KY SO
 Jefferson County MO SO
 Jefferson County OH SO
 Jefferson County TN SO
