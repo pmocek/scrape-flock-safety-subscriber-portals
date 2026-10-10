@@ -1,8 +1,8 @@
 {{ define "main" }}
 <h2 class="section-title">Overview</h2>
 
-{{ $stats := .Site.Data.site_stats }}
-{{ if $stats }}
+{{ $stats := .Site.Data.stats }}
+{{ if ne (printf "%T" $stats) "<nil>" }}
 <div class="summary-grid">
     <div class="summary-card">
         <span class="value">{{ len $stats.agencies }}</span>
@@ -22,41 +22,9 @@
     </div>
 </div>
 <p style="color: var(--color-muted); margin-bottom: var(--spacing-xl)">
-    {{ $stats.inactive }} inactive portals · {{ $stats.not_found }} unreachable. Data from public Flock Safety portals.
+    {{ $stats.inactive }} inactive · {{ $stats.not_found }} unreachable. Data from public Flock Safety portals.
 </p>
 {{ else }}
 <p>No site stats available.</p>
 {{ end }}
-
-<div class="dashboard-grid">
-    <div class="chart-container">
-        <h3>Status Distribution</h3>
-        <canvas id="status-chart"></canvas>
-    </div>
-    <div class="chart-container">
-        <h3>Top 10 Agencies by Cameras</h3>
-        <div id="cameras-bar-chart"></div>
-    </div>
-</div>
-
-<hr style="margin: var(--spacing-xl) 0; border: none; border-top: 1px solid var(--color-border)">
-
-<h3 class="section-title">Agency Directory Preview</h3>
-<table class="agency-table" id="preview-agency-table">
-    <thead>
-        <tr><th>Agency</th><th>Status</th><th>Cameras</th></tr>
-    </thead>
-    <tbody>
-        {{ range first 20 ($stats.agencies | default (slice)) }}
-        <tr>
-            <td>{{ .name }}</td>
-            <td><span class="status-badge status-{{ .status }}">{{ .status }}</span></td>
-            <td>{{ .cameras }}</td>
-        </tr>
-        {{ end }}
-    </tbody>
-</table>
-<p style="text-align:center; margin-top: var(--spacing-sm)">
-    <a href="/agencies/">View all {{ if $stats }}{{ len $stats.agencies }}{{ else }}portals{{ end }} agencies →</a>
-</p>
 {{ end }}
