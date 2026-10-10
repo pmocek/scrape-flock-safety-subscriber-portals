@@ -58,3 +58,4 @@ vendor/
 coverage/
 .cache/
 tmp/
+website/public/
