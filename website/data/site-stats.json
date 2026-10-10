@@ -1,0 +1,6904 @@
+{
+  "total_portals": 766,
+  "active": 267,
+  "inactive": 4,
+  "not_found": 495,
+  "total_cameras": 3079,
+  "total_searches": 17940,
+  "agencies": [
+    {
+      "slug": "-adams-county-wa-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "-chelan-county-wa-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "-clark-county-wa-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "-el-cajon-pd-ca",
+      "name": "El Cajon CA PD",
+      "status": "active",
+      "cameras": 103,
+      "vehicles_30d": 820467,
+      "searches_30d": 417,
+      "sharing_partners": 644
+    },
+    {
+      "slug": "-lincoln-county-wa-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "-skamania-county-wa-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "-spokane-co-wa-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "-spokane-county-wa-so",
+      "name": "Spokane County WA SO",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "1st-judicial-district-drug-task-force-tn-inactive",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "aberdeen-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "aberdeen-wa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "abilene-ks-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "adams-county-ms-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "adams-county-wa-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "addis-la-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "addison-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "adel-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "adrian-mi-pd",
+      "name": "Adrian MI PD",
+      "status": "active",
+      "cameras": 10,
+      "vehicles_30d": 0,
+      "searches_30d": 42,
+      "sharing_partners": 4622
+    },
+    {
+      "slug": "airgarage-inc",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "airway-heights-wa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "al-andalusia-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "al-jacksonville-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "alabama-coushatta-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "alamo-tn-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "alexander-city-housing-authority-al",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "alliance-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "almont-mi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "amelia-estates-oh",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "americus-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "amf-bowling-centers-va",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "anderson-ca-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "angels-camp-ca-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "antioch-ca-pd",
+      "name": "Antioch CA PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 346,
+      "sharing_partners": 323
+    },
+    {
+      "slug": "arcola-ms-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ardmore-ok-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "arlington-pd-wa",
+      "name": "Arlington PD (WA)",
+      "status": "active",
+      "cameras": 22,
+      "vehicles_30d": 292302,
+      "searches_30d": 30,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "arnolds-park-ia-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "arvada-co-pd",
+      "name": "Arvada CO PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 214,
+      "sharing_partners": 72
+    },
+    {
+      "slug": "ascension-parish-la-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ashdown-ar-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ashley-county-ar-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ashmore-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "atherton-ca-pd",
+      "name": "Atherton CA PD",
+      "status": "active",
+      "cameras": 53,
+      "vehicles_30d": 366060,
+      "searches_30d": 28,
+      "sharing_partners": 310
+    },
+    {
+      "slug": "atlanta-police-foundation-training-facility-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "auburn-ma-pd",
+      "name": "Auburn MA PD",
+      "status": "active",
+      "cameras": 4,
+      "vehicles_30d": 0,
+      "searches_30d": 10,
+      "sharing_partners": 189
+    },
+    {
+      "slug": "auburn-university-al",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "auburn-wa-pd",
+      "name": "Auburn WA PD",
+      "status": "active",
+      "cameras": 36,
+      "vehicles_30d": 0,
+      "searches_30d": 359,
+      "sharing_partners": 80
+    },
+    {
+      "slug": "avenal-ca-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "barnesville-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "barry-county-mi-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "bay-ar-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "beech-mountain-nc-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "belmont-co-oh-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "benton-county-wa-so",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "berkeley-heights-nj-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "bethany-ok-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "bethel-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "beverly-ma-pd",
+      "name": "Beverly MA PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 46,
+      "sharing_partners": 94
+    },
+    {
+      "slug": "billerica-ma-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "bland-county-va-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "bonney-lake-wa-pd",
+      "name": "Bonney Lake WA PD",
+      "status": "active",
+      "cameras": 22,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "branson-mo-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brantley-county-ga-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "braselton-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "bratenahl-oh-pd",
+      "name": "Bratenahl OH PD",
+      "status": "active",
+      "cameras": 10,
+      "vehicles_30d": 51147,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brawley-ca-pd",
+      "name": "Brawley CA PD",
+      "status": "active",
+      "cameras": 41,
+      "vehicles_30d": 120306,
+      "searches_30d": 121,
+      "sharing_partners": 322
+    },
+    {
+      "slug": "brazoria-county-const-pct-3-tx",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brazoria-county-const-pct-4-tx",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brazoria-county-tx-so-flex-do-not-share",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brazos-county-tx-so",
+      "name": "Brazos County TX SO",
+      "status": "active",
+      "cameras": 10,
+      "vehicles_30d": 0,
+      "searches_30d": 34,
+      "sharing_partners": 407
+    },
+    {
+      "slug": "breese-il-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "bremen-ga-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "bremen-in-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brent-al-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brentwood-ca-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brentwood-mo-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brevard-county-fl-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brewster-wa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "briarcliffe-acres-sc-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "briarwood-al-campus-police",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brick-township-nj-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "bridgeport-township-mi-pd",
+      "name": "Bridgeport Township MI PD",
+      "status": "active",
+      "cameras": 6,
+      "vehicles_30d": 0,
+      "searches_30d": 25,
+      "sharing_partners": 1461
+    },
+    {
+      "slug": "bridgeton-mo-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "bridgeview-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "bridgewater-ma-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "bridgewater-va-pd",
+      "name": "Bridgewater VA PD",
+      "status": "active",
+      "cameras": 5,
+      "vehicles_30d": 17782,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brigham-city-ut-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brighton-al-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brighton-co-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brighton-mi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brillion-wi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brimfield-township-oh-pd",
+      "name": "Brimfield Township OH PD",
+      "status": "active",
+      "cameras": 4,
+      "vehicles_30d": 216189,
+      "searches_30d": 41,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "bristol-community-college-ma-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "bristol-ri-pd-do-not-use",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "bristol-ri-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "bristow-ok-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "broadview-heights-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "broadview-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "broadway-va-pd",
+      "name": "Broadway VA PD",
+      "status": "active",
+      "cameras": 8,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "broken-arrow-ok-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brooklet-ga-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "brush-co-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "buckeye-lake-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "cal-state-fullerton-ca",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "calhoun-county-ar-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "calhoun-falls-sc-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "calumet-city-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "camden-ar-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "camden-tn-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "carthage-nc-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "caryville-tn-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "catawba-nc-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "central-sc-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "centralia-pd-wa",
+      "name": "Centralia WA PD",
+      "status": "active",
+      "cameras": 17,
+      "vehicles_30d": 169078,
+      "searches_30d": 95,
+      "sharing_partners": 84
+    },
+    {
+      "slug": "centre-island-village-ny-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "chandler-in-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "chateau-village-mi",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "chehalis-wa-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "chelan-county-wa-so",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "cheney-wa-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "chesnee-sc-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "chesterfield-sc-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "cheyenne-county-co-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "chickasaw-nation-lighthorse-ok-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "city-of-agoura-hills-ca-lasd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "city-of-calabasas-ca-lasd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "city-of-commerce-ca-lasd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "city-of-compton-ca-lasd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "city-of-duarte-ca-lasd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "city-of-half-moon-bay-smcso",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "city-of-newman-ca-pd",
+      "name": "City of Newman CA PD",
+      "status": "active",
+      "cameras": 8,
+      "vehicles_30d": 8,
+      "searches_30d": 12,
+      "sharing_partners": 69
+    },
+    {
+      "slug": "city-of-paramount-ca-lasd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "city-of-peoria-pd-az",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "city-of-pico-rivera-ca-lasd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "city-of-rosemead-ca-lasd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "city-of-san-dimas-ca-lasd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "city-of-santa-clarita-ca-lasd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "city-of-washington-pa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "city-of-westlake-tx",
+      "name": "City of Westlake (TX)",
+      "status": "active",
+      "cameras": 21,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 340
+    },
+    {
+      "slug": "city-of-westlake-village-ca-lasd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "clark-atlanta-university-ga-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "clarke-county-ia-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "clay-township-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "cle-elum-wa-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "clear-lake-ia-pd",
+      "name": "Clear Lake IA PD",
+      "status": "active",
+      "cameras": 11,
+      "vehicles_30d": 0,
+      "searches_30d": 34,
+      "sharing_partners": 94
+    },
+    {
+      "slug": "cleveland-ok-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "clio-al-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "clyde-hill-wa-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "clyde-pd-oh",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "cn-railroad-il-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "co-colorado-bureau-of-investigation",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "co-craig-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "co-keenesburg-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "co-morgan-county-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "co-rangely-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "coal-valley-il-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "cobb-county-ga-da",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "coconut-creek-fl-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "codington-county-sd-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "coeur-dalene-id-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "coffee-county-al-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "coffee-county-ga-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "coffeyville-ks-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "cohasset-ma-pd",
+      "name": "Cohasset MA PD",
+      "status": "active",
+      "cameras": 4,
+      "vehicles_30d": 0,
+      "searches_30d": 2,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "cohoes-ny-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "coke-county-tx-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "colbert-county-al-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "colby-ks-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "coldwater-mi-pd",
+      "name": "Coldwater MI PD",
+      "status": "active",
+      "cameras": 5,
+      "vehicles_30d": 97543,
+      "searches_30d": 14,
+      "sharing_partners": 1830
+    },
+    {
+      "slug": "cole-county-mo-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "colerain-township-pd-oh",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "coles-county-airport-il",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "coles-county-il-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "college-of-charleston-sc",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "college-park-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "college-place-wa-pd",
+      "name": "College Place WA PD",
+      "status": "active",
+      "cameras": 8,
+      "vehicles_30d": 66524,
+      "searches_30d": 12,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "college-station-tx-pd",
+      "name": "College Station TX PD",
+      "status": "active",
+      "cameras": 75,
+      "vehicles_30d": 0,
+      "searches_30d": 276,
+      "sharing_partners": 818
+    },
+    {
+      "slug": "collegedale-tn-pd",
+      "name": "Collegedale TN PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 4274,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "colleton-county-so-sc",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "colleyville-pd-tx",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "collier-county-fl-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "collierville-tn-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "collin-county-tx-public-works",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "collin-county-tx-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "colma-ca-pd",
+      "name": "Colma CA PD",
+      "status": "active",
+      "cameras": 11,
+      "vehicles_30d": 356922,
+      "searches_30d": 91,
+      "sharing_partners": 325
+    },
+    {
+      "slug": "colona-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "colonial-beach-va-pd",
+      "name": "Colonial Beach VA PD",
+      "status": "active",
+      "cameras": 4,
+      "vehicles_30d": 0,
+      "searches_30d": 12,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "colonial-heights-va-pd",
+      "name": "Colonial Heights VA PD",
+      "status": "active",
+      "cameras": 13,
+      "vehicles_30d": 0,
+      "searches_30d": 219,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "colonie-ny-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "colorado-city-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "columbia-heights-mn-pd",
+      "name": "Columbia Heights MN PD",
+      "status": "inactive",
+      "cameras": 5,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 2
+    },
+    {
+      "slug": "columbia-river-drug-task-force-wa",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "colville-wa-tribal-police",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "coopertown-tn-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "corcoran-mn-pd",
+      "name": "Corcoran MN PD",
+      "status": "active",
+      "cameras": 9,
+      "vehicles_30d": 0,
+      "searches_30d": 17,
+      "sharing_partners": 7
+    },
+    {
+      "slug": "covington-wa-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "cranbury-nj-pd",
+      "name": "Cranbury NJ PD",
+      "status": "active",
+      "cameras": 12,
+      "vehicles_30d": 0,
+      "searches_30d": 33,
+      "sharing_partners": 63
+    },
+    {
+      "slug": "crawford-county-ga-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "crockett-county-tn-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "crystal-lake-park-district-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "curry-co-nm-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "dacono-co-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "darien-ct-pd",
+      "name": "Darien CT PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 71,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "des-moines-wa-pd",
+      "name": "Des Moines WA PD",
+      "status": "active",
+      "cameras": 14,
+      "vehicles_30d": 250260,
+      "searches_30d": 66,
+      "sharing_partners": 80
+    },
+    {
+      "slug": "desert-river-estates-ca",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "dewitt-county-il-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "douglas-county-wa-so",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "duluth-mn-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "dupont-wa-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "dutchess-county-ny-district-attorneys-da-office",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "eagle-point-or-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "east-hanover-twp-pd-morris-county",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "east-norriton-pa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "east-wenatchee-wa-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "eastern-adams-regional-pa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "easthampton-ma-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "eastlake-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "easton-ma-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "eastpointe-mi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "eaton-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "eaton-rapids-mi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "eatonton-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "eatonville-fl-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "eatonville-wa-pd",
+      "name": "Eatonville WA PD",
+      "status": "inactive",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 66
+    },
+    {
+      "slug": "edmonds-wa-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "el-centro-ca-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "el-dorado-ar-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "el-dorado-county-ca-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "el-dorado-ks-pd",
+      "name": "El Dorado KS PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 21,
+      "sharing_partners": 508
+    },
+    {
+      "slug": "el-mirage-az-pd",
+      "name": "El Mirage AZ PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 39,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "el-monte-ca-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "el-paso-co-so",
+      "name": "El Paso CO SO",
+      "status": "active",
+      "cameras": 32,
+      "vehicles_30d": 0,
+      "searches_30d": 218,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "el-paso-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "el-paso-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "el-reno-ok-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "el-segundo-ca-pd",
+      "name": "El Segundo CA PD",
+      "status": "active",
+      "cameras": 17,
+      "vehicles_30d": 0,
+      "searches_30d": 181,
+      "sharing_partners": 258
+    },
+    {
+      "slug": "elbert-county-ga-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "elberton-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "elburn-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "elgin-community-college-campus-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "elgin-sc-pd",
+      "name": "Elgin SC PD",
+      "status": "active",
+      "cameras": 2,
+      "vehicles_30d": 66565,
+      "searches_30d": 3,
+      "sharing_partners": 1655
+    },
+    {
+      "slug": "elgin-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "elizabeth-co-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "elizabeth-township-pa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "elizabethton-tn-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "elizabethtown-ky-pd",
+      "name": "Elizabethtown KY PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 193,
+      "sharing_partners": 3825
+    },
+    {
+      "slug": "elk-county-ks-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "elk-grove-ca-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "elk-river-mn-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "elkhart-county-in-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "elkhart-pd-in",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "elkhorn-wi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "elkton-md-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ellaville-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ellensburg-wa-pd",
+      "name": "Ellensburg WA PD",
+      "status": "active",
+      "cameras": 13,
+      "vehicles_30d": 162525,
+      "searches_30d": 41,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ellettsville-in-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ellijay-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ellinwood-ks-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ellis-county-tx-so",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ellisville-mo-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "enumclaw-wa-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "everett-wa-pd",
+      "name": "Everett (WA) Police Department",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 7
+    },
+    {
+      "slug": "federal-way-wa-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "flock-na",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "floresville-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "galion-city-school-district-oh",
+      "name": "Galion City School District (OH)",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 35
+    },
+    {
+      "slug": "garnett-ks-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "gates-county-nc-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "glenwood-ia-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "goldendale-wa-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "golf-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "golf-manor-oh-pd",
+      "name": "Golf Manor OH PD",
+      "status": "active",
+      "cameras": 8,
+      "vehicles_30d": 0,
+      "searches_30d": 4,
+      "sharing_partners": 2726
+    },
+    {
+      "slug": "gonzales-la-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "goochland-county-va-so-is-not-sharing-data-with-any-partner-networks",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "goochland-county-va-so",
+      "name": "Goochland County VA SO",
+      "status": "active",
+      "cameras": 11,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 2
+    },
+    {
+      "slug": "gooding-county-id-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "goodlettsville-tn-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "goodyear-az-pd",
+      "name": "Goodyear AZ PD",
+      "status": "active",
+      "cameras": 33,
+      "vehicles_30d": 0,
+      "searches_30d": 471,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "goose-creek-sc-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "graham-nc-pd",
+      "name": "Graham NC PD",
+      "status": "active",
+      "cameras": 6,
+      "vehicles_30d": 0,
+      "searches_30d": 35,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grand-island-ne-pd",
+      "name": "Grand Island NE PD",
+      "status": "active",
+      "cameras": 9,
+      "vehicles_30d": 156983,
+      "searches_30d": 143,
+      "sharing_partners": 1055
+    },
+    {
+      "slug": "grand-prairie-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grand-rapids-mi-pd",
+      "name": "Grand Rapids MI PD",
+      "status": "active",
+      "cameras": 29,
+      "vehicles_30d": 29,
+      "searches_30d": 0,
+      "sharing_partners": 2089
+    },
+    {
+      "slug": "grand-rapids-mn-pd",
+      "name": "Grand Rapids MN PD",
+      "status": "active",
+      "cameras": 9,
+      "vehicles_30d": 0,
+      "searches_30d": 20,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grand-traverse-county-mi-so",
+      "name": "Grand Traverse County MI SO",
+      "status": "active",
+      "cameras": 28,
+      "vehicles_30d": 371463,
+      "searches_30d": 173,
+      "sharing_partners": 1480
+    },
+    {
+      "slug": "grand-valley-state-university-mi",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grandview-heights-oh-pd",
+      "name": "Grandview Heights OH PD",
+      "status": "active",
+      "cameras": 8,
+      "vehicles_30d": 208667,
+      "searches_30d": 16,
+      "sharing_partners": 187
+    },
+    {
+      "slug": "grandview-mo-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grandville-pd-mi",
+      "name": "Grandville PD MI",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 9,
+      "searches_30d": 47,
+      "sharing_partners": 1627
+    },
+    {
+      "slug": "granite-shoals-pd-tx",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grant-county-ar-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grant-county-ar-so1",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grant-county-in-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grant-county-ks-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grant-parish-la-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grants-nm-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grantsville-ut-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grantville-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "granville-county-nc-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "granville-local-schools-oh",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "granville-oh-pd",
+      "name": "Granville OH PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 392
+    },
+    {
+      "slug": "grapeland-tx-pd-inactive",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grapevine-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grass-valley-ca-pd",
+      "name": "Grass Valley CA PD",
+      "status": "active",
+      "cameras": 81,
+      "vehicles_30d": 149344,
+      "searches_30d": 134,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "gratiot-county-mi-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "graves-county-ky-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "gray-county-ks-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grays-harbor-county-so-wa",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grayslake-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grayson-county-tx-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "grayson-county-va-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "great-bend-ks-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "great-falls-sc-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "great-parks-of-hamilton-county-oh-pd",
+      "name": "Great Parks of Hamilton County OH PD",
+      "status": "active",
+      "cameras": 13,
+      "vehicles_30d": 55726,
+      "searches_30d": 41,
+      "sharing_partners": 292
+    },
+    {
+      "slug": "greater-buffalo-intl-airport-nfta-ny-duplicate-do-not-use",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "greater-cleveland-regional-transit-authority-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "greeley-county-ks-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "green-bay-wi-pd",
+      "name": "Green Bay WI PD",
+      "status": "active",
+      "cameras": 46,
+      "vehicles_30d": 460015,
+      "searches_30d": 472,
+      "sharing_partners": 3
+    },
+    {
+      "slug": "green-cove-springs-fl-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "green-island-ny-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "green-lake-county-wi-so",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "green-oak-township-mi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "greenfield-ma-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "greenhills-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "hampton-county-sc-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "hempstead-village-ny-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "henderson-ky-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "henry-county-al-so",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "henry-county-il-so",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "herrin-il-pd",
+      "name": "Herrin IL PD",
+      "status": "active",
+      "cameras": 12,
+      "vehicles_30d": 0,
+      "searches_30d": 47,
+      "sharing_partners": 1303
+    },
+    {
+      "slug": "hickory-creek-tx-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "idaho-falls-id-pd",
+      "name": "Idaho Falls ID PD",
+      "status": "active",
+      "cameras": 20,
+      "vehicles_30d": 0,
+      "searches_30d": 164,
+      "sharing_partners": 485
+    },
+    {
+      "slug": "imperial-county-da-ca",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "inc-tx",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "indiana-university-in-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "indianapolis-international-airport-in-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "indianapolis-metro-in-pd-ncic-alert-organization-do-not-use",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "indianapolis-metro-pd-in",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "indianola-ia-pd-is-not-sharing-data-with-any-partner-networks",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "indianola-ia-pd",
+      "name": "Indianola IA PD",
+      "status": "active",
+      "cameras": 8,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 2
+    },
+    {
+      "slug": "indio-ca-pd",
+      "name": "Indio CA PD",
+      "status": "active",
+      "cameras": 72,
+      "vehicles_30d": 0,
+      "searches_30d": 261,
+      "sharing_partners": 329
+    },
+    {
+      "slug": "ingalls-in-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ingleside-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "iowa-department-of-public-safety-ia",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "isle-of-palms-sc-pd",
+      "name": "Isle of Palms SC PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 19,
+      "sharing_partners": 722
+    },
+    {
+      "slug": "isle-of-wight-county-va-so",
+      "name": "Isle Of Wight County VA SO",
+      "status": "active",
+      "cameras": 12,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "issaquah-wa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "itasca-county-mn-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "itasca-il-pd",
+      "name": "Itasca IL PD",
+      "status": "active",
+      "cameras": 17,
+      "vehicles_30d": 0,
+      "searches_30d": 131,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jacinto-city-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jack-county-tx-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-al-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-county-central-dispatch-mi",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-county-co-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-county-da-ms",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-county-fl-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-county-ga-school-system-not-in-use",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-county-mo-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-county-nc-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-county-so-ar",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-mi-pd",
+      "name": "Jackson MI PD",
+      "status": "active",
+      "cameras": 10,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-mo-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-ms-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-tn-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-township-oh-pd-mahoning-county",
+      "name": "Jackson Township OH PD (Mahoning County)",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-township-oh-pd-stark-county",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-township-pa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-wi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jackson-wy-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jacksonville-al-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jacksonville-ar-pd",
+      "name": "Jacksonville AR PD",
+      "status": "active",
+      "cameras": 117,
+      "vehicles_30d": 0,
+      "searches_30d": 73,
+      "sharing_partners": 1201
+    },
+    {
+      "slug": "jacksonville-beach-fl-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jacksonville-fl-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jacksonville-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "james-city-county-va-pd",
+      "name": "James City County VA PD",
+      "status": "active",
+      "cameras": 20,
+      "vehicles_30d": 247020,
+      "searches_30d": 267,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jamestown-sc-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "janesville-wi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jasper-al-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jasper-co-il-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jasper-county-ga-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jasper-county-in-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jasper-county-mo-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jasper-county-sc-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jasper-county-sheriff-ia",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jefferson-wi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "jerome-county-id-so",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "johnstown-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "kennewick-wa-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "kent-wa-pd",
+      "name": "Kent WA PD",
+      "status": "active",
+      "cameras": 19,
+      "vehicles_30d": 613480,
+      "searches_30d": 123,
+      "sharing_partners": 103
+    },
+    {
+      "slug": "kidder-township-pa-pd-carbon-co",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "kildeer-il-pd",
+      "name": "Kildeer IL PD",
+      "status": "active",
+      "cameras": 2,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 387
+    },
+    {
+      "slug": "kittle-property-group-in",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "knox-county-il-so",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ky-kentucky-state-police",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "la-paz-county-az-so",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "la-salle-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lady-lake-fl-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lake-stevens-wa-pd",
+      "name": "Lake Stevens WA PD",
+      "status": "active",
+      "cameras": 4,
+      "vehicles_30d": 0,
+      "searches_30d": 118,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lakewood-wa-pd",
+      "name": "Lakewood WA PD",
+      "status": "active",
+      "cameras": 58,
+      "vehicles_30d": 0,
+      "searches_30d": 1,
+      "sharing_partners": 80
+    },
+    {
+      "slug": "laurinburg-nc-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lawrence-county-district-attorneys-office-pa",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lawrenceburg-in-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "livingston-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "livingston-parish-county-la-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "livingston-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "livonia-mi-pd",
+      "name": "Livonia MI PD",
+      "status": "active",
+      "cameras": 25,
+      "vehicles_30d": 0,
+      "searches_30d": 458,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lizton-in-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "llano-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lochbuie-co-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lockland-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lockney-pd-tx",
+      "name": "Lockney TX PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "louisburg-nc-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "louisiana-state-police-la",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "louisville-airport-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "louisville-metro-ky-alcoholic-beverage-control",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "louisville-metro-ky-arson-bureau",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "louisville-oh-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "loup-county-ne-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lovejoy-crossing-ga",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lovejoy-ga-pd",
+      "name": "Lovejoy GA PD",
+      "status": "active",
+      "cameras": 6,
+      "vehicles_30d": 0,
+      "searches_30d": 8,
+      "sharing_partners": 842
+    },
+    {
+      "slug": "loveland-co-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "loveland-oh-pd",
+      "name": "Loveland OH PD",
+      "status": "active",
+      "cameras": 10,
+      "vehicles_30d": 116163,
+      "searches_30d": 32,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "loves-park-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lowell-ar-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lowell-ma-pd",
+      "name": "Lowell MA PD",
+      "status": "active",
+      "cameras": 37,
+      "vehicles_30d": 0,
+      "searches_30d": 348,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lowell-mi-pd",
+      "name": "Lowell MI PD",
+      "status": "active",
+      "cameras": 5,
+      "vehicles_30d": 5,
+      "searches_30d": 22,
+      "sharing_partners": 297
+    },
+    {
+      "slug": "lower-burrell-pa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lowes-corporation",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lubbock-county-tx-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lubbock-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lucas-county-oh-so",
+      "name": "Lucas County OH SO",
+      "status": "active",
+      "cameras": 33,
+      "vehicles_30d": 0,
+      "searches_30d": 640,
+      "sharing_partners": 1807
+    },
+    {
+      "slug": "ludlow-ma-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ludowici-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "luling-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lumberton-nc-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lumberton-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lumpkin-county-so-ga",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lunenburg-county-va-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "luray-va-pd",
+      "name": "Luray VA PD",
+      "status": "active",
+      "cameras": 4,
+      "vehicles_30d": 0,
+      "searches_30d": 72,
+      "sharing_partners": 1048
+    },
+    {
+      "slug": "luverne-al-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lyman-pd-sc",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lynbrook-village-ny-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lynchburg-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lynchburg-va-pd",
+      "name": "Lynchburg VA PD",
+      "status": "active",
+      "cameras": 15,
+      "vehicles_30d": 0,
+      "searches_30d": 201,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lyndhurst-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lynn-haven-fl-pd",
+      "name": "Lynn Haven FL PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 35,
+      "sharing_partners": 1735
+    },
+    {
+      "slug": "lynn-ma-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lynnfield-ma-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lynnwood-wa-pd",
+      "name": "Lynnwood WA PD",
+      "status": "inactive",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lyon-county-ks-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lyon-county-nv-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "lyons-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mabank-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "macedonia-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mackinaw-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "macomb-county-mi-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "marysville-wa-pd",
+      "name": "Marysville WA PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 419616,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mayfield-village-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mcdonald-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mcfarland-wi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "medina-tn-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "medina-wa-pd",
+      "name": "Medina WA PD",
+      "status": "active",
+      "cameras": 23,
+      "vehicles_30d": 57513,
+      "searches_30d": 6,
+      "sharing_partners": 1
+    },
+    {
+      "slug": "mill-creek-wa-pd",
+      "name": "Mill Creek WA PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 55,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "missouri-department-of-corrections",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "monroe-wa-pd",
+      "name": "Monroe WA PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 309127,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "montone-pd-in",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "montrose-co-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "montville-ct-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "montville-township-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "monument-co-pd",
+      "name": "Monument CO PD",
+      "status": "active",
+      "cameras": 6,
+      "vehicles_30d": 0,
+      "searches_30d": 50,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "moody-al-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "moore-county-nc-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "moore-county-tx-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "moore-ok-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mooresville-in-pd",
+      "name": "Mooresville IN PD",
+      "status": "active",
+      "cameras": 7,
+      "vehicles_30d": 151149,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "morgan-county-oh-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "morgans-point-pd-tx",
+      "name": "Morgan's Point PD TX",
+      "status": "active",
+      "cameras": 4,
+      "vehicles_30d": 28851,
+      "searches_30d": 4,
+      "sharing_partners": 480
+    },
+    {
+      "slug": "morgantown-ky-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "morris-al-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "morris-il-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "morrison-co-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "morrison-il-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "morrow-ga-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "morrow-oh-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "morton-grove-il-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "morton-il-pd",
+      "name": "Morton IL PD",
+      "status": "active",
+      "cameras": 26,
+      "vehicles_30d": 0,
+      "searches_30d": 51,
+      "sharing_partners": 418
+    },
+    {
+      "slug": "moscow-mills-mo-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "moses-lake-wa-pd",
+      "name": "Moses Lake WA PD",
+      "status": "active",
+      "cameras": 13,
+      "vehicles_30d": 0,
+      "searches_30d": 88,
+      "sharing_partners": 88
+    },
+    {
+      "slug": "moss-point-ms-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mount-carmel-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mount-dora-fl-pd",
+      "name": "Mount Dora FL PD",
+      "status": "active",
+      "cameras": 8,
+      "vehicles_30d": 52343,
+      "searches_30d": 6,
+      "sharing_partners": 559
+    },
+    {
+      "slug": "mount-holly-nc-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mount-hope-ny-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mount-morris-township-pd-mi",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mount-orab-oh-pd",
+      "name": "Mount Orab OH PD",
+      "status": "active",
+      "cameras": 3,
+      "vehicles_30d": 90430,
+      "searches_30d": 8,
+      "sharing_partners": 83
+    },
+    {
+      "slug": "mount-pleasant-sc-pd",
+      "name": "Mount Pleasant SC PD",
+      "status": "active",
+      "cameras": 22,
+      "vehicles_30d": 0,
+      "searches_30d": 219,
+      "sharing_partners": 1577
+    },
+    {
+      "slug": "mount-pleasant-township-pa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mount-pleasant-wi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mount-prospect-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mount-sterling-ky-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mount-vernon-in-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mount-vernon-oh-pd",
+      "name": "Mount Vernon OH PD",
+      "status": "active",
+      "cameras": 8,
+      "vehicles_30d": 148863,
+      "searches_30d": 33,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mount-vernon-tx-isd-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mount-vernon-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mount-vernon-wa-pd",
+      "name": "Mount Vernon WA PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 49
+    },
+    {
+      "slug": "mount-zion-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mountain-bay-metro-wi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mountain-brook-al-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mountain-city-tn-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mountain-view-ar-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mountlake-terrace-wa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "moweaqua-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "moxee-wa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ms-biloxi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ms-flora-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ms-flowood-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ms-office-of-homeland-security",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ms-philadelphia-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ms-raymond-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ms-senatobia-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ms-wayne-county-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ms-yazoo-city-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "msd-wayne-township-in-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "mt-juliet-tn-pd",
+      "name": "Mt. Juliet TN PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 145
+    },
+    {
+      "slug": "mukilteo-wa-pd",
+      "name": "Mukilteo WA PD",
+      "status": "active",
+      "cameras": 9,
+      "vehicles_30d": 0,
+      "searches_30d": 7,
+      "sharing_partners": 89
+    },
+    {
+      "slug": "nevada-department-of-motor-vehicles",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "newcastle-wa-pd",
+      "name": "Newcastle WA PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 97,
+      "sharing_partners": 79
+    },
+    {
+      "slug": "northern-berks-regional-pa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "oh-harrison-county-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "olympia-wa-pd-",
+      "name": "Olympia WA PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 73
+    },
+    {
+      "slug": "osage-county-mo-911-center",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "osage-county-mo-so",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "osceola-ar-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "osceola-county-fl-so",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "osceola-ia-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "osceola-wi-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "otero-county-nm-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "othello-pd-wa",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "othello-wa-pd-",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "othello-wa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "otoe-county-ne-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "otoe-missouria-tribe-ok-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ottawa-county-ks-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ottawa-county-mi-so",
+      "name": "Ottawa County MI SO",
+      "status": "active",
+      "cameras": 31,
+      "vehicles_30d": 31,
+      "searches_30d": 415,
+      "sharing_partners": 1134
+    },
+    {
+      "slug": "ottawa-county-oh-so",
+      "name": "Ottawa County OH SO",
+      "status": "active",
+      "cameras": 18,
+      "vehicles_30d": 277372,
+      "searches_30d": 144,
+      "sharing_partners": 2044
+    },
+    {
+      "slug": "ottawa-il-pd",
+      "name": "Ottawa IL PD",
+      "status": "active",
+      "cameras": 33,
+      "vehicles_30d": 0,
+      "searches_30d": 96,
+      "sharing_partners": 1896
+    },
+    {
+      "slug": "overland-park-ks-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "oviedo-fl-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ovilla-tx-pd",
+      "name": "Ovilla TX PD",
+      "status": "active",
+      "cameras": 1,
+      "vehicles_30d": 0,
+      "searches_30d": 30,
+      "sharing_partners": 589
+    },
+    {
+      "slug": "owatonna-mn-pd",
+      "name": "Owatonna MN PD",
+      "status": "active",
+      "cameras": 8,
+      "vehicles_30d": 0,
+      "searches_30d": 37,
+      "sharing_partners": 588
+    },
+    {
+      "slug": "owen-county-in-so",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "owensboro-ky-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "owners-association-of-patriot-estates",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "oxford-al-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "oxford-ga-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "palm-beach-county-fl-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "palm-beach-fl-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "palm-beach-gardens-fl-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "palm-springs-ca-pd",
+      "name": "Palm Springs CA PD",
+      "status": "active",
+      "cameras": 224,
+      "vehicles_30d": 458329,
+      "searches_30d": 399,
+      "sharing_partners": 26
+    },
+    {
+      "slug": "palmetto-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "palmhurst-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "palmyra-mo-pd",
+      "name": "Palmyra MO PD",
+      "status": "active",
+      "cameras": 7,
+      "vehicles_30d": 0,
+      "searches_30d": 25,
+      "sharing_partners": 1150
+    },
+    {
+      "slug": "palo-alto-ca-pd",
+      "name": "Palo Alto CA PD",
+      "status": "active",
+      "cameras": 30,
+      "vehicles_30d": 749591,
+      "searches_30d": 341,
+      "sharing_partners": 67
+    },
+    {
+      "slug": "palos-heights-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "palos-park-il-pd",
+      "name": "Palos Park IL PD",
+      "status": "active",
+      "cameras": 7,
+      "vehicles_30d": 0,
+      "searches_30d": 12,
+      "sharing_partners": 1091
+    },
+    {
+      "slug": "pampa-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "panama-city-airport-fl-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "panama-city-beach-fl-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "panama-city-fl-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "panola-county-ms-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "panola-county-tx-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "pantego-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "paoli-in-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "paradise-valley-az-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "paris-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "paris-ky-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "paris-tn-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "paris-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "park-city-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "park-city-ks-pd",
+      "name": "Park City KS PD",
+      "status": "active",
+      "cameras": 14,
+      "vehicles_30d": 156467,
+      "searches_30d": 52,
+      "sharing_partners": 1152
+    },
+    {
+      "slug": "park-forest-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "plymouth-township-mi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "port-of-seattle-wa-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "prosser-wa-pd",
+      "name": "Prosser WA PD",
+      "status": "active",
+      "cameras": 20,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 60
+    },
+    {
+      "slug": "puyallup-wa-pd",
+      "name": "Puyallup WA PD",
+      "status": "active",
+      "cameras": 45,
+      "vehicles_30d": 658430,
+      "searches_30d": 218,
+      "sharing_partners": 83
+    },
+    {
+      "slug": "randolph-county-in-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "reardan-wa-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "regent-university-va-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "renton-wa-pd",
+      "name": "Renton WA PD",
+      "status": "active",
+      "cameras": 23,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 7
+    },
+    {
+      "slug": "richland-pd-wa",
+      "name": "Richland WA PD",
+      "status": "active",
+      "cameras": 2,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "richland-wa-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ripon-wi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "robertson-county-tn-so",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "robeson-county-nc-so",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "robinson-il-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "robinson-township-pa-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "robstown-tx-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rochelle-il-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rockingham-county-va-so",
+      "name": "Rockingham County VA SO",
+      "status": "active",
+      "cameras": 4,
+      "vehicles_30d": 0,
+      "searches_30d": 7,
+      "sharing_partners": 25
+    },
+    {
+      "slug": "rockingham-nc-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rockledge-fl-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rocklin-ca-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rockmart-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rockport-in-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rockport-tx-pd-",
+      "name": "Rockport TX PD",
+      "status": "active",
+      "cameras": 6,
+      "vehicles_30d": 43585,
+      "searches_30d": 3,
+      "sharing_partners": 2
+    },
+    {
+      "slug": "rockport-tx-pd-is-not-sharing-data-with-any-partner-networks",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rockport-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rockton-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rockwall-county-tx-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rockwall-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rolling-meadows-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "roman-forest-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rome-ga-pd",
+      "name": "Rome GA PD",
+      "status": "active",
+      "cameras": 32,
+      "vehicles_30d": 0,
+      "searches_30d": 105,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rome-wi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "romeoville-il-pd",
+      "name": "Romeoville IL PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "romulus-mi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rose-hill-ks-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rosebud-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "roseburg-or-pd",
+      "name": "Roseburg OR PD",
+      "status": "active",
+      "cameras": 15,
+      "vehicles_30d": 0,
+      "searches_30d": 159,
+      "sharing_partners": 42
+    },
+    {
+      "slug": "roseland-in-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "roselle-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "roselle-park-nj-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rosemont-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rosenberg-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "roseville-ca-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "roseville-mi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "roseville-mn-pd",
+      "name": "Roseville MN PD",
+      "status": "active",
+      "cameras": 10,
+      "vehicles_30d": 0,
+      "searches_30d": 161,
+      "sharing_partners": 29
+    },
+    {
+      "slug": "ross-township-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ross-township-pa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rossford-oh-pd",
+      "name": "Rossford OH PD",
+      "status": "active",
+      "cameras": 20,
+      "vehicles_30d": 297481,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rossville-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rossville-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "rossville-in-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "safford-az-pd",
+      "name": "Safford AZ PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 8,
+      "sharing_partners": 2
+    },
+    {
+      "slug": "saginaw-county-mi-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "san-augustine-county-tx-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "san-diego-county-district-attorney",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "schuyler-county-mo-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "scotland-county-nc-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "seatac-wa-pd",
+      "name": "SeaTac WA PD",
+      "status": "active",
+      "cameras": 27,
+      "vehicles_30d": 502072,
+      "searches_30d": 153,
+      "sharing_partners": 4
+    },
+    {
+      "slug": "sedro-woolley-wa-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "selah-wa-pd",
+      "name": "Selah WA PD",
+      "status": "active",
+      "cameras": 16,
+      "vehicles_30d": 83543,
+      "searches_30d": 6,
+      "sharing_partners": 80
+    },
+    {
+      "slug": "shelton-pd-wa",
+      "name": "Shelton PD (WA)",
+      "status": "active",
+      "cameras": 12,
+      "vehicles_30d": 125783,
+      "searches_30d": 43,
+      "sharing_partners": 72
+    },
+    {
+      "slug": "skamania-co-wa-so",
+      "name": "Skamania CO WA SO",
+      "status": "inactive",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "snohomish-county-wa-so-",
+      "name": "Snohomish County WA SO",
+      "status": "active",
+      "cameras": 8,
+      "vehicles_30d": 0,
+      "searches_30d": 349,
+      "sharing_partners": 10
+    },
+    {
+      "slug": "south-hadley-ma-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "south-russell-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "southern-ohio-drug-task-force-oh",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "southside-al-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "sparks-pd-nv",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "spartanburg-county-sc-so",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "speedway-in-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "splendora-tx-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "spotsylvania-county-va-so",
+      "name": "Spotsylvania County VA SO",
+      "status": "active",
+      "cameras": 11,
+      "vehicles_30d": 0,
+      "searches_30d": 70,
+      "sharing_partners": 2009
+    },
+    {
+      "slug": "springdale-ar-pd",
+      "name": "Springdale AR PD",
+      "status": "active",
+      "cameras": 153,
+      "vehicles_30d": 0,
+      "searches_30d": 696,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "springdale-oh-pd",
+      "name": "Springdale OH PD",
+      "status": "active",
+      "cameras": 12,
+      "vehicles_30d": 344159,
+      "searches_30d": 106,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "springfield-fl-pd",
+      "name": "Springfield FL PD",
+      "status": "active",
+      "cameras": 7,
+      "vehicles_30d": 0,
+      "searches_30d": 18,
+      "sharing_partners": 2254
+    },
+    {
+      "slug": "springfield-il-pd",
+      "name": "Springfield IL PD",
+      "status": "active",
+      "cameras": 140,
+      "vehicles_30d": 611363,
+      "searches_30d": 1423,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "springfield-mo-pd",
+      "name": "Springfield MO PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 806602,
+      "searches_30d": 1129,
+      "sharing_partners": 2829
+    },
+    {
+      "slug": "springfield-oh-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "springfield-or-pd",
+      "name": "Springfield OR PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 21,
+      "sharing_partners": 19
+    },
+    {
+      "slug": "springfield-tn-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "spruce-pine-nc-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "st-landry-parish-so-la",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "st-louis-county-mn-so",
+      "name": "St. Louis County MN SO",
+      "status": "active",
+      "cameras": 10,
+      "vehicles_30d": 103007,
+      "searches_30d": 45,
+      "sharing_partners": 37
+    },
+    {
+      "slug": "st-louis-county-mo-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "st-louis-fusion-center-mo",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "st-louis-metro-mo-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "st-louis-park-mn-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "st-lucie-county-fl-so",
+      "name": "St. Lucie County FL SO",
+      "status": "active",
+      "cameras": 45,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "st-martin-parish-la-so",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "st-marys-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "st-paul-va-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "st-pauls-nc-pd",
+      "name": "St Pauls NC PD",
+      "status": "active",
+      "cameras": 4,
+      "vehicles_30d": 60231,
+      "searches_30d": 45,
+      "sharing_partners": 212
+    },
+    {
+      "slug": "st-peters-mo-parks-and-rec",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "st-peters-mo-pd",
+      "name": "St. Peters MO PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 2,
+      "sharing_partners": 215
+    },
+    {
+      "slug": "st-petersburg-fl-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "st-stephen-sc-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "st-tammany-fire-department-la",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "st-tammany-parish-la-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "stafford-county-ks-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "stafford-county-va-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "stafford-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "stallion-springs-ca-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "stamping-ground-ky-pd",
+      "name": "Stamping Ground KY PD",
+      "status": "active",
+      "cameras": 5,
+      "vehicles_30d": 0,
+      "searches_30d": 2,
+      "sharing_partners": 1004
+    },
+    {
+      "slug": "stanley-va-pd",
+      "name": "Stanley VA PD",
+      "status": "active",
+      "cameras": 4,
+      "vehicles_30d": 0,
+      "searches_30d": 1,
+      "sharing_partners": 211
+    },
+    {
+      "slug": "stanly-county-nc-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "stanton-county-ks-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "stanwood-wa-pd",
+      "name": "Stanwood WA PD",
+      "status": "active",
+      "cameras": 13,
+      "vehicles_30d": 98254,
+      "searches_30d": 0,
+      "sharing_partners": 56
+    },
+    {
+      "slug": "stark-county-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "starke-county-in-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "state-capitol-ct-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "statesboro-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "statesville-nc-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "staunton-va-pd",
+      "name": "Staunton VA PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ste-genevieve-county-mo-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "steele-al-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "steger-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "stephens-county-ga-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "stephenson-county-il-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "stephenville-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "sterling-county-tx-so",
+      "name": "Sterling County TX SO",
+      "status": "active",
+      "cameras": 4,
+      "vehicles_30d": 0,
+      "searches_30d": 1,
+      "sharing_partners": 453
+    },
+    {
+      "slug": "sterling-heights-mi-pd",
+      "name": "Sterling Heights MI PD",
+      "status": "active",
+      "cameras": 24,
+      "vehicles_30d": 0,
+      "searches_30d": 330,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "stevens-point-wi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "stewart-county-tn-so",
+      "name": "Stewart County TN SO",
+      "status": "active",
+      "cameras": 4,
+      "vehicles_30d": 0,
+      "searches_30d": 3,
+      "sharing_partners": 285
+    },
+    {
+      "slug": "stickney-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "stillmore-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "stillwater-mn-pd",
+      "name": "Stillwater MN PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 257414,
+      "searches_30d": 49,
+      "sharing_partners": 759
+    },
+    {
+      "slug": "stinesville-in-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "stockbridge-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "sultan-wa-pd",
+      "name": "Sultan WA PD",
+      "status": "active",
+      "cameras": 6,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 14
+    },
+    {
+      "slug": "sumner-wa-pd",
+      "name": "Sumner WA PD",
+      "status": "active",
+      "cameras": 12,
+      "vehicles_30d": 218794,
+      "searches_30d": 25,
+      "sharing_partners": 79
+    },
+    {
+      "slug": "sunnyside-wa-pd",
+      "name": "Sunnyside WA PD",
+      "status": "active",
+      "cameras": 46,
+      "vehicles_30d": 0,
+      "searches_30d": 19,
+      "sharing_partners": 101
+    },
+    {
+      "slug": "sunriver-or-pd",
+      "name": "Sunriver OR PD",
+      "status": "active",
+      "cameras": 4,
+      "vehicles_30d": 84592,
+      "searches_30d": 19,
+      "sharing_partners": 2
+    },
+    {
+      "slug": "suquamish-wa-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "sutherlin-or-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "tallahassee-pd-fl",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "tazewell-tn-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "the-city-of-miami-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "toppenish-wa-pd",
+      "name": "Toppenish WA PD",
+      "status": "active",
+      "cameras": 25,
+      "vehicles_30d": 88992,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "town-of-harrah-wa",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "town-of-white-bluff-tn-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "traditions-club-and-community-tx",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "tukwila-wa-pd",
+      "name": "Tukwila WA PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 593451,
+      "searches_30d": 112,
+      "sharing_partners": 81
+    },
+    {
+      "slug": "tulalip-tribal-pd-wa",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "university-park-il-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "university-park-tx-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "upland-ca-pd-",
+      "name": "Upland CA PD",
+      "status": "active",
+      "cameras": 12,
+      "vehicles_30d": 564387,
+      "searches_30d": 510,
+      "sharing_partners": 313
+    },
+    {
+      "slug": "upland-ca-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "upmc-pa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "upper-allen-township-pa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "upper-arlington-oh-pd",
+      "name": "Upper Arlington OH PD",
+      "status": "active",
+      "cameras": 20,
+      "vehicles_30d": 0,
+      "searches_30d": 29,
+      "sharing_partners": 584
+    },
+    {
+      "slug": "upper-burrell-township-pa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "upper-darby-township-pa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "upper-dublin-twp-pa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "upper-st-clair-pa-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "upshur-county-wv-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "upson-county-ga-so",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "urbana-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "urbandale-ia-pd",
+      "name": "Urbandale IA PD",
+      "status": "active",
+      "cameras": 28,
+      "vehicles_30d": 414576,
+      "searches_30d": 154,
+      "sharing_partners": 88
+    },
+    {
+      "slug": "ut-cedar-city-pd",
+      "name": "UT - Cedar City PD",
+      "status": "active",
+      "cameras": 44,
+      "vehicles_30d": 569468,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ut-health-tyler-tx",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ut-north-ogden-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "ut-southwestern-medical-center-tx",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "utah-county-ut-so-vineyard-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "utica-city-ny-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "utica-mi-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "utica-oh-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "va-george-mason-university-campus-pd",
+      "name": "VA - George Mason University Campus PD",
+      "status": "active",
+      "cameras": 29,
+      "vehicles_30d": 0,
+      "searches_30d": 59,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "va-kenbridge-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "va-virginia-institute-of-marine-science",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "vacaville-ca-pd",
+      "name": "Vacaville CA PD",
+      "status": "active",
+      "cameras": 260,
+      "vehicles_30d": 1596541,
+      "searches_30d": 1252,
+      "sharing_partners": 120
+    },
+    {
+      "slug": "vail-co-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "valdosta-ga-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "valley-county-so-ne",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "valparaiso-in-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "van-alstyne-tx-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "van-buren-ar-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "van-buren-county-tn-so",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "van-buren-mi-pd",
+      "name": "<Error>",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "walla-walla-wa-pd",
+      "name": "Walla Walla WA PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    },
+    {
+      "slug": "winston-or-pd",
+      "name": "Winston OR PD",
+      "status": "active",
+      "cameras": 5,
+      "vehicles_30d": 0,
+      "searches_30d": 28,
+      "sharing_partners": 24
+    },
+    {
+      "slug": "yakima-wa-pd",
+      "name": "Yakima WA PD",
+      "status": "active",
+      "cameras": 0,
+      "vehicles_30d": 361211,
+      "searches_30d": 463,
+      "sharing_partners": 88
+    },
+    {
+      "slug": "yelm-wa-pd",
+      "name": "Yelm WA PD",
+      "status": "active",
+      "cameras": 8,
+      "vehicles_30d": 0,
+      "searches_30d": 3,
+      "sharing_partners": 351
+    },
+    {
+      "slug": "zebulon-ga-pd",
+      "name": "The page you are looking for doesn't exist.",
+      "status": "not_found",
+      "cameras": 0,
+      "vehicles_30d": 0,
+      "searches_30d": 0,
+      "sharing_partners": 0
+    }
+  ]
+}

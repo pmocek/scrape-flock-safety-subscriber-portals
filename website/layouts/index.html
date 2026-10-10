@@ -1,59 +1,62 @@
 {{ define "main" }}
 <h2 class="section-title">Overview</h2>
 
+{{ $stats := .Site.Data.site_stats }}
+{{ if $stats }}
 <div class="summary-grid">
     <div class="summary-card">
-        <span class="value">—</span>
+        <span class="value">{{ len $stats.agencies }}</span>
         <span class="label">Total Portals</span>
     </div>
     <div class="summary-card">
-        <span class="value">—</span>
-        <span class="label">Agencies</span>
+        <span class="value">{{ $stats.active }}</span>
+        <span class="label">Active</span>
     </div>
     <div class="summary-card">
-        <span class="value">—</span>
+        <span class="value">{{ $stats.total_cameras }}</span>
+        <span class="label">Cameras Deployed</span>
+    </div>
+    <div class="summary-card">
+        <span class="value">{{ $stats.total_searches | printf "%d" }}</span>
         <span class="label">Searches Logged</span>
     </div>
 </div>
-
 <p style="color: var(--color-muted); margin-bottom: var(--spacing-xl)">
-    Summary statistics will appear here once data is populated from scraped portal JSONL files.
+    {{ $stats.inactive }} inactive portals · {{ $stats.not_found }} unreachable. Data from public Flock Safety portals.
 </p>
+{{ else }}
+<p>No site stats available.</p>
+{{ end }}
 
 <div class="dashboard-grid">
     <div class="chart-container">
-        <h3>Portal Activity Over Time</h3>
-        <div id="time-series-chart"></div>
+        <h3>Status Distribution</h3>
+        <canvas id="status-chart"></canvas>
     </div>
     <div class="chart-container">
-        <h3>Top Search Reasons</h3>
-        <div id="audit-chart"></div>
+        <h3>Top 10 Agencies by Cameras</h3>
+        <div id="cameras-bar-chart"></div>
     </div>
-</div>
-
-<div class="chart-container" style="margin-top: var(--spacing-lg)">
-    <h3>Data Sharing Network</h3>
-    <p style="color: var(--color-muted); font-size: 0.85rem; margin-bottom: var(--spacing-md)">
-        Visualization of bilateral data-sharing flows between WA Flock Safety portals. Click nodes for details.
-    </p>
-    <div id="network-graph"></div>
 </div>
 
 <hr style="margin: var(--spacing-xl) 0; border: none; border-top: 1px solid var(--color-border)">
 
-<h3 class="section-title">Recent Portal Additions</h3>
-<table class="agency-table">
+<h3 class="section-title">Agency Directory Preview</h3>
+<table class="agency-table" id="preview-agency-table">
     <thead>
-        <tr><th>Agency</th><th>Status</th><th>Last Updated</th></tr>
+        <tr><th>Agency</th><th>Status</th><th>Cameras</th></tr>
     </thead>
     <tbody>
-        {{ range first 10 site.RegularPages }}
+        {{ range first 20 ($stats.agencies | default (slice)) }}
         <tr>
-            <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
-            <td><span class="status-badge status-active">Active</span></td>
-            <td>{{ .Date.Format "2006-01-02" }}</td>
+            <td>{{ .name }}</td>
+            <td><span class="status-badge status-{{ .status }}">{{ .status }}</span></td>
+            <td>{{ .cameras }}</td>
         </tr>
         {{ end }}
     </tbody>
 </table>
+<p style="text-align:center; margin-top: var(--spacing-sm)">
+    <a href="/agencies/">View all {{ if $stats }}{{ len $stats.agencies }}{{ else }}portals{{ end }} agencies →</a>
+</p>
 {{ end }}

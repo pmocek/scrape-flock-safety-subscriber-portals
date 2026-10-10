@@ -1,20 +1,33 @@
 {{ define "main" }}
 <h2 class="section-title">{{ .Title }}</h2>
-<p class="subtitle">Directory of all known Flock Safety portal subscribers in Washington State.</p>
 
-{{ $data := .Content }}
-{{ if eq .Title "Agencies" }}
-<div id="agency-list">
-    {{ range .Data.Pages }}
-    <div class="summary-card" style="text-align:left; margin-bottom: var(--spacing-md)">
-        <a href="{{ .Permalink }}" style="font-weight: 600; color: var(--color-primary)">{{ .Title }}</a>
-        <div style="margin-top: var(--spacing-xs); color: var(--color-muted); font-size: 0.85rem">
-            Status: <span class="status-badge status-active">Active</span>
-        </div>
-    </div>
-    {{ end }}
+{{ $agencies := ((site.Data.site_stats | default dict).agencies) | default (slice) }}
+<p class="subtitle">Flock Safety portal subscribers — {{ len $agencies }} total.</p>
+
+<div id="agency-list-controls" style="margin-bottom: var(--spacing-lg)">
+    <input type="text" id="agency-search" placeholder="Search agencies..." style="width: 100%; padding: var(--spacing-sm); border: 1px solid var(--color-border); border-radius: var(--radius); font-size: 0.95rem;">
 </div>
-{{ else }}
-{{ .Content }}
-{{ end }}
+
+<table class="agency-table" id="agency-table">
+    <thead>
+        <tr><th>Agency Name</th><th>Status</th><th>Cameras</th><th>Partners</th></tr>
+    </thead>
+    <tbody id="agency-tbody">
+        {{ range $agencies }}
+        <tr data-status="{{ .status }}" data-name="{{ .name }}">
+            <td>
+                {{ if eq .status "not_found" }}
+                    {{ .name }}
+                {{ else }}
+                    <a href="/agencies/{{ .slug }}/">{{ .name }}</a>
+                {{ end }}
+            </td>
+            <td><span class="status-badge status-{{ .status }}">{{ .status }}</span></td>
+            <td>{{ .cameras }}</td>
+            <td>{{ .sharing_partners }}</td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
+<script src="{{ "js/agency-filter.js" | absURL }}"></script>
 {{ end }}
