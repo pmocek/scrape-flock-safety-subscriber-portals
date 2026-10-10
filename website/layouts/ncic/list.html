@@ -1,0 +1,67 @@
+{{ define "main" }}
+<h2 class="section-title">NCIC Compliance Matrix</h2>
+<p class="subtitle">Automated analysis of Flock Safety portal policies against NCIC access patterns.</p>
+
+{{ $raw := index site.Data "ncic-matrix" }}
+{{ if $raw }}
+<div style="margin-bottom: var(--spacing-lg); font-size: 0.9rem; color: var(--color-muted)">
+    Analyzed {{ $raw.total_analyzed }} agencies · 
+    <strong>{{ $raw.agencies_with_flags }}</strong> flagged for contradictions.
+</div>
+
+<table class="agency-table" id="ncic-matrix-table">
+    <thead>
+        <tr><th>Agency</th><th>Status</th><th>Immigration Policy</th><th>NCIC Hotlist</th><th>Partners</th><th>Flags</th></tr>
+    </thead>
+    <tbody>
+        {{ $matrix := $raw.matrix | default (slice) }}
+        {{ range $matrix }}
+        <tr>
+            <td>{{ .name }}</td>
+            <td><span class="status-badge status-{{ .status }}">{{ .status }}</span></td>
+            <td>{{ if .prohibits_immigration }}✅ Prohibited{{ else }}❌ Not prohibited{{ end }}</td>
+            <td>{{ if .uses_national_hotlists }}✅ Yes{{ else }}—{{ end }}</td>
+            <td>{{ .sharing_partners }}</td>
+            <td>
+                {{ range .flags }}
+                {{ if eq . "maass_contradiction" }}<span class="status-badge" style="background:#fce8e6;color:#c62828">A</span>{{ end }}
+                {{ if eq . "no_immigration_prohibition" }}<span class="status-badge" style="background:#fef3e0;color:#e65100">B</span>{{ end }}
+                {{ if eq . "shares_with_non_prohibitors" }}<span class="status-badge" style="background:#fff8e1;color:#f57f17">C</span>{{ end }}
+                {{ if eq . "direct_backdoor_sharing" }}<span class="status-badge" style="background:#fce8e6;color:#b71c1c">D</span>{{ end }}
+                {{ end }}
+            </td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
+
+<hr style="margin: var(--spacing-xl) 0; border: none; border-top: 1px solid var(--color-border)">
+
+<h3 class="section-title">Summary by Contradiction Mode</h3>
+<div class="summary-grid">
+    <div class="summary-card"><span class="value">{{ len ($raw.mode_a_maass_contradiction | default (slice)) }}</span><span class="label">Mode A — Maass</span></div>
+    <div class="summary-card"><span class="value">{{ len ($raw.mode_b_no_prohibition | default (slice)) }}</span><span class="label">Mode B — No Prohibition</span></div>
+    <div class="summary-card"><span class="value">{{ len ($raw.mode_c_sharing_conflicts | default (slice)) }}</span><span class="label">Mode C — Sharing Conflict</span></div>
+    <div class="summary-card"><span class="value">{{ len ($raw.mode_d_direct_backdoors | default (slice)) }}</span><span class="label">Mode D — Backdoor</span></div>
+</div>
+<script src="{{ "js/d3.min.js" | absURL }}"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const input = document.createElement('input');
+    input.type = 'text'; input.id = 'ncic-filter';
+    input.placeholder = 'Filter matrix...';
+    input.style.cssText = 'width:100%;padding:var(--spacing-sm);border:1px solid var(--color-border);border-radius:var(--radius);font-size:0.95rem;margin-bottom:var(--spacing-md)';
+    const table = document.getElementById('ncic-matrix-table');
+    if (table) table.parentNode.insertBefore(input, table);
+    input.addEventListener('input', function() {
+        const q = this.value.toLowerCase();
+        document.querySelectorAll('#ncic-matrix-table tbody tr').forEach(row => {
+            row.style.display = row.textContent.toLowerCase().includes(q) ? '' : 'none';
+        });
+    });
+});
+</script>
+{{ else }}
+<p>No NCIC matrix data available. Run: python3 scripts/export-ncic-data.py</p>
+{{ end }}
+{{ end }}
