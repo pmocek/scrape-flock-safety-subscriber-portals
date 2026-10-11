@@ -5,7 +5,7 @@ Visit Flock
 Golf Manor OH PD
 Transparency Portal
 
-Last updated: Fri Oct 09 2026
+Last updated: Sat Oct 10 2026
 
 Overview
 
@@ -58,9 +58,9 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-253 alerts
+254 alerts
 NCIC - Protection Order
-242
+243
 NCIC - Sex Offender
 5
 NCIC - Warrants
@@ -92,13 +92,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-31,410
+31,482
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-5
+3
 
 Hotlists Alerted On
 
@@ -110,12 +110,11 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-395
+386
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Robbery
 Missing/Endangered Person/Runaway
 Motor Vehicle Theft/Stolen
 Wanted Person (Arrest Warrant/Fugitive)
@@ -2009,7 +2008,6 @@ South Whitehall PA PD
 Southaven MS PD
 Southern Illinois University IL PD
 Southern Ohio Drug Task Force (OH)
-Southern Pines NC PD
 Southern Regl PA PD
 Southern View IL PD
 Southfield MI PD
@@ -3753,7 +3751,6 @@ Ridgeland MS PD
 RIG WI DTF
 Rincon GA PD
 Ringgold LA PD
-River Falls WI PD
 Riverdale GA PD
 Riverdale IL PD
 Riverside PD - OH
