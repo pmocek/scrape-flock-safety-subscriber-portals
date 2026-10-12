@@ -6,7 +6,7 @@ Visit Flock
 Rockport TX PD
 Transparency Portal
 
-Last updated: Sun Oct 11 2026
+Last updated: Mon Oct 12 2026
 
 Overview
 
@@ -31,7 +31,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-43,991
+43,331
 
 Number of Searches
 
@@ -49,13 +49,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-194
-
-Sharing Network Data With
-
-Organizations granted access to Rockport TX PD data.
-
-Rockport TX PD is not sharing data with any partner networks.
+196
 Policy & Trust
 
 What's Detected
@@ -86,6 +80,6 @@ More Info
 
 LPR Policy
 
-https://www.rockporttx.gov/DocumentCenter/View/16343
+https://www.rockporttx.gov/DocumentCenter/View/17919/Police-54-Automated-License-Plate-Readers
 
 Provided by Flock Safety
