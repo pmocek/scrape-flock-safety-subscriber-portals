@@ -1,12 +1,12 @@
 {
-  "agencies_monitored": 225,
-  "agencies_in_inventory": 932,
-  "agencies_unchecked": 707,
-  "ok": 4,
-  "blocked": 220,
-  "error": 1,
+  "agencies_monitored": 62,
+  "agencies_in_inventory": 802,
+  "agencies_unchecked": 740,
+  "ok": 60,
+  "blocked": 0,
+  "error": 2,
   "first_check": "2026-06-25T19:38:03.746729+00:00",
-  "last_check": "2026-10-12T15:18:12.419156+00:00",
+  "last_check": "2026-10-12T15:48:10.516629+00:00",
   "daily": [
     {
       "date": "2026-06-25",
@@ -38,115 +38,19 @@
     },
     {
       "date": "2026-10-12",
-      "checks": 221,
-      "ok": 0,
+      "checks": 30,
+      "ok": 29,
       "error": 1,
-      "blocked": 220
+      "blocked": 0
     }
   ],
   "agencies": [
     {
-      "slug": "-adams-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "-chelan-county-wa-so",
-      "status": "error",
-      "detail": "http_403",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 1,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "-clark-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "-lincoln-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "-skamania-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "-spokane-co-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
       "slug": "-spokane-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -175,93 +79,6 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "-the-hedges-homeowners-association-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "-tuscany-homeowners-association-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "aberdeen-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "adams-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "airway-heights-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
@@ -297,10 +114,10 @@
     },
     {
       "slug": "auburn-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 20,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 19,
       "series": [
         {
           "date": "2026-06-27",
@@ -322,86 +139,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "auburn-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "benton-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "black-diamond-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "black-diamond-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "bonney-lake-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -430,29 +176,6 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "brewster-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
@@ -487,699 +210,11 @@
       ]
     },
     {
-      "slug": "centralia-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "centralia-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "chehalis-tribal-law-enforcement-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "chehalis-tribal-law-enforcement-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "chehalis-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "chelan-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "cheney-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-auburn-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-black-diamond-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-centralia-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-covington-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-cylde-hill-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-des-moines-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-des-moines-wa-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-east-wenatchee-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-edmonds-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-everett-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-federal-way-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-kent-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-lakewood-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-liberty-lake-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-lynnwood-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-mill-creek-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-montesano-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-normandy-park-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-orting-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-othello-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-puyallup-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-renton-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-richland-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-seatac-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-shelton-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-sumner-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-sunnyside-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-toppenish-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-tukwila-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-walla-walla-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-wapato-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-wenatchee-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "city-of-west-richland-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "clark-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "cle-elum-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "clyde-hill-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
       "slug": "college-place-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -1208,134 +243,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "colville-wa-tribal-police",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "cosmopolis-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "coulee-dam-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "covington-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "covington-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "cylde-hill-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "cylde-hill-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "des-moines-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -1364,150 +280,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "des-moines-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "des-moines-wa-pd-wa",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "des-moines-wa-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "des-moines-wa-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "douglas-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "dupont-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "east-wenatchee-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "east-wenatchee-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "eatonville-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -1536,22 +317,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "edmonds-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "error",
+      "detail": "http_404",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -1580,38 +354,15 @@
           "ok": 0,
           "error": 2,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "edmonds-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "ellensburg-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -1640,54 +391,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "ellensburg-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "enumclaw-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "everett-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -1716,262 +428,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "everett-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "federal-cowlitz-indian-tribal-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "federal-way-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "federal-way-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "flock-safety-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "flock-safety-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "goldendale-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "grandview-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "granger-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "granite-falls-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "grant-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "hoquiam-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "issaquah-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "kelso-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "kennewick-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "kent-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -2000,118 +465,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "kent-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "king-county-housing-authority-wa-inactive",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "king-county-housing-authority-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "king-county-housing-authority-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "kittitas-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "kittitas-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "lake-stevens-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -2140,22 +502,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "lakewood-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -2184,102 +539,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "lakewood-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "lakewood-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "liberty-lake-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "liberty-lake-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "lincoln-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "lynnwood-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -2308,86 +576,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "lynnwood-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "lynnwood-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "mabton-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "maple-valley-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "marysville-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -2416,54 +613,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "marysville-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "mattawa-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "medina-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -2492,22 +650,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "mill-creek-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -2536,38 +687,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "mill-creek-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "monroe-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -2596,54 +724,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "montesano-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "montesano-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "moses-lake-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -2672,22 +761,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "mount-vernon-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -2716,54 +798,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "mountlake-terrace-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "moxee-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "mukilteo-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 20,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 19,
       "series": [
         {
           "date": "2026-06-27",
@@ -2785,38 +828,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "napavine-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "newcastle-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -2845,166 +865,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "newport-yacht-club-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "newport-yacht-club-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "normandy-park-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "normandy-park-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "northlake-ridge-hoa-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "northlake-ridge-hoa-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "novoa-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "novoa-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "olympia-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "olympia-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -3033,133 +902,30 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "omak-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "orting-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "orting-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "othello-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "othello-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "pacific-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "port-of-seattle-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "error",
+      "detail": "http_403",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
           "ok": 0,
-          "error": 0,
-          "blocked": 1
+          "error": 1,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "prosser-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 29,
       "series": [
         {
@@ -3193,17 +959,17 @@
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "puyallup-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 29,
       "series": [
         {
@@ -3237,81 +1003,81 @@
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "puyallup-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "reardan-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "redmond-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "redmond-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "renton-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 29,
       "series": [
         {
@@ -3345,25 +1111,25 @@
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "renton-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
@@ -3399,41 +1165,41 @@
     },
     {
       "slug": "richland-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "richland-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "seatac-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 29,
       "series": [
         {
@@ -3467,49 +1233,49 @@
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "seatac-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "sedro-woolley-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "selah-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 29,
       "series": [
         {
@@ -3543,9 +1309,9 @@
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
@@ -3581,41 +1347,41 @@
     },
     {
       "slug": "shelton-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "shelton-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "skamania-co-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 29,
       "series": [
         {
@@ -3649,49 +1415,49 @@
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "skamania-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "snohomish-county-wa-911",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "snohomish-county-wa-so-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 29,
       "series": [
         {
@@ -3725,129 +1491,129 @@
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "snohomish-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "spokane-co-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "spokane-co-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "spokane-county-sherrif-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "spokane-county-sherrif-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "spokane-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "spokane-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 1,
       "series": [
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "stanwood-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 29,
       "series": [
         {
@@ -3881,17 +1647,17 @@
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "sultan-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-12T15:48:10.516629+00:00",
       "checks_recorded": 20,
       "series": [
         {
@@ -3918,18 +1684,18 @@
         {
           "date": "2026-10-12",
           "checks": 1,
-          "ok": 0,
+          "ok": 1,
           "error": 0,
-          "blocked": 1
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "sumner-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -3958,134 +1724,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "sumner-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "sunnyside-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "sunnyside-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "suquamish-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "the-hedges-homeowners-association-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "the-hedges-homeowners-association-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "tieton-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "toppenish-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -4114,38 +1761,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "toppenish-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "tukwila-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -4174,150 +1798,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "tukwila-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "tuscany-homeowners-association-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "tuscany-homeowners-association-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "union-gap-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "united-states-postal-service-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "united-states-postal-service-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "valley-medical-center-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "valley-medical-center-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "walla-walla-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -4346,262 +1835,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "walla-walla-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "walla-walla-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "wapato-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "wapato-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "warden-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "washington-state-patrol-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "washington-state-patrol-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "wenatchee-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "wenatchee-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "west-richland-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "west-richland-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "westport-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "wsu-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "wsu-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "yakima-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "yakima-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -4630,38 +1872,15 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "yakima-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     },
     {
       "slug": "yelm-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-06-29T10:13:57.230135+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-06-25",
@@ -4690,29 +1909,6 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "zillah-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-10-12T15:18:12.419156+00:00",
-      "checks_recorded": 1,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
         }
       ]
     }
