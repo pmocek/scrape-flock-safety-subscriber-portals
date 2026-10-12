@@ -25,6 +25,7 @@ from pathlib import Path
 
 PLAYWRIGHT_OK = False
 STEALTH_OK = False
+CAMOUFOX_OK = False
 try:
     from playwright.async_api import async_playwright
     PLAYWRIGHT_OK = True
@@ -36,6 +37,47 @@ try:
     STEALTH_OK = True
 except ImportError:
     pass
+
+try:
+    from camoufox.async_api import AsyncCamoufox
+    CAMOUFOX_OK = True
+except ImportError:
+    pass
+
+# Browser engine: "playwright" (Chromium + stealth, headed under xvfb) or
+# "camoufox" (patched Firefox, native headless). Set via --engine.
+ENGINE = "playwright"
+
+
+async def launch_browser(engine):
+    """Launch a browser for the given engine.
+
+    Returns (close_engine, browser, context, page); close_engine is an async
+    callable that tears down the underlying engine process.
+    """
+    if engine == "camoufox":
+        cm = AsyncCamoufox(headless=True, geoip=False, os=["windows", "macos", "linux"])
+        browser = await cm.__aenter__()
+        context = await browser.new_context(viewport={"width": 1920, "height": 1080})
+        page = await context.new_page()
+
+        async def close_engine():
+            await cm.__aexit__(None, None, None)
+
+        return close_engine, browser, context, page
+
+    p = await async_playwright().__aenter__()
+    browser = await p.chromium.launch(headless=False)
+    context = await browser.new_context(viewport={"width": 1920, "height": 1080})
+    page = await context.new_page()
+    if STEALTH_OK:
+        stealth = playwright_stealth.Stealth()
+        await stealth.apply_stealth_async(page)
+
+    async def close_engine():
+        await p.stop()
+
+    return close_engine, browser, context, page
 
 PROJECT_DIR = Path(__file__).parent.resolve()
 DATA_DIR = PROJECT_DIR / "data"
@@ -482,14 +524,7 @@ async def scrape_one_slug(slug, save_dir, max_retries=3):
     result = {"slug": slug, "url": url, "success": False}
 
     for attempt in range(max_retries):
-        p = await async_playwright().__aenter__()
-        browser = await p.chromium.launch(headless=False)
-        context = await browser.new_context(viewport={"width": 1920, "height": 1080})
-        page = await context.new_page()
-
-        if STEALTH_OK:
-            stealth = playwright_stealth.Stealth()
-            await stealth.apply_stealth_async(page)
+        close_engine, browser, context, page = await launch_browser(ENGINE)
 
         try:
             response = await page.goto(url, wait_until="domcontentloaded", timeout=30000)
@@ -636,7 +671,7 @@ async def scrape_one_slug(slug, save_dir, max_retries=3):
             except Exception:
                 pass
             try:
-                await p.stop()
+                await close_engine()
             except Exception:
                 pass
 
@@ -702,13 +737,22 @@ def main():
                         help="Total number of batches (used with --batch)")
     parser.add_argument("--ignore-backoff", action="store_true",
                         help="Attempt scraping even if slug is currently in backoff window")
+    parser.add_argument("--engine", choices=["playwright", "camoufox"], default="playwright",
+                        help="Browser engine (default: playwright). camoufox runs natively headless, no xvfb needed")
     args = parser.parse_args()
+
+    global ENGINE
+    ENGINE = args.engine
 
     if args.refresh_agencies:
         refresh_agencies()
         return
 
-    if not PLAYWRIGHT_OK:
+    if ENGINE == "camoufox":
+        if not CAMOUFOX_OK:
+            print("ERROR: camoufox not installed. Run: uv pip install camoufox && python3 -m camoufox fetch")
+            sys.exit(1)
+    elif not PLAYWRIGHT_OK:
         print("ERROR: playwright not installed. Run: uv pip install playwright && python3 -m playwright install chromium")
         sys.exit(1)
 

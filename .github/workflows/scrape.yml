@@ -13,6 +13,13 @@ on:
         description: 'Run full scrape of all agencies (batch 0)'
         type: boolean
         default: false
+      engine:
+        description: 'Browser engine (camoufox is experimental; scheduled runs always use playwright)'
+        type: choice
+        options:
+          - playwright
+          - camoufox
+        default: playwright
   schedule:
     # Every 2 hours — 12 batches per day
     - cron: '23 0 * * *'   # batch 1
@@ -84,9 +91,16 @@ jobs:
           echo "${{ github.event_name }} run — batch $BATCH of 12"
         fi
 
+    - name: Install Camoufox
+      if: ${{ github.event_name == 'workflow_dispatch' && inputs.engine == 'camoufox' }}
+      run: |
+        uv pip install "camoufox[geoip]"
+        .venv/bin/python3 -m camoufox fetch
+
     - name: Run the scraper
       run: |
-        ./scrape.sh --batch ${{ steps.batch.outputs.batch }} --total-batches 12
+        ENGINE="${{ github.event_name == 'workflow_dispatch' && inputs.engine || 'playwright' }}"
+        ./scrape.sh --batch ${{ steps.batch.outputs.batch }} --total-batches 12 --engine "$ENGINE"
 
     - name: Analyze audit CSVs
       id: audit

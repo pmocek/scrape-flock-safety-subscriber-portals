@@ -27,8 +27,17 @@ if command -v xvfb-run &>/dev/null; then
   XVFB_RUN="xvfb-run -a"
 fi
 
-# 4. Run Playwright-based scraper for individual agency portals
-if $PYTHON -c "import playwright" 2>/dev/null; then
+# 4. Run browser-based scraper for individual agency portals.
+#    --engine camoufox: native headless Firefox, no Xvfb required.
+#    default (playwright): Chromium stealth, needs Xvfb.
+if [[ " $* " == *" --engine camoufox "* || " $* " == *" --engine=camoufox "* ]]; then
+  if $PYTHON -c "import camoufox" 2>/dev/null; then
+    echo "Camoufox available — scraping individual agency portals (no Xvfb)..."
+    $PYTHON scrape-flock.py "$@" 2>&1 || echo "  (agency scrape step non-fatal)"
+  else
+    echo "Camoufox not installed — skipping browser-based agency scraping."
+  fi
+elif $PYTHON -c "import playwright" 2>/dev/null; then
   echo "Playwright available — scraping individual agency portals..."
   echo "  (wa-agencies.json grows organically through cross-agency spidering;"
   echo "   eyesonflock data already downloaded above for name-to-slug mapping.)"
