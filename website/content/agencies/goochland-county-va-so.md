@@ -1,6 +1,5 @@
 ---
 title: "Goochland County VA SO"
-date: { .Date }
 status: "active"
 cameras: 11
 shares_data_with: 2

@@ -1,6 +1,5 @@
 ---
 title: "El Segundo CA PD"
-date: { .Date }
 status: "active"
 cameras: 17
 shares_data_with: 258

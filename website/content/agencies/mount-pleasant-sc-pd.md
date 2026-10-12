@@ -1,6 +1,5 @@
 ---
 title: "Mount Pleasant SC PD"
-date: { .Date }
 status: "active"
 cameras: 22
 shares_data_with: 1577

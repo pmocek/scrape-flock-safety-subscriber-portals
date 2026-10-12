@@ -1,6 +1,5 @@
 ---
 title: "Centralia WA PD"
-date: { .Date }
 status: "active"
 cameras: 17
 shares_data_with: 84

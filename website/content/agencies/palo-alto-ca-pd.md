@@ -1,6 +1,5 @@
 ---
 title: "Palo Alto CA PD"
-date: { .Date }
 status: "active"
 cameras: 30
 shares_data_with: 67

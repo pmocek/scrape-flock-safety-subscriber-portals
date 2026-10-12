@@ -1,6 +1,5 @@
 ---
 title: "Medina WA PD"
-date: { .Date }
 status: "active"
 cameras: 23
 shares_data_with: 1

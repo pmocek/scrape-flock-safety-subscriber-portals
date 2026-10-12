@@ -1,6 +1,5 @@
 ---
 title: "Auburn WA PD"
-date: { .Date }
 status: "active"
 cameras: 36
 shares_data_with: 80

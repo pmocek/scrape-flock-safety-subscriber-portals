@@ -4,19 +4,21 @@
 (function() {
     'use strict';
     
-    d3.json('/data/audit-data.json').then(function(data) {
-        if (!data || !Object.keys(data.categories).length) return;
+    const container = document.getElementById('audit-chart') || document.getElementById('audit-reason-chart');
+    if (!container) return;
+    
+    const url = container.dataset.url || 'data/audit-data.json';
+    
+    d3.json(url).then(function(data) {
+        if (!data || !data.categories || !Object.keys(data.categories).length) return;
         
-        const container = document.getElementById('audit-chart');
-        if (!container) return;
+        const width = Math.max(container.clientWidth || 500, 320);
+        const height = 320;
+        const margin = {top: 20, right: 30, bottom: 40, left: 140};
         
-        const width = Math.max(container.clientWidth, 500);
-        const height = 400;
-        const margin = {top: 20, right: 30, bottom: 80, left: 140};
+        d3.select(container).selectAll('*').remove();
         
-        d3.select('#audit-chart').selectAll('*').remove();
-        
-        const svg = d3.select('#audit-chart')
+        const svg = d3.select(container)
             .append('svg')
             .attr('width', width)
             .attr('height', height + margin.top + margin.bottom);

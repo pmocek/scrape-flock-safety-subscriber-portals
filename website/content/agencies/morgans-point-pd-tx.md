@@ -1,6 +1,5 @@
 ---
 title: "Morgan's Point PD TX"
-date: { .Date }
 status: "active"
 cameras: 4
 shares_data_with: 480

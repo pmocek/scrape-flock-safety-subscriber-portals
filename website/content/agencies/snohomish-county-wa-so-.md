@@ -1,6 +1,5 @@
 ---
 title: "Snohomish County WA SO"
-date: { .Date }
 status: "active"
 cameras: 8
 shares_data_with: 10

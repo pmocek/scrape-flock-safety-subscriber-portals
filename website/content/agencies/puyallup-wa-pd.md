@@ -1,6 +1,5 @@
 ---
 title: "Puyallup WA PD"
-date: { .Date }
 status: "active"
 cameras: 45
 shares_data_with: 83

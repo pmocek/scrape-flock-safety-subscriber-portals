@@ -1,6 +1,5 @@
 ---
 title: "Jackson Township OH PD (Mahoning County)"
-date: { .Date }
 status: "active"
 cameras: 0
 shares_data_with: 0

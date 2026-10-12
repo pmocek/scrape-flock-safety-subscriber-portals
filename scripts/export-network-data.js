@@ -45,8 +45,11 @@ const output = {
     links: links,
 };
 
-fs.mkdirSync(path.dirname(OUTPUT_FILE), { recursive: true });
-fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2));
+const STATIC_OUTPUT_FILE = path.join(__dirname, '..', 'website', 'static', 'data', 'network-graph.json');
+for (const p of [OUTPUT_FILE, STATIC_OUTPUT_FILE]) {
+    fs.mkdirSync(path.dirname(p), { recursive: true });
+    fs.writeFileSync(p, JSON.stringify(output, null, 2));
+}
 console.log(`Exported ${nodes.size} nodes, ${links.length} edges → network-graph.json`);
 
 function readLatestEntry(statsPath) {

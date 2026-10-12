@@ -1,6 +1,5 @@
 ---
 title: "Mount Orab OH PD"
-date: { .Date }
 status: "active"
 cameras: 3
 shares_data_with: 83

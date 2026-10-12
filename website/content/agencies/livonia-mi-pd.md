@@ -1,6 +1,5 @@
 ---
 title: "Livonia MI PD"
-date: { .Date }
 status: "active"
 cameras: 25
 shares_data_with: 0

@@ -1,6 +1,5 @@
 ---
 title: "UT - Cedar City PD"
-date: { .Date }
 status: "active"
 cameras: 44
 shares_data_with: 0

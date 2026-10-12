@@ -1,6 +1,5 @@
 ---
 title: "Ottawa County OH SO"
-date: { .Date }
 status: "active"
 cameras: 18
 shares_data_with: 2044

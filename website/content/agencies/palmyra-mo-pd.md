@@ -1,6 +1,5 @@
 ---
 title: "Palmyra MO PD"
-date: { .Date }
 status: "active"
 cameras: 7
 shares_data_with: 1150

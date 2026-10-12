@@ -1,6 +1,5 @@
 ---
 title: "Des Moines WA PD"
-date: { .Date }
 status: "active"
 cameras: 14
 shares_data_with: 80

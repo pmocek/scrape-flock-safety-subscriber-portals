@@ -1,6 +1,5 @@
 ---
 title: "Mount Vernon OH PD"
-date: { .Date }
 status: "active"
 cameras: 8
 shares_data_with: 0

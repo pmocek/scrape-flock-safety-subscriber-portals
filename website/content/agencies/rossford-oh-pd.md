@@ -1,6 +1,5 @@
 ---
 title: "Rossford OH PD"
-date: { .Date }
 status: "active"
 cameras: 20
 shares_data_with: 0

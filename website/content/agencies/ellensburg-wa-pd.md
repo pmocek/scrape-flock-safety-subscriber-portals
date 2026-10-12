@@ -1,6 +1,5 @@
 ---
 title: "Ellensburg WA PD"
-date: { .Date }
 status: "active"
 cameras: 13
 shares_data_with: 0

@@ -8,50 +8,84 @@
         <span class="label">Total Portals</span>
     </div>
     <div class="summary-card">
-        <span class="value">{{ $stats.active }}</span>
-        <span class="label">Active</span>
+        <span class="value">{{ int $stats.active | lang.FormatNumber 0 }}</span>
+        <span class="label">Active Portals</span>
     </div>
     <div class="summary-card">
-        <span class="value">{{ $stats.total_cameras }}</span>
+        <span class="value">{{ int $stats.total_cameras | lang.FormatNumber 0 }}</span>
         <span class="label">Cameras Deployed</span>
     </div>
     <div class="summary-card">
-        <span class="value">{{ $stats.total_searches | printf "%d" }}</span>
+        <span class="value">{{ int $stats.total_searches | lang.FormatNumber 0 }}</span>
         <span class="label">Searches Logged</span>
     </div>
 </div>
 
 <p style="color: var(--color-muted); margin-bottom: var(--spacing-xl)">
-    {{ $stats.inactive }} inactive · {{ $stats.not_found }} unreachable. Data from public Flock Safety transparency portals.
+    {{ $stats.inactive }} inactive · {{ $stats.not_found }} unreachable or rate-limited. Sourced from public Flock Safety subscriber portals.
 </p>
 
 <div class="dashboard-grid">
     <div class="chart-container">
         <h3>Status Distribution</h3>
-        <canvas id="status-chart"></canvas>
+        <div style="margin-top: var(--spacing-md)">
+            {{ $total := len $stats.agencies }}
+            {{ $activePct := div (mul (float $stats.active) 100.0) $total }}
+            {{ $inactivePct := div (mul (float $stats.inactive) 100.0) $total }}
+            {{ $notFoundPct := div (mul (float $stats.not_found) 100.0) $total }}
+            <div style="display: flex; height: 24px; border-radius: var(--radius); overflow: hidden; margin-bottom: var(--spacing-md); background: #eee;">
+                <div style="width: {{ printf "%.1f" $activePct }}%; background: #2469ae;" title="Active: {{ $stats.active }} ({{ printf "%.1f" $activePct }}%)"></div>
+                <div style="width: {{ printf "%.1f" $inactivePct }}%; background: #fbbc04;" title="Inactive: {{ $stats.inactive }} ({{ printf "%.1f" $inactivePct }}%)"></div>
+                <div style="width: {{ printf "%.1f" $notFoundPct }}%; background: #ea4335;" title="Unreachable: {{ $stats.not_found }} ({{ printf "%.1f" $notFoundPct }}%)"></div>
+            </div>
+            <div style="display: flex; flex-direction: column; gap: var(--spacing-xs); font-size: 0.9rem;">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <span><span style="display: inline-block; width: 10px; height: 10px; background: #2469ae; border-radius: 50%; margin-right: 6px;"></span>Active Portals</span>
+                    <strong>{{ $stats.active }} ({{ printf "%.1f" $activePct }}%)</strong>
+                </div>
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <span><span style="display: inline-block; width: 10px; height: 10px; background: #fbbc04; border-radius: 50%; margin-right: 6px;"></span>Inactive Portals</span>
+                    <strong>{{ $stats.inactive }} ({{ printf "%.1f" $inactivePct }}%)</strong>
+                </div>
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <span><span style="display: inline-block; width: 10px; height: 10px; background: #ea4335; border-radius: 50%; margin-right: 6px;"></span>Unreachable / Denied</span>
+                    <strong>{{ $stats.not_found }} ({{ printf "%.1f" $notFoundPct }}%)</strong>
+                </div>
+            </div>
+        </div>
     </div>
     <div class="chart-container">
         <h3>Audit Reason Breakdown</h3>
-        <div id="audit-reason-chart"></div>
+        <div id="audit-chart" data-url="{{ "data/audit-data.json" | absURL }}"></div>
     </div>
 </div>
 
 <hr style="margin: var(--spacing-xl) 0; border: none; border-top: 1px solid var(--color-border)">
 
-<h3 class="section-title">Agency Directory Preview</h3>
+<h3 class="section-title">Active Agency Directory Preview</h3>
 <table class="agency-table" id="preview-agency-table">
-    <thead><tr><th>Agency</th><th>Status</th><th>Cameras</th></tr></thead>
+    <thead><tr><th>Agency</th><th>Status</th><th>Cameras</th><th>Partners</th></tr></thead>
     <tbody>
-        {{ range first 20 $stats.agencies }}
+        {{ range first 15 $stats.agencies }}
         <tr>
-            <td>{{ .name }}</td>
+            <td>
+                {{ if eq .status "not_found" }}
+                    {{ .name }}
+                {{ else }}
+                    <a href="{{ printf "agencies/%s/" .slug | absURL }}">{{ .name }}</a>
+                {{ end }}
+            </td>
             <td><span class="status-badge status-{{ .status }}">{{ .status }}</span></td>
             <td>{{ .cameras }}</td>
+            <td>{{ .sharing_partners }}</td>
         </tr>
         {{ end }}
     </tbody>
 </table>
-<p style="text-align:center;margin-top:var(--spacing-sm)">
-    <a href="/agencies/">View all {{ len $stats.agencies }} agencies →</a>
+<p style="text-align:center;margin-top:var(--spacing-md)">
+    <a href="{{ "agencies/" | absURL }}">View all {{ len $stats.agencies }} agencies →</a>
 </p>
+
+<script src="{{ "js/d3.min.js" | absURL }}"></script>
+<script src="{{ "js/audit-chart.js" | absURL }}"></script>
 {{ end }}

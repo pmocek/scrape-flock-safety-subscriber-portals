@@ -1,6 +1,5 @@
 ---
 title: "Olympia WA PD"
-date: { .Date }
 status: "active"
 cameras: 0
 shares_data_with: 73

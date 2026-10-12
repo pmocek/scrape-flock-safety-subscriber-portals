@@ -1,6 +1,5 @@
 ---
 title: "Lucas County OH SO"
-date: { .Date }
 status: "active"
 cameras: 33
 shares_data_with: 1807

@@ -1,6 +1,5 @@
 ---
 title: "Stamping Ground KY PD"
-date: { .Date }
 status: "active"
 cameras: 5
 shares_data_with: 1004

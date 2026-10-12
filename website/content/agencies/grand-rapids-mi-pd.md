@@ -1,6 +1,5 @@
 ---
 title: "Grand Rapids MI PD"
-date: { .Date }
 status: "active"
 cameras: 29
 shares_data_with: 2089

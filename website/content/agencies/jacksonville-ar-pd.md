@@ -1,6 +1,5 @@
 ---
 title: "Jacksonville AR PD"
-date: { .Date }
 status: "active"
 cameras: 117
 shares_data_with: 1201

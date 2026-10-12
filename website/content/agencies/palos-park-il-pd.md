@@ -1,6 +1,5 @@
 ---
 title: "Palos Park IL PD"
-date: { .Date }
 status: "active"
 cameras: 7
 shares_data_with: 1091

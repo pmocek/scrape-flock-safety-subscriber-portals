@@ -1,9 +1,8 @@
 ---
-title: "<Error>"
-date: { .Date }
+title: "Osage County MO SO"
 status: "active"
 cameras: 0
 shares_data_with: 0
 ---
 
-This <Error> operates a Flock Safety ALPR portal. 0 cameras deployed, sharing data with 0 partner agencies.
+This Osage County MO SO operates a Flock Safety ALPR portal. 0 cameras deployed, sharing data with 0 partner agencies.

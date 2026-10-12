@@ -1,6 +1,5 @@
 ---
 title: "Lynchburg VA PD"
-date: { .Date }
 status: "active"
 cameras: 15
 shares_data_with: 0

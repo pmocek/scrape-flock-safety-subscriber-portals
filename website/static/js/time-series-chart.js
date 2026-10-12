@@ -6,16 +6,30 @@
     'use strict';
 
     // Load series data from Hugo-generated JSON
-    const SERIES_DATA = typeof window.AGENCY_SERIES !== 'undefined' ? window.AGENCY_SERIES : null;
+    let SERIES_DATA = typeof window.AGENCY_SERIES !== 'undefined' ? window.AGENCY_SERIES : null;
+    if (typeof SERIES_DATA === 'string') {
+        try {
+            SERIES_DATA = JSON.parse(SERIES_DATA);
+        } catch (e) {
+            SERIES_DATA = null;
+        }
+    }
     
-    if (!SERIES_DATA) return;
+    if (!SERIES_DATA || !SERIES_DATA.entries || !SERIES_DATA.entries.length) return;
 
     function renderChart(containerId, data, metricKey, label, color) {
         const container = document.getElementById(containerId);
-        if (!container || !data || !data.entries.length) return;
+        if (!container || !data || !data.entries) return;
+
+        const yValues = data.entries.map(e => e[metricKey]).filter(v => v != null && v > 0);
+        if (!yValues.length) {
+            const parent = container.closest('.chart-container');
+            if (parent) parent.style.display = 'none';
+            return;
+        }
 
         const margin = { top: 20, right: 20, bottom: 40, left: 50 };
-        const width = container.clientWidth - margin.left - margin.right;
+        const width = Math.max(container.clientWidth || 300, 200) - margin.left - margin.right;
         const height = 200 - margin.top - margin.bottom;
 
         d3.select('#' + containerId).selectAll('*').remove();
@@ -27,13 +41,15 @@
             .append('g')
             .attr('transform', `translate(${margin.left},${margin.top})`);
 
-        // Parse timestamps
-        const parseDate = d3.timeParse('%Y-%m-%dT%H:%M:%S');
+        // Parse timestamps using native Date parser
+        const parseDate = d => new Date(d);
+        const validEntries = data.entries.filter(e => e.ts && !isNaN(new Date(e.ts).getTime()));
+        if (!validEntries.length) return;
+
         const xScale = d3.scaleTime()
-            .domain(d3.extent(data.entries, d => parseDate(d.ts)))
+            .domain(d3.extent(validEntries, d => parseDate(d.ts)))
             .range([0, width]);
 
-        const yValues = data.entries.map(e => e[metricKey]).filter(v => v != null && v > 0);
         const maxVal = d3.max(yValues) || 100;
         const yScale = d3.scaleLinear()
             .domain([0, maxVal])
@@ -101,7 +117,7 @@
     }
 
     // Render all chart containers on this page
-    renderChart('portal-activity-chart', SERIES_DATA, 'status', 'Portal Status Entries', '#2469ae');
+    renderChart('portal-activity-chart', SERIES_DATA, 'cameras', 'Cameras Deployed', '#2469ae');
     renderChart('vehicles-chart', SERIES_DATA, 'vehicles', 'Vehicles Detected (30-day rolling)', '#34a853');
     renderChart('search-volume-chart', SERIES_DATA, 'searches', 'Searches (30-day rolling)', '#fbbc04');
 

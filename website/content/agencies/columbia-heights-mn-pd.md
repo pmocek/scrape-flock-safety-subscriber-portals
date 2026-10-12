@@ -1,6 +1,5 @@
 ---
 title: "Columbia Heights MN PD"
-date: { .Date }
 status: "inactive"
 cameras: 5
 shares_data_with: 2

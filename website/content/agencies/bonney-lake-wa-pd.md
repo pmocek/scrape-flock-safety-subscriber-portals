@@ -1,6 +1,5 @@
 ---
 title: "Bonney Lake WA PD"
-date: { .Date }
 status: "active"
 cameras: 22
 shares_data_with: 0

@@ -1,6 +1,5 @@
 ---
 title: "Green Bay WI PD"
-date: { .Date }
 status: "active"
 cameras: 46
 shares_data_with: 3

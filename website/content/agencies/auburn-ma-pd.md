@@ -1,6 +1,5 @@
 ---
 title: "Auburn MA PD"
-date: { .Date }
 status: "active"
 cameras: 4
 shares_data_with: 189

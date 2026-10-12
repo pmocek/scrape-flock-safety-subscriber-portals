@@ -1,6 +1,5 @@
 ---
 title: "Palm Springs CA PD"
-date: { .Date }
 status: "active"
 cameras: 224
 shares_data_with: 26

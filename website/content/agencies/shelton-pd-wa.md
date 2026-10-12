@@ -1,6 +1,5 @@
 ---
 title: "Shelton PD (WA)"
-date: { .Date }
 status: "active"
 cameras: 12
 shares_data_with: 72

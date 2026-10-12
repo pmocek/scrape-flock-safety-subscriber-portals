@@ -1,6 +1,5 @@
 ---
 title: "Isle of Palms SC PD"
-date: { .Date }
 status: "active"
 cameras: 0
 shares_data_with: 722

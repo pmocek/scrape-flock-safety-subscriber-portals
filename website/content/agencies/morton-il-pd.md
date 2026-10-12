@@ -1,6 +1,5 @@
 ---
 title: "Morton IL PD"
-date: { .Date }
 status: "active"
 cameras: 26
 shares_data_with: 418

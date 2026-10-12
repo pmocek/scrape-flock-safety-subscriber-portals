@@ -1,6 +1,5 @@
 ---
 title: "Sultan WA PD"
-date: { .Date }
 status: "active"
 cameras: 6
 shares_data_with: 14

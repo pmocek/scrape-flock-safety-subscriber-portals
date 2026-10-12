@@ -1,6 +1,5 @@
 ---
 title: "Atherton CA PD"
-date: { .Date }
 status: "active"
 cameras: 53
 shares_data_with: 310

@@ -1,6 +1,5 @@
 ---
 title: "Springdale AR PD"
-date: { .Date }
 status: "active"
 cameras: 153
 shares_data_with: 0

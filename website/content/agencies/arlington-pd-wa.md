@@ -1,6 +1,5 @@
 ---
 title: "Arlington PD (WA)"
-date: { .Date }
 status: "active"
 cameras: 22
 shares_data_with: 0

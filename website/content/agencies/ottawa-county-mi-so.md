@@ -1,6 +1,5 @@
 ---
 title: "Ottawa County MI SO"
-date: { .Date }
 status: "active"
 cameras: 31
 shares_data_with: 1134

@@ -1,6 +1,5 @@
 ---
 title: "College Station TX PD"
-date: { .Date }
 status: "active"
 cameras: 75
 shares_data_with: 818

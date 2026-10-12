@@ -1,6 +1,5 @@
 ---
 title: "Indianola IA PD"
-date: { .Date }
 status: "active"
 cameras: 8
 shares_data_with: 2

@@ -4,16 +4,20 @@
 (function() {
     'use strict';
 
-    d3.json('/data/network-graph.json').then(function(data) {
-        if (!data || !data.nodes.length) return;
+    const container = document.getElementById('network-graph');
+    if (!container) return;
 
-        const container = document.getElementById('network-graph');
-        if (!container) return;
+    const url = container.dataset.url || 'data/network-graph.json';
 
-        const width = Math.max(container.clientWidth, 600);
+    d3.json(url).then(function(data) {
+        if (!data || !data.nodes || !data.nodes.length) return;
+
+        const width = Math.max(container.clientWidth || 600, 320);
         const height = 500;
 
-        const svg = d3.select('#network-graph')
+        d3.select(container).selectAll('*').remove();
+
+        const svg = d3.select(container)
             .append('svg')
             .attr('width', width)
             .attr('height', height)

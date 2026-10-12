@@ -1,6 +1,5 @@
 ---
 title: "Stewart County TN SO"
-date: { .Date }
 status: "active"
 cameras: 4
 shares_data_with: 285

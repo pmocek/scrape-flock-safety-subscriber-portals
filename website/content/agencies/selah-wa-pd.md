@@ -1,6 +1,5 @@
 ---
 title: "Selah WA PD"
-date: { .Date }
 status: "active"
 cameras: 16
 shares_data_with: 80

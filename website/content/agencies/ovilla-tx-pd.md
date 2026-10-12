@@ -1,6 +1,5 @@
 ---
 title: "Ovilla TX PD"
-date: { .Date }
 status: "active"
 cameras: 1
 shares_data_with: 589

@@ -1,6 +1,5 @@
 ---
 title: "Sunnyside WA PD"
-date: { .Date }
 status: "active"
 cameras: 46
 shares_data_with: 101

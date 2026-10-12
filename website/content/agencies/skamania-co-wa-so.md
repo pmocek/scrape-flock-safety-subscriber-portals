@@ -1,6 +1,5 @@
 ---
 title: "Skamania CO WA SO"
-date: { .Date }
 status: "inactive"
 cameras: 0
 shares_data_with: 0

@@ -1,6 +1,5 @@
 ---
 title: "Roseville MN PD"
-date: { .Date }
 status: "active"
 cameras: 10
 shares_data_with: 29

@@ -1,6 +1,5 @@
 ---
 title: "Sterling County TX SO"
-date: { .Date }
 status: "active"
 cameras: 4
 shares_data_with: 453

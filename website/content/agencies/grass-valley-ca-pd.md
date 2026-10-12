@@ -1,6 +1,5 @@
 ---
 title: "Grass Valley CA PD"
-date: { .Date }
 status: "active"
 cameras: 81
 shares_data_with: 0

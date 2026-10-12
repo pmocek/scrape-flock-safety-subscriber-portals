@@ -1,6 +1,5 @@
 ---
 title: "St. Lucie County FL SO"
-date: { .Date }
 status: "active"
 cameras: 45
 shares_data_with: 0

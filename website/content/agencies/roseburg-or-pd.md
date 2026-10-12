@@ -1,6 +1,5 @@
 ---
 title: "Roseburg OR PD"
-date: { .Date }
 status: "active"
 cameras: 15
 shares_data_with: 42

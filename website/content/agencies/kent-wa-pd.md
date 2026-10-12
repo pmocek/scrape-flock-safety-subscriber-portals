@@ -1,6 +1,5 @@
 ---
 title: "Kent WA PD"
-date: { .Date }
 status: "active"
 cameras: 19
 shares_data_with: 103

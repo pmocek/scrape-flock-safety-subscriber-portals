@@ -24,7 +24,6 @@ for agency in data['agencies']:
     
     content = f'''---
 title: "{name}"
-date: {{ .Date }}
 status: "{agency['status']}"
 cameras: {agency['cameras']}
 shares_data_with: {agency['sharing_partners']}

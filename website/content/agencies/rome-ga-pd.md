@@ -1,6 +1,5 @@
 ---
 title: "Rome GA PD"
-date: { .Date }
 status: "active"
 cameras: 32
 shares_data_with: 0

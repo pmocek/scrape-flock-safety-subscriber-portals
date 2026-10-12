@@ -1,6 +1,5 @@
 ---
 title: "Grand Traverse County MI SO"
-date: { .Date }
 status: "active"
 cameras: 28
 shares_data_with: 1480

@@ -1,6 +1,5 @@
 ---
 title: "City of Westlake (TX)"
-date: { .Date }
 status: "active"
 cameras: 21
 shares_data_with: 340

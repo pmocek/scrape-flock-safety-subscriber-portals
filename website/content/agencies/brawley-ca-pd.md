@@ -1,6 +1,5 @@
 ---
 title: "Brawley CA PD"
-date: { .Date }
 status: "active"
 cameras: 41
 shares_data_with: 322

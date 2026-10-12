@@ -1,6 +1,5 @@
 ---
 title: "Vacaville CA PD"
-date: { .Date }
 status: "active"
 cameras: 260
 shares_data_with: 120

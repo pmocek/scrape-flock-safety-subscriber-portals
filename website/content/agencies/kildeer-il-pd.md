@@ -1,6 +1,5 @@
 ---
 title: "Kildeer IL PD"
-date: { .Date }
 status: "active"
 cameras: 2
 shares_data_with: 387

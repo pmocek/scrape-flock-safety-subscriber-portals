@@ -1,6 +1,5 @@
 ---
 title: "Goodyear AZ PD"
-date: { .Date }
 status: "active"
 cameras: 33
 shares_data_with: 0

@@ -1,6 +1,5 @@
 ---
 title: "Mooresville IN PD"
-date: { .Date }
 status: "active"
 cameras: 7
 shares_data_with: 0

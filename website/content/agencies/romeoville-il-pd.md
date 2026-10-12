@@ -1,6 +1,5 @@
 ---
 title: "Romeoville IL PD"
-date: { .Date }
 status: "active"
 cameras: 0
 shares_data_with: 0

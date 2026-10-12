@@ -1,6 +1,5 @@
 ---
 title: "Urbandale IA PD"
-date: { .Date }
 status: "active"
 cameras: 28
 shares_data_with: 88

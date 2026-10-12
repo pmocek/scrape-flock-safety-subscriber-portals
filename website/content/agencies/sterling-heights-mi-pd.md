@@ -1,6 +1,5 @@
 ---
 title: "Sterling Heights MI PD"
-date: { .Date }
 status: "active"
 cameras: 24
 shares_data_with: 0

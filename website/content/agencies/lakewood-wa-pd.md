@@ -1,6 +1,5 @@
 ---
 title: "Lakewood WA PD"
-date: { .Date }
 status: "active"
 cameras: 58
 shares_data_with: 80

@@ -69,9 +69,11 @@ result = {
     'categories': dict(sorted(by_category.items(), key=lambda x: -x[1])[:20]),
 }
 
-os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
-with open(OUTPUT_FILE, 'w') as f:
-    json.dump(result, f, indent=2)
+STATIC_OUTPUT_FILE = os.path.join(os.path.dirname(__file__), '..', 'website', 'static', 'data', 'audit-data.json')
+for p in [OUTPUT_FILE, STATIC_OUTPUT_FILE]:
+    os.makedirs(os.path.dirname(p), exist_ok=True)
+    with open(p, 'w') as f:
+        json.dump(result, f, indent=2)
 
 print(f"Audit data → {OUTPUT_FILE}")
 print(f"  Total audit entries: {total_audit_entries}")

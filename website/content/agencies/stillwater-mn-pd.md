@@ -1,6 +1,5 @@
 ---
 title: "Stillwater MN PD"
-date: { .Date }
 status: "active"
 cameras: 0
 shares_data_with: 759
