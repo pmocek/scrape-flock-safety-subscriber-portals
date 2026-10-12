@@ -63,6 +63,53 @@ In `.github/workflows/scrape.yml`:
 - name: Install Camoufox
   run: |
     uv pip install "camoufox[geoip]"
-    python3 -m camoufox fetch
+    .venv/bin/python3 -m camoufox fetch
 ```
 No `xvfb-run` wrapper is required when running under Camoufox.
+
+---
+
+## 5. Implementation Status (verified 2026-10-12)
+
+The `--engine` flag and CI wiring already existed but **had never successfully run**.
+`launch_browser()` passed `os=["windows","macos","linux"]`, and current `fpgen` expects a
+single OS string, so the path raised:
+
+```
+fpgen.exceptions.InvalidConstraints: The passed function (...) yielded no
+possible values for "os"
+```
+
+This fires during fingerprint generation, i.e. before a browser ever launches. The
+`scrape.sh` guard hides it: `if $PYTHON -c "import camoufox"` succeeds, so the script
+prints "Camoufox available" and then gets no data — another instance of the silent-failure
+pattern in `AGENTS.md`.
+
+### Verification
+
+| Check | Result |
+|---|---|
+| `camoufox fetch` | v156.0.1-beta.36 installed |
+| Headless scrape, no `xvfb` | 8/8 slugs OK in 94s, 0 blocked |
+| Data parity vs Playwright | identical (`auburn-wa-pd`: 6417 chars, 40 cameras from both) |
+| GitHub Actions dispatch | `success`, "Camoufox available — no Xvfb", batch 9/12 |
+
+### Findings
+
+1. **`os` is a single value, not a list.** `CAMOUFOX_OS` env var pins it explicitly;
+   unset, Camoufox selects for itself, which is preferable.
+2. **Content renders around 4s**, not immediately. An early `inner_text` can return an
+   empty string even when the page is healthy — the scraper's 8s settle covers this, but
+   ad-hoc probes must not assume immediate content.
+3. **HTTP 403 with fully-rendered content is normal** on this site and is *not* a
+   Cloudflare block. Both engines see it. Detection must key on interstitial text
+   ("Just a moment" / "Error 1015"), never on status code alone.
+4. **Camoufox does not reduce parse quality.** Identical extracted stats to Playwright.
+
+### Recommendation
+
+Keep Playwright as the default for scheduled runs. Camoufox is a viable fallback when
+Playwright's fingerprint starts getting blocked, and it drops the `xvfb-run` dependency.
+Do not switch the default without first observing a sustained block rate under Playwright —
+Camoufox's advantage here is unproven in production because it has never run long enough
+to accumulate comparable data.

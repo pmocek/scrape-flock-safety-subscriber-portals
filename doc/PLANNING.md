@@ -42,12 +42,13 @@ The following is the complete dump of all tasks migrated from the Beads local Do
      * Maintained the live WA matrix of agencies exhibiting policy conflicts in [`docs/immigration-ncic/conflict-matrix.md`](../docs/immigration-ncic/conflict-matrix.md), auto-regenerated each scrape via `scripts/ncic-contradiction.py --wa-matrix`.
 
 ### Milestone 2: Anti-Detect Engine Upgrade (Camoufox Integration)
-* **Status:** Planned (See [`CAMOUFOX_EVALUATION.md`](CAMOUFOX_EVALUATION.md))
+* **Status:** Engine working and verified (2026-10-12); default switch not recommended yet (See [`CAMOUFOX_EVALUATION.md`](CAMOUFOX_EVALUATION.md))
 * **Goals:**
   1. Add support for **Camoufox** (Firefox-based C++ patched anti-detect browser) alongside Playwright Chromium.
   2. Eliminate the need for `xvfb-run` virtual framebuffers in CI by leveraging Camoufox's native C++ headless fingerprint injection.
   3. Reduce Cloudflare Error 1015 rate limiting and Turnstile challenges through realistic TLS (JA3/JA4) and HTTP/2 fingerprinting.
-  4. Implement an engine flag in `scrape-flock.py`: `--engine=playwright` (default) or `--engine=camoufox`.
+  4. Implement an engine flag in `scrape-flock.py`: `--engine=playwright` (default) or `--engine=camoufox`. [Completed — flag existed but never ran; `os=[...]` list broke fingerprint generation. Fixed, verified headless 8/8 in 94s with no xvfb, parity-identical to Playwright, and confirmed working via CI dispatch.]
+* **Deliberately not done:** switching scheduled runs to Camoufox. Its advantage is unproven in production since it has never accumulated comparable data; keep as fallback until Playwright shows sustained blocking.
 
 ### Milestone 3: Cross-Referencing with Community ALPR Data (DeFlock & OSM)
 * **Status:** Implemented (See [`DEFLOCK_RESEARCH.md`](DEFLOCK_RESEARCH.md))
