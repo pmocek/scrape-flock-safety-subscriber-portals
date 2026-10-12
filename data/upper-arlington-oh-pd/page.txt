@@ -5,7 +5,7 @@ Visit Flock
 Upper Arlington OH PD
 Transparency Portal
 
-Last updated: Sun Oct 11 2026
+Last updated: Mon Oct 12 2026
 
 Overview
 
@@ -32,13 +32,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-418,910
+417,555
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-30
+31
 
 Hotlists Alerted On
 
@@ -50,7 +50,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-506
+510
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -537,7 +537,6 @@ Bexley OH PD
 Blendon Township OH PD
 Bloomfield NM PD
 Blount County TN SO
-Blue Ash OH PD
 Boardman Township OH PD
 Boston Heights OH PD
 Bratenahl OH PD
