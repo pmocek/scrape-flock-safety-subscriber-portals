@@ -115,14 +115,15 @@ async def main():
     else:
         slugs = WA_SLUGS
 
-    # Even scoped to WA, 221 slugs at ~28s each (8s settle + retries) is ~1.7h,
-    # which overruns any sane budget and would leave most of the list unchecked.
-    # Check a rotating slice each run instead: every WA portal is covered once
-    # per full cycle, and the window stays far below the job limit.
+    # Offset by absolute hour, not day-of-year: a day-based offset is constant
+    # for 24h, so every scheduled run in a day re-checked the same slice and
+    # the rest of the list was never reached. Hour-based advances the window by
+    # one slice per run, giving full coverage roughly every 7.4 runs.
     slice_size = int(os.environ.get("HEALTH_CHECK_SLICE", "0")) or None
     if slice_size and slice_size < len(slugs):
-        day = time.gmtime().tm_yday
-        offset = (day * slice_size) % len(slugs)
+        now = time.gmtime()
+        slot = now.tm_yday * 24 + now.tm_hour
+        offset = (slot * slice_size) % len(slugs)
         slugs = slugs[offset:] + slugs[:offset]
         slugs = slugs[:slice_size]
         print(f"rotating slice: {len(slugs)} of the WA list (offset {offset})")
