@@ -128,6 +128,11 @@ jobs:
           echo "EOF" >> "$GITHUB_OUTPUT"
         fi
 
+    - name: Refresh NCIC conflict matrix
+      continue-on-error: true
+      run: |
+        python3 scripts/ncic-contradiction.py --wa-matrix > docs/immigration-ncic/conflict-matrix.md
+
     - name: Commit and push
       run: |-
         git config user.name "Automated"

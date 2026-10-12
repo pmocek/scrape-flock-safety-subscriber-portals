@@ -16,8 +16,8 @@ The following is the complete dump of all tasks migrated from the Beads local Do
 | `scrape-flock-safety-subscriber-portals-phb` | Deprecate eyesonflock.com as authoritative agency source | P2 | **Closed** | eyesonflock data kept for name-to-slug mapping only; real portals discovered via sharing-network spidering. |
 | `scrape-flock-safety-subscriber-portals-9x3` | Investigate Playwright stealth / tread lightly settings | P2 | **Closed** | Ported health check from `urllib` to Playwright (`headless=False` + `xvfb`), matching scraper's Cloudflare detection logic. |
 | `scrape-flock-safety-subscriber-portals-bng` | One-off spidering catch-up run for never-tried slugs | P2 | **Closed** | Executed catch-up scrape: verified 6 new WA agencies, purged heuristic noise, stabilized `wa-agencies.json`. |
-| `scrape-flock-safety-subscriber-portals-s6m` | Automate NCIC contradiction detection | P2 | **Implemented / Open** | Created `scripts/ncic-contradiction.py` (6 detection modes, graph BFS for multi-hop sharing). Next: integrate into GitHub Pages dashboard. |
-| `scrape-flock-safety-subscriber-portals-57f` | Copy immigration NCIC analysis into repo `docs/` | P3 | **Open** | Migrate blog post drafts and NCIC Immigration Violator File conflict analysis into version control under `docs/`. |
+| `scrape-flock-safety-subscriber-portals-s6m` | Automate NCIC contradiction detection | P2 | **Closed** | Created `scripts/ncic-contradiction.py` (6 detection modes, graph BFS for multi-hop sharing); results surfaced on the GitHub Pages dashboard via `website/data/ncic-matrix.json`. |
+| `scrape-flock-safety-subscriber-portals-57f` | Copy immigration NCIC analysis into repo `docs/` | P3 | **Closed** | Published analysis to `docs/immigration-ncic/README.md` with a generated `conflict-matrix.md` refreshed each scrape. The original Antigravity brain files no longer existed locally, so the analysis was authored from live scraper data plus sourced statutory and investigative reporting. |
 | `scrape-flock-safety-subscriber-portals-ee7` | Build GitHub Pages companion site | P3 | **Closed** | Deployed Hugo companion dashboard to GitHub Pages (`website/`), featuring summary metrics, agency directory, D3 time-series/network graphs, and NCIC compliance matrix. |
 | `scrape-flock-safety-subscriber-portals-edf` | Track blocked state with retry backoff for consistently denied slugs | P2 | **Closed** | Implemented exponential backoff ($2^N$ hours capped at 30 days for new slugs, 1 hour for historical slugs) and consecutive block metadata in `blocked.jsonl`. |
 
@@ -34,9 +34,9 @@ The following is the complete dump of all tasks migrated from the Beads local Do
      * Interactive directory for each agency with time-series charts from `stats.jsonl`.
      * Data sharing network graph visualizing bilateral data flows and multi-hop backdoor sharing chains.
      * Public search audit reason breakdown (categorized via `scripts/analyze-audit.py`).
-  2. **Publish NCIC Contradiction Analysis (former `57f` & `s6m`):**
-     * Migrate the NCIC Immigration Violator File contradiction analysis and explanatory blog post into `docs/immigration-ncic/`.
-     * Maintain the live matrix of agencies exhibiting policy conflicts (prohibiting immigration enforcement locally while querying national hotlists or sharing data with non-prohibiting partners).
+  2. **Publish NCIC Contradiction Analysis (former `57f` & `s6m`):** [Completed]
+     * Published the NCIC Immigration Violator File contradiction analysis to [`docs/immigration-ncic/README.md`](../docs/immigration-ncic/README.md), covering the NCIC operator manual's single-authority ICE provisions, the KWW and Driver Privacy Act (SB 6002, signed 2026-03-30) legal overlay, and the explicit limits of what the public portal data can and cannot prove.
+     * Maintained the live WA matrix of agencies exhibiting policy conflicts in [`docs/immigration-ncic/conflict-matrix.md`](../docs/immigration-ncic/conflict-matrix.md), auto-regenerated each scrape via `scripts/ncic-contradiction.py --wa-matrix`.
 
 ### Milestone 2: Anti-Detect Engine Upgrade (Camoufox Integration)
 * **Status:** Planned (See [`CAMOUFOX_EVALUATION.md`](CAMOUFOX_EVALUATION.md))

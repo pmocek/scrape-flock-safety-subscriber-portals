@@ -9,8 +9,10 @@ __pycache__/
 .beads-credential-key
 .beads/proxieddb/
 
-# Downstream analysis — not part of the scraper
-/docs/
+# Downstream analysis — not part of the scraper.
+# Uses /docs/* rather than /docs/ so the published NCIC analysis can be re-included below.
+/docs/*
+!/docs/immigration-ncic/
 /public/
 /site/public/
 /scripts/compile-evidence.py
