@@ -6,7 +6,7 @@
   "blocked": 0,
   "error": 2,
   "first_check": "2026-06-25T19:38:03.746729+00:00",
-  "last_check": "2026-10-12T15:48:10.516629+00:00",
+  "last_check": "2026-10-12T16:11:14.548021+00:00",
   "daily": [
     {
       "date": "2026-06-25",
@@ -38,9 +38,9 @@
     },
     {
       "date": "2026-10-12",
-      "checks": 30,
-      "ok": 29,
-      "error": 1,
+      "checks": 60,
+      "ok": 58,
+      "error": 2,
       "blocked": 0
     }
   ],
@@ -909,14 +909,14 @@
       "slug": "port-of-seattle-wa-pd",
       "status": "error",
       "detail": "http_403",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
+          "checks": 2,
           "ok": 0,
-          "error": 1,
+          "error": 2,
           "blocked": 0
         }
       ]
@@ -925,8 +925,8 @@
       "slug": "prosser-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 29,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 30,
       "series": [
         {
           "date": "2026-06-25",
@@ -958,8 +958,8 @@
         },
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -969,8 +969,8 @@
       "slug": "puyallup-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 29,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 30,
       "series": [
         {
           "date": "2026-06-25",
@@ -1002,8 +1002,8 @@
         },
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1013,13 +1013,13 @@
       "slug": "puyallup-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1029,13 +1029,13 @@
       "slug": "reardan-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1045,13 +1045,13 @@
       "slug": "redmond-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1061,13 +1061,13 @@
       "slug": "redmond-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1077,8 +1077,8 @@
       "slug": "renton-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 29,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 30,
       "series": [
         {
           "date": "2026-06-25",
@@ -1110,8 +1110,8 @@
         },
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1121,13 +1121,13 @@
       "slug": "renton-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1167,13 +1167,13 @@
       "slug": "richland-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1183,13 +1183,13 @@
       "slug": "richland-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1199,8 +1199,8 @@
       "slug": "seatac-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 29,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 30,
       "series": [
         {
           "date": "2026-06-25",
@@ -1232,8 +1232,8 @@
         },
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1243,13 +1243,13 @@
       "slug": "seatac-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1259,13 +1259,13 @@
       "slug": "sedro-woolley-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1275,8 +1275,8 @@
       "slug": "selah-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 29,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 30,
       "series": [
         {
           "date": "2026-06-25",
@@ -1308,8 +1308,8 @@
         },
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1349,13 +1349,13 @@
       "slug": "shelton-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1365,13 +1365,13 @@
       "slug": "shelton-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1381,8 +1381,8 @@
       "slug": "skamania-co-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 29,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 30,
       "series": [
         {
           "date": "2026-06-25",
@@ -1414,8 +1414,8 @@
         },
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1425,13 +1425,13 @@
       "slug": "skamania-county-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1441,13 +1441,13 @@
       "slug": "snohomish-county-wa-911",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1457,8 +1457,8 @@
       "slug": "snohomish-county-wa-so-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 29,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 30,
       "series": [
         {
           "date": "2026-06-25",
@@ -1490,8 +1490,8 @@
         },
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1501,13 +1501,13 @@
       "slug": "snohomish-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1517,13 +1517,13 @@
       "slug": "spokane-co-county-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1533,13 +1533,13 @@
       "slug": "spokane-co-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1549,13 +1549,13 @@
       "slug": "spokane-county-sherrif-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1565,13 +1565,13 @@
       "slug": "spokane-county-sherrif-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1581,13 +1581,13 @@
       "slug": "spokane-county-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1597,13 +1597,13 @@
       "slug": "spokane-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1613,8 +1613,8 @@
       "slug": "stanwood-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 29,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 30,
       "series": [
         {
           "date": "2026-06-25",
@@ -1646,8 +1646,8 @@
         },
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -1657,8 +1657,8 @@
       "slug": "sultan-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-12T15:48:10.516629+00:00",
-      "checks_recorded": 20,
+      "last_checked": "2026-10-12T16:11:14.548021+00:00",
+      "checks_recorded": 21,
       "series": [
         {
           "date": "2026-06-27",
@@ -1683,8 +1683,8 @@
         },
         {
           "date": "2026-10-12",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
