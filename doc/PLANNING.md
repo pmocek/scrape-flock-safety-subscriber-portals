@@ -18,7 +18,7 @@ The following is the complete dump of all tasks migrated from the Beads local Do
 | `scrape-flock-safety-subscriber-portals-bng` | One-off spidering catch-up run for never-tried slugs | P2 | **Closed** | Executed catch-up scrape: verified 6 new WA agencies, purged heuristic noise, stabilized `wa-agencies.json`. |
 | `scrape-flock-safety-subscriber-portals-s6m` | Automate NCIC contradiction detection | P2 | **Implemented / Open** | Created `scripts/ncic-contradiction.py` (6 detection modes, graph BFS for multi-hop sharing). Next: integrate into GitHub Pages dashboard. |
 | `scrape-flock-safety-subscriber-portals-57f` | Copy immigration NCIC analysis into repo `docs/` | P3 | **Open** | Migrate blog post drafts and NCIC Immigration Violator File conflict analysis into version control under `docs/`. |
-| `scrape-flock-safety-subscriber-portals-ee7` | Build GitHub Pages companion site | P3 | **Open** | Build public static site (Hugo-based): agency portal explorer, stats history charts, NCIC compliance matrix, sharing network graph. |
+| `scrape-flock-safety-subscriber-portals-ee7` | Build GitHub Pages companion site | P3 | **Closed** | Deployed Hugo companion dashboard to GitHub Pages (`website/`), featuring summary metrics, agency directory, D3 time-series/network graphs, and NCIC compliance matrix. |
 | `scrape-flock-safety-subscriber-portals-edf` | Track blocked state with retry backoff for consistently denied slugs | P2 | **Closed** | Implemented exponential backoff ($2^N$ hours capped at 30 days for new slugs, 1 hour for historical slugs) and consecutive block metadata in `blocked.jsonl`. |
 
 ---
@@ -26,9 +26,9 @@ The following is the complete dump of all tasks migrated from the Beads local Do
 ## 2. Active Roadmap & Milestones
 
 ### Milestone 1: Automated Reporting & Static Companion Site
-* **Status:** In Progress
+* **Status:** Deployed & Live (https://pmocek.github.io/scrape-flock-safety-subscriber-portals/)
 * **Goals:**
-  1. **Deploy GitHub Pages site (former `ee7`):**
+  1. **Deploy GitHub Pages site (former `ee7`):** [Completed]
      * Build static companion dashboard (Hugo or static HTML/JS) hosted on GitHub Pages.
      * Summary overview of Washington State Flock deployments (total cameras, unique vehicles detected, search volumes).
      * Interactive directory for each agency with time-series charts from `stats.jsonl`.
