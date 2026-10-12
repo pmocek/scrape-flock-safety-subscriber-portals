@@ -18,6 +18,12 @@ from pathlib import Path
 
 from playwright.async_api import async_playwright
 
+try:
+    import playwright_stealth
+    STEALTH_OK = True
+except ImportError:
+    STEALTH_OK = False
+
 PROJECT_DIR = Path(__file__).parent.parent.resolve()
 DATA_DIR = PROJECT_DIR / "data"
 AGENCIES_FILE = PROJECT_DIR / "wa-agencies.json"
@@ -51,21 +57,39 @@ def log_health(slug, data):
         f.write(line + "\n")
 
 
-async def check_slug(slug, page):
+async def check_slug(slug, page, max_retries=2):
+    """Check one portal, retrying Cloudflare interstitials.
+
+    Mirrors scrape_one_slug(): a single fast attempt gets 403'd by Cloudflare
+    on GitHub runner IPs even though the portal is fine, so retry once with
+    backoff and settle longer before judging. Without this every portal
+    reports "blocked" and the dashboard is worthless.
+
+    2 attempts, not the scraper's 3: the health check runs hourly and a burst
+    of 221 checks is what triggers Cloudflare rate limiting in the first place.
+    """
     url = f"https://transparency.flocksafety.com/{slug}"
-    try:
-        response = await page.goto(url, wait_until="domcontentloaded", timeout=20000)
-        await page.wait_for_timeout(3000)
-        status = response.status if response else None
-        title = await page.title()
-        text = await page.inner_text("body")
-        if status == 429 or "Just a moment" in title or "Error 1015" in text:
-            return {"status": "blocked", "detail": "cloudflare"}
-        if status and status >= 400:
-            return {"status": "error", "detail": f"http_{status}"}
-        return {"status": "ok", "detail": f"http_{status}"}
-    except Exception as e:
-        return {"status": "error", "detail": str(e)}
+    for attempt in range(max_retries):
+        try:
+            response = await page.goto(url, wait_until="domcontentloaded", timeout=20000)
+            await page.wait_for_timeout(8000)
+            status = response.status if response else None
+            title = await page.title()
+            text = await page.inner_text("body")
+            if status == 429 or "Just a moment" in title or "Error 1015" in text:
+                if attempt < max_retries - 1:
+                    await page.wait_for_timeout((attempt + 1) * 15000)
+                    continue
+                return {"status": "blocked", "detail": "cloudflare"}
+            if status and status >= 400:
+                return {"status": "error", "detail": f"http_{status}"}
+            return {"status": "ok", "detail": f"http_{status}"}
+        except Exception as e:
+            if attempt < max_retries - 1:
+                await page.wait_for_timeout((attempt + 1) * 5000)
+                continue
+            return {"status": "error", "detail": str(e)}
+    return {"status": "error", "detail": "exhausted_retries"}
 
 
 async def main():
@@ -91,6 +115,18 @@ async def main():
     else:
         slugs = WA_SLUGS
 
+    # Even scoped to WA, 221 slugs at ~28s each (8s settle + retries) is ~1.7h,
+    # which overruns any sane budget and would leave most of the list unchecked.
+    # Check a rotating slice each run instead: every WA portal is covered once
+    # per full cycle, and the window stays far below the job limit.
+    slice_size = int(os.environ.get("HEALTH_CHECK_SLICE", "0")) or None
+    if slice_size and slice_size < len(slugs):
+        day = time.gmtime().tm_yday
+        offset = (day * slice_size) % len(slugs)
+        slugs = slugs[offset:] + slugs[:offset]
+        slugs = slugs[:slice_size]
+        print(f"rotating slice: {len(slugs)} of the WA list (offset {offset})")
+
     ts = datetime.now(timezone.utc).isoformat()
     counts = {"ok": 0, "blocked": 0, "error": 0}
 
@@ -98,6 +134,15 @@ async def main():
     browser = await p.chromium.launch(headless=False)
     context = await browser.new_context(viewport={"width": 1920, "height": 1080})
     page = await context.new_page()
+    # Match scrape-flock.py: without stealth, Cloudflare serves an interstitial
+    # and every portal reports "blocked" -- indistinguishable from a real block.
+    # The first live run after the scope fix reported 220/221 blocked while the
+    # scraper was still seeing 267 active portals from the same kind of IP.
+    if STEALTH_OK:
+        stealth = playwright_stealth.Stealth()
+        await stealth.apply_stealth_async(page)
+    else:
+        print("WARNING: playwright-stealth unavailable -- Cloudflare will block every check")
 
     try:
         for i, slug in enumerate(slugs):

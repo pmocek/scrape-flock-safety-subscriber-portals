@@ -62,7 +62,7 @@ jobs:
         else
           PYTHON="python3"
         fi
-        OUTPUT=$(HEALTH_CHECK_BUDGET_SECONDS=2400 xvfb-run -a "$PYTHON" scripts/health-check.py 2>&1) || true
+        OUTPUT=$(HEALTH_CHECK_BUDGET_SECONDS=2400 HEALTH_CHECK_SLICE=30 xvfb-run -a "$PYTHON" scripts/health-check.py 2>&1) || true
         echo "$OUTPUT"
         COMMIT_MSG=$(echo "$OUTPUT" | grep "^COMMIT_MSG:" | sed 's/^COMMIT_MSG: //')
         echo "commit_msg=$COMMIT_MSG" >> "$GITHUB_OUTPUT"
