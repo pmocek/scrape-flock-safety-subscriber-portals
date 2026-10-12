@@ -10,7 +10,9 @@ Saves to data/{slug}/health.jsonl (append-only).
 
 import asyncio
 import json
+import os
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -35,6 +37,10 @@ WA_SLUGS = [
     "sumner-wa-pd", "toppenish-wa-pd", "tukwila-wa-pd",
     "walla-walla-wa-pd", "yakima-wa-pd", "yelm-wa-pd",
 ]
+
+
+def is_wa_slug(slug):
+    return slug.endswith("-wa-pd") or slug.endswith("-wa-so") or "-wa-" in slug
 
 
 def log_health(slug, data):
@@ -63,9 +69,25 @@ async def check_slug(slug, page):
 
 
 async def main():
-    if AGENCIES_FILE.exists():
-        with open(AGENCIES_FILE) as f:
+    # Hard wall-clock budget. GitHub Actions kills a job at 6h, and because
+    # this step is continue-on-error, a timeout is indistinguishable from a
+    # pass with no data. Abort early and still emit COMMIT_MSG so the run
+    # produces a (partial) record rather than vanishing.
+    budget_s = int(os.environ.get("HEALTH_CHECK_BUDGET_SECONDS", "2400"))
+    started = time.monotonic()
+
+    if len(sys.argv) > 1 and not sys.argv[1].startswith("-"):
+        with open(sys.argv[1]) as f:
             slugs = json.load(f)
+    elif AGENCIES_FILE.exists():
+        with open(AGENCIES_FILE) as f:
+            all_slugs = json.load(f)
+        # wa-agencies.json is the *scraper worklist* and grows via cross-agency
+        # spidering (6703 slugs nationally). Health-checking all of them takes
+        # ~6h, which hits the GitHub Actions job limit and silently kills the
+        # job before COMMIT_MSG is ever printed. This check is WA-scoped --
+        # hence the hardcoded WA_SLUGS list -- so filter the worklist to WA.
+        slugs = [s for s in all_slugs if is_wa_slug(s)]
     else:
         slugs = WA_SLUGS
 
@@ -79,6 +101,13 @@ async def main():
 
     try:
         for i, slug in enumerate(slugs):
+            if time.monotonic() - started > budget_s:
+                print(
+                    f"\n  time budget ({budget_s}s) exhausted after {i} checks"
+                    f" -- stopping early",
+                    flush=True,
+                )
+                break
             print(f"[{i+1}/{len(slugs)}] {slug} ...", end=" ", flush=True)
             result = await check_slug(slug, page)
             counts[result["status"]] = counts.get(result["status"], 0) + 1
