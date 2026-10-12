@@ -53,7 +53,16 @@ jobs:
       id: check
       continue-on-error: true
       run: |
-        OUTPUT=$(xvfb-run -a python3 scripts/health-check.py 2>&1) || true
+        # Use the uv venv explicitly. `uv venv` creates .venv/ but does not put it
+        # on PATH, and uv pip install targets .venv/ -- so bare `python3` resolves
+        # to the system interpreter, which lacks playwright. This mirrors the
+        # .venv detection in scrape.sh.
+        if [ -d ".venv" ]; then
+          PYTHON=".venv/bin/python3"
+        else
+          PYTHON="python3"
+        fi
+        OUTPUT=$(xvfb-run -a "$PYTHON" scripts/health-check.py 2>&1) || true
         echo "$OUTPUT"
         COMMIT_MSG=$(echo "$OUTPUT" | grep "^COMMIT_MSG:" | sed 's/^COMMIT_MSG: //')
         echo "commit_msg=$COMMIT_MSG" >> "$GITHUB_OUTPUT"
@@ -61,6 +70,14 @@ jobs:
         echo "commit_body<<EOF" >> "$GITHUB_OUTPUT"
         echo "$COMMIT_BODY" >> "$GITHUB_OUTPUT"
         echo "EOF" >> "$GITHUB_OUTPUT"
+
+    - name: Verify health check produced a commit message
+      run: |
+        if [ -z "${{ steps.check.outputs.commit_msg }}" ]; then
+          echo "::error::health-check.py produced no COMMIT_MSG — check the log above for an import or startup failure."
+          exit 1
+        fi
+        echo "health check OK: ${{ steps.check.outputs.commit_msg }}"
 
     - name: Commit and push
       run: |-
