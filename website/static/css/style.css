@@ -155,6 +155,21 @@ main { padding: var(--spacing-xl) 0; }
 .status-active { background: #e6f4ea; color: var(--color-success); }
 .status-inactive { background: #fef3e0; color: var(--color-warning); }
 .status-not-found { background: #fce8e6; color: var(--color-error); }
+.status-ok { background: #e6f4ea; color: var(--color-success); }
+.status-blocked { background: #fef3e0; color: var(--color-warning); }
+.status-error { background: #fce8e6; color: var(--color-error); }
+
+/* Coverage caveat banner (health dashboard) */
+.coverage-warning {
+    background: #fef3e0;
+    border-left: 4px solid var(--color-warning);
+    color: #7a4b00;
+    padding: var(--spacing-md);
+    border-radius: var(--radius);
+    margin-bottom: var(--spacing-lg);
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
 
 /* Grid layouts for content sections */
 .dashboard-grid {

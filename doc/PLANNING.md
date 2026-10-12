@@ -18,7 +18,7 @@ The following is the complete dump of all tasks migrated from the Beads local Do
 | `scrape-flock-safety-subscriber-portals-bng` | One-off spidering catch-up run for never-tried slugs | P2 | **Closed** | Executed catch-up scrape: verified 6 new WA agencies, purged heuristic noise, stabilized `wa-agencies.json`. |
 | `scrape-flock-safety-subscriber-portals-s6m` | Automate NCIC contradiction detection | P2 | **Closed** | Created `scripts/ncic-contradiction.py` (6 detection modes, graph BFS for multi-hop sharing); results surfaced on the GitHub Pages dashboard via `website/data/ncic-matrix.json`. |
 | `scrape-flock-safety-subscriber-portals-57f` | Copy immigration NCIC analysis into repo `docs/` | P3 | **Closed** | Published analysis to `docs/immigration-ncic/README.md` with a generated `conflict-matrix.md` refreshed each scrape. The original Antigravity brain files no longer existed locally, so the analysis was authored from live scraper data plus sourced statutory and investigative reporting. |
-| `scrape-flock-safety-subscriber-portals-ee7` | Build GitHub Pages companion site | P3 | **Reopened** | Site deployed with landing page, per-agency charts, NCIC matrix, and network graph. **Outstanding:** health dashboard from `health.jsonl` — no health data reaches the site. Was closed in `c7d464bd` without that criterion being met; reopened after finding health collection itself was silently dead since 2026-06-29 (fixed in `44145d3a`). |
+| `scrape-flock-safety-subscriber-portals-ee7` | Build GitHub Pages companion site | P3 | **Closed** | Site deployed with landing page, per-agency charts, NCIC matrix, network graph, and health dashboard. Was briefly reopened when the health criterion was found unmet; health collection was itself dead since 2026-06-29 (`44145d3a`) and the dashboard shipped once fixed. Also fixed a data-serving bug that had left `ncic-matrix.json` unreachable in production. |
 | `scrape-flock-safety-subscriber-portals-edf` | Track blocked state with retry backoff for consistently denied slugs | P2 | **Closed** | Implemented exponential backoff ($2^N$ hours capped at 30 days for new slugs, 1 hour for historical slugs) and consecutive block metadata in `blocked.jsonl`. |
 
 ---
@@ -26,15 +26,17 @@ The following is the complete dump of all tasks migrated from the Beads local Do
 ## 2. Active Roadmap & Milestones
 
 ### Milestone 1: Automated Reporting & Static Companion Site
-* **Status:** Deployed & Live (https://pmocek.github.io/scrape-flock-safety-subscriber-portals/) — health dashboard outstanding (former `ee7`, reopened)
+* **Status:** Deployed & Live (https://pmocek.github.io/scrape-flock-safety-subscriber-portals/) — complete (former `ee7`)
 * **Goals:**
-  1. **Deploy GitHub Pages site (former `ee7`):** [Mostly Complete — health dashboard outstanding]
+  1. **Deploy GitHub Pages site (former `ee7`):** [Completed]
      * Build static companion dashboard (Hugo or static HTML/JS) hosted on GitHub Pages. [Completed]
      * Summary overview of Washington State Flock deployments (total cameras, unique vehicles detected, search volumes). [Completed]
      * Interactive directory for each agency with time-series charts from `stats.jsonl`. [Completed]
      * Data sharing network graph visualizing bilateral data flows and multi-hop backdoor sharing chains. [Completed]
      * Public search audit reason breakdown (categorized via `scripts/analyze-audit.py`). [Completed]
-     * Health dashboard from `health.jsonl`. [Outstanding — was closed without it; data was also dead until `44145d3a`; next step is aggregating per-agency `data/{slug}/health.jsonl` into `website/data/health.json`]
+     * Health dashboard from `health.jsonl`. [Completed — `scripts/export-health-data.py` → `website/layouts/health/list.html` with D3 daily trend chart and per-agency table. Data now refreshes via `scrape.yml`.]
+
+     * **Also fixed:** `website/data/*.json` was readable by templates via `site.Data` but 404'd when fetched over HTTP by client-side charts. `hugo.toml` now mounts `data/` into `static/data/`. `ncic-matrix.json` had been silently unavailable in production as a result; two hand-duplicated files in `static/data/` were removed.
   2. **Publish NCIC Contradiction Analysis (former `57f` & `s6m`):** [Completed]
      * Published the NCIC Immigration Violator File contradiction analysis to [`docs/immigration-ncic/README.md`](../docs/immigration-ncic/README.md), covering the NCIC operator manual's single-authority ICE provisions, the KWW and Driver Privacy Act (SB 6002, signed 2026-03-30) legal overlay, and the explicit limits of what the public portal data can and cannot prove.
      * Maintained the live WA matrix of agencies exhibiting policy conflicts in [`docs/immigration-ncic/conflict-matrix.md`](../docs/immigration-ncic/conflict-matrix.md), auto-regenerated each scrape via `scripts/ncic-contradiction.py --wa-matrix`.

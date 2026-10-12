@@ -4,3 +4,14 @@ title = 'Flock Safety WA Portal Transparency'
 
 [params]
 description = 'Public transparency dashboard for Washington State Flock Safety ALPR portals — agency stats, data sharing networks, and NCIC compliance analysis.'
+
+# Templates read datasets from site.Data (data/*.json). Client-side charts fetch the
+# same files over HTTP, so data/ is also mounted into static/ to publish them at /data/.
+# Without this, JSON files in data/ are visible to templates but 404 when fetched.
+[[module.mounts]]
+source = 'data'
+target = 'static/data'
+
+[[module.mounts]]
+source = 'static'
+target = 'static'

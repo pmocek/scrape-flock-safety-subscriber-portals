@@ -133,6 +133,11 @@ jobs:
       run: |
         python3 scripts/ncic-contradiction.py --wa-matrix > docs/immigration-ncic/conflict-matrix.md
 
+    - name: Export health dashboard data
+      continue-on-error: true
+      run: |
+        python3 scripts/export-health-data.py
+
     - name: Commit and push
       run: |-
         git config user.name "Automated"

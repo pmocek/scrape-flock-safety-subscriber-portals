@@ -1,0 +1,74 @@
+{{ define "main" }}
+<h2 class="section-title">Portal Health &amp; Reachability</h2>
+<p class="subtitle">Reachability of Flock Safety transparency portals, sampled by the hourly health check.</p>
+
+{{ $h := index site.Data "health" }}
+{{ if $h }}
+<div style="margin-bottom: var(--spacing-lg); font-size: 0.9rem; color: var(--color-muted)">
+    Monitoring <strong>{{ $h.agencies_monitored }}</strong> of {{ $h.agencies_in_inventory }} agencies ·
+    last check <strong>{{ $h.last_check | time.Format "2006-01-02 15:04 MST" }}</strong>
+</div>
+
+{{ if gt $h.agencies_unchecked 0 }}
+<div class="coverage-warning">
+    <strong>Partial coverage.</strong> The health check samples a fixed subset of portals, so
+    {{ $h.agencies_unchecked }} of {{ $h.agencies_in_inventory }} agencies have never been checked.
+    Absence of a row below means "not monitored", not "healthy".
+</div>
+{{ end }}
+
+<div class="summary-grid">
+    <div class="summary-card"><span class="value">{{ $h.ok }}</span><span class="label">Reachable</span></div>
+    <div class="summary-card"><span class="value">{{ $h.error }}</span><span class="label">Erroring</span></div>
+    <div class="summary-card"><span class="value">{{ $h.blocked }}</span><span class="label">Blocked</span></div>
+    <div class="summary-card"><span class="value">{{ $h.agencies_monitored }}</span><span class="label">Monitored</span></div>
+</div>
+
+{{ if $h.daily }}
+<h3 class="section-title">Checks per Day</h3>
+<div id="health-chart" class="chart-container" data-url="{{ "data/health.json" | absURL }}" style="min-height:240px;background:#fff;border-radius:4px;border:1px solid var(--color-border);padding:var(--spacing-md)"></div>
+{{ end }}
+
+<h3 class="section-title">Per-Agency Status</h3>
+<input type="text" id="health-filter" placeholder="Filter agencies or error detail..."
+       style="width:100%;padding:var(--spacing-sm);border:1px solid var(--color-border);border-radius:var(--radius);font-size:0.95rem;margin-bottom:var(--spacing-md)">
+
+<table class="agency-table" id="health-table">
+    <thead>
+        <tr><th>Agency</th><th>Status</th><th>Detail</th><th>Last Checked</th><th>Checks</th></tr>
+    </thead>
+    <tbody>
+        {{ range $h.agencies }}
+        <tr>
+            <td>{{ .slug }}</td>
+            <td><span class="status-badge status-{{ .status }}">{{ .status }}</span></td>
+            <td>{{ .detail }}</td>
+            <td>{{ .last_checked | time.Format "2006-01-02 15:04 MST" }}</td>
+            <td>{{ .checks_recorded }}</td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
+<p style="font-size:0.85rem;color:var(--color-muted)">
+    Agencies are identified by portal slug. Full records are in
+    <code>data/{slug}/health.jsonl</code> in the repository.
+</p>
+
+<script src="{{ "js/d3.min.js" | absURL }}"></script>
+<script src="{{ "js/health-chart.js" | absURL }}"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const input = document.getElementById('health-filter');
+    if (!input) return;
+    input.addEventListener('input', function() {
+        const q = this.value.toLowerCase();
+        document.querySelectorAll('#health-table tbody tr').forEach(row => {
+            row.style.display = row.textContent.toLowerCase().includes(q) ? '' : 'none';
+        });
+    });
+});
+</script>
+{{ else }}
+<p>No health data available. Run: <code>python3 scripts/export-health-data.py</code></p>
+{{ end }}
+{{ end }}

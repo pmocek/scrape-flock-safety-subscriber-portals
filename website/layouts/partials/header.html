@@ -7,6 +7,7 @@
             <a href="{{ "agencies/" | absURL }}"{{ if or (eq .Type "agencies") (eq .Title "Agencies") }} class="active"{{ end }}>Directory</a>
             <a href="{{ "network/" | absURL }}"{{ if eq .Title "Network Graph" }} class="active"{{ end }}>Network</a>
             <a href="{{ "ncic/" | absURL }}"{{ if eq .Title "NCIC Compliance Matrix" }} class="active"{{ end }}>NCIC Matrix</a>
+            <a href="{{ "health/" | absURL }}"{{ if eq .Title "Portal Health" }} class="active"{{ end }}>Health</a>
         </nav>
     </div>
 </header>
