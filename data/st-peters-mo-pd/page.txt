@@ -5,7 +5,7 @@ Visit Flock
 St. Peters MO PD
 Transparency Portal
 
-Last updated: Sun Oct 11 2026
+Last updated: Mon Oct 12 2026
 
 Overview
 
@@ -17,19 +17,19 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-690 alerts
+676 alerts
 NCIC - Protection Order
-501
+492
 NCIC - Sex Offender
-118
+117
 NCIC - Stolen Plate
-28
+27
 NCIC - Stolen Vehicle
-24
+23
 NCIC - Gang or Suspected Terrorist
-8
+7
 NCIC - Warrants
-6
+5
 NCIC - Violent Person
 3
 NCIC - Missing Person
@@ -51,7 +51,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-422,914
+421,375
 
 Number of Searches
 
@@ -69,7 +69,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-3,952
+3,941
 
 Sharing Network Data With
 
