@@ -58,6 +58,23 @@
 - `refresh_agencies()` (reloading from eyesonflock) no longer runs in the daily scrape workflow
 - Initial seed from eyesonflock happened once at project setup; periodic eyesonflock comparison for brand-new agencies would be a separate task
 
+## Silent-failure modes (why CI smoke tests matter)
+
+Five separate regressions in this repo "succeeded" while producing nothing. None
+raised an error, and each cost real time to diagnose. Be suspicious of any step
+that exits 0 without emitting output.
+
+| Symptom | Root cause | Why it was silent |
+|---|---|---|
+| Health data stale 3.5 months | `python3` vs `.venv` — `uv venv` doesn't set PATH | `continue-on-error` + empty commit msg |
+| Health data stale again from 2026-08-01 | Iterated all 6,703 worklist slugs → 6h job limit | Timeout looks like a clean pass |
+| `220/221 blocked` when `29/30` were fine | No stealth / 1 attempt / 3s settle | Cloudflare 403s look like real blocks |
+| 191 of 221 slugs never checked | Rotation offset used `day_of_year` (constant 24h) | Each run still "checked 30" |
+| `ncic-matrix.json` 404 in production | `data/` not mounted to `static/data/` | Templates read `site.Data` fine |
+
+**Tracked as bead `lb9`.** Rule of thumb: any step whose output feeds a commit
+should verify the output is non-empty *before* committing, and fail loudly if not.
+
 ## Project Planning & Task Tracking
 
 This project tracks active roadmap items, features, and research in [`doc/PLANNING.md`](doc/PLANNING.md).
