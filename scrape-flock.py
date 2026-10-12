@@ -48,6 +48,10 @@ except ImportError:
 # "camoufox" (patched Firefox, native headless). Set via --engine.
 ENGINE = "playwright"
 
+# Optional: pin Camoufox's claimed OS (e.g. "windows", "macos", "linux").
+# Unset means Camoufox picks for itself, which is preferred.
+CAMOUFOX_OS = os.environ.get("CAMOUFOX_OS", "").strip() or None
+
 
 async def launch_browser(engine):
     """Launch a browser for the given engine.
@@ -56,7 +60,15 @@ async def launch_browser(engine):
     callable that tears down the underlying engine process.
     """
     if engine == "camoufox":
-        cm = AsyncCamoufox(headless=True, geoip=False, os=["windows", "macos", "linux"])
+        # `os` takes a single value in current fpgen, not a list. Passing a list
+        # raises InvalidConstraints at fingerprint-generation time. Camoufox
+        # randomizes the fingerprint across all fields on its own; pinning the
+        # OS only affects the navigator.platform claim, so default to the host
+        # OS unless one is requested.
+        cam_opts = {"headless": True, "geoip": False}
+        if CAMOUFOX_OS:
+            cam_opts["os"] = CAMOUFOX_OS
+        cm = AsyncCamoufox(**cam_opts)
         browser = await cm.__aenter__()
         context = await browser.new_context(viewport={"width": 1920, "height": 1080})
         page = await context.new_page()
