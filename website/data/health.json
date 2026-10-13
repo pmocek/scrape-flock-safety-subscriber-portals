@@ -1,12 +1,12 @@
 {
-  "agencies_monitored": 136,
-  "agencies_in_inventory": 862,
-  "agencies_unchecked": 726,
-  "ok": 133,
+  "agencies_monitored": 163,
+  "agencies_in_inventory": 884,
+  "agencies_unchecked": 721,
+  "ok": 159,
   "blocked": 0,
-  "error": 3,
+  "error": 4,
   "first_check": "2026-06-25T19:38:03.746729+00:00",
-  "last_check": "2026-10-13T19:34:39.661723+00:00",
+  "last_check": "2026-10-13T23:27:08.316961+00:00",
   "daily": [
     {
       "date": "2026-06-25",
@@ -45,13 +45,93 @@
     },
     {
       "date": "2026-10-13",
-      "checks": 90,
-      "ok": 87,
-      "error": 3,
+      "checks": 120,
+      "ok": 116,
+      "error": 4,
       "blocked": 0
     }
   ],
   "agencies": [
+    {
+      "slug": "-adams-county-wa-so",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "-chelan-county-wa-so",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "-clark-county-wa-so",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "-lincoln-county-wa-so",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "-skamania-county-wa-so",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
     {
       "slug": "-spokane-county-wa-so",
       "status": "ok",
@@ -3063,11 +3143,91 @@
       ]
     },
     {
+      "slug": "union-gap-wa-pd",
+      "status": "error",
+      "detail": "http_403",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "united-states-postal-service-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "united-states-postal-service-wa-so",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "valley-medical-center-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "valley-medical-center-wa-so",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
       "slug": "walla-walla-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-06-29T10:13:57.230135+00:00",
-      "checks_recorded": 28,
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 29,
       "series": [
         {
           "date": "2026-06-25",
@@ -3094,6 +3254,253 @@
           "date": "2026-06-29",
           "checks": 2,
           "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "walla-walla-wa-pd-",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "walla-walla-wa-so",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "wapato-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "wapato-wa-pd-",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "warden-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "washington-state-patrol-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "washington-state-patrol-wa-so",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "wenatchee-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "wenatchee-wa-pd-",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "west-richland-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "west-richland-wa-pd-",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "westport-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "wsu-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "wsu-wa-so",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "yakima-county-wa-so",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
           "error": 0,
           "blocked": 0
         }
@@ -3103,8 +3510,8 @@
       "slug": "yakima-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-06-29T10:13:57.230135+00:00",
-      "checks_recorded": 28,
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 29,
       "series": [
         {
           "date": "2026-06-25",
@@ -3131,6 +3538,29 @@
           "date": "2026-06-29",
           "checks": 2,
           "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "yakima-wa-so",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
           "error": 0,
           "blocked": 0
         }
@@ -3140,8 +3570,8 @@
       "slug": "yelm-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-06-29T10:13:57.230135+00:00",
-      "checks_recorded": 28,
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 29,
       "series": [
         {
           "date": "2026-06-25",
@@ -3168,6 +3598,29 @@
           "date": "2026-06-29",
           "checks": 2,
           "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "zillah-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-13T23:27:08.316961+00:00",
+      "checks_recorded": 1,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
           "error": 0,
           "blocked": 0
         }
