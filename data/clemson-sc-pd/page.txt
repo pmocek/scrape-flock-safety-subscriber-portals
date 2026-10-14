@@ -5,7 +5,7 @@ Visit Flock
 Clemson SC PD
 Transparency Portal
 
-Last updated: Sun Oct 11 2026
+Last updated: Tue Oct 13 2026
 
 Overview
 
@@ -36,19 +36,19 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-24
+25
 
 Hotlists Alerted On
 
 National and statewide hotlist sources.
 
-NCIC, NCMEC Amber Alert
+NCMEC Amber Alert, NCIC - SLED
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-259
+219
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
