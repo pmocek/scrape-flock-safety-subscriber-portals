@@ -5,7 +5,7 @@ Visit Flock
 Golf Manor OH PD
 Transparency Portal
 
-Last updated: Mon Oct 12 2026
+Last updated: Tue Oct 13 2026
 
 Overview
 
@@ -58,9 +58,9 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-249 alerts
+247 alerts
 NCIC - Protection Order
-238
+236
 NCIC - Sex Offender
 5
 NCIC - Warrants
@@ -92,7 +92,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-31,254
+31,276
 
 Number of Searches
 
@@ -110,7 +110,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-367
+366
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -747,7 +747,6 @@ Forsyth County GA SO
 Fort Loramie OH PD
 Fort Mill SC PD
 Fort Oglethorpe GA PD
-Fort Wayne IN PD
 Fort Worth TX PD
 Fox Valley IL Parks District
 Frankfort KY PD
@@ -2191,7 +2190,6 @@ University of Toledo OH PD
 University of West Georgia GA PD
 University of Wisconsin - Green Bay WI PD
 Upper Allen Township PA PD
-Upper Arlington OH PD
 Upper Dublin Twp PA PD
 Urbana OH PD
 Utah County UT SO - Vineyard PD
@@ -2538,7 +2536,6 @@ Blendon Township OH PD
 Blount County Commission (AL)
 Blount County TN SO
 Blountsville AL PD
-Blue Ash OH PD
 Blue Ridge GA PD
 Boardman Township OH PD
 Bolingbrook IL PD
@@ -3711,7 +3708,6 @@ Preble County OH SO
 Prescott Valley AZ PD
 Priceville AL PD
 Princeton IN PD
-Prosper TX PD
 Public Service Authority
 Santee Cooper Law Enforcement Division (SC)
 Purdue University IN PD
@@ -4013,7 +4009,6 @@ University of North Carolina Charlotte (NC)
 University of South Florida at St. Petersburg FL PD
 University of Toledo OH PD
 University Park IL PD
-Upper Arlington OH PD
 Upson County GA SO
 Urbana OH PD
 UT Southwestern Medical Center TX
@@ -4141,7 +4136,6 @@ Winder GA PD
 Winfield AL PD
 Winnebago County IL SO
 Winnebago County WI SO
-Winterville NC PD
 Wisconsin State Capitol Police (WI)
 Wixom MI PD
 Wolverine Lake MI PD
