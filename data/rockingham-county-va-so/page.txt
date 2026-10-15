@@ -5,7 +5,7 @@ Visit Flock
 Rockingham County VA SO
 Transparency Portal
 
-Last updated: Mon Oct 05 2026
+Last updated: Wed Oct 14 2026
 
 Overview
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-134,573
+140,735
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-7
+9
 
 Hotlists Alerted On
 
@@ -54,7 +54,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-8
+7
 
 Sharing Network Data With
 
@@ -65,6 +65,7 @@ Bluefield VA PD
 Chesapeake VA PD
 Clarksville VA PD
 Fairfax County VA PD
+Fauquier County VA SO
 Franklin County VA SO
 Front Royal VA PD
 Hanover County VA SO
@@ -72,11 +73,13 @@ Herndon VA PD
 Hopewell VA PD
 King George County VA SO
 Leesburg VA PD
+Loudoun County VA SO
 Mathews County VA SO
 Middlesex County SO VA
 New Kent County VA SO
 Powhatan County VA SO
 Pulaski VA PD
+Radford City VA PD
 Roanoke VA PD
 Rockbridge County VA SO
 Smithfield VA PD
@@ -84,6 +87,7 @@ Southampton VA SO
 Spotsylvania County VA SO
 Strasburg VA PD
 Suffolk VA PD
+Warren County VA SO
 Woodstock VA PD
 Policy & Trust
 
