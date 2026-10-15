@@ -1,0 +1,314 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+Golden CO PD
+Transparency Portal
+
+Last updated: Wed Oct 14 2026
+
+Overview
+
+Golden CO PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Golden CO PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Golden CO PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+
+Community Impact
+Stolen Property Recovery
+
+Featured Success Stories
+
+In broad daylight, a box truck was broken into at a local hotel. A rifle and other items were stolen from the box truck. A suspect vehicle was identified leaving the area on a local FLOCK camera. That afternoon officers sent out a bolo with the vehicle description. A local law enforcement agency utilized FLOCK to locate the vehicle in their jurisdiction. With cooperation from the Golden Special Operations Unit, surveillance was conducted to confirm that the vehicle was 100% the vehicle used in the break-in. The vehicle was impounded and the Golden Investigations Unit executed a search warrant to obtain evidence of the crime. Without FLOCK, this crime would remain open and unsolved.
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+11
+
+LPR Cameras
+
+Number of LPR cameras only.
+
+11
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+79
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCIC, NCMEC Amber Alert, Colorado Crime Information Center (CCIC)
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+294
+Top Offense Types
+
+Offense Types used for LPR searches in the last 30 days.
+
+Wanted Person (Arrest Warrant/Fugitive)
+Larceny/Theft Offenses
+Drugs/Narcotics
+Motor Vehicle Theft/Stolen
+Kidnapping/Abduction
+
+Sharing Network Data With
+
+Organizations granted access to Golden CO PD data.
+
+Adams County CO SO
+Arapahoe County CO SO
+Arvada CO PD
+Aurora CO PD
+Basalt CO PD
+Boulder CO PD
+Boulder County CO SO
+Breckenridge CO PD
+Brighton CO PD
+Broomfield CO PD
+Chaffee County CO SO
+Cherry Hills Village CO PD
+Cheyenne County CO SO
+CO - Colorado Bureau of Investigation
+CO - Keenesburg PD
+CO - Rangely PD
+Colorado State Parks
+Colorado State Patrol
+Columbine Valley CO PD
+Commerce City CO PD
+Custer County CO SO
+Dacono CO PD
+Douglas County CO SO
+Douglas County Open Spaces & Natural Resources CO
+Durango CO PD
+Eaton CO PD
+Edgewater CO PD
+El Paso CO SO
+Elizabeth CO PD
+Erie CO PD
+Federal Heights CO PD
+Firestone CO PD
+Fountain CO PD
+Fraser/Winter Park CO PD
+Frederick CO PD
+Garfield County CO SO
+Georgetown CO PD
+Glenwood Springs CO PD
+Granby CO PD
+Grand County CO SO
+Grand Junction CO PD
+Greeley CO PD
+Gunnison County CO SO
+Hotchkiss CO PD
+Hudson CO PD
+Idaho Springs CO PD
+Jackson County CO SO
+Jefferson County Attorney's Office (CO)
+Jefferson County CO SO
+Johnstown CO PD
+Lakewood CO PD
+Larimer County CO SO
+Lochbuie CO PD
+Lone Tree CO PD
+Loveland CO PD
+Mead CO PD
+Mesa County CO SO
+Moffat County SO CO
+Montrose CO PD
+Monument CO PD
+Morrison CO PD
+Mountain Village PD (CO)
+Northern Colorado Intelligence Unit CO
+Northglenn CO PD
+Parker CO PD
+Pueblo CO PD
+Silt CO PD
+Summit County Sheriff's Office (CO)
+Thornton CO PD
+Timnath CO PD
+Town of Lyons CO
+Town of Superior CO PD
+University of Colorado Anschutz Medical Campus CO PD
+Vail CO PD
+Weld County CO SO
+Westminster CO PD
+Windsor CO PD
+
+Receiving Network Data From
+
+Organizations sharing their data with Golden CO PD.
+
+Adams County CO SO
+Adrian MI PD
+Akron OH PD
+Alcoa TN PD
+Anderson IN PD
+Arapahoe County CO SO
+Arvada CO PD
+Aurora CO PD
+Avon IN PD
+Baldwin County GA SO
+Basalt CO PD
+Baytown TX PD
+Boulder CO PD
+Boulder County CO SO
+Breckenridge CO PD
+Brighton CO PD
+Broomfield CO PD
+Brush CO PD
+Butts County GA SO
+Calhoun County AL SO
+Chaffee County CO SO
+Cherry Hills Village CO PD
+Cheyenne County CO SO
+Cheyenne WY PD
+Clearwater FL PD
+CO - Keenesburg PD
+CO - Rangely PD
+Cobb County GA PD
+Colorado State Parks
+Colorado State Patrol
+Columbine Valley CO PD
+Commerce City CO PD
+Custer County CO SO
+Dacono CO PD
+Deactivated Users
+Douglas County CO SO
+Douglas County Open Spaces & Natural Resources CO
+Durango CO PD
+Eaton CO PD
+Edgewater CO PD
+El Paso CO SO
+Elbert County CO SO [Inactive]
+Elizabeth CO PD
+Englewood CO PD
+Erie CO PD
+Firestone CO PD
+Fort Worth TX PD
+Fountain CO PD
+Fowler CO PD
+Fraser/Winter Park CO PD
+Frederick CO PD
+Fulshear TX PD
+Garfield County CO SO
+Glencoe AL PD
+Granby CO PD
+Grand County CO SO
+Grand Island NE PD
+Greeley CO PD
+Gunnison County CO SO
+Home Depot Corporation
+Hotchkiss CO PD
+Houston TX PD
+Hudson CO PD
+Idaho Springs CO PD
+Indiana Valley Public Improvement Corporation (CO)
+Jackson County CO SO
+Jasper County IN SO
+Jefferson County Attorney's Office (CO)
+Jefferson County CO SO
+Johnstown CO PD
+Keene Ranch (CO)
+Lakewood CO PD
+Lamar CO PD
+Larimer County CO SO
+Lochbuie CO PD
+Lone Tree CO PD
+Loveland CO PD
+Mahoning Twp PA PD
+Mead CO PD
+Mesa County CO SO
+Moffat County SO CO
+Monroe GA PD
+Montezuma CO SO
+Montrose CO PD
+Morrison CO PD
+Mountain Village PD (CO)
+Navajo State Park CO PD
+Nephi PD UT
+Northglenn CO PD
+Orange Beach AL PD
+Orange County FL SO
+Parker CO PD
+Pittsboro IN PD
+Prowers County SO (CO)
+Pueblo CO PD
+Pueblo County CO SO
+Pueblo Downtown Association (CO)
+Richland County SC SO
+Robeson County NC SO
+Sarasota FL PD
+Silt CO PD
+Sioux City IA PD
+South Sioux City NE PD
+Staunton State Park CO PD
+Summit County Sheriff's Office (CO)
+Thornton CO PD
+Timnath CO PD
+Titusville FL PD
+Town of Lyons CO
+Town of Superior CO PD
+Ulysses KS PD
+University of Colorado Anschutz Medical Campus CO PD
+University of Colorado Boulder PD (CO)
+Vail CO PD
+Weld County CO SO
+Westminster CO PD
+Wichita Falls TX PD
+Windsor CO PD
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use
+
+Data is used for law enforcement purposes only. Data is owned by Golden CO PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+This sample of prohibited uses includes but is not limited to: Immigration enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), personal use.
+
+Access
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist
+
+Hotlist hits are required to be human verified prior to action.
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+SOC 2 Type II
+
+Independently audited controls covering security, availability, and confidentiality.
+
+ISO 27001
+
+Information security management aligned with international standards.
+
+Adherence to Key Privacy Principles
+
+Built to focus on data minimization, purpose limitation, and transparency.
+
+Provided by Flock Safety
