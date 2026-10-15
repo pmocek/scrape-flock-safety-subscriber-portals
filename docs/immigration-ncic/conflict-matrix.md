@@ -7,13 +7,14 @@ Regenerate with `python3 scripts/ncic-contradiction.py --wa-matrix > docs/immigr
 
 See [README.md](README.md) for the analysis, methodology, and legal framing.
 
-As of this snapshot, **30 of 74** Washington State agencies with live Flock Safety portals both list immigration enforcement as a prohibited use **and** subscribe to Flock's *National and statewide hotlist sources* — the NCIC bundle that includes ICE's Immigration Violator File.
+As of this snapshot, **31 of 74** Washington State agencies with live Flock Safety portals both list immigration enforcement as a prohibited use **and** subscribe to Flock's *National and statewide hotlist sources* — the NCIC bundle that includes ICE's Immigration Violator File.
 
 | Agency | Prohibits immigration | National hotlists | NCIC named in portal | Shares with non-prohibiting partners |
 |---|:---:|:---:|:---:|:---:|
 | Auburn Police Department | yes | yes | no | 4 |
 | Bonney Lake Police Department | yes | yes | no | 0 |
 | College Place Police Department | yes | yes | no | 1 |
+| East Wenatchee Wa Pd | yes | yes | no | 0 |
 | Eatonville Police Department | yes | yes | no | 1 |
 | Lake Stevens Police Department | yes | yes | no | 2 |
 | Lakewood Police Department | yes | yes | no | 4 |
@@ -42,4 +43,4 @@ As of this snapshot, **30 of 74** Washington State agencies with live Flock Safe
 | Yakima Police Department | yes | yes | no | 2 |
 | Yelm Police Department | yes | yes | no | 3 |
 
-Additionally, **40 of 74** Washington agencies have **not** configured any Flock-level immigration prohibition. They are still bound by Washington's Keep Washington Working Act and the Driver Privacy Act (SB 6002, signed 2026-03-30), but the Flock contract itself places no backstop on how their plate data is used downstream.
+Additionally, **39 of 74** Washington agencies have **not** configured any Flock-level immigration prohibition. They are still bound by Washington's Keep Washington Working Act and the Driver Privacy Act (SB 6002, signed 2026-03-30), but the Flock contract itself places no backstop on how their plate data is used downstream.
