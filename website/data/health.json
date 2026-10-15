@@ -1,12 +1,12 @@
 {
   "agencies_monitored": 210,
-  "agencies_in_inventory": 920,
-  "agencies_unchecked": 710,
+  "agencies_in_inventory": 921,
+  "agencies_unchecked": 711,
   "ok": 204,
   "blocked": 0,
   "error": 6,
   "first_check": "2026-06-25T19:38:03.746729+00:00",
-  "last_check": "2026-10-14T22:42:42.343612+00:00",
+  "last_check": "2026-10-15T00:58:24.277658+00:00",
   "daily": [
     {
       "date": "2026-06-25",
@@ -55,6 +55,13 @@
       "checks": 150,
       "ok": 146,
       "error": 4,
+      "blocked": 0
+    },
+    {
+      "date": "2026-10-15",
+      "checks": 30,
+      "ok": 29,
+      "error": 1,
       "blocked": 0
     }
   ],
@@ -1337,10 +1344,10 @@
     },
     {
       "slug": "college-place-wa-pd",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-13T03:57:42.694821+00:00",
-      "checks_recorded": 29,
+      "status": "error",
+      "detail": "http_403",
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 30,
       "series": [
         {
           "date": "2026-06-25",
@@ -1376,6 +1383,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
         }
       ]
     },
@@ -1383,11 +1397,18 @@
       "slug": "colville-wa-tribal-police",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-13T03:57:42.694821+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -1399,11 +1420,18 @@
       "slug": "cosmopolis-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-13T03:57:42.694821+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -1413,10 +1441,10 @@
     },
     {
       "slug": "coulee-dam-wa-pd",
-      "status": "error",
-      "detail": "http_403",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 2,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 3,
       "series": [
         {
           "date": "2026-10-13",
@@ -1431,6 +1459,13 @@
           "ok": 0,
           "error": 1,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -1438,8 +1473,8 @@
       "slug": "covington-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 2,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 3,
       "series": [
         {
           "date": "2026-10-13",
@@ -1450,6 +1485,13 @@
         },
         {
           "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -1461,8 +1503,8 @@
       "slug": "covington-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 2,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 3,
       "series": [
         {
           "date": "2026-10-13",
@@ -1477,6 +1519,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -1484,11 +1533,18 @@
       "slug": "cylde-hill-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -1500,11 +1556,18 @@
       "slug": "cylde-hill-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -1516,8 +1579,8 @@
       "slug": "des-moines-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 29,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 30,
       "series": [
         {
           "date": "2026-06-25",
@@ -1553,6 +1616,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -1560,11 +1630,18 @@
       "slug": "des-moines-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -1576,11 +1653,18 @@
       "slug": "des-moines-wa-pd-wa",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -1592,11 +1676,18 @@
       "slug": "des-moines-wa-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -1608,11 +1699,18 @@
       "slug": "des-moines-wa-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -1624,11 +1722,18 @@
       "slug": "douglas-county-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 1,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 2,
       "series": [
         {
           "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -1640,8 +1745,8 @@
       "slug": "dupont-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 2,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 3,
       "series": [
         {
           "date": "2026-10-13",
@@ -1656,6 +1761,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -1663,8 +1775,8 @@
       "slug": "east-wenatchee-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 2,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 3,
       "series": [
         {
           "date": "2026-10-13",
@@ -1675,6 +1787,13 @@
         },
         {
           "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -1686,8 +1805,8 @@
       "slug": "east-wenatchee-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 2,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 3,
       "series": [
         {
           "date": "2026-10-13",
@@ -1702,6 +1821,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -1709,8 +1835,8 @@
       "slug": "eatonville-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 30,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 31,
       "series": [
         {
           "date": "2026-06-25",
@@ -1753,6 +1879,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -1760,8 +1893,8 @@
       "slug": "edmonds-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 30,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 31,
       "series": [
         {
           "date": "2026-06-25",
@@ -1804,6 +1937,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -1811,8 +1951,8 @@
       "slug": "edmonds-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 2,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 3,
       "series": [
         {
           "date": "2026-10-13",
@@ -1823,6 +1963,13 @@
         },
         {
           "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -1834,8 +1981,8 @@
       "slug": "ellensburg-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 30,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 31,
       "series": [
         {
           "date": "2026-06-25",
@@ -1874,6 +2021,13 @@
         },
         {
           "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -1885,8 +2039,8 @@
       "slug": "ellensburg-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 2,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 3,
       "series": [
         {
           "date": "2026-10-13",
@@ -1897,6 +2051,13 @@
         },
         {
           "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -1908,8 +2069,8 @@
       "slug": "enumclaw-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 2,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 3,
       "series": [
         {
           "date": "2026-10-13",
@@ -1924,6 +2085,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -1931,8 +2099,8 @@
       "slug": "everett-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 30,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 31,
       "series": [
         {
           "date": "2026-06-25",
@@ -1975,6 +2143,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -1982,8 +2157,8 @@
       "slug": "everett-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 2,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 3,
       "series": [
         {
           "date": "2026-10-13",
@@ -1998,6 +2173,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -2005,8 +2187,8 @@
       "slug": "federal-cowlitz-indian-tribal-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 3,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 4,
       "series": [
         {
           "date": "2026-10-13",
@@ -2021,6 +2203,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -2028,8 +2217,8 @@
       "slug": "federal-way-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 3,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 4,
       "series": [
         {
           "date": "2026-10-13",
@@ -2040,6 +2229,13 @@
         },
         {
           "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -2051,8 +2247,8 @@
       "slug": "federal-way-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 3,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 4,
       "series": [
         {
           "date": "2026-10-13",
@@ -2063,6 +2259,13 @@
         },
         {
           "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -2074,8 +2277,8 @@
       "slug": "flock-safety-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 3,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 4,
       "series": [
         {
           "date": "2026-10-13",
@@ -2090,6 +2293,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -2097,8 +2307,8 @@
       "slug": "flock-safety-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-14T02:12:22.607534+00:00",
-      "checks_recorded": 3,
+      "last_checked": "2026-10-15T00:58:24.277658+00:00",
+      "checks_recorded": 4,
       "series": [
         {
           "date": "2026-10-13",
@@ -2109,6 +2319,13 @@
         },
         {
           "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
           "checks": 1,
           "ok": 1,
           "error": 0,
