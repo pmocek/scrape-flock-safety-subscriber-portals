@@ -5,7 +5,7 @@ Visit Flock
 Golf Manor OH PD
 Transparency Portal
 
-Last updated: Tue Oct 13 2026
+Last updated: Thu Oct 15 2026
 
 Overview
 
@@ -58,9 +58,9 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-247 alerts
+254 alerts
 NCIC - Protection Order
-236
+243
 NCIC - Sex Offender
 5
 NCIC - Warrants
@@ -92,13 +92,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-31,276
+31,260
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-3
+4
 
 Hotlists Alerted On
 
@@ -110,11 +110,12 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-366
+376
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
+Obstructing the Police (Fleeing/Eluding)
 Missing/Endangered Person/Runaway
 Motor Vehicle Theft/Stolen
 Wanted Person (Arrest Warrant/Fugitive)
@@ -1243,7 +1244,6 @@ Lithopolis OH PD
 Little Rock AR PD
 Livingston County IL SO
 Livingston County MI SO
-Livonia MI PD
 Lockland OH PD
 Lodi OH PD
 Logan County KY SO
@@ -2180,7 +2180,6 @@ University of Memphis TN PD
 University of Michigan Ann Arbor Campus MI PD
 University of Missouri Campus MO PD
 University of North Carolina Chapel Hill NC
-University of North Carolina Charlotte (NC)
 University of North Georgia PD (GA)
 University of South Florida at St. Petersburg FL PD
 University of South Florida FL PD
@@ -2538,7 +2537,6 @@ Blount County TN SO
 Blountsville AL PD
 Blue Ridge GA PD
 Boardman Township OH PD
-Bolingbrook IL PD
 Boone County IN SO
 Bosque County TX SO
 Bossier City LA PD
@@ -2550,7 +2548,6 @@ Bowling Green KY PD
 Bowling Green MO PD
 Bowling Green Warren County Drug Task Force KY
 Bradford County FL SO
-Bradley IL PD
 Braidwood IL PD
 Bratenahl OH PD
 Breckinridge County KY SO
@@ -3287,7 +3284,6 @@ Linden IN PD
 Lithopolis OH PD
 Livingston County IL SO
 Livingston TX PD
-Livonia MI PD
 Lockland OH PD
 Locust Grove GA PD
 Lodi OH PD
@@ -3343,6 +3339,7 @@ Maple Heights OH PD
 Maplewood MO PD
 Marathon County WI SO
 Margate FL PD
+Marianna FL PD
 Marietta GA PD
 Marion AR PD
 Marion County OH SO
@@ -3658,7 +3655,6 @@ Peru IN PD
 Pharr TX PD
 Phelps County MO SO
 Phenix City AL PD
-Pickens County GA SO
 Pickens County SC SO
 Pickerington OH PD
 Pierce Township OH PD
@@ -3724,6 +3720,7 @@ Ravenna OH PD
 Reading OH PD
 Reagan County TX SO
 Red Oak PD TX
+Red River TX SO
 Redford Twp MI PD
 Reedsburg WI PD
 Reeves CO TX SO
@@ -3774,6 +3771,7 @@ Ross Township PA PD
 Rossford OH PD
 Roswell GA PD
 Round Lake Beach IL PD
+Round Lake Park IL PD
 Rowan County NC SO
 Royal Oak MI PD
 Rusk CO TX SO
@@ -4005,7 +4003,6 @@ University Circle OH PD
 University Heights OH PD
 University of Louisville KY PD
 University of Missouri Campus MO PD
-University of North Carolina Charlotte (NC)
 University of South Florida at St. Petersburg FL PD
 University of Toledo OH PD
 University Park IL PD
