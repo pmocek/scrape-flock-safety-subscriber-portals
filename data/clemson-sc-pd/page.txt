@@ -5,7 +5,7 @@ Visit Flock
 Clemson SC PD
 Transparency Portal
 
-Last updated: Wed Oct 14 2026
+Last updated: Thu Oct 15 2026
 
 Overview
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-224
+228
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
