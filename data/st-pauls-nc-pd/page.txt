@@ -5,7 +5,7 @@ Visit Flock
 St Pauls NC PD
 Transparency Portal
 
-Last updated: Tue Oct 06 2026
+Last updated: Fri Oct 16 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-60,231
+61,095
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-45
+27
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-358
+344
 
 Sharing Network Data With
 
@@ -74,7 +74,6 @@ Buncombe County NC SO
 Burke County NC SO
 Burlington NC PD
 Butner NC PD
-Cabarrus County NC SO
 Caldwell County NC SO
 Carolina Beach NC PD
 Carthage NC PD
