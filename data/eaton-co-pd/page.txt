@@ -5,7 +5,7 @@ Visit Flock
 Eaton CO PD
 Transparency Portal
 
-Last updated: Thu Oct 15 2026
+Last updated: Fri Oct 16 2026
 
 Overview
 
@@ -60,9 +60,9 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-348 alerts
+343 alerts
 Colorado Crime Information Center (CCIC) - Misdemeanor
-157
+153
 NCIC - Sex Offender
 91
 Colorado Crime Information Center (CCIC) - Stolen Plate
@@ -72,13 +72,15 @@ Colorado Crime Information Center (CCIC) - Stolen Vehicle
 Colorado Crime Information Center (CCIC) - Attempt To Locate
 11
 NCIC - Stolen Plate
-11
+9
 Colorado Crime Information Center (CCIC) - Missing Person
 3
 NCIC - Missing Person
 3
 NCIC - Stolen Vehicle
 3
+Colorado Crime Information Center (CCIC) - Reported Lost
+1
 Colorado Crime Information Center (CCIC) - Sexual Offender
 1
 NCIC - Warrants
@@ -106,7 +108,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-99,281
+99,108
 
 Number of Searches
 
@@ -124,7 +126,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-558
+555
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -211,7 +213,6 @@ Mountain Village PD (CO)
 Navajo State Park CO PD
 Northern Colorado Intelligence Unit CO
 Northglenn CO PD
-Parker CO PD
 Pueblo CO PD
 Pueblo County CO SO
 Rio Blanco Co SO (CO)
