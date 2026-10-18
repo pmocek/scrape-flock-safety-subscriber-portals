@@ -6,7 +6,7 @@ Visit Flock
 Stamping Ground KY PD
 Transparency Portal
 
-Last updated: Wed Oct 07 2026
+Last updated: Sun Oct 18 2026
 
 Overview
 
@@ -99,7 +99,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-9
+6
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -151,7 +151,6 @@ Collegedale TN PD
 Connersville IN PD
 Cumming GA PD
 CVG Airport KY PD
-Cynthiana KY PD
 Danville KY PD
 Dayton KY PD
 Delhi Twp OH PD
@@ -167,7 +166,6 @@ Florence KY PD
 Floyd County GA PD
 Forest Park OH PD
 Forsyth County GA SO
-Fort Wayne IN PD
 Frankfort KY PD
 Franklin County KY SO
 Fulton County GA PD
@@ -375,14 +373,12 @@ Bessemer City NC PD
 Biltmore Forest NC PD
 Bluffton SC PD
 Boardman Township OH PD
-Bolingbrook IL PD
 Boone County AR SO
 Boone County IL SO
 Boone County IN SO
 Bowling Green KY PD
 Bowling Green Warren County Drug Task Force KY
 Boyle County KY SO
-Bradley IL PD
 Braidwood IL PD
 Branson MO PD
 Breckinridge County KY SO
@@ -498,7 +494,6 @@ Currituck County NC SO
 Cuyahoga Falls OH PD
 Cuyahoga Heights OH PD
 CVG Airport KY PD
-Cynthiana KY PD
 Dale County AL SO
 Dandridge TN PD
 Danville KY PD
@@ -550,7 +545,6 @@ Evansville IN PD
 Evendale OH PD
 Evermore CID
 Fairburn GA PD
-Fairfax OH PD
 Fairfield County SC SO
 Fairfield Glade TN PD
 Fairfield Township OH PD
@@ -706,14 +700,12 @@ Jackson AL PD
 Jackson County MI SO
 Jackson MI PD
 Jackson MS PD
-Jackson TN PD
 Jasper AL PD
 Jasper GA PD
 Jasper IN PD
 Jefferson City MO PD
 Jefferson City TN PD
 Jefferson County AR SO
-Jefferson County KY SO
 Jefferson County MO SO
 Jefferson County TN SO
 Jefferson GA PD
@@ -876,7 +868,6 @@ Morton Grove IL PD
 Moultrie GA PD
 Mount Holly NC PD
 Mount Morris Township PD MI
-Mount Pleasant SC PD
 Mount Pleasant WI PD
 Mount Sterling KY PD
 Mount Vernon IN PD
@@ -898,7 +889,6 @@ Nelson County KY SO
 Neshoba County MS SO
 New Albany IN PD
 New Albany MS PD
-New Castle County DE PD
 New Castle IN PD
 New Chicago IN PD
 New Ellenton SC PD
@@ -925,7 +915,6 @@ Nottawaseppi Huron Band of the Potawatomi Tribal Police MI
 Oak Grove KY PD
 Oak Lawn IL PD
 Oak Ridge TN PD
-Oakbrook Terrace IL PD
 Oakland TN PD
 Oconee County GA SO
 Oconee County SC SO
@@ -1059,7 +1048,6 @@ Senoia GA PD
 Sevier County TN SO
 Sevierville TN PD
 Seymour IN PD
-Sharonville OH PD
 Sheboygan WI PD
 Shelby County AL SO
 Shelby County IN SO
@@ -1115,7 +1103,6 @@ Strongsville OH PD
 Sugar Hill GA PD
 Sugarcreek Township OH PD
 Sullivan County IN SO
-Summit County OH SO
 Sumter County GA SO
 Sumter County SC SO
 Surry County NC SO
@@ -1214,7 +1201,6 @@ Westland MI PD
 Westmont IL PD
 White County IN SO
 Whitestown IN PD
-Whitewater WI PD
 Whitfield County GA SO
 Whitley County IN Prosector
 Wichita Falls TX PD
@@ -1229,7 +1215,6 @@ Winchester KY PD
 Winder GA PD
 Winfield AL PD
 Winnebago County IL SO
-Winterville NC PD
 Wixom MI PD
 Woodford County IL SO
 Woodson Terrace MO PD
