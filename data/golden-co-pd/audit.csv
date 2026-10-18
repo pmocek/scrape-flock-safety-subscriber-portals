@@ -1,4 +1,17 @@
 id,userId,searchDate,networkCount,reason,offenseType
+a1905536-a25a-465a-a0a7-fb4a741982fb,***,2026-10-16T19:12:12.378Z,170,Drug deal,Drugs/Narcotics
+9021f02f-6314-40f1-80f0-91f3c1e8a762,***,2026-10-16T18:47:30.892Z,170,Drug deal,Drugs/Narcotics
+b2212e97-c856-44c8-ba43-fafc245975ef,***,2026-10-16T18:03:06.536Z,169,narcotics/ gang,Drugs/Narcotics
+0203bee9-8932-4b29-9ed6-b4dacb783351,***,2026-10-16T16:03:36.812Z,171,Drug deal,Drugs/Narcotics
+d5ee2375-931d-41a0-b178-d5c6cfb528b2,***,2026-10-15T20:11:18.999Z,171,Drug deal,Drugs/Narcotics
+6edf83eb-2cc8-4e97-b1df-b3971580cac6,***,2026-10-15T19:35:19.666Z,1,mv theft id,Larceny/Theft Offenses
+b44a8156-f337-4f11-8ab7-4ef238823734,***,2026-10-15T17:10:59.988Z,172,Drug deal,Drugs/Narcotics
+5de2e92e-9e71-4cc1-9df2-cc88573ac3cf,***,2026-10-15T10:38:49.678Z,170,VEHICLE THEFT,Motor Vehicle Theft/Stolen
+c19e43b0-09fa-4a36-a68e-9653b2ae18d6,***,2026-10-15T09:05:21.865Z,1,VEHICLE THEFT,Motor Vehicle Theft/Stolen
+24be0a13-c071-4043-9ba8-41ff01c58766,***,2026-10-15T09:00:20.373Z,14,Atl,Motor Vehicle Theft/Stolen
+490c1759-a044-449c-93fc-9e39d235c6b7,***,2026-10-15T08:59:14.482Z,171,Atl,Motor Vehicle Theft/Stolen
+1603b802-6017-4979-8bb3-ef5600bffb7d,***,2026-10-15T01:49:39.689Z,172,Wall stop,Drugs/Narcotics
+6916992e-9492-4761-86e5-5eb615fc0d53,***,2026-10-15T00:37:45.245Z,172,Wall stop,Drugs/Narcotics
 2453600e-8827-46f2-bf01-5e612814a92e,***,2026-10-14T23:39:15.713Z,172,Wanted for drugs,Drugs/Narcotics
 229a07e4-6029-48de-bf8d-bb927584e25b,***,2026-10-14T21:33:21.027Z,1,narcotics/ gang,Drugs/Narcotics
 08529c91-b13d-4f19-9f27-88ae1e278186,***,2026-10-14T17:17:24.431Z,1,THEFT,Larceny/Theft Offenses
