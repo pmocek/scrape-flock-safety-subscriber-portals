@@ -6,7 +6,7 @@ Visit Flock
 Stamping Ground KY PD
 Transparency Portal
 
-Last updated: Mon Oct 19 2026
+Last updated: Tue Oct 20 2026
 
 Overview
 
@@ -99,7 +99,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6
+5
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -380,7 +380,6 @@ Bowling Green KY PD
 Bowling Green Warren County Drug Task Force KY
 Boyle County KY SO
 Braidwood IL PD
-Branson MO PD
 Breckinridge County KY SO
 Brecksville OH PD
 Bremen GA PD
@@ -963,7 +962,6 @@ Perrysburg OH PD
 Perrysburg Twp OH PD
 Person County NC SO
 Peru IL PD
-Phelps County MO SO
 Phenix City AL PD
 Pierce Township OH PD
 Pineville NC PD
