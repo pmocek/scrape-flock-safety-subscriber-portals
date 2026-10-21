@@ -1,4 +1,8 @@
 id,userId,searchDate,networkCount,reason,offenseType
+bb1199d1-3680-4433-bd0b-baa0a7ea4f90,***,2026-10-19T01:09:03.211Z,1,theft,Larceny/Theft Offenses
+27046279-a6c7-47d8-895c-719c01d2f624,***,2026-10-17T16:04:13.706Z,1,Identify theft susp,Criminal Motor Vehicle Offense (incl. Road Rage/Reckless)
+77d1e8b0-5f80-4978-9d9c-d27917dea963,***,2026-10-17T15:34:07.673Z,197,id theft sus,Motor Vehicle Theft/Stolen
+11b56156-cc81-4aa9-823a-27fad078fb06,***,2026-10-17T14:27:11.291Z,197,id theft sus,Motor Vehicle Theft/Stolen
 a1905536-a25a-465a-a0a7-fb4a741982fb,***,2026-10-16T19:12:12.378Z,170,Drug deal,Drugs/Narcotics
 9021f02f-6314-40f1-80f0-91f3c1e8a762,***,2026-10-16T18:47:30.892Z,170,Drug deal,Drugs/Narcotics
 b2212e97-c856-44c8-ba43-fafc245975ef,***,2026-10-16T18:03:06.536Z,169,narcotics/ gang,Drugs/Narcotics
