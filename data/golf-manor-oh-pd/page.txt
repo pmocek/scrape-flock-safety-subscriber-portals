@@ -5,7 +5,7 @@ Visit Flock
 Golf Manor OH PD
 Transparency Portal
 
-Last updated: Tue Oct 20 2026
+Last updated: Wed Oct 21 2026
 
 Overview
 
@@ -58,11 +58,11 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-275 alerts
+279 alerts
 NCIC - Protection Order
-262
+267
 NCIC - Sex Offender
-8
+7
 NCIC - Warrants
 4
 NCIC - Stolen Vehicle
@@ -90,7 +90,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-30,922
+31,059
 
 Number of Searches
 
@@ -108,7 +108,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-392
+402
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -440,7 +440,6 @@ Chester County SC SO
 Chester Township OH PD
 Chesterfield MO PD
 Chesterfield Twp MI PD
-Chesterton IN PD
 Cheviot OH PD
 Cheyenne WY PD
 Chicago IL PD
@@ -914,7 +913,6 @@ Hardinsburg KY PD
 Harford County MD SO
 Harlan County NE SO
 Harnett County NC SO
-Harper Community College IL PD
 Harper County KS SO
 Harriman TN PD
 Harrington DE PD
@@ -950,7 +948,6 @@ Hendersonville NC PD
 Hendersonville TN PD
 Henry County AL SO
 Henry County GA PD
-Henry County IL SO
 Henry County IN SO
 Henry County OH SO
 Hermitage PA PD
@@ -1522,7 +1519,6 @@ NE - Colfax Co SO
 Nebraska State Patrol
 Nelson County KY SO
 Neosho County KS SO
-Neshkoro WI PD
 New Albany OH PD
 New Baden IL PD
 New Baltimore MI PD
@@ -1749,7 +1745,6 @@ Piperton TN PD
 Pitt County NC SO
 Pittsboro IN PD
 Pittsburgh PA PD
-Pittston Township PA PD [Inactive]
 Plain City OH PD
 Plainfield IL PD
 Plainfield IN PD
@@ -2488,6 +2483,7 @@ Barrow County GA SO
 Bartholomew County IN SO
 Bartlett TN PD
 Bartow County GA SO
+Batavia NY PD
 Batavia OH PD
 Batesville MS PD
 Bath Township OH PD
@@ -3003,7 +2999,6 @@ Greenwood IN PD
 Greenwood Independent School District TX
 Griffin GA PD
 Griffith IN PD
-Grosse Tete LA PD
 Grove City OH PD
 Groveport OH PD
 Grundy County IL SO
@@ -3482,7 +3477,6 @@ Napoleon OH PD
 Napoleon Twp MI PD
 Nashville Intl Airport TN PD
 Nelson County KY SO
-Neshkoro WI PD
 New Albany IN PD
 New Albany MS PD
 New Albany OH PD
@@ -4119,7 +4113,6 @@ Winchester KY PD
 Winder GA PD
 Winfield AL PD
 Winnebago County IL SO
-Winnebago County WI SO
 Wisconsin State Capitol Police (WI)
 Wixom MI PD
 Wolverine Lake MI PD

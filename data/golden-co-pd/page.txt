@@ -5,7 +5,7 @@ Visit Flock
 Golden CO PD
 Transparency Portal
 
-Last updated: Tue Oct 20 2026
+Last updated: Wed Oct 21 2026
 
 Overview
 
@@ -53,7 +53,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-308
+312
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -109,7 +109,6 @@ Granby CO PD
 Grand County CO SO
 Grand Junction CO PD
 Greeley CO PD
-Gunnison County CO SO
 Hotchkiss CO PD
 Hudson CO PD
 Idaho Springs CO PD
@@ -187,7 +186,6 @@ Douglas County CO SO
 Douglas County Open Spaces & Natural Resources CO
 Durango CO PD
 Eaton CO PD
-Edgewater CO PD
 El Paso CO SO
 Elbert County CO SO [Inactive]
 Elizabeth CO PD
@@ -205,7 +203,6 @@ Granby CO PD
 Grand County CO SO
 Grand Island NE PD
 Greeley CO PD
-Gunnison County CO SO
 Home Depot Corporation
 Hotchkiss CO PD
 Houston TX PD
@@ -229,7 +226,6 @@ Mead CO PD
 Mesa County CO SO
 Moffat County SO CO
 Monroe GA PD
-Montezuma CO SO
 Montrose CO PD
 Morrison CO PD
 Mountain Village PD (CO)
@@ -239,7 +235,6 @@ Northglenn CO PD
 Orange Beach AL PD
 Orange County FL SO
 Pittsboro IN PD
-Prowers County SO (CO)
 Pueblo CO PD
 Pueblo County CO SO
 Pueblo Downtown Association (CO)
