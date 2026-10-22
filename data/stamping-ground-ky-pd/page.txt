@@ -6,7 +6,7 @@ Visit Flock
 Stamping Ground KY PD
 Transparency Portal
 
-Last updated: Wed Oct 21 2026
+Last updated: Thu Oct 22 2026
 
 Overview
 
@@ -82,6 +82,12 @@ LPR Cameras
 Number of LPR cameras only.
 
 4
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+14,906
 
 Number of Searches
 
@@ -991,7 +997,6 @@ Putnam County IN SO
 Putnam County TN SO
 Quincy IL PD
 Rabun County GA SO
-Racine WI PD
 Radcliff KY PD
 Ralls County MO SO
 Redford Twp MI PD
