@@ -1,4 +1,10 @@
 id,userId,searchDate,networkCount,reason
+7df35661-ced3-4877-8bf9-855dce1eaaca,***,2026-10-21T23:16:29.954Z,1,L26100776
+71219cd1-522f-4eb5-b2da-8d8ec426519a,***,2026-10-21T22:14:29.542Z,7,Investigation
+6e1722f5-9a5b-4099-b8b4-4b0aad05e479,***,2026-10-21T21:27:29.570Z,1,stolen vehicle
+d4cadd86-c36c-41f4-a853-ef8e6ddc12b3,***,2026-10-21T14:48:14.496Z,7,Investigation
+9ddeb56f-32ce-4d8c-a70c-809aecf04a9b,***,2026-10-21T04:40:10.889Z,1,suspect vehicle
+e1e922b5-65f0-485f-818f-95c3d00e2aa3,***,2026-10-21T03:16:51.541Z,1,suspect vehicle
 734aab7f-4eeb-470d-b839-76a9e3102ebc,***,2026-10-18T06:00:50.025Z,8,Stolen plate
 fe488d6c-462c-4bd8-9bce-05e8c2eca5f9,***,2026-10-12T23:08:32.814Z,1,Traffic
 16e4b0d6-b93f-4228-a39c-6897c45ff4df,***,2026-10-12T23:04:17.719Z,8,Confirme plate
