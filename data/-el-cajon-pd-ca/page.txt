@@ -5,7 +5,7 @@ Visit Flock
 El Cajon CA PD
 Transparency Portal
 
-Last updated: Tue Oct 20 2026
+Last updated: Wed Oct 21 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-790,368
+787,432
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-374
+365
 
 Hotlists Alerted On
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-9,759
+9,683
 
 Sharing Network Data With
 
@@ -186,7 +186,6 @@ Chambers County AL SO
 Chanute KS PD
 Cherokee County GA DA
 Chesterfield County VA PD
-Chesterton IN PD
 Cheyenne WY PD
 Chino CA PD
 Chino Valley AZ PD
@@ -521,7 +520,6 @@ Paradise Valley AZ PD
 Parker AZ PD
 Pasadena CA PD
 Pasadena TX PD
-Payson AZ PD
 Peoria IL PD
 Perry County MO SO
 Petaluma CA PD
