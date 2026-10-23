@@ -5,7 +5,7 @@ Visit Flock
 Eaton CO PD
 Transparency Portal
 
-Last updated: Tue Oct 20 2026
+Last updated: Thu Oct 22 2026
 
 Overview
 
@@ -60,19 +60,19 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-322 alerts
+317 alerts
 Colorado Crime Information Center (CCIC) - Misdemeanor
-131
+123
 NCIC - Sex Offender
-94
+91
 Colorado Crime Information Center (CCIC) - Stolen Plate
-39
+46
 Colorado Crime Information Center (CCIC) - Stolen Vehicle
 28
 NCIC - Stolen Plate
 9
 Colorado Crime Information Center (CCIC) - Attempt To Locate
-8
+7
 NCIC - Stolen Vehicle
 6
 Colorado Crime Information Center (CCIC) - Missing Person
@@ -104,7 +104,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-97,910
+97,011
 
 Number of Searches
 
@@ -122,13 +122,13 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-532
+519
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
+Financial Crime (Embezzlement/Fraud)
 Motor Vehicle Theft/Stolen
-Hit and Run/Car Accident
 Stolen Property Offenses
 Destruction/Damage/Vandalism of Property
 
@@ -182,7 +182,6 @@ Granby CO PD
 Grand County CO SO
 Grand Junction CO PD
 Greeley CO PD
-Gunnison County CO SO
 Hotchkiss CO PD
 Hudson CO PD
 Idaho Springs CO PD
@@ -201,7 +200,6 @@ Loveland CO PD
 Mead CO PD
 Mesa County CO SO
 Moffat County SO CO
-Montezuma CO SO
 Montrose CO PD
 Montrose County CO SO
 Monument CO PD
@@ -253,7 +251,6 @@ Dacono CO PD
 Douglas County CO SO
 Douglas County Open Spaces & Natural Resources CO
 Durango CO PD
-Edgewater CO PD
 El Paso CO SO
 Elizabeth CO PD
 Englewood CO PD
@@ -267,7 +264,6 @@ Golden CO PD
 Granby CO PD
 Grand County CO SO
 Greeley CO PD
-Gunnison County CO SO
 Hotchkiss CO PD
 Hudson CO PD
 Idaho Springs CO PD
