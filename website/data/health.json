@@ -6,7 +6,7 @@
   "blocked": 0,
   "error": 7,
   "first_check": "2026-06-25T19:38:03.746729+00:00",
-  "last_check": "2026-10-23T20:40:25.833298+00:00",
+  "last_check": "2026-10-23T23:34:25.928042+00:00",
   "daily": [
     {
       "date": "2026-06-25",
@@ -115,9 +115,9 @@
     },
     {
       "date": "2026-10-23",
-      "checks": 150,
-      "ok": 145,
-      "error": 5,
+      "checks": 180,
+      "ok": 174,
+      "error": 6,
       "blocked": 0
     }
   ],
@@ -6921,10 +6921,10 @@
     },
     {
       "slug": "king-county-housing-authority-wa-inactive",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-22T10:40:59.788623+00:00",
-      "checks_recorded": 9,
+      "status": "error",
+      "detail": "http_403",
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 10,
       "series": [
         {
           "date": "2026-10-13",
@@ -6981,6 +6981,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
         }
       ]
     },
@@ -6988,8 +6995,8 @@
       "slug": "king-county-housing-authority-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-22T10:40:59.788623+00:00",
-      "checks_recorded": 9,
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 10,
       "series": [
         {
           "date": "2026-10-13",
@@ -7042,6 +7049,13 @@
         },
         {
           "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -7053,8 +7067,8 @@
       "slug": "king-county-housing-authority-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-22T10:40:59.788623+00:00",
-      "checks_recorded": 9,
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 10,
       "series": [
         {
           "date": "2026-10-13",
@@ -7107,6 +7121,13 @@
         },
         {
           "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -7116,10 +7137,10 @@
     },
     {
       "slug": "kittitas-county-wa-so",
-      "status": "error",
-      "detail": "http_403",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 9,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 10,
       "series": [
         {
           "date": "2026-10-13",
@@ -7179,8 +7200,8 @@
         },
         {
           "date": "2026-10-23",
-          "checks": 1,
-          "ok": 0,
+          "checks": 2,
+          "ok": 1,
           "error": 1,
           "blocked": 0
         }
@@ -7190,8 +7211,8 @@
       "slug": "kittitas-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 9,
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 10,
       "series": [
         {
           "date": "2026-10-13",
@@ -7251,8 +7272,8 @@
         },
         {
           "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -7262,8 +7283,8 @@
       "slug": "lake-stevens-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 36,
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 37,
       "series": [
         {
           "date": "2026-06-25",
@@ -7344,8 +7365,8 @@
         },
         {
           "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -7355,8 +7376,8 @@
       "slug": "lakewood-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 36,
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 37,
       "series": [
         {
           "date": "2026-06-25",
@@ -7437,8 +7458,8 @@
         },
         {
           "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -7448,8 +7469,8 @@
       "slug": "lakewood-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 7,
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 8,
       "series": [
         {
           "date": "2026-10-13",
@@ -7495,8 +7516,8 @@
         },
         {
           "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -7506,8 +7527,8 @@
       "slug": "lakewood-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 7,
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 8,
       "series": [
         {
           "date": "2026-10-13",
@@ -7553,8 +7574,8 @@
         },
         {
           "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -7564,8 +7585,8 @@
       "slug": "liberty-lake-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 7,
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 8,
       "series": [
         {
           "date": "2026-10-13",
@@ -7611,8 +7632,8 @@
         },
         {
           "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -7622,8 +7643,8 @@
       "slug": "liberty-lake-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 6,
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 7,
       "series": [
         {
           "date": "2026-10-13",
@@ -7662,8 +7683,8 @@
         },
         {
           "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -7673,8 +7694,8 @@
       "slug": "lincoln-county-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 6,
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 7,
       "series": [
         {
           "date": "2026-10-13",
@@ -7713,8 +7734,8 @@
         },
         {
           "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -7724,7 +7745,262 @@
       "slug": "lynnwood-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 35,
+      "series": [
+        {
+          "date": "2026-06-25",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-27",
+          "checks": 13,
+          "ok": 13,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-28",
+          "checks": 12,
+          "ok": 12,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-29",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "lynnwood-wa-pd-",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 7,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "lynnwood-wa-so",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 6,
+      "series": [
+        {
+          "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "mabton-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 6,
+      "series": [
+        {
+          "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "maple-valley-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 5,
+      "series": [
+        {
+          "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "marysville-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
       "checks_recorded": 34,
       "series": [
         {
@@ -7756,196 +8032,6 @@
           "blocked": 0
         },
         {
-          "date": "2026-10-13",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-14",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-15",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "lynnwood-wa-pd-",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 6,
-      "series": [
-        {
-          "date": "2026-10-13",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-14",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-15",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "lynnwood-wa-so",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 5,
-      "series": [
-        {
-          "date": "2026-10-14",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-15",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "mabton-wa-pd",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 5,
-      "series": [
-        {
-          "date": "2026-10-14",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-15",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "maple-valley-wa-pd",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 4,
-      "series": [
-        {
           "date": "2026-10-14",
           "checks": 1,
           "ok": 1,
@@ -7954,87 +8040,22 @@
         },
         {
           "date": "2026-10-21",
-          "checks": 1,
+          "checks": 2,
           "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "marysville-wa-pd",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 33,
-      "series": [
-        {
-          "date": "2026-06-25",
-          "checks": 1,
-          "ok": 0,
           "error": 1,
           "blocked": 0
         },
         {
-          "date": "2026-06-27",
-          "checks": 13,
-          "ok": 13,
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
           "error": 0,
           "blocked": 0
         },
         {
-          "date": "2026-06-28",
-          "checks": 12,
-          "ok": 12,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-29",
+          "date": "2026-10-23",
           "checks": 2,
           "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-14",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 2,
-          "ok": 1,
-          "error": 1,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
           "error": 0,
           "blocked": 0
         }
@@ -8044,8 +8065,8 @@
       "slug": "marysville-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 6,
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 7,
       "series": [
         {
           "date": "2026-10-14",
@@ -8077,8 +8098,8 @@
         },
         {
           "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -8088,209 +8109,7 @@
       "slug": "mattawa-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 6,
-      "series": [
-        {
-          "date": "2026-10-14",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-18",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "medina-wa-pd",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 35,
-      "series": [
-        {
-          "date": "2026-06-25",
-          "checks": 1,
-          "ok": 0,
-          "error": 1,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-27",
-          "checks": 13,
-          "ok": 13,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-28",
-          "checks": 12,
-          "ok": 12,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-29",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-14",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-18",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-20",
-          "checks": 1,
-          "ok": 0,
-          "error": 1,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "mill-creek-wa-pd",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 35,
-      "series": [
-        {
-          "date": "2026-06-25",
-          "checks": 1,
-          "ok": 0,
-          "error": 1,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-27",
-          "checks": 13,
-          "ok": 13,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-28",
-          "checks": 12,
-          "ok": 12,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-29",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-14",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-18",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-20",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "mill-creek-wa-pd-",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
       "checks_recorded": 7,
       "series": [
         {
@@ -8308,13 +8127,6 @@
           "blocked": 0
         },
         {
-          "date": "2026-10-20",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
           "date": "2026-10-21",
           "checks": 2,
           "ok": 2,
@@ -8330,18 +8142,18 @@
         },
         {
           "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
       ]
     },
     {
-      "slug": "monroe-wa-pd",
+      "slug": "medina-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
       "checks_recorded": 36,
       "series": [
         {
@@ -8388,6 +8200,215 @@
         },
         {
           "date": "2026-10-20",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "mill-creek-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 36,
+      "series": [
+        {
+          "date": "2026-06-25",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-27",
+          "checks": 13,
+          "ok": 13,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-28",
+          "checks": 12,
+          "ok": 12,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-29",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-18",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-20",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "mill-creek-wa-pd-",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 8,
+      "series": [
+        {
+          "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-18",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-20",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "monroe-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 37,
+      "series": [
+        {
+          "date": "2026-06-25",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-27",
+          "checks": 13,
+          "ok": 13,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-28",
+          "checks": 12,
+          "ok": 12,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-29",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-18",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-20",
           "checks": 2,
           "ok": 1,
           "error": 1,
@@ -8409,8 +8430,8 @@
         },
         {
           "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -8420,7 +8441,58 @@
       "slug": "montesano-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 9,
+      "series": [
+        {
+          "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-18",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-20",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "montesano-wa-pd-",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
       "checks_recorded": 8,
       "series": [
         {
@@ -8452,60 +8524,9 @@
           "blocked": 0
         },
         {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
           "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "montesano-wa-pd-",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 7,
-      "series": [
-        {
-          "date": "2026-10-14",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-18",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-20",
           "checks": 2,
           "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
           "error": 0,
           "blocked": 0
         }
@@ -8515,79 +8536,7 @@
       "slug": "moses-lake-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 35,
-      "series": [
-        {
-          "date": "2026-06-25",
-          "checks": 1,
-          "ok": 0,
-          "error": 1,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-27",
-          "checks": 13,
-          "ok": 13,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-28",
-          "checks": 12,
-          "ok": 12,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-29",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-14",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-18",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-20",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "mount-vernon-wa-pd",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
       "checks_recorded": 36,
       "series": [
         {
@@ -8626,6 +8575,78 @@
           "blocked": 0
         },
         {
+          "date": "2026-10-18",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-20",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "mount-vernon-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 37,
+      "series": [
+        {
+          "date": "2026-06-25",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-27",
+          "checks": 13,
+          "ok": 13,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-28",
+          "checks": 12,
+          "ok": 12,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-29",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
           "date": "2026-10-15",
           "checks": 1,
           "ok": 0,
@@ -8655,8 +8676,8 @@
         },
         {
           "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -8666,8 +8687,8 @@
       "slug": "mountlake-terrace-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 7,
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 8,
       "series": [
         {
           "date": "2026-10-14",
@@ -8706,8 +8727,8 @@
         },
         {
           "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
@@ -8717,8 +8738,8 @@
       "slug": "moxee-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-23T01:01:55.931257+00:00",
-      "checks_recorded": 7,
+      "last_checked": "2026-10-23T23:34:25.928042+00:00",
+      "checks_recorded": 8,
       "series": [
         {
           "date": "2026-10-14",
@@ -8757,8 +8778,8 @@
         },
         {
           "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         }
