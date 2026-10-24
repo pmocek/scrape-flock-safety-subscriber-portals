@@ -1,4 +1,7 @@
 id,userId,searchDate,networkCount,reason,caseNumber,offenseType
+50c7344d-77d8-4d4f-acbc-bb59e108a6d7,***,2026-10-23T17:08:37.848Z,1,ATL Missing Person,2026-01086,Missing/Endangered Person/Runaway
+2ef09ed5-e653-4c55-8e43-fead49848533,***,2026-10-23T17:08:16.973Z,1,ATL,2026-01086,Missing/Endangered Person/Runaway
+faa35cba-2cfe-4146-a2a7-5d35dcff1df5,***,2026-10-23T13:59:33.531Z,1,ATL suspect vehicle,2026-01072,Hit and Run/Car Accident
 bab2bc29-fdcf-4987-a0fc-7661e4e67bf6,***,2026-10-12T14:54:35.665Z,1,ATL stolen vehicle,2026-01016,Motor Vehicle Theft/Stolen
 99cab6ee-818d-4d9d-aa8e-af5d08a985df,***,2026-10-09T19:14:52.523Z,1,ATL SUSPECT,2026-00986,Burglary/Breaking & Entering
 d92d9195-a656-4431-adcc-31105c48cfae,***,2026-10-09T17:01:56.703Z,1,ATTEMPT TO IDENTIFY SUSPECT,2026-00986,Burglary/Breaking & Entering
