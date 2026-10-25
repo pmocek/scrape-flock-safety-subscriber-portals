@@ -2,11 +2,11 @@
   "agencies_monitored": 225,
   "agencies_in_inventory": 981,
   "agencies_unchecked": 756,
-  "ok": 220,
+  "ok": 219,
   "blocked": 0,
-  "error": 5,
+  "error": 6,
   "first_check": "2026-06-25T19:38:03.746729+00:00",
-  "last_check": "2026-10-24T21:59:19.158646+00:00",
+  "last_check": "2026-10-25T00:35:35.477435+00:00",
   "daily": [
     {
       "date": "2026-06-25",
@@ -125,6 +125,13 @@
       "checks": 180,
       "ok": 174,
       "error": 6,
+      "blocked": 0
+    },
+    {
+      "date": "2026-10-25",
+      "checks": 30,
+      "ok": 29,
+      "error": 1,
       "blocked": 0
     }
   ],
@@ -13175,111 +13182,9 @@
     },
     {
       "slug": "toppenish-wa-pd",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-24T16:17:13.904588+00:00",
-      "checks_recorded": 32,
-      "series": [
-        {
-          "date": "2026-06-25",
-          "checks": 1,
-          "ok": 0,
-          "error": 1,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-27",
-          "checks": 13,
-          "ok": 13,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-28",
-          "checks": 12,
-          "ok": 12,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-29",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-16",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-19",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-24",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "toppenish-wa-pd-",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-24T16:17:13.904588+00:00",
-      "checks_recorded": 4,
-      "series": [
-        {
-          "date": "2026-10-16",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-19",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-24",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "tukwila-wa-pd",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-24T16:17:13.904588+00:00",
+      "status": "error",
+      "detail": "http_403",
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
       "checks_recorded": 33,
       "series": [
         {
@@ -13318,6 +13223,122 @@
           "blocked": 0
         },
         {
+          "date": "2026-10-19",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "toppenish-wa-pd-",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 5,
+      "series": [
+        {
+          "date": "2026-10-16",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-19",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "tukwila-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 34,
+      "series": [
+        {
+          "date": "2026-06-25",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-27",
+          "checks": 13,
+          "ok": 13,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-28",
+          "checks": 12,
+          "ok": 12,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-29",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-16",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
           "date": "2026-10-18",
           "checks": 1,
           "ok": 0,
@@ -13340,6 +13361,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -13351,8 +13379,8 @@
       "slug": "tukwila-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T16:17:13.904588+00:00",
-      "checks_recorded": 6,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 7,
       "series": [
         {
           "date": "2026-10-16",
@@ -13388,6 +13416,13 @@
           "ok": 1,
           "error": 1,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -13395,8 +13430,8 @@
       "slug": "tuscany-homeowners-association-county-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T16:17:13.904588+00:00",
-      "checks_recorded": 6,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 7,
       "series": [
         {
           "date": "2026-10-16",
@@ -13430,6 +13465,13 @@
           "date": "2026-10-24",
           "checks": 2,
           "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
           "error": 0,
           "blocked": 0
         }
@@ -13439,8 +13481,8 @@
       "slug": "tuscany-homeowners-association-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T16:17:13.904588+00:00",
-      "checks_recorded": 6,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 7,
       "series": [
         {
           "date": "2026-10-16",
@@ -13476,6 +13518,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -13483,8 +13532,8 @@
       "slug": "union-gap-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T16:17:13.904588+00:00",
-      "checks_recorded": 7,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 8,
       "series": [
         {
           "date": "2026-10-13",
@@ -13527,6 +13576,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -13534,8 +13590,8 @@
       "slug": "united-states-postal-service-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T16:17:13.904588+00:00",
-      "checks_recorded": 7,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 8,
       "series": [
         {
           "date": "2026-10-13",
@@ -13576,6 +13632,13 @@
           "date": "2026-10-24",
           "checks": 2,
           "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
           "error": 0,
           "blocked": 0
         }
@@ -13585,8 +13648,8 @@
       "slug": "united-states-postal-service-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T16:17:13.904588+00:00",
-      "checks_recorded": 7,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 8,
       "series": [
         {
           "date": "2026-10-13",
@@ -13629,6 +13692,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -13636,8 +13706,8 @@
       "slug": "valley-medical-center-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T16:17:13.904588+00:00",
-      "checks_recorded": 6,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 7,
       "series": [
         {
           "date": "2026-10-13",
@@ -13673,6 +13743,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -13680,8 +13757,8 @@
       "slug": "valley-medical-center-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T16:17:13.904588+00:00",
-      "checks_recorded": 7,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 8,
       "series": [
         {
           "date": "2026-10-13",
@@ -13717,6 +13794,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -13724,8 +13808,8 @@
       "slug": "walla-walla-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
-      "checks_recorded": 35,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 36,
       "series": [
         {
           "date": "2026-06-25",
@@ -13796,6 +13880,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -13803,58 +13894,7 @@
       "slug": "walla-walla-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
-      "checks_recorded": 7,
-      "series": [
-        {
-          "date": "2026-10-13",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-15",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-16",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-18",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-19",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-24",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "walla-walla-wa-so",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
       "checks_recorded": 8,
       "series": [
         {
@@ -13879,6 +13919,64 @@
           "blocked": 0
         },
         {
+          "date": "2026-10-18",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-19",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "walla-walla-wa-so",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 9,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-16",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
           "date": "2026-10-17",
           "checks": 1,
           "ok": 0,
@@ -13901,6 +13999,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -13912,8 +14017,8 @@
       "slug": "wapato-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
-      "checks_recorded": 9,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 10,
       "series": [
         {
           "date": "2026-10-13",
@@ -13966,6 +14071,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -13977,8 +14089,8 @@
       "slug": "wapato-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
-      "checks_recorded": 10,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 11,
       "series": [
         {
           "date": "2026-10-13",
@@ -14038,6 +14150,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -14049,8 +14168,8 @@
       "slug": "warden-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
-      "checks_recorded": 11,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 12,
       "series": [
         {
           "date": "2026-10-13",
@@ -14110,6 +14229,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -14121,8 +14247,8 @@
       "slug": "washington-state-patrol-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
-      "checks_recorded": 11,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 12,
       "series": [
         {
           "date": "2026-10-13",
@@ -14186,6 +14312,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -14193,8 +14326,8 @@
       "slug": "washington-state-patrol-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
-      "checks_recorded": 10,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 11,
       "series": [
         {
           "date": "2026-10-13",
@@ -14247,6 +14380,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -14258,8 +14398,8 @@
       "slug": "wenatchee-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
-      "checks_recorded": 10,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 11,
       "series": [
         {
           "date": "2026-10-13",
@@ -14312,6 +14452,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -14323,8 +14470,8 @@
       "slug": "wenatchee-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
-      "checks_recorded": 10,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 11,
       "series": [
         {
           "date": "2026-10-13",
@@ -14377,6 +14524,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -14388,8 +14542,8 @@
       "slug": "west-richland-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
-      "checks_recorded": 11,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 12,
       "series": [
         {
           "date": "2026-10-13",
@@ -14442,6 +14596,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -14453,8 +14614,8 @@
       "slug": "west-richland-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
-      "checks_recorded": 11,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 12,
       "series": [
         {
           "date": "2026-10-13",
@@ -14507,6 +14668,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -14518,8 +14686,8 @@
       "slug": "westport-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
-      "checks_recorded": 12,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 13,
       "series": [
         {
           "date": "2026-10-13",
@@ -14579,6 +14747,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -14590,8 +14765,8 @@
       "slug": "wsu-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
-      "checks_recorded": 12,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 13,
       "series": [
         {
           "date": "2026-10-13",
@@ -14651,6 +14826,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -14662,8 +14844,8 @@
       "slug": "wsu-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
-      "checks_recorded": 13,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 14,
       "series": [
         {
           "date": "2026-10-13",
@@ -14730,6 +14912,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -14741,8 +14930,8 @@
       "slug": "yakima-county-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
-      "checks_recorded": 13,
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 14,
       "series": [
         {
           "date": "2026-10-13",
@@ -14813,6 +15002,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -14820,179 +15016,7 @@
       "slug": "yakima-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
-      "checks_recorded": 40,
-      "series": [
-        {
-          "date": "2026-06-25",
-          "checks": 1,
-          "ok": 0,
-          "error": 1,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-27",
-          "checks": 13,
-          "ok": 13,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-28",
-          "checks": 12,
-          "ok": 12,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-29",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-13",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-14",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-15",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-17",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-18",
-          "checks": 3,
-          "ok": 3,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-20",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-24",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "yakima-wa-so",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
-      "checks_recorded": 12,
-      "series": [
-        {
-          "date": "2026-10-13",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-14",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-15",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-17",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-18",
-          "checks": 3,
-          "ok": 3,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-20",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-24",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "yelm-wa-pd",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-24T02:01:32.619289+00:00",
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
       "checks_recorded": 41,
       "series": [
         {
@@ -15059,6 +15083,192 @@
           "blocked": 0
         },
         {
+          "date": "2026-10-20",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "yakima-wa-so",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 13,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-17",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-18",
+          "checks": 3,
+          "ok": 3,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-20",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "yelm-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-25T00:35:35.477435+00:00",
+      "checks_recorded": 42,
+      "series": [
+        {
+          "date": "2026-06-25",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-27",
+          "checks": 13,
+          "ok": 13,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-28",
+          "checks": 12,
+          "ok": 12,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-29",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-17",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-18",
+          "checks": 3,
+          "ok": 3,
+          "error": 0,
+          "blocked": 0
+        },
+        {
           "date": "2026-10-19",
           "checks": 1,
           "ok": 0,
@@ -15088,6 +15298,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
