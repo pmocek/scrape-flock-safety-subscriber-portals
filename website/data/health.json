@@ -2,11 +2,11 @@
   "agencies_monitored": 225,
   "agencies_in_inventory": 981,
   "agencies_unchecked": 756,
-  "ok": 219,
+  "ok": 218,
   "blocked": 0,
-  "error": 6,
+  "error": 7,
   "first_check": "2026-06-25T19:38:03.746729+00:00",
-  "last_check": "2026-10-25T05:23:32.947077+00:00",
+  "last_check": "2026-10-25T10:11:37.694010+00:00",
   "daily": [
     {
       "date": "2026-06-25",
@@ -129,9 +129,9 @@
     },
     {
       "date": "2026-10-25",
-      "checks": 60,
-      "ok": 59,
-      "error": 1,
+      "checks": 90,
+      "ok": 88,
+      "error": 2,
       "blocked": 0
     }
   ],
@@ -3549,9 +3549,102 @@
     },
     {
       "slug": "city-of-richland-wa-pd",
+      "status": "error",
+      "detail": "http_403",
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 13,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-14",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-17",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-18",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-19",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-20",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "city-of-seatac-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
       "checks_recorded": 12,
       "series": [
         {
@@ -3612,92 +3705,6 @@
         },
         {
           "date": "2026-10-22",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-24",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "city-of-seatac-wa-pd",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 11,
-      "series": [
-        {
-          "date": "2026-10-13",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-14",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-15",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-17",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-18",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-19",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-20",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -3712,6 +3719,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -3723,8 +3737,8 @@
       "slug": "city-of-shelton-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 11,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 12,
       "series": [
         {
           "date": "2026-10-13",
@@ -3798,6 +3812,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -3809,8 +3830,8 @@
       "slug": "city-of-sumner-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 11,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 12,
       "series": [
         {
           "date": "2026-10-13",
@@ -3881,6 +3902,13 @@
           "ok": 1,
           "error": 1,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -3888,8 +3916,8 @@
       "slug": "city-of-sunnyside-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 11,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 12,
       "series": [
         {
           "date": "2026-10-13",
@@ -3958,6 +3986,13 @@
           "date": "2026-10-24",
           "checks": 2,
           "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
           "error": 0,
           "blocked": 0
         }
@@ -3967,8 +4002,8 @@
       "slug": "city-of-toppenish-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 10,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 11,
       "series": [
         {
           "date": "2026-10-13",
@@ -4032,6 +4067,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -4039,8 +4081,8 @@
       "slug": "city-of-tukwila-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 9,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 10,
       "series": [
         {
           "date": "2026-10-13",
@@ -4097,6 +4139,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -4104,8 +4153,8 @@
       "slug": "city-of-walla-walla-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 10,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 11,
       "series": [
         {
           "date": "2026-10-13",
@@ -4162,6 +4211,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -4169,7 +4225,86 @@
       "slug": "city-of-wapato-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 12,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-16",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-18",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-19",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-20",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-24",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "city-of-wenatchee-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
       "checks_recorded": 11,
       "series": [
         {
@@ -4182,78 +4317,6 @@
         {
           "date": "2026-10-16",
           "checks": 1,
-          "ok": 0,
-          "error": 1,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-18",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-19",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-20",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-24",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "city-of-wenatchee-wa-pd",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 10,
-      "series": [
-        {
-          "date": "2026-10-13",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-16",
-          "checks": 1,
           "ok": 1,
           "error": 0,
           "blocked": 0
@@ -4297,6 +4360,13 @@
           "date": "2026-10-24",
           "checks": 2,
           "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
           "error": 0,
           "blocked": 0
         }
@@ -4306,8 +4376,8 @@
       "slug": "city-of-west-richland-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 10,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 11,
       "series": [
         {
           "date": "2026-10-13",
@@ -4362,6 +4432,13 @@
           "date": "2026-10-24",
           "checks": 2,
           "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
           "error": 0,
           "blocked": 0
         }
@@ -4371,8 +4448,8 @@
       "slug": "clark-county-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 10,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 11,
       "series": [
         {
           "date": "2026-10-13",
@@ -4429,6 +4506,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -4436,8 +4520,8 @@
       "slug": "cle-elum-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 9,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 10,
       "series": [
         {
           "date": "2026-10-13",
@@ -4485,6 +4569,13 @@
           "date": "2026-10-24",
           "checks": 2,
           "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
           "error": 0,
           "blocked": 0
         }
@@ -4494,8 +4585,8 @@
       "slug": "clyde-hill-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 9,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 10,
       "series": [
         {
           "date": "2026-10-13",
@@ -4543,6 +4634,13 @@
           "date": "2026-10-24",
           "checks": 2,
           "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
           "error": 0,
           "blocked": 0
         }
@@ -4552,8 +4650,8 @@
       "slug": "college-place-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 38,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 39,
       "series": [
         {
           "date": "2026-06-25",
@@ -4636,6 +4734,13 @@
           "date": "2026-10-24",
           "checks": 2,
           "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
           "error": 0,
           "blocked": 0
         }
@@ -4645,8 +4750,8 @@
       "slug": "colville-wa-tribal-police",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 9,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 10,
       "series": [
         {
           "date": "2026-10-13",
@@ -4701,6 +4806,13 @@
           "date": "2026-10-24",
           "checks": 2,
           "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
           "error": 0,
           "blocked": 0
         }
@@ -4710,8 +4822,8 @@
       "slug": "cosmopolis-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 10,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 11,
       "series": [
         {
           "date": "2026-10-13",
@@ -4775,6 +4887,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -4782,7 +4901,86 @@
       "slug": "coulee-dam-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 11,
+      "series": [
+        {
+          "date": "2026-10-13",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-14",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-15",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-16",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-17",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-18",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-19",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-20",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-24",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "covington-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
       "checks_recorded": 10,
       "series": [
         {
@@ -4795,78 +4993,6 @@
         {
           "date": "2026-10-14",
           "checks": 1,
-          "ok": 0,
-          "error": 1,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-15",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-16",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-17",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-18",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-19",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-20",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-24",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "covington-wa-pd",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 9,
-      "series": [
-        {
-          "date": "2026-10-13",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-14",
-          "checks": 1,
           "ok": 1,
           "error": 0,
           "blocked": 0
@@ -4910,6 +5036,13 @@
           "date": "2026-10-24",
           "checks": 2,
           "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
           "error": 0,
           "blocked": 0
         }
@@ -4919,8 +5052,8 @@
       "slug": "covington-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 9,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 10,
       "series": [
         {
           "date": "2026-10-13",
@@ -4977,6 +5110,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -4984,8 +5124,8 @@
       "slug": "cylde-hill-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 8,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 9,
       "series": [
         {
           "date": "2026-10-14",
@@ -5035,6 +5175,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -5042,8 +5189,8 @@
       "slug": "cylde-hill-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T19:05:03.685471+00:00",
-      "checks_recorded": 9,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 10,
       "series": [
         {
           "date": "2026-10-14",
@@ -5100,6 +5247,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -5107,8 +5261,8 @@
       "slug": "des-moines-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T12:14:54.963313+00:00",
-      "checks_recorded": 36,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 37,
       "series": [
         {
           "date": "2026-06-25",
@@ -5189,6 +5343,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -5200,8 +5361,8 @@
       "slug": "des-moines-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T12:14:54.963313+00:00",
-      "checks_recorded": 8,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 9,
       "series": [
         {
           "date": "2026-10-14",
@@ -5258,6 +5419,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -5265,8 +5433,8 @@
       "slug": "des-moines-wa-pd-wa",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T12:14:54.963313+00:00",
-      "checks_recorded": 7,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 8,
       "series": [
         {
           "date": "2026-10-14",
@@ -5312,6 +5480,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -5323,8 +5498,8 @@
       "slug": "des-moines-wa-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T12:14:54.963313+00:00",
-      "checks_recorded": 7,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 8,
       "series": [
         {
           "date": "2026-10-14",
@@ -5370,6 +5545,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -5381,8 +5563,8 @@
       "slug": "des-moines-wa-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T12:14:54.963313+00:00",
-      "checks_recorded": 7,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 8,
       "series": [
         {
           "date": "2026-10-14",
@@ -5428,6 +5610,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -5439,8 +5628,8 @@
       "slug": "douglas-county-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T12:14:54.963313+00:00",
-      "checks_recorded": 7,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 8,
       "series": [
         {
           "date": "2026-10-14",
@@ -5490,6 +5679,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -5497,8 +5693,8 @@
       "slug": "dupont-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T12:14:54.963313+00:00",
-      "checks_recorded": 8,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 9,
       "series": [
         {
           "date": "2026-10-13",
@@ -5555,6 +5751,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -5562,8 +5765,8 @@
       "slug": "east-wenatchee-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-10-24T12:14:54.963313+00:00",
-      "checks_recorded": 8,
+      "last_checked": "2026-10-25T10:11:37.694010+00:00",
+      "checks_recorded": 9,
       "series": [
         {
           "date": "2026-10-13",
@@ -5616,6 +5819,13 @@
         },
         {
           "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 1,
           "ok": 1,
           "error": 0,
