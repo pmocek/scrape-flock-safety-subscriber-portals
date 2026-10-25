@@ -1,4 +1,12 @@
 id,userId,searchDate,networkCount,reason,offenseType
+80f47da8-db67-43c4-bd9e-7d233fef52f6,***,2026-10-23T21:21:29.976Z,1,stolen car,Motor Vehicle Theft/Stolen
+2c04f66d-205b-4c99-b623-c3778ead0a21,***,2026-10-23T17:51:11.117Z,194,narcotics,Drugs/Narcotics
+76e6c479-d79d-4469-a082-115e866e293f,***,2026-10-23T13:31:13.155Z,1,id theft suspect,Motor Vehicle Theft/Stolen
+850b4193-6a24-4f12-a970-557ef905d850,***,2026-10-23T02:20:35.760Z,193,theft,Larceny/Theft Offenses
+4b0c572a-4894-47b2-82c1-ebfde1feccf7,***,2026-10-22T19:00:33.494Z,168,Suspect warrant,Wanted Person (Arrest Warrant/Fugitive)
+5af27f38-bbfa-4263-8b4c-5c3f810556a2,***,2026-10-22T18:35:32.801Z,195,warrant,Driving Under the Influence (DUI/DWI/OWI/OVI)
+1933aedb-f2e7-4083-86cd-3cde61ff6f46,***,2026-10-22T16:47:14.823Z,196,Warrant,Assault/Battery Offenses
+91464a03-5a62-4abd-af56-dc687c5eef80,***,2026-10-21T16:30:19.853Z,39,Suspect vehicle,Sex Offenses
 0eaaff2b-ed11-4d9a-9dd4-08d0fdec3e95,***,2026-10-20T21:27:33.128Z,1,ID suspect,Weapons Offense (Guns/Shots Fired)
 bb1199d1-3680-4433-bd0b-baa0a7ea4f90,***,2026-10-19T01:09:03.211Z,1,theft,Larceny/Theft Offenses
 27046279-a6c7-47d8-895c-719c01d2f624,***,2026-10-17T16:04:13.706Z,1,Identify theft susp,Criminal Motor Vehicle Offense (incl. Road Rage/Reckless)
