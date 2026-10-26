@@ -6,7 +6,7 @@ Visit Flock
 Stamping Ground KY PD
 Transparency Portal
 
-Last updated: Sat Oct 24 2026
+Last updated: Mon Oct 26 2026
 
 Overview
 
@@ -87,7 +87,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-14,900
+15,137
 
 Number of Searches
 
