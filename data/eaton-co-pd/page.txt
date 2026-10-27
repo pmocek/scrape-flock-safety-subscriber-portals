@@ -5,7 +5,7 @@ Visit Flock
 Eaton CO PD
 Transparency Portal
 
-Last updated: Sun Oct 25 2026
+Last updated: Mon Oct 26 2026
 
 Overview
 
@@ -60,11 +60,11 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-298 alerts
+297 alerts
 Colorado Crime Information Center (CCIC) - Misdemeanor
-103
+99
 NCIC - Sex Offender
-84
+87
 Colorado Crime Information Center (CCIC) - Stolen Plate
 53
 Colorado Crime Information Center (CCIC) - Stolen Vehicle
@@ -104,7 +104,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-96,655
+95,259
 
 Number of Searches
 
@@ -122,7 +122,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-496
+493
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
