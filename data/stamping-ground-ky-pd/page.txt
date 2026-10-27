@@ -6,7 +6,7 @@ Visit Flock
 Stamping Ground KY PD
 Transparency Portal
 
-Last updated: Mon Oct 26 2026
+Last updated: Tue Oct 27 2026
 
 Overview
 
@@ -87,7 +87,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-15,137
+14,907
 
 Number of Searches
 
@@ -323,7 +323,6 @@ Adairville KY PD
 Adams County IN SO
 Adrian MI PD
 Ahoskie NC PD
-Akron OH PD
 AL - Gadsden PD
 AL - Jacksonville State University Campus PD
 AL - Sylacauga PD
@@ -351,7 +350,6 @@ Arnold MO PD
 Ash Grove MO PD
 Ashland KY PD
 Athens County OH SO
-Athens IL PD
 Atlanta GA PD
 Auburn GA PD
 Audrain County MO SO
@@ -799,7 +797,6 @@ Madison County IN SO
 Madison Heights MI PD
 Madisonville KY PD
 Madisonville TN PD
-Maiden NC PD
 Manchester TN PD
 Maple Heights OH PD
 Marion AR PD
