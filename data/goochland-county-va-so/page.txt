@@ -5,7 +5,7 @@ Visit Flock
 Goochland County VA SO
 Transparency Portal
 
-Last updated: Wed Oct 21 2026
+Last updated: Mon Oct 26 2026
 
 Overview
 
@@ -48,7 +48,7 @@ Hotlists Alerted On
 
 National and statewide hotlist sources.
 
-NCMEC Amber Alert, NCIC - VSP, NCIC - SLED
+NCIC - SLED, NCIC - VSP, NCMEC Amber Alert
 
 Number of Hotlist Hits
 
