@@ -5,7 +5,7 @@ Visit Flock
 El Cajon CA PD
 Transparency Portal
 
-Last updated: Fri Oct 23 2026
+Last updated: Mon Oct 26 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-784,102
+776,414
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-338
+313
 
 Hotlists Alerted On
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-9,354
+9,233
 
 Sharing Network Data With
 
@@ -212,7 +212,6 @@ City of West Hollywood CA (LASD)
 Claremont CA PD
 Clarksville IN PD
 Clarksville VA PD
-Clayton CA PD
 Clearlake CA PD
 Cleveland OH Division of Police
 Clinton Township NJ PD
