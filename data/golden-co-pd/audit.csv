@@ -1,4 +1,6 @@
 id,userId,searchDate,networkCount,reason,offenseType
+a1b7cff8-c8de-4341-b1d5-ec8508d647d9,***,2026-10-26T06:44:06.708Z,167,Stolen Plate,Motor Vehicle Theft/Stolen
+6e6251ad-4dfd-4241-9ff1-96b085c6d6df,***,2026-10-26T03:26:45.168Z,1,hit and run accident,Hit and Run/Car Accident
 80f47da8-db67-43c4-bd9e-7d233fef52f6,***,2026-10-23T21:21:29.976Z,1,stolen car,Motor Vehicle Theft/Stolen
 2c04f66d-205b-4c99-b623-c3778ead0a21,***,2026-10-23T17:51:11.117Z,194,narcotics,Drugs/Narcotics
 76e6c479-d79d-4469-a082-115e866e293f,***,2026-10-23T13:31:13.155Z,1,id theft suspect,Motor Vehicle Theft/Stolen

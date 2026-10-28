@@ -5,7 +5,7 @@ Visit Flock
 Golf Manor OH PD
 Transparency Portal
 
-Last updated: Sat Oct 24 2026
+Last updated: Tue Oct 27 2026
 
 Overview
 
@@ -58,11 +58,13 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-298 alerts
+315 alerts
 NCIC - Protection Order
-287
+300
 NCIC - Sex Offender
 10
+NCIC - Warrants
+4
 NCIC - Stolen Vehicle
 1
 
@@ -88,13 +90,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-31,481
+31,294
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-3
+2
 
 Hotlists Alerted On
 
@@ -106,14 +108,13 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-413
+434
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Obstructing the Police (Fleeing/Eluding)
 Missing/Endangered Person/Runaway
-Motor Vehicle Theft/Stolen
 
 Sharing Network Data With
 
@@ -481,7 +482,6 @@ Clinton SC PD
 Clinton TN PD
 Clinton Township MI PD
 Clinton Township OH PD
-Clintwood VA PD
 Clive IA PD
 Clover SC PD
 Clovis NM PD
@@ -1348,7 +1348,6 @@ McCracken County KY SO
 McDonald OH PD
 McDonough County IL SO
 McDonough GA PD
-McDowell County NC SO
 McKinney TX PD
 Mclean County IL SO
 McMinnville TN PD
@@ -2452,7 +2451,6 @@ Ashland OH PD
 Ashtabula County OH SO
 Ashville AL PD
 Athens County OH SO
-Athens IL PD
 Athens OH PD
 Atlanta GA PD
 Auburn AL PD
@@ -3208,7 +3206,6 @@ Lake County OH SO
 Lake Delton WI PD
 Lakeland FL PD
 Lakemore OH PD
-Lakeside Park-Crestview Hills KY PD
 Lakewood OH PD
 Lamar County GA SO
 Lancaster KY PD
@@ -3314,7 +3311,6 @@ Madisonville KY PD
 Madisonville TN PD
 Maggie Valley NC PD
 Mahoning Twp PA PD
-Maiden NC PD
 Manchester MO PD
 Manchester TN PD
 Mansfield OH PD
@@ -3357,7 +3353,6 @@ McCaysville GA PD
 McCracken County KY SO
 McDonough County IL SO
 McDonough GA PD
-McDowell County NC SO
 McIntosh County GA SO
 McKinney TX PD
 McMinnville TN PD
@@ -3389,7 +3384,6 @@ Middlebury IN PD
 Midlothian IL PD
 Milan MI PD
 Milan TN PD
-Milford MI PD
 Milltown IN PD
 Milton IN PD
 Mineral Area Drug Task Force MO
