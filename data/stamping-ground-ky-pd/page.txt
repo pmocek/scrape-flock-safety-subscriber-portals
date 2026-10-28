@@ -6,7 +6,7 @@ Visit Flock
 Stamping Ground KY PD
 Transparency Portal
 
-Last updated: Tue Oct 27 2026
+Last updated: Wed Oct 28 2026
 
 Overview
 
@@ -87,7 +87,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-14,907
+14,881
 
 Number of Searches
 
@@ -837,7 +837,6 @@ Middletown KY PD
 Midlothian IL PD
 Milan MI PD
 Milan TN PD
-Milford MI PD
 Milltown IN PD
 Mineral Area Drug Task Force MO
 Mint Hill NC PD
