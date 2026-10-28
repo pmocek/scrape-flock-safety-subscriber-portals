@@ -1,4 +1,8 @@
 id,userId,searchDate,networkCount,reason
+cb502523-c908-4e5f-87e8-a26cd94e0f90,***,2026-10-27T22:02:32.864Z,7,Investigation
+a5a31f0a-16bc-4c29-9ded-26a48408619c,***,2026-10-27T21:58:18.692Z,7,Investigation
+35692e98-6438-45ed-b495-0cba5162a4d7,***,2026-10-26T18:09:28.567Z,1,investigations
+a328c82a-eab8-43dc-a562-d6ff183f7943,***,2026-10-26T01:30:08.419Z,1,Investigation
 44ea5e48-48ed-4b4c-a266-df4074687cd2,***,2026-10-24T19:56:19.173Z,7,Stolen vehicle
 536117f3-d3eb-445e-b68d-3127911ccdb3,***,2026-10-23T05:01:04.546Z,7,suspect vehicle
 86efb846-5d15-4df9-b1d3-5eb366e22217,***,2026-10-23T04:13:06.698Z,1,suspect vehicle
