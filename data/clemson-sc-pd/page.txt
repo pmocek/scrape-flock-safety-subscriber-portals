@@ -5,7 +5,7 @@ Visit Flock
 Clemson SC PD
 Transparency Portal
 
-Last updated: Tue Oct 27 2026
+Last updated: Thu Oct 29 2026
 
 Overview
 
@@ -36,7 +36,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-11
+9
 
 Hotlists Alerted On
 
@@ -48,13 +48,13 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-263
+260
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Larceny/Theft Offenses
 Hit and Run/Car Accident
+Larceny/Theft Offenses
 Stolen Property Offenses
 Financial Crime (Embezzlement/Fraud)
 Assault/Battery Offenses
