@@ -6,7 +6,7 @@ Visit Flock
 Brawley CA PD
 Transparency Portal
 
-Last updated: Mon Oct 12 2026
+Last updated: Thu Oct 29 2026
 
 Overview
 
@@ -31,13 +31,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-120,586
+120,695
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-144
+248
 
 Hotlists Alerted On
 
@@ -49,7 +49,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6,443
+6,558
 
 Sharing Network Data With
 
@@ -99,7 +99,6 @@ Campbell CA PD
 Capitola CA PD
 Carmel CA PD
 Cathedral City CA PD
-Central Marin CA PD
 Cerritos College CA PD
 Chino CA PD
 Chula Vista CA PD
@@ -107,12 +106,18 @@ Citrus Heights CA PD
 City of Agoura Hills CA (LASD)
 City of Commerce CA (LASD)
 City of Compton CA (LASD)
+City of Diamond Bar CA (LASD)
+City of Duarte CA (LASD)
 City of Lemoore CA
+City of Palmdale CA (LASD)
+City of Pico Rivera CA (LASD)
 City of Riverside CA PD
+City of Rosemead CA (LASD)
 City of Santa Clarita CA (LASD)
+City of South El Monte CA (LASD)
+City of Walnut CA (LASD)
 City of West Hollywood CA (LASD)
 Claremont CA PD
-Clayton CA PD
 Clearlake CA PD
 Cloverdale CA PD
 Colma CA PD
