@@ -6,7 +6,7 @@ Visit Flock
 Stamping Ground KY PD
 Transparency Portal
 
-Last updated: Wed Oct 28 2026
+Last updated: Fri Oct 30 2026
 
 Overview
 
@@ -87,7 +87,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-14,881
+14,877
 
 Number of Searches
 
@@ -873,7 +873,6 @@ Mount Vernon IN PD
 Mount Vernon OH PD
 Mountain Brook AL PD
 Mountain City TN PD
-MS - Itawamba Community College Campus PD
 MS - Philadelphia PD
 Mt. Washington KY PD
 Mt. Zion IL PD
@@ -926,7 +925,6 @@ OH - Oakwood PD
 OH - Willard PD
 OH- Springfield Township PD (Hamilton Co)
 Ohio Attorney General's Office - OOCIC
-Ohio State Fire Marshal
 Oldham County KY PD
 Oolitic Marshal’s Office
 Orange County FL SO
