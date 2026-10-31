@@ -1,4 +1,6 @@
 id,userId,searchDate,networkCount,reason
+d8466d4c-6645-4397-b31f-b428bec99e7b,***,2026-10-30T23:01:40.420Z,1,id veh
+df15d74d-d974-4325-a699-1123177eccea,***,2026-10-30T22:59:52.090Z,1,id veh
 bb7703e7-1c04-44fa-972c-94e16ff27edb,***,2026-10-29T00:01:47.033Z,1,Searching
 e740557c-6203-43d7-8896-840883c4d33b,***,2026-10-28T03:32:00.556Z,1,searching
 b01416a9-cfa9-4d8f-80aa-048e75ccc066,***,2026-10-28T00:51:04.383Z,0,searching
