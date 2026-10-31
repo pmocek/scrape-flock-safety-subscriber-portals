@@ -5,7 +5,7 @@ Visit Flock
 Golf Manor OH PD
 Transparency Portal
 
-Last updated: Wed Oct 28 2026
+Last updated: Fri Oct 30 2026
 
 Overview
 
@@ -58,11 +58,11 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-317 alerts
+322 alerts
 NCIC - Protection Order
-301
+307
 NCIC - Sex Offender
-11
+10
 NCIC - Warrants
 4
 NCIC - Stolen Vehicle
@@ -90,13 +90,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-31,389
+31,353
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-2
+4
 
 Hotlists Alerted On
 
@@ -108,11 +108,12 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-446
+476
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
+Homicide/Death Investigation
 Obstructing the Police (Fleeing/Eluding)
 Missing/Endangered Person/Runaway
 
@@ -1479,7 +1480,6 @@ Mountain Bay Metro WI PD
 Mountain Brook AL PD
 Mountain City TN PD
 Mountain Home AR PD
-MS - Itawamba Community College Campus PD
 MS - Raymond PD
 MS - Senatobia PD
 MSD Wayne Township IN PD
@@ -2285,7 +2285,6 @@ West Chicago IL PD
 West City IL PD
 West Deptford NJ PD
 West Hazleton PA PD
-West Homestead PA PD [Inactive]
 West Lafayette IN PD
 West Mifflin PA PD
 West Milton OH PD
@@ -3112,7 +3111,6 @@ Iberville Parish LA SO
 Illinois Attorney General
 IN - Angola PD
 IN - Aurora PD
-IN - Jasonville PD
 IN - Noble County Prosecutors
 Independence OH PD
 Indian Hill OH PD
@@ -3204,6 +3202,7 @@ Lake County OH SO
 Lake Delton WI PD
 Lakeland FL PD
 Lakemore OH PD
+Lakeway TX PD
 Lakewood OH PD
 Lamar County GA SO
 Lancaster KY PD
@@ -3450,7 +3449,6 @@ Mountain Brook AL PD
 Mountain City TN PD
 Mountain Home AR PD
 Mountain View AR PD
-MS - Itawamba Community College Campus PD
 MS - Senatobia PD
 Mt. Zion IL PD
 Muncie IN PD

@@ -1,4 +1,15 @@
 id,userId,searchDate,networkCount,reason,offenseType
+5b025304-da64-4c24-862d-a7920a43bf4e,***,2026-10-29T18:06:04.982Z,165,Suspect warrant,Wanted Person (Arrest Warrant/Fugitive)
+9f33e69e-196c-4969-876a-4ab498debcc1,***,2026-10-29T07:16:21.848Z,164,ATL,Assault/Battery Offenses (Domestic)
+79d69998-632b-4672-8e22-5b4edef98859,***,2026-10-29T05:02:25.099Z,164,ATL,Assault/Battery Offenses (Domestic)
+71829c24-e8a9-46aa-97d0-bd7e0c351a36,***,2026-10-29T01:54:55.619Z,1,theft,Larceny/Theft Offenses
+0f8d926f-c970-423b-822a-8775d53b690e,***,2026-10-28T20:41:02.588Z,165,narcotics,Drugs/Narcotics
+54c8c9b6-1bd1-49ab-bc2b-bfe0df46f42c,***,2026-10-28T14:53:56.471Z,193,id suspect,Wanted Person (Arrest Warrant/Fugitive)
+85f1d9d8-5062-42d3-936b-2f61f44c9b84,***,2026-10-28T13:55:12.764Z,191,ATL,Assault/Battery Offenses (Domestic)
+e5a72bba-793b-457c-968c-8909c610b7dd,***,2026-10-28T09:10:20.870Z,164,ATL,Assault/Battery Offenses (Domestic)
+d9b6cf12-33b0-4a90-90a8-474a70511867,***,2026-10-27T22:26:45.829Z,2,hit and run accident,Hit and Run/Car Accident
+026d6655-139f-4b4a-86ce-0f5cf8d49eda,***,2026-10-27T20:15:46.674Z,191,warrant,Hit and Run/Car Accident
+781505a2-936f-4d6c-80aa-647b5d542d27,***,2026-10-27T18:16:36.729Z,1,Susp Veh,Stolen Property Offenses
 a1b7cff8-c8de-4341-b1d5-ec8508d647d9,***,2026-10-26T06:44:06.708Z,167,Stolen Plate,Motor Vehicle Theft/Stolen
 6e6251ad-4dfd-4241-9ff1-96b085c6d6df,***,2026-10-26T03:26:45.168Z,1,hit and run accident,Hit and Run/Car Accident
 80f47da8-db67-43c4-bd9e-7d233fef52f6,***,2026-10-23T21:21:29.976Z,1,stolen car,Motor Vehicle Theft/Stolen
