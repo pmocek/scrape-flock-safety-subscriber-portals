@@ -5,7 +5,7 @@ Visit Flock
 Golf Manor OH PD
 Transparency Portal
 
-Last updated: Fri Oct 30 2026
+Last updated: Sat Oct 31 2026
 
 Overview
 
@@ -58,9 +58,9 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-322 alerts
+327 alerts
 NCIC - Protection Order
-307
+312
 NCIC - Sex Offender
 10
 NCIC - Warrants
@@ -90,7 +90,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-31,353
+31,406
 
 Number of Searches
 
@@ -108,7 +108,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-476
+496
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -2153,7 +2153,6 @@ University Circle OH PD
 University City MO PD
 University Heights OH PD
 University of Central Missouri PD
-University of Delaware PD
 University of Georgia GA PD
 University of Illinois - Chicago IL PD
 University of Illinois Urbana-Champaign IL PD
