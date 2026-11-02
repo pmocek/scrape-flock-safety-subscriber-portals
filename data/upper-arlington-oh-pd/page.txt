@@ -5,7 +5,7 @@ Visit Flock
 Upper Arlington OH PD
 Transparency Portal
 
-Last updated: Tue Oct 27 2026
+Last updated: Mon Nov 02 2026
 
 Overview
 
@@ -32,7 +32,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-410,803
+403,675
 
 Number of Searches
 
@@ -50,7 +50,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-378
+292
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -58,8 +58,8 @@ Offense Types used for LPR searches in the last 30 days.
 Larceny/Theft Offenses
 Traffic Infraction
 Motor Vehicle Theft/Stolen
-Obstructing the Police (Fleeing/Eluding)
 Stolen Property Offenses
+Obstructing the Police (Fleeing/Eluding)
 Policy & Trust
 
 What's Detected
