@@ -6,7 +6,7 @@ Visit Flock
 Stamping Ground KY PD
 Transparency Portal
 
-Last updated: Fri Oct 30 2026
+Last updated: Mon Nov 02 2026
 
 Overview
 
@@ -87,13 +87,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-14,877
+14,907
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-1
+0
 
 Hotlists Alerted On
 
@@ -106,11 +106,6 @@ Number of Hotlist Hits
 Total hotlist hits over the last 30 days.
 
 1
-Top Offense Types
-
-Offense Types used for LPR searches in the last 30 days.
-
-Larceny/Theft Offenses
 
 Sharing Network Data With
 
@@ -741,7 +736,6 @@ Lafayette TN PD
 LaGrange GA PD
 LaGrange KY PD
 Lake Delton WI PD
-Lakeside Park-Crestview Hills KY PD
 Lancaster KY PD
 Lansing IL PD
 Lapel IN PD
