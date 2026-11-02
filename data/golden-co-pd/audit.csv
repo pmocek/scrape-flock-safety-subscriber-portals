@@ -1,4 +1,9 @@
 id,userId,searchDate,networkCount,reason,offenseType
+5cd1934d-99a5-471c-ae8d-492ed2ad2a88,***,2026-10-31T06:30:50.373Z,1,ELUDING,Larceny/Theft Offenses
+728ec711-4ea6-4bd0-989f-dcbdb1ac40f7,***,2026-10-31T05:04:27.561Z,165,Felony eluding,Criminal Motor Vehicle Offense (incl. Road Rage/Reckless)
+bc8a4477-15ef-4bf2-88f3-47e548799548,***,2026-10-30T15:07:53.488Z,189,id theft suspect,Motor Vehicle Theft/Stolen
+c9763a71-5aa1-4832-90c7-123663173691,***,2026-10-30T14:00:37.055Z,1,theft,Motor Vehicle Theft/Stolen
+ff82df27-7f87-4471-8ffa-b27eedfa2a26,***,2026-10-30T13:59:15.938Z,1,theft,Motor Vehicle Theft/Stolen
 5b025304-da64-4c24-862d-a7920a43bf4e,***,2026-10-29T18:06:04.982Z,165,Suspect warrant,Wanted Person (Arrest Warrant/Fugitive)
 9f33e69e-196c-4969-876a-4ab498debcc1,***,2026-10-29T07:16:21.848Z,164,ATL,Assault/Battery Offenses (Domestic)
 79d69998-632b-4672-8e22-5b4edef98859,***,2026-10-29T05:02:25.099Z,164,ATL,Assault/Battery Offenses (Domestic)
