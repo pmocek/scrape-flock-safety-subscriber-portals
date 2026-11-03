@@ -1,3 +1,454 @@
-Page not found
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+St. Marys GA PD
+Transparency Portal
 
-The page you are looking for doesn't exist.
+Last updated: Tue Nov 03 2026
+
+Overview
+
+St. Marys GA PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. St. Marys GA PD utilizes retroactive search to solve crimes after they've occurred. Additionally, St. Marys GA PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+
+Community Impact
+Featured Success Stories
+
+Armed Robbery
+
+September 2, 2026
+St. Marys, GA: Armed Robbery
+On August 18, 2026, officers with the St. Marys Police Department responded to Kings Check Cashing following a reported armed robbery. The investigation quickly expanded into a multi-agency response led by the St. Marys Police Department Criminal Investigation Division in search of the suspect wanted in connection.
+A preliminary investigation determined that the armed suspect approached the individuals outside of the business, displayed a handgun, and demanded money. A struggle occurred during the robbery before the suspect fled the scene on a scooter. Minor injuries were reported, and no property damage resulted from the incident. Investigators subsequently determined that the suspect was picked up by the occupant of a white vehicle, which then fled the area.
+Detectives and crime analysis personnel developed and corroborated investigative leads that identified the vehicle used to assist in the armed robbery and Ronell Campbell as the suspect. Detectives determined Campbell had fled the State of Georgia and traveled to South Florida, where he was apprehended though a coordinated effort with local and federal law enforcement.
+Ronell Campbell was taken into custody in Miami Gardens, Florida on August 20th. Campbell is charged with one count of Armed Robbery, Possession of Firearm by Convicted Felon, Possession of a Firearm in the Commission of a Felony, Conspiracy to Commit a Crime, and three counts of Aggravated Assault. Campbell is currently incarcerated and awaiting extradition.
+“We understand the concern a violent incident like this creates for the people who live and work in our community. From the moment this incident was reported, our detectives worked relentlessly with our local, state, and federal partners to identify and locate the person responsible,” Chief James Galloway stated. “This case is an example of why those partnerships matter – investigations do not stop at jurisdictional or state lines.”
+The St. Marys Police Department would like to recognize the detectives, analysts, officers, deputies, special agents and partner agencies whose combined efforts contributed to the identification, location, and apprehension of the suspect.
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+15
+
+LPR Cameras
+
+Number of LPR cameras only.
+
+6
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+6
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+363
+Top Offense Types
+
+Offense Types used for LPR searches in the last 30 days.
+
+Motor Vehicle Theft/Stolen
+Larceny/Theft Offenses
+Drugs/Narcotics
+Hit and Run/Car Accident
+Destruction/Damage/Vandalism of Property
+
+Sharing Network Data With
+
+Organizations granted access to St. Marys GA PD data.
+
+[Federal] Federal Bureau of Investigation (FBI)
+[Federal] US Park Police - Chattahoochee River NRA
+[Federal] US Postal Inspection Service
+Abbeville SC PD
+AL - Andalusia PD
+AL- Clarke County SO
+Alabama Law Enforcement Agency (ALEA)
+Alma GA PD
+Athens-Clarke County GA PD
+Atlantic Beach FL PD
+Austell GA PD
+Austin County TX SO
+Ball Ground GA PD
+Bedford County TN SO
+Bedford VA PD
+Berrien County GA SO
+Blackshear GA PD
+Blount County Commission (AL)
+Bradford County FL SO
+Brookhaven GA PD
+Brooklet GA PD
+Brooks County GA SO
+Burlington NC PD
+Butler Township PA PD
+Byron GA PD
+Calhoun County AL SO
+Carroll County GA SO
+Carrollton GA PD
+Cartersville GA PD
+Caswell County NC SO
+Cedartown GA PD
+Chadbourn NC PD
+Chambers County AL SO
+Chatham-Savannah Counter Narcotics Team
+Cherokee County GA DA
+Clinton SC PD
+Clinton TN PD
+Clover SC PD
+Coffeyville KS PD
+College Park GA PD
+Columbia County GA SO
+Columbus GA PD
+Conway SC PD
+Covington County AL SO
+Covington GA PD
+Craven County NC SO
+Crawford County GA SO
+Crisp County GA SO
+Crowley TX PD
+Cumming GA PD
+Dalton GA PD
+Davisboro GA PD
+Decatur County GA SO
+Decatur GA PD
+Decatur IN PD
+DeKalb County GA PD
+Department of Natural Resources - GA
+Dickson TN PD
+Dillon SC PD
+Dodge County GA SO
+Douglasville GA PD
+Dunn NC PD
+DuPage Co IL Prosecutor Office
+Eau Claire County WI SO
+ECU Health NC PD
+Effingham County GA SO
+El Cajon CA PD
+Evans County GA SO
+Fannin County GA SO
+Fishkill Town NY PD
+Florida State University Campus PD FL
+Floyd County GA PD
+Fontana CA PD
+Forrest County MS SO
+Forsyth County GA SO
+Fort Oglethorpe GA PD
+Fulton County GA SO
+GA - Atkinson County SO
+Gainesville GA PD
+Garden City GA PD
+Georgia Dept. of Corrections Intelligence Unit (GA)
+Georgia State Patrol GA PD
+Georgia Tech GA PD
+Gilmer County GA SO
+Glynn County GA SO
+Grantville GA PD
+Greensboro GA PD
+Greenville County SC SO
+Gulf Breeze FL PD
+Hamblen County TN SO
+Hancock County GA SO
+Hancock County IN SO
+Hardeeville SC PD
+Hardin County OH SO
+Harris County GA SO
+Harrisonville MO PD
+Helen GA PD
+Hendersonville TN PD
+Henry County GA SO
+Hiawassee GA PD
+Hickory Creek TX PD
+Hillsborough County FL SO
+Hoover AL PD
+Houston County GA District Attorney's Office
+Huntsville AL PD
+Iredell County NC SO
+Isle of Palms SC PD
+Jackson County MS SO
+Jefferson County GA SO
+Jefferson GA PD
+Jesup GA PD
+Johns Creek GA PD
+Jones County SO - GA
+Jonesboro AR PD
+Jonesboro GA PD
+Kingsland GA PD
+Kingston Springs TN PD
+La Follette TN PD
+Lakeland FL PD
+Lancaster SC PD
+Leesburg GA PD
+Lexington NC PD
+Louisburg NC PD
+Lowndes County GA SO
+Ludowici GA PD
+Lumberton NC PD
+Madison GA PD
+Mansfield TX PD
+Marietta GA PD
+Marion Health PD (IN)
+Marshall TX PD
+Mauldin SC PD
+McDonough GA PD
+McIntosh County GA SO
+McIntyre GA PD
+Metter GA PD
+Middle Tennessee State TN PD
+Milton GA PD
+Mint Hill NC PD
+Missouri Information Analysis Center
+Monroe County GA SO
+Montezuma GA PD
+Montgomery AL PD
+Morgan County AL SO
+Nahunta GA PD
+Nashville GA PD
+Nassau County FL SO
+Nassau County NY PD
+Newnan GA PD
+Newton County MS SO
+Niagara Frontier Transit Authority (NFTA) PD
+Norcross GA PD
+Oakwood GA PD
+Oconee County GA SO
+OH - U.S.23 Major Crimes Task Force
+Ohio County SO WV
+Orlando FL PD
+Ouachita Parish LA SO
+Oxford AL PD
+Palm Beach County FL SO
+Palmetto GA PD
+Peachtree City GA PD
+Peachtree Corners GA Marshal's Office
+Perry GA PD
+Pinellas County FL SO
+Pitt County NC SO
+Plymouth Township MI PD
+Port Wentworth GA PD
+Raleigh NC PD
+Richland County SC SO
+Richmond Hill GA PD
+Richmond MO PD
+Roanoke Rapids NC PD
+Rockdale County GA SO
+Rockdale IL PD
+Rockingham NC PD
+Rockmart GA PD
+Rome GA PD
+Savannah PD - GA
+Schley County SO GA
+Schuyler Co. IL SO
+Seminole County GA SO
+Senoia GA PD
+Silver Spring Township PA PD
+Snellville GA PD
+Social Circle GA PD
+South Barrington IL PD
+South Carolina Law Enforcement Division - SLED
+South Fulton GA PD
+Southampton VA SO
+Spalding County GA SO
+Springfield GA PD
+St Mary Parish LA SO
+Sumner County TN SO
+Sumter County GA SO
+Suwanee GA PD
+Tampa FL PD
+Tarpon Springs FL PD
+Tattnall County GA SO
+Taylor County GA SO
+Texas Department of Public Safety
+Thornton CO PD
+TN ROCIC
+Trousdale County TN SO
+Tulsa County OK SO
+University of West Georgia GA PD
+Upson County GA SO
+Urbana OH PD
+Vance County NC SO
+Village of Clearview WV PD
+Warner Robins GA PD
+Waycross GA PD
+Webster County GA SO
+White House TN PD
+Whitfield County GA SO
+Wilkinson County GA SO
+Wilson NC PD
+Woodlawn OH PD
+Yancey County NC SO
+Zebulon GA PD
+
+Receiving Network Data From
+
+Organizations sharing their data with St. Marys GA PD.
+
+Acworth GA PD
+Adel GA PD
+Aiken County SC SO
+Angier NC PD
+Atlanta GA PD
+Baker County FL SO
+Baldwin County GA SO
+Ben Hill County GA SO
+Berkeley County SC SO
+Berrien County GA SO
+Blackshear GA PD
+Bluffton SC PD
+Brantley County GA SO
+Bryan County GA SO
+Bulloch County GA SO
+Byron GA PD
+Camilla GA PD
+Charleston County SC SO
+Chatham County GA PD
+Chatham County GA SO
+Chatham-Savannah Counter Narcotics Team
+Clarendon County SC SO
+Claxton GA PD
+Coffee County GA SO
+Colleton County SO (SC)
+Crisp County GA SO
+CSX Railroad PD
+Davenport FL PD
+Dublin GA PD
+Effingham County GA SO
+Fairburn GA PD
+Fish and Wildlife Commission FL PD
+Florida State University Campus PD FL
+Fruitland Park FL PD
+Garden City GA PD
+Georgia Bureau of Investigation (GBI)
+Georgia Dept. of Corrections Intelligence Unit (GA)
+Glynn County GA PD
+Glynn County GA SO
+Haywood County NC SO
+Henderson County NC SO
+Holly Hill FL PD
+Homeland GA PD
+Huntsville AL PD
+Jacksonville FL SO
+Jefferson County GA SO
+Jones County SO - GA
+Lakeland FL PD
+Lamar County MS SO
+Leesburg GA PD
+Lenox GA PD
+Lowndes County GA SO
+Maggie Valley NC PD
+McIntosh County GA SO
+Nahunta GA PD
+Nassau County FL SO
+Orange County FL SO
+Orangeburg Department of Public Safety SC
+Orlando FL PD
+Pierce County GA SO
+Pinellas County FL SO
+Polk County FL SO
+Polk County TX SO
+Pooler GA PD
+Port Wentworth GA PD
+Pulaski County GA SO
+Richmond Hill GA PD
+Rincon GA PD
+Savannah PD - GA
+Snellville GA PD
+Sumter County GA SO
+Taylor County GA SO
+Tift County GA SO
+Tifton GA PD
+Titusville FL PD
+Turner County GA SO
+Twiggs County GA SO
+Valdosta GA PD
+Walterboro SC PD
+Washington County SO - GA
+Zebulon GA PD
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by St. Marys GA PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+SOC 2 Type II
+
+Independently audited controls covering security, availability, and confidentiality.
+
+ISO 27001
+
+Information security management aligned with international standards.
+
+Adherence to Key Privacy Principles
+
+Built to focus on data minimization, purpose limitation, and transparency.
+
+Myth vs. Fact
+Myth
+
+Flock has been hacked.
+
+Fact
+
+Flock's cloud environment has never been breached. Flock invests in a strong security posture, including adhering to NDAA, SOC2 (Type II), ISO 27001, ISO 27018 FedRAMP 20x, and Higher Education Community Vendor Assessment Tool (HECVAT) compliance. Additional security precautions include Role-Based Access Controls, data encrypted at-rest and in transit, required Multi-Factor Authentication, and regular penetration testing.
+
+Myth
+
+Flock sells and/or shares customer data.
+
+Fact
+
+Your community owns 100% of your data and it will never be sold. Only your agency decides who to share your data with, not Flock. Flock Safety does not publicly release agency search data. Flock does not operate or support any public-facing searchable database of law enforcement lookups, and we do not provide license plate search histories to websites or third parties without the agency's knowledge and authorization. Other agencies who you share footage with have been responding to FOIA requests and sharing this search data.
+
+Myth
+
+My data is fed into a national database.
+
+Fact
+
+Each agency controls access to its own data. Agencies may choose to share information through a broader network, but nothing is shared automatically. Participation is opt-in, governed by defined agreements, and limited to lawful investigative purposes.
+
+Myth
+
+Flock cameras use facial recognition.
+
+Fact
+
+Flock cameras do not use facial recognition technology. Searches are based on vehicle characteristics, and not identity. Flock cannot recognize, identify, or track individuals. It is purpose built for specific public safety investigations, not to monitor people.
+
+Provided by Flock Safety

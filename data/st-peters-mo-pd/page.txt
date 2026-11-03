@@ -5,7 +5,7 @@ Visit Flock
 St. Peters MO PD
 Transparency Portal
 
-Last updated: Sat Oct 17 2026
+Last updated: Tue Nov 03 2026
 
 Overview
 
@@ -17,20 +17,18 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-673 alerts
+626 alerts
 NCIC - Protection Order
-498
+454
 NCIC - Sex Offender
-118
-NCIC - Stolen Plate
-25
+114
 NCIC - Stolen Vehicle
-19
-NCIC - Gang or Suspected Terrorist
-6
+28
+NCIC - Stolen Plate
+22
 NCIC - Warrants
-6
-NCIC - Missing Person
+7
+NCIC - Gang or Suspected Terrorist
 1
 
 Data Retention
@@ -49,7 +47,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-418,036
+413,255
 
 Number of Searches
 
@@ -67,7 +65,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-3,844
+3,799
 
 Sharing Network Data With
 
@@ -115,7 +113,6 @@ Clay County MO SO
 Clayton MO PD
 Clever MO PD
 Clinton County MO SO
-Clinton MO PD
 Cole County MO SO
 Columbia MO PD
 Concordia MO PD
@@ -214,7 +211,6 @@ North County Cooperative MO PD
 North Missouri Drug Task Force MO
 North MO DTF Brookfield MO PD
 O'Fallon MO PD
-Oak Grove MO PD
 Odessa MO PD
 Olivette MO PD
 Osage Beach MO PD
@@ -229,7 +225,6 @@ Pemiscot County MO SO
 Perry County MO SO
 Pettis County MO SO
 Pevely MO PD
-Phelps County MO SO
 Platte City MO PD
 Platte County MO SO
 Pleasant Hill MO PD
