@@ -5,7 +5,7 @@ Visit Flock
 El Cajon CA PD
 Transparency Portal
 
-Last updated: Sun Nov 01 2026
+Last updated: Mon Nov 02 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-757,683
+751,820
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-408
+400
 
 Hotlists Alerted On
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-9,758
+10,063
 
 Sharing Network Data With
 
@@ -250,6 +250,7 @@ Dearborn MI PD
 Del Norte County CA SO
 Delano CA PD
 Denison University Campus OH PD
+Desert Hot Springs CA PD
 Dinuba CA PD
 Dixon CA PD
 Downey PD CA
@@ -608,6 +609,7 @@ Sand City CA PD
 Sanger CA PD
 Santa Ana CA PD
 Santa Barbara County CA SO
+Santa Barbara County District Attorney CA
 Santa Clara CA PD
 Santa Clara County CA SO
 Santa Monica CA PD
