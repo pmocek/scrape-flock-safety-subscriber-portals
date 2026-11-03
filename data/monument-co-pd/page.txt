@@ -5,7 +5,7 @@ Visit Flock
 Monument CO PD
 Transparency Portal
 
-Last updated: Sat Oct 31 2026
+Last updated: Mon Nov 02 2026
 
 Overview
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-167,292
+164,673
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-8
+7
 
 Hotlists Alerted On
 
@@ -54,7 +54,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-870
+844
 Policy & Trust
 
 What's Detected
