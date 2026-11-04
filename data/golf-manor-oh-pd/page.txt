@@ -5,7 +5,7 @@ Visit Flock
 Golf Manor OH PD
 Transparency Portal
 
-Last updated: Mon Nov 02 2026
+Last updated: Tue Nov 03 2026
 
 Overview
 
@@ -58,9 +58,9 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-311 alerts
+314 alerts
 NCIC - Protection Order
-296
+299
 NCIC - Sex Offender
 8
 NCIC - Warrants
@@ -90,7 +90,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-31,599
+31,709
 
 Number of Searches
 
@@ -108,7 +108,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-516
+528
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -143,7 +143,6 @@ Ahoskie NC PD
 Aiken County SC SO
 Akron OH PD
 AL - Autauga County SO
-AL - Bear Creek PD
 AL - Gadsden PD
 AL - Sylacauga PD
 Alabama Department of Corrections
@@ -981,7 +980,6 @@ Homer Village NY PD
 Homestead PA PD
 Homewood AL PD
 Hoopeston IL PD
-Hoover AL PD
 Hope Mills NC PD
 Hopkinsville KY PD
 Horn Lake MS PD
@@ -2674,7 +2672,6 @@ Coastal Bend College Campus PD
 Cobb County GA PD
 Cocke County TN SO
 Cocoa Beach FL PD
-Cocoa FL PD
 Coconut Creek FL PD
 Colbert County AL SO
 Coldwater MI PD
@@ -3007,7 +3004,6 @@ Halls TN PD
 Hamblen County TN SO
 Hamburg Town NY PD
 Hamburg Village NY PD
-Hamilton AL PD
 Hamilton County IN SO
 Hamilton County OH SO
 Hamilton County TN SO
@@ -3060,7 +3056,6 @@ Henry County OH SO
 Heritage Creek KY PD
 Hermitage PA PD
 Herrin IL PD
-Hickory Creek TX PD
 Hickory Hills IL PD
 Higginsville MO PD
 High Springs FL PD
@@ -3222,7 +3217,6 @@ Laurens County SC SO
 Laurens SC PD
 Lavon TX PD
 Lavonia GA PD
-Lawrence County AL SO
 Lawrence County District Attorney's Office PA
 Lawrence County IN SO
 Lawrence IN PD
@@ -3274,6 +3268,7 @@ Loudon TN PD
 Loudonville OH PD
 Louisburg NC PD
 Louisville Airport PD
+Louisville Metro KY PD
 Louisville OH PD
 Loveland OH PD
 Lowndes County GA SO
@@ -3823,7 +3818,6 @@ Southern Illinois University IL PD
 Southern Regl PA PD
 Southfield MI PD
 Southgate KY PD
-Southmayd TX PD
 Southwest Tennessee Community College TN PD
 Sparta TN PD
 Sparta WI PD
