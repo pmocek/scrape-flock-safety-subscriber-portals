@@ -5,7 +5,7 @@ Visit Flock
 Rockingham County VA SO
 Transparency Portal
 
-Last updated: Thu Oct 15 2026
+Last updated: Tue Nov 03 2026
 
 Overview
 
@@ -36,41 +36,48 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-140,749
+143,952
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-9
+4
 
 Hotlists Alerted On
 
 National and statewide hotlist sources.
 
-NCMEC Amber Alert, NCIC - VSP
+NCIC - VSP, NCMEC Amber Alert
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-6
+11
 
 Sharing Network Data With
 
 Organizations granted access to Rockingham County VA SO data.
 
 Amherst County VA SO
+Bedford VA PD
 Bluefield VA PD
 Chesapeake VA PD
 Clarksville VA PD
+Colonial Beach VA PD
+Cumberland County VA SO
 Fairfax County VA PD
+Farmville VA PD
 Fauquier County VA SO
 Franklin County VA SO
 Front Royal VA PD
+Gloucester County VA SO
+Hampton VA PD
 Hanover County VA SO
 Herndon VA PD
 Hopewell VA PD
+King and Queen County VA SO
 King George County VA SO
 Leesburg VA PD
 Loudoun County VA SO
@@ -87,7 +94,10 @@ Southampton VA SO
 Spotsylvania County VA SO
 Strasburg VA PD
 Suffolk VA PD
+Town Of Middletown VA PD
+Virginia Department of Wildlife Resources (DWR)
 Warren County VA SO
+Windsor VA PD
 Woodstock VA PD
 Policy & Trust
 
