@@ -5,7 +5,7 @@ Visit Flock
 East Wenatchee WA PD
 Transparency Portal
 
-Last updated: Wed Oct 14 2026
+Last updated: Tue Nov 03 2026
 
 Overview
 
@@ -18,7 +18,7 @@ Data Retention
 
 The number of days data is retained.
 
-21 days
+7 days
 
 Total Cameras
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-150,420
+114,480
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-20
+40
 
 Hotlists Alerted On
 
@@ -54,16 +54,16 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-446
+222
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Motor Vehicle Theft/Stolen
-Protective/Protection Order
 Hit and Run/Car Accident
-Wanted Person (Arrest Warrant/Fugitive)
 Weapons Offense (Guns/Shots Fired)
+Larceny/Theft Offenses
+Protective/Protection Order
 
 Sharing Network Data With
 
@@ -107,7 +107,6 @@ Moses Lake WA PD
 Mount Vernon WA PD
 Mountlake Terrace WA PD
 Mukilteo WA PD
-Newcastle WA PD
 Orting WA PD
 Othello WA PD
 Port of Seattle WA PD
@@ -136,7 +135,6 @@ Receiving Network Data From
 
 Organizations sharing their data with East Wenatchee WA PD.
 
-[Federal] Cowlitz Indian Tribal WA PD
 Aberdeen WA PD
 Adams County WA SO
 Arlington PD (WA)
@@ -145,21 +143,18 @@ Centralia WA PD
 Chehalis WA PD
 Chelan County WA SO
 Cheney WA PD
-Cle Elum WA PD
 College Place WA PD
 Columbia River Drug Task Force WA
 Colville WA Tribal Police
 Covington WA PD
 Des Moines WA PD
 Douglas County WA SO
-Eatonville WA PD [Inactive]
 Ellensburg WA PD
 Enumclaw WA PD
 Federal Way WA PD
 Fort Worth TX PD
 Goldendale WA PD
 Grandview WA PD
-Granger WA PD
 Grant County WA SO
 Grays Harbor County SO (WA)
 Idaho Falls ID PD
@@ -180,7 +175,6 @@ Mount Vernon WA PD
 Moxee WA PD
 Mukilteo WA PD
 Napavine WA PD
-Newcastle WA PD
 Omak WA PD
 Orting WA PD
 Othello WA PD
@@ -201,7 +195,6 @@ Town of Harrah WA
 Tukwila WA PD
 Tulalip Tribal Police Dept. (WA)
 Union Gap WA PD
-Walla Walla WA PD
 Wapato WA PD
 Warden WA PD
 Wenatchee WA PD

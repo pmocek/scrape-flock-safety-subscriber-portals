@@ -1,4 +1,41 @@
 id,userId,searchDate,networkCount,reason
+34d24009-28da-49a1-8b77-3bcb57a71649,***,2026-11-02T17:00:14.841Z,1,Stolen Vehicle
+50092712-4b8e-4ebe-99eb-fa9ccf2b4857,***,2026-11-01T19:56:39.665Z,4,Hit and Run
+c93ba3d0-e0a9-44e9-93e2-80e1e715af79,***,2026-10-31T22:56:39.321Z,4,Hit and Run
+f79f8011-c3ef-49f8-b7df-8467ae3ca358,***,2026-10-31T21:29:00.782Z,4,Hit and Run
+a3f7e2f2-cd15-40c3-a0b5-66bb124eb84b,***,2026-10-31T19:53:11.749Z,3,Hit and Run
+73d853e8-f093-46d0-93d1-7c2970fb1870,***,2026-10-31T18:44:59.494Z,1,Hit and Run
+15fd1bd5-f67a-46ff-81a2-d91980667d14,***,2026-10-30T18:02:31.602Z,1,Theft Investigation
+6485d7ef-e0bb-43df-b143-e31c24fdb824,***,2026-10-30T17:48:52.799Z,1,Theft Investigation
+45face71-cbb4-4d4b-9273-0335fbb8a8a4,***,2026-10-29T14:55:55.034Z,1,Stolen Vehicle
+7c6be555-fe0b-4d0a-9e44-4f8a1134cba6,***,2026-10-28T22:51:48.027Z,1,Stolen Vehicle
+557162e3-5855-4e4f-a25a-e948866b8afb,***,2026-10-28T05:03:52.028Z,1,Theft Investigation
+61d83e13-6fac-4c45-bb4f-6ff0456a0118,***,2026-10-28T04:33:21.494Z,1,Theft Investigation
+f1d05e45-0f57-4160-9227-35e3080e6088,***,2026-10-28T00:10:35.794Z,1,Theft Investigation
+589a5a60-f5bb-4722-b871-7cdf7d437722,***,2026-10-24T20:26:55.047Z,1,Stolen Vehicle
+2c6775b1-de97-416a-9f2f-65c26faa76ff,***,2026-10-24T16:40:14.835Z,1,Stolen Vehicle
+5062a967-9ba1-414c-8c48-e34b60094a2c,***,2026-10-24T14:43:33.105Z,1,Stolen Vehicle
+b65b378f-e3ea-48cc-8351-6604d49e8c44,***,2026-10-23T19:25:15.256Z,1,Stolen Vehicle
+33deeb5b-0661-4e52-bee3-ea1869d72a85,***,2026-10-23T17:03:06.795Z,1,Stolen Vehicle
+b115e62a-4107-4049-956a-07812db555fc,***,2026-10-23T15:04:11.186Z,1,Stolen Vehicle
+f87a7a8f-a56a-473a-be45-ae9cb06c8780,***,2026-10-23T14:09:51.629Z,1,Stolen Vehicle
+b8d40a54-7142-49b6-91aa-49b32569c8da,***,2026-10-23T13:56:38.557Z,1,Stolen Vehicle
+f56aaa03-c2fd-4082-ba31-e4ca714dd87f,***,2026-10-23T05:08:13.579Z,59,Stolen Vehicle
+17ef0d49-5a07-49de-ba26-beeccb03fb72,***,2026-10-23T03:25:58.739Z,3,Wanted Person
+d2f8e586-696d-42f9-8cca-3a7da0fa84d4,***,2026-10-21T17:38:50.236Z,3,Assault Investigation
+a9f28538-6501-4ec2-9a5b-ce627092023a,***,2026-10-21T14:26:53.690Z,1,Suspicious vehicle/person
+2348ce1e-0621-4fb0-b227-9903f895e887,***,2026-10-20T19:57:56.862Z,1,Wanted Person
+5151c96f-97c0-4f96-9224-7c17f236b9ae,***,2026-10-20T07:00:16.541Z,1,Suspicious vehicle/person
+88c558d7-5f0c-43b1-8530-4a9ec4dd9ad1,***,2026-10-20T06:23:04.991Z,1,Suspicious vehicle/person
+2f819707-245e-4859-8b01-d2dcb40879c4,***,2026-10-20T01:15:02.505Z,3,Assault Investigation
+8d702d60-9da5-4b2c-9ecc-89a053ca06c2,***,2026-10-16T20:26:18.806Z,1,Hit and Run
+05fca627-1c99-44ca-ba21-cc541812f073,***,2026-10-16T20:09:43.972Z,1,Hit and Run
+fcdca8ae-d6e3-4e2e-a472-c75c2f043bf3,***,2026-10-16T20:03:51.689Z,59,Hit and Run
+39b76fb0-23c8-479a-aae8-0e1f0d857b1c,***,2026-10-16T08:09:22.631Z,60,Stolen Vehicle
+e10c3bb7-f101-474f-8547-91096d78cdcc,***,2026-10-16T06:10:10.261Z,60,Stolen Vehicle
+58455f0e-3e77-454a-b1cd-de2806e05444,***,2026-10-15T18:20:51.678Z,3,Assault Investigation
+a6449bfa-8769-4819-a9e1-c8c23a118454,***,2026-10-15T16:05:53.041Z,3,Assault Investigation
+abacd3ca-f5c5-4b4c-bdb3-3b521597837a,***,2026-10-15T01:26:38.331Z,1,Assault Investigation
 d0a43814-98e2-4c65-a64d-516035e9fb39,***,2026-10-13T01:56:18.039Z,4,Suspicious vehicle/person
 927d5d13-e007-4f8e-8c9a-e93d9c4e52c9,***,2026-10-12T05:46:58.264Z,65,Wanted Person
 440a322d-b4ab-48ea-b314-77ccfa84241d,***,2026-10-05T09:34:18.368Z,62,Stolen Vehicle
