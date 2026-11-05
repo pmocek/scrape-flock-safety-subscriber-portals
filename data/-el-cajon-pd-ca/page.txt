@@ -5,7 +5,7 @@ Visit Flock
 El Cajon CA PD
 Transparency Portal
 
-Last updated: Mon Nov 02 2026
+Last updated: Wed Nov 04 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-751,820
+749,112
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-400
+450
 
 Hotlists Alerted On
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-10,063
+10,422
 
 Sharing Network Data With
 
@@ -521,7 +521,6 @@ Pasadena TX PD
 Peoria IL PD
 Perry County MO SO
 Petaluma CA PD
-Phoenix AZ PD
 Pinellas Park FL PD
 Pittsboro IN PD
 Placentia CA PD
