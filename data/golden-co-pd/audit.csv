@@ -1,4 +1,6 @@
 id,userId,searchDate,networkCount,reason,offenseType
+f76d004b-bea2-4f31-b20e-5e2c5dc1ecd0,***,2026-11-03T22:22:19.754Z,1,Suspect vehicle,Weapons Offense (Guns/Shots Fired)
+d0b1b85e-0229-4196-9041-0cdbdd2da65d,***,2026-11-03T17:35:44.060Z,1,Attempt to identify suspect vehicle,Criminal Motor Vehicle Offense (incl. Road Rage/Reckless)
 be2b463f-1aba-43ff-8e33-2acccbf54a39,***,2026-11-02T20:32:13.884Z,1,Suspect vehicle,Weapons Offense (Guns/Shots Fired)
 ce9bb296-5788-43b6-bf82-6571bea690d2,***,2026-11-02T19:07:29.115Z,165,Drug deal,Drugs/Narcotics
 690b72ec-1700-45b2-b281-d8fe0679c80d,***,2026-11-02T19:05:13.077Z,1,motor vehicle theft,Motor Vehicle Theft/Stolen
