@@ -5,7 +5,7 @@ Visit Flock
 St. Marys GA PD
 Transparency Portal
 
-Last updated: Tue Nov 03 2026
+Last updated: Thu Nov 05 2026
 
 Overview
 
@@ -48,13 +48,13 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-6
+7
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-363
+353
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -63,7 +63,7 @@ Motor Vehicle Theft/Stolen
 Larceny/Theft Offenses
 Drugs/Narcotics
 Hit and Run/Car Accident
-Destruction/Damage/Vandalism of Property
+Homicide/Death Investigation
 
 Sharing Network Data With
 
@@ -171,7 +171,6 @@ Henry County GA SO
 Hiawassee GA PD
 Hickory Creek TX PD
 Hillsborough County FL SO
-Hoover AL PD
 Houston County GA District Attorney's Office
 Huntsville AL PD
 Iredell County NC SO
@@ -297,7 +296,6 @@ Organizations sharing their data with St. Marys GA PD.
 Acworth GA PD
 Adel GA PD
 Aiken County SC SO
-Angier NC PD
 Atlanta GA PD
 Baker County FL SO
 Baldwin County GA SO
@@ -360,6 +358,7 @@ Polk County TX SO
 Pooler GA PD
 Port Wentworth GA PD
 Pulaski County GA SO
+Rabun County GA SO
 Richmond Hill GA PD
 Rincon GA PD
 Savannah PD - GA
