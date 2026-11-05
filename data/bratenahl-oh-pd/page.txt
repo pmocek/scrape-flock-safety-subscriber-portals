@@ -5,7 +5,7 @@ Visit Flock
 Bratenahl OH PD
 Transparency Portal
 
-Last updated: Tue Nov 03 2026
+Last updated: Wed Nov 04 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-43,093
+43,086
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-7
+8
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-124
+118
 Policy & Trust
 
 What's Detected
