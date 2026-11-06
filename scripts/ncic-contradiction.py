@@ -392,26 +392,10 @@ def main() -> None:
         any_findings = contradictions_a or direct_sharing or no_prohibition or indirect_chains
         if any_findings:
             print("COMMIT_BODY: NCIC contradiction findings:", flush=True)
-            for slug, _, ncic_ref in contradictions_a:
-                flag = " NCIC-ref" if ncic_ref else ""
-                print(
-                    f"COMMIT_BODY:  contradiction-a {slug}: prohibits"
-                    f" immigration + national hotlists{flag}"
-                )
-            for slug, partner in sorted(set(direct_sharing)):
-                print(
-                    f"COMMIT_BODY:  sharing-backdoor {slug}:"
-                    f" direct share with {partner}"
-                )
-            for start, target, path in sorted(indirect_chains, key=lambda x: (x[0], len(x[2]))):
-                chain = " → ".join(path)
-                print(
-                    f"COMMIT_BODY:  indirect-chain {start} → {target}"
-                    f" [{len(path) - 1} hops]: {chain}"
-                )
-            for slug, _, ncic_ref in sorted(no_prohibition):
-                flag = " NCIC-ref" if ncic_ref else ""
-                print(f"COMMIT_BODY:  no-immigration-prohibition {slug}: no prohib flag{flag}")
+            print(f"COMMIT_BODY:  contradiction-a: {len(contradictions_a)} agencies (prohibits immigration + national hotlists)")
+            print(f"COMMIT_BODY:  sharing-backdoor: {len(set(direct_sharing))} relationships")
+            print(f"COMMIT_BODY:  indirect-chain: {len(indirect_chains)} chains across {len(set(s for s, _, _ in indirect_chains))} start nodes")
+            print(f"COMMIT_BODY:  no-immigration-prohibition: {len(no_prohibition)} agencies")
         return
 
     # ── full report ──────────────────────────────────────────────

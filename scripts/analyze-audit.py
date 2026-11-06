@@ -105,9 +105,22 @@ def format_header(msg):
     return f"\n{'=' * 60}\n{msg}\n{'=' * 60}"
 
 
-def emit_commit_body(items, prefix):
-    for slug, reason in sorted(items, key=lambda x: x[1].lower()):
+def emit_commit_body(items, prefix, cap=10):
+    # Dedupe identical (slug, reason) pairs and cap output so commit
+    # messages stay short instead of listing every audit row.
+    seen = set()
+    unique = []
+    for slug, reason in items:
+        key = (slug, reason.strip().lower())
+        if key in seen:
+            continue
+        seen.add(key)
+        unique.append((slug, reason))
+    unique.sort(key=lambda x: (x[0], x[1].lower()))
+    for slug, reason in unique[:cap]:
         print(f"COMMIT_BODY:  {prefix} {slug}: {reason[:120]}")
+    if len(unique) > cap:
+        print(f"COMMIT_BODY:  {prefix} ... and {len(unique) - cap} more (of {len(unique)} total)")
 
 
 def main():
