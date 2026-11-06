@@ -6,6 +6,9 @@ on:
       - main
     paths:
       - 'website/**'
+      - 'scripts/aggregate-stats.py'
+      - 'scripts/export-*'
+      - 'scripts/generate-agency-pages.py'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
   workflow_run:
@@ -28,6 +31,25 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Regenerate site data from latest scrape
+        run: |
+          python3 scripts/aggregate-stats.py
+          python3 scripts/export-time-series.py
+          python3 scripts/export-ncic-data.py
+          python3 scripts/export-audit-data.py
+          node scripts/export-network-data.js
+          python3 scripts/generate-agency-pages.py
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
