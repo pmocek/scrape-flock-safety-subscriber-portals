@@ -4,7 +4,7 @@
   "inactive": 4,
   "not_found": 514,
   "total_cameras": 3088,
-  "total_searches": 17946,
+  "total_searches": 17956,
   "agencies": [
     {
       "slug": "vacaville-ca-pd",
@@ -155,8 +155,8 @@
       "name": "Brawley CA PD",
       "status": "active",
       "cameras": 41,
-      "vehicles_30d": 120496,
-      "searches_30d": 136,
+      "vehicles_30d": 121654,
+      "searches_30d": 145,
       "sharing_partners": 322
     },
     {
@@ -668,8 +668,8 @@
       "name": "Bratenahl OH PD",
       "status": "active",
       "cameras": 10,
-      "vehicles_30d": 50989,
-      "searches_30d": 0,
+      "vehicles_30d": 47735,
+      "searches_30d": 1,
       "sharing_partners": 0
     },
     {

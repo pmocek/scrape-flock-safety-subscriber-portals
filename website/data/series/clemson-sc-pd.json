@@ -1,0 +1,15 @@
+{
+  "slug": "clemson-sc-pd",
+  "name": "Clemson SC PD",
+  "last_updated": "2026-10-11T05:54:41.811727+00:00",
+  "entries": [
+    {
+      "ts": "2026-10-11T05:54:41.811727+00:00",
+      "cameras": 9,
+      "searches": 26,
+      "hotlist_hits": 258,
+      "status": "active",
+      "name": "Clemson SC PD"
+    }
+  ]
+}

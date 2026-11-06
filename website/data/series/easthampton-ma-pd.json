@@ -1,10 +1,15 @@
 {
   "slug": "easthampton-ma-pd",
   "name": "The page you are looking for doesn't exist.",
-  "last_updated": "2026-10-07T06:07:49.613192+00:00",
+  "last_updated": "2026-10-09T06:16:19.078535+00:00",
   "entries": [
     {
       "ts": "2026-10-07T06:07:49.613192+00:00",
+      "status": "not_found",
+      "name": "The page you are looking for doesn't exist."
+    },
+    {
+      "ts": "2026-10-09T06:16:19.078535+00:00",
       "status": "not_found",
       "name": "The page you are looking for doesn't exist."
     }

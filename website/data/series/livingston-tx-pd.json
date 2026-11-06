@@ -1,7 +1,7 @@
 {
   "slug": "livingston-tx-pd",
   "name": "The page you are looking for doesn't exist.",
-  "last_updated": "2026-10-08T13:42:54.860048+00:00",
+  "last_updated": "2026-10-11T13:06:15.783130+00:00",
   "entries": [
     {
       "ts": "2026-10-06T13:26:34.262662+00:00",
@@ -15,6 +15,16 @@
     },
     {
       "ts": "2026-10-08T13:42:54.860048+00:00",
+      "status": "not_found",
+      "name": "The page you are looking for doesn't exist."
+    },
+    {
+      "ts": "2026-10-10T12:45:54.314904+00:00",
+      "status": "not_found",
+      "name": "The page you are looking for doesn't exist."
+    },
+    {
+      "ts": "2026-10-11T13:06:15.783130+00:00",
       "status": "not_found",
       "name": "The page you are looking for doesn't exist."
     }

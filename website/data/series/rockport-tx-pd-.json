@@ -1,7 +1,7 @@
 {
   "slug": "rockport-tx-pd-",
   "name": "Rockport TX PD",
-  "last_updated": "2026-10-08T18:56:21.137678+00:00",
+  "last_updated": "2026-10-11T19:02:24.172213+00:00",
   "entries": [
     {
       "ts": "2026-10-06T18:30:26.041925+00:00",
@@ -27,6 +27,33 @@
       "vehicles": 43585,
       "searches": 3,
       "hotlist_hits": 213,
+      "status": "active",
+      "name": "Rockport TX PD"
+    },
+    {
+      "ts": "2026-10-09T18:28:53.068029+00:00",
+      "cameras": 6,
+      "vehicles": 39026,
+      "searches": 3,
+      "hotlist_hits": 209,
+      "status": "active",
+      "name": "Rockport TX PD"
+    },
+    {
+      "ts": "2026-10-10T18:45:26.091099+00:00",
+      "cameras": 6,
+      "vehicles": 41088,
+      "searches": 8,
+      "hotlist_hits": 201,
+      "status": "active",
+      "name": "Rockport TX PD"
+    },
+    {
+      "ts": "2026-10-11T19:02:24.172213+00:00",
+      "cameras": 6,
+      "vehicles": 43991,
+      "searches": 8,
+      "hotlist_hits": 194,
       "status": "active",
       "name": "Rockport TX PD"
     }

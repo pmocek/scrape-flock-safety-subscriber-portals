@@ -1,7 +1,7 @@
 {
   "slug": "brawley-ca-pd",
   "name": "Brawley CA PD",
-  "last_updated": "2026-10-08T02:02:42.930812+00:00",
+  "last_updated": "2026-10-12T03:46:55.497724+00:00",
   "entries": [
     {
       "ts": "2026-10-06T02:21:14.147392+00:00",
@@ -18,6 +18,24 @@
       "vehicles": 120306,
       "searches": 121,
       "hotlist_hits": 6369,
+      "status": "active",
+      "name": "Brawley CA PD"
+    },
+    {
+      "ts": "2026-10-09T02:16:24.167287+00:00",
+      "cameras": 41,
+      "vehicles": 120496,
+      "searches": 136,
+      "hotlist_hits": 6435,
+      "status": "active",
+      "name": "Brawley CA PD"
+    },
+    {
+      "ts": "2026-10-12T03:46:55.497724+00:00",
+      "cameras": 41,
+      "vehicles": 121654,
+      "searches": 145,
+      "hotlist_hits": 6406,
       "status": "active",
       "name": "Brawley CA PD"
     }

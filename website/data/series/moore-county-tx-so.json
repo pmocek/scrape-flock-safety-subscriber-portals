@@ -1,7 +1,7 @@
 {
   "slug": "moore-county-tx-so",
   "name": "The page you are looking for doesn't exist.",
-  "last_updated": "2026-10-08T15:42:38.966546+00:00",
+  "last_updated": "2026-10-10T14:32:14.200134+00:00",
   "entries": [
     {
       "ts": "2026-10-06T15:16:53.019206+00:00",
@@ -15,6 +15,16 @@
     },
     {
       "ts": "2026-10-08T15:42:38.966546+00:00",
+      "status": "not_found",
+      "name": "The page you are looking for doesn't exist."
+    },
+    {
+      "ts": "2026-10-09T15:21:48.331700+00:00",
+      "status": "not_found",
+      "name": "The page you are looking for doesn't exist."
+    },
+    {
+      "ts": "2026-10-10T14:32:14.200134+00:00",
       "status": "not_found",
       "name": "The page you are looking for doesn't exist."
     }

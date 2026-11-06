@@ -1,7 +1,7 @@
 {
   "slug": "-el-cajon-pd-ca",
   "name": "El Cajon CA PD",
-  "last_updated": "2026-10-08T00:16:33.141764+00:00",
+  "last_updated": "2026-10-12T01:24:23.490370+00:00",
   "entries": [
     {
       "ts": "2026-10-06T00:08:37.556624+00:00",
@@ -27,6 +27,42 @@
       "vehicles": 820467,
       "searches": 417,
       "hotlist_hits": 10313,
+      "status": "active",
+      "name": "El Cajon CA PD"
+    },
+    {
+      "ts": "2026-10-09T00:29:46.563590+00:00",
+      "cameras": 103,
+      "vehicles": 820387,
+      "searches": 420,
+      "hotlist_hits": 10318,
+      "status": "active",
+      "name": "El Cajon CA PD"
+    },
+    {
+      "ts": "2026-10-10T00:06:52.229234+00:00",
+      "cameras": 103,
+      "vehicles": 818408,
+      "searches": 410,
+      "hotlist_hits": 10259,
+      "status": "active",
+      "name": "El Cajon CA PD"
+    },
+    {
+      "ts": "2026-10-11T01:03:49.955376+00:00",
+      "cameras": 103,
+      "vehicles": 815199,
+      "searches": 406,
+      "hotlist_hits": 10231,
+      "status": "active",
+      "name": "El Cajon CA PD"
+    },
+    {
+      "ts": "2026-10-12T01:24:23.490370+00:00",
+      "cameras": 103,
+      "vehicles": 816330,
+      "searches": 400,
+      "hotlist_hits": 10215,
       "status": "active",
       "name": "El Cajon CA PD"
     }

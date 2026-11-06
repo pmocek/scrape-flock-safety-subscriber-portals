@@ -1,7 +1,7 @@
 {
   "slug": "-spokane-county-wa-so",
   "name": "Spokane County WA SO",
-  "last_updated": "2026-10-08T00:17:08.860748+00:00",
+  "last_updated": "2026-10-12T01:24:58.684595+00:00",
   "entries": [
     {
       "ts": "2026-09-05T00:09:33.105003+00:00",
@@ -20,6 +20,26 @@
     },
     {
       "ts": "2026-10-08T00:17:08.860748+00:00",
+      "status": "active",
+      "name": "Spokane County WA SO"
+    },
+    {
+      "ts": "2026-10-09T00:30:22.594380+00:00",
+      "status": "active",
+      "name": "Spokane County WA SO"
+    },
+    {
+      "ts": "2026-10-10T00:08:31.509575+00:00",
+      "status": "active",
+      "name": "Spokane County WA SO"
+    },
+    {
+      "ts": "2026-10-11T01:04:26.100869+00:00",
+      "status": "active",
+      "name": "Spokane County WA SO"
+    },
+    {
+      "ts": "2026-10-12T01:24:58.684595+00:00",
       "status": "active",
       "name": "Spokane County WA SO"
     }

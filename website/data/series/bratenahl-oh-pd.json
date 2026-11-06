@@ -1,7 +1,7 @@
 {
   "slug": "bratenahl-oh-pd",
   "name": "Bratenahl OH PD",
-  "last_updated": "2026-10-08T02:02:33.332263+00:00",
+  "last_updated": "2026-10-12T03:46:45.991269+00:00",
   "entries": [
     {
       "ts": "2026-10-06T02:21:04.586480+00:00",
@@ -16,6 +16,23 @@
       "cameras": 10,
       "vehicles": 51147,
       "hotlist_hits": 280,
+      "status": "active",
+      "name": "Bratenahl OH PD"
+    },
+    {
+      "ts": "2026-10-09T02:16:14.870695+00:00",
+      "cameras": 10,
+      "vehicles": 50989,
+      "hotlist_hits": 277,
+      "status": "active",
+      "name": "Bratenahl OH PD"
+    },
+    {
+      "ts": "2026-10-12T03:46:45.991269+00:00",
+      "cameras": 10,
+      "vehicles": 47735,
+      "searches": 1,
+      "hotlist_hits": 256,
       "status": "active",
       "name": "Bratenahl OH PD"
     }

@@ -1,6 +1,6 @@
 {
   "generated_at": "auto",
-  "total_analyzed": 766,
+  "total_analyzed": 785,
   "agencies_with_flags": 261,
   "mode_a_maass_contradiction": [
     {
@@ -82,6 +82,11 @@
       "slug": "city-of-westlake-tx",
       "name": "City of Westlake (TX)",
       "cameras": 21
+    },
+    {
+      "slug": "clemson-sc-pd",
+      "name": "Clemson SC PD",
+      "cameras": 9
     },
     {
       "slug": "cohasset-ma-pd",
@@ -809,10 +814,6 @@
       "name": "<Error>"
     },
     {
-      "slug": "goldendale-wa-pd",
-      "name": "<Error>"
-    },
-    {
       "slug": "green-island-ny-pd",
       "name": "<Error>"
     },
@@ -1169,7 +1170,7 @@
     {
       "slug": "adrian-mi-pd",
       "name": "Adrian MI PD",
-      "non_prohibiting_partners": 424
+      "non_prohibiting_partners": 436
     },
     {
       "slug": "antioch-ca-pd",
@@ -1214,7 +1215,7 @@
     {
       "slug": "bridgeport-township-mi-pd",
       "name": "Bridgeport Township MI PD",
-      "non_prohibiting_partners": 174
+      "non_prohibiting_partners": 178
     },
     {
       "slug": "centralia-pd-wa",
@@ -1229,7 +1230,7 @@
     {
       "slug": "city-of-westlake-tx",
       "name": "City of Westlake (TX)",
-      "non_prohibiting_partners": 57
+      "non_prohibiting_partners": 58
     },
     {
       "slug": "clear-lake-ia-pd",
@@ -1237,14 +1238,19 @@
       "non_prohibiting_partners": 8
     },
     {
+      "slug": "clemson-sc-pd",
+      "name": "Clemson SC PD",
+      "non_prohibiting_partners": 24
+    },
+    {
       "slug": "coldwater-mi-pd",
       "name": "Coldwater MI PD",
-      "non_prohibiting_partners": 234
+      "non_prohibiting_partners": 240
     },
     {
       "slug": "college-station-tx-pd",
       "name": "College Station TX PD",
-      "non_prohibiting_partners": 92
+      "non_prohibiting_partners": 93
     },
     {
       "slug": "colma-ca-pd",
@@ -1274,12 +1280,12 @@
     {
       "slug": "-el-cajon-pd-ca",
       "name": "El Cajon CA PD",
-      "non_prohibiting_partners": 103
+      "non_prohibiting_partners": 105
     },
     {
       "slug": "el-dorado-ks-pd",
       "name": "El Dorado KS PD",
-      "non_prohibiting_partners": 20
+      "non_prohibiting_partners": 21
     },
     {
       "slug": "el-segundo-ca-pd",
@@ -1289,12 +1295,12 @@
     {
       "slug": "elgin-sc-pd",
       "name": "Elgin SC PD",
-      "non_prohibiting_partners": 225
+      "non_prohibiting_partners": 231
     },
     {
       "slug": "elizabethtown-ky-pd",
       "name": "Elizabethtown KY PD",
-      "non_prohibiting_partners": 364
+      "non_prohibiting_partners": 374
     },
     {
       "slug": "galion-city-school-district-oh",
@@ -1304,22 +1310,22 @@
     {
       "slug": "golf-manor-oh-pd",
       "name": "Golf Manor OH PD",
-      "non_prohibiting_partners": 283
+      "non_prohibiting_partners": 290
     },
     {
       "slug": "grand-island-ne-pd",
       "name": "Grand Island NE PD",
-      "non_prohibiting_partners": 189
+      "non_prohibiting_partners": 193
     },
     {
       "slug": "grand-rapids-mi-pd",
       "name": "Grand Rapids MI PD",
-      "non_prohibiting_partners": 228
+      "non_prohibiting_partners": 233
     },
     {
       "slug": "grand-traverse-county-mi-so",
       "name": "Grand Traverse County MI SO",
-      "non_prohibiting_partners": 206
+      "non_prohibiting_partners": 211
     },
     {
       "slug": "grandview-heights-oh-pd",
@@ -1329,7 +1335,7 @@
     {
       "slug": "grandville-pd-mi",
       "name": "Grandville PD MI",
-      "non_prohibiting_partners": 223
+      "non_prohibiting_partners": 227
     },
     {
       "slug": "granville-oh-pd",
@@ -1349,12 +1355,12 @@
     {
       "slug": "herrin-il-pd",
       "name": "Herrin IL PD",
-      "non_prohibiting_partners": 207
+      "non_prohibiting_partners": 215
     },
     {
       "slug": "idaho-falls-id-pd",
       "name": "Idaho Falls ID PD",
-      "non_prohibiting_partners": 99
+      "non_prohibiting_partners": 101
     },
     {
       "slug": "indio-ca-pd",
@@ -1364,12 +1370,12 @@
     {
       "slug": "isle-of-palms-sc-pd",
       "name": "Isle of Palms SC PD",
-      "non_prohibiting_partners": 32
+      "non_prohibiting_partners": 34
     },
     {
       "slug": "jacksonville-ar-pd",
       "name": "Jacksonville AR PD",
-      "non_prohibiting_partners": 183
+      "non_prohibiting_partners": 186
     },
     {
       "slug": "kent-wa-pd",
@@ -1379,7 +1385,7 @@
     {
       "slug": "kildeer-il-pd",
       "name": "Kildeer IL PD",
-      "non_prohibiting_partners": 75
+      "non_prohibiting_partners": 79
     },
     {
       "slug": "lakewood-wa-pd",
@@ -1389,7 +1395,7 @@
     {
       "slug": "lovejoy-ga-pd",
       "name": "Lovejoy GA PD",
-      "non_prohibiting_partners": 55
+      "non_prohibiting_partners": 56
     },
     {
       "slug": "lowell-mi-pd",
@@ -1399,7 +1405,7 @@
     {
       "slug": "lucas-county-oh-so",
       "name": "Lucas County OH SO",
-      "non_prohibiting_partners": 172
+      "non_prohibiting_partners": 178
     },
     {
       "slug": "luray-va-pd",
@@ -1409,7 +1415,7 @@
     {
       "slug": "lynn-haven-fl-pd",
       "name": "Lynn Haven FL PD",
-      "non_prohibiting_partners": 245
+      "non_prohibiting_partners": 250
     },
     {
       "slug": "medina-wa-pd",
@@ -1419,12 +1425,12 @@
     {
       "slug": "morgans-point-pd-tx",
       "name": "Morgan's Point PD TX",
-      "non_prohibiting_partners": 87
+      "non_prohibiting_partners": 88
     },
     {
       "slug": "morton-il-pd",
       "name": "Morton IL PD",
-      "non_prohibiting_partners": 91
+      "non_prohibiting_partners": 95
     },
     {
       "slug": "moses-lake-wa-pd",
@@ -1434,17 +1440,17 @@
     {
       "slug": "mount-dora-fl-pd",
       "name": "Mount Dora FL PD",
-      "non_prohibiting_partners": 94
+      "non_prohibiting_partners": 98
     },
     {
       "slug": "mount-orab-oh-pd",
       "name": "Mount Orab OH PD",
-      "non_prohibiting_partners": 15
+      "non_prohibiting_partners": 16
     },
     {
       "slug": "mount-pleasant-sc-pd",
       "name": "Mount Pleasant SC PD",
-      "non_prohibiting_partners": 190
+      "non_prohibiting_partners": 196
     },
     {
       "slug": "mount-vernon-wa-pd",
@@ -1479,17 +1485,17 @@
     {
       "slug": "ottawa-county-oh-so",
       "name": "Ottawa County OH SO",
-      "non_prohibiting_partners": 249
+      "non_prohibiting_partners": 256
     },
     {
       "slug": "ottawa-il-pd",
       "name": "Ottawa IL PD",
-      "non_prohibiting_partners": 199
+      "non_prohibiting_partners": 205
     },
     {
       "slug": "ovilla-tx-pd",
       "name": "Ovilla TX PD",
-      "non_prohibiting_partners": 91
+      "non_prohibiting_partners": 92
     },
     {
       "slug": "owatonna-mn-pd",
@@ -1504,7 +1510,7 @@
     {
       "slug": "palmyra-mo-pd",
       "name": "Palmyra MO PD",
-      "non_prohibiting_partners": 181
+      "non_prohibiting_partners": 185
     },
     {
       "slug": "palo-alto-ca-pd",
@@ -1519,7 +1525,7 @@
     {
       "slug": "park-city-ks-pd",
       "name": "Park City KS PD",
-      "non_prohibiting_partners": 205
+      "non_prohibiting_partners": 208
     },
     {
       "slug": "prosser-wa-pd",
@@ -1584,12 +1590,12 @@
     {
       "slug": "springfield-fl-pd",
       "name": "Springfield FL PD",
-      "non_prohibiting_partners": 146
+      "non_prohibiting_partners": 150
     },
     {
       "slug": "springfield-mo-pd",
       "name": "Springfield MO PD",
-      "non_prohibiting_partners": 254
+      "non_prohibiting_partners": 257
     },
     {
       "slug": "springfield-or-pd",
@@ -1599,7 +1605,7 @@
     {
       "slug": "st-pauls-nc-pd",
       "name": "St Pauls NC PD",
-      "non_prohibiting_partners": 40
+      "non_prohibiting_partners": 41
     },
     {
       "slug": "st-louis-county-mn-so",
@@ -1639,7 +1645,7 @@
     {
       "slug": "stillwater-mn-pd",
       "name": "Stillwater MN PD",
-      "non_prohibiting_partners": 133
+      "non_prohibiting_partners": 136
     },
     {
       "slug": "sultan-wa-pd",
@@ -1669,7 +1675,7 @@
     {
       "slug": "upper-arlington-oh-pd",
       "name": "Upper Arlington OH PD",
-      "non_prohibiting_partners": 63
+      "non_prohibiting_partners": 64
     },
     {
       "slug": "urbandale-ia-pd",
@@ -1702,10 +1708,10 @@
       "slug": "adrian-mi-pd",
       "name": "Adrian MI PD",
       "backdoor_partners": [
-        "grand-traverse-county-mi-so",
         "bridgeport-township-mi-pd",
-        "lowell-mi-pd",
-        "ottawa-county-mi-so"
+        "grand-traverse-county-mi-so",
+        "ottawa-county-mi-so",
+        "lowell-mi-pd"
       ]
     },
     {
@@ -1726,8 +1732,8 @@
       "slug": "bridgeport-township-mi-pd",
       "name": "Bridgeport Township MI PD",
       "backdoor_partners": [
-        "grand-traverse-county-mi-so",
         "bridgeport-township-mi-pd",
+        "grand-traverse-county-mi-so",
         "ottawa-county-mi-so"
       ]
     },
@@ -1742,16 +1748,16 @@
       "slug": "city-of-westlake-tx",
       "name": "City of Westlake (TX)",
       "backdoor_partners": [
-        "bridgeport-township-mi-pd",
-        "ottawa-county-mi-so"
+        "ottawa-county-mi-so",
+        "bridgeport-township-mi-pd"
       ]
     },
     {
       "slug": "coldwater-mi-pd",
       "name": "Coldwater MI PD",
       "backdoor_partners": [
-        "grand-traverse-county-mi-so",
         "bridgeport-township-mi-pd",
+        "grand-traverse-county-mi-so",
         "ottawa-county-mi-so",
         "lowell-mi-pd"
       ]
@@ -1767,8 +1773,8 @@
       "slug": "elizabethtown-ky-pd",
       "name": "Elizabethtown KY PD",
       "backdoor_partners": [
-        "grand-traverse-county-mi-so",
         "bridgeport-township-mi-pd",
+        "grand-traverse-county-mi-so",
         "lowell-mi-pd"
       ]
     },
@@ -1776,24 +1782,24 @@
       "slug": "golf-manor-oh-pd",
       "name": "Golf Manor OH PD",
       "backdoor_partners": [
-        "grand-traverse-county-mi-so",
-        "bridgeport-township-mi-pd"
+        "bridgeport-township-mi-pd",
+        "grand-traverse-county-mi-so"
       ]
     },
     {
       "slug": "grand-island-ne-pd",
       "name": "Grand Island NE PD",
       "backdoor_partners": [
-        "arvada-co-pd",
-        "bridgeport-township-mi-pd"
+        "bridgeport-township-mi-pd",
+        "arvada-co-pd"
       ]
     },
     {
       "slug": "grand-rapids-mi-pd",
       "name": "Grand Rapids MI PD",
       "backdoor_partners": [
-        "grand-traverse-county-mi-so",
         "bridgeport-township-mi-pd",
+        "grand-traverse-county-mi-so",
         "ottawa-county-mi-so",
         "lowell-mi-pd"
       ]
@@ -1802,8 +1808,8 @@
       "slug": "grand-traverse-county-mi-so",
       "name": "Grand Traverse County MI SO",
       "backdoor_partners": [
-        "grand-traverse-county-mi-so",
         "bridgeport-township-mi-pd",
+        "grand-traverse-county-mi-so",
         "ottawa-county-mi-so",
         "lowell-mi-pd"
       ]
@@ -1856,16 +1862,16 @@
       "slug": "lowell-mi-pd",
       "name": "Lowell MI PD",
       "backdoor_partners": [
-        "grand-traverse-county-mi-so",
-        "ottawa-county-mi-so"
+        "ottawa-county-mi-so",
+        "grand-traverse-county-mi-so"
       ]
     },
     {
       "slug": "lucas-county-oh-so",
       "name": "Lucas County OH SO",
       "backdoor_partners": [
-        "grand-traverse-county-mi-so",
-        "bridgeport-township-mi-pd"
+        "bridgeport-township-mi-pd",
+        "grand-traverse-county-mi-so"
       ]
     },
     {
@@ -1915,25 +1921,25 @@
       "slug": "ottawa-county-mi-so",
       "name": "Ottawa County MI SO",
       "backdoor_partners": [
-        "grand-traverse-county-mi-so",
         "bridgeport-township-mi-pd",
-        "lowell-mi-pd"
+        "lowell-mi-pd",
+        "grand-traverse-county-mi-so"
       ]
     },
     {
       "slug": "ottawa-county-oh-so",
       "name": "Ottawa County OH SO",
       "backdoor_partners": [
-        "grand-traverse-county-mi-so",
-        "bridgeport-township-mi-pd"
+        "bridgeport-township-mi-pd",
+        "grand-traverse-county-mi-so"
       ]
     },
     {
       "slug": "ottawa-il-pd",
       "name": "Ottawa IL PD",
       "backdoor_partners": [
-        "grand-traverse-county-mi-so",
-        "bridgeport-township-mi-pd"
+        "bridgeport-township-mi-pd",
+        "grand-traverse-county-mi-so"
       ]
     },
     {
@@ -1996,8 +2002,8 @@
       "slug": "stillwater-mn-pd",
       "name": "Stillwater MN PD",
       "backdoor_partners": [
-        "grand-traverse-county-mi-so",
-        "bridgeport-township-mi-pd"
+        "bridgeport-township-mi-pd",
+        "grand-traverse-county-mi-so"
       ]
     },
     {
@@ -2395,17 +2401,6 @@
     },
     {
       "slug": "federal-way-wa-pd",
-      "name": "<Error>",
-      "status": "active",
-      "flags": [
-        "no_immigration_prohibition"
-      ],
-      "prohibits_immigration": false,
-      "uses_national_hotlists": false,
-      "sharing_partners": 0
-    },
-    {
-      "slug": "goldendale-wa-pd",
       "name": "<Error>",
       "status": "active",
       "flags": [
@@ -3458,6 +3453,18 @@
       "sharing_partners": 94
     },
     {
+      "slug": "clemson-sc-pd",
+      "name": "Clemson SC PD",
+      "status": "active",
+      "flags": [
+        "maass_contradiction",
+        "shares_with_non_prohibitors"
+      ],
+      "prohibits_immigration": true,
+      "uses_national_hotlists": true,
+      "sharing_partners": 293
+    },
+    {
       "slug": "cohasset-ma-pd",
       "name": "Cohasset MA PD",
       "status": "active",
@@ -3618,7 +3625,7 @@
       ],
       "prohibits_immigration": true,
       "uses_national_hotlists": true,
-      "sharing_partners": 644
+      "sharing_partners": 650
     },
     {
       "slug": "el-dorado-ks-pd",
@@ -3714,7 +3721,7 @@
       ],
       "prohibits_immigration": true,
       "uses_national_hotlists": true,
-      "sharing_partners": 2726
+      "sharing_partners": 2723
     },
     {
       "slug": "goochland-county-va-so",
@@ -3918,7 +3925,7 @@
       ],
       "prohibits_immigration": true,
       "uses_national_hotlists": true,
-      "sharing_partners": 329
+      "sharing_partners": 328
     },
     {
       "slug": "isle-of-wight-county-va-so",
@@ -4778,7 +4785,7 @@
       ],
       "prohibits_immigration": false,
       "uses_national_hotlists": true,
-      "sharing_partners": 215
+      "sharing_partners": 214
     },
     {
       "slug": "stamping-ground-ky-pd",
