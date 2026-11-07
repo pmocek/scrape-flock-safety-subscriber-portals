@@ -5,7 +5,7 @@ Visit Flock
 Golf Manor OH PD
 Transparency Portal
 
-Last updated: Thu Nov 05 2026
+Last updated: Fri Nov 06 2026
 
 Overview
 
@@ -58,15 +58,13 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-333 alerts
+334 alerts
 NCIC - Protection Order
 312
 NCIC - Sex Offender
-10
+11
 NCIC - Warrants
-10
-NCIC - Stolen Vehicle
-1
+11
 
 Data Retention
 
@@ -90,7 +88,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-32,164
+32,072
 
 Number of Searches
 
@@ -108,7 +106,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-578
+580
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -2792,7 +2790,6 @@ Dyersburg TN PD
 Easley SC PD
 East Cleveland OH PD
 East Peoria IL PD
-East Tennessee State University TN Campus PD
 Eastern Adams Regional PA PD
 Eastlake OH PD
 Eaton OH PD
