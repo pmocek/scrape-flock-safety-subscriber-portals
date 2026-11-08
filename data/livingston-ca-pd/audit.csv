@@ -1,4 +1,5 @@
 id,userId,searchDate,networkCount,reason
+cc21c408-08d5-451e-b8e5-67ad4c7c74ac,***,2026-11-07T09:13:59.997Z,1,stolen vehicle
 637a1192-8b17-45a1-b25f-53f9de976dcc,***,2026-11-05T20:54:20.977Z,1,Attempting to determine vehicles last known direction/location
 0103f25a-edb9-404c-b93f-e60cf3338de4,***,2026-11-05T20:43:24.887Z,7,Attempting to determine vehicles last known location
 675901a9-5e44-4c6c-8bc6-adbdba8cfa22,***,2026-11-04T15:00:57.257Z,1,investigations
