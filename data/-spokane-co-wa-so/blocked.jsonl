@@ -2,3 +2,4 @@
 {"ts": "2026-10-16T00:32:44.395694+00:00", "error": "Cloudflare", "consecutive_blocks": 2, "backoff_hours": 1, "retry_after": "2026-10-16T01:32:44.395694+00:00"}
 {"ts": "2026-10-26T00:34:32.487098+00:00", "error": "Cloudflare", "consecutive_blocks": 3, "backoff_hours": 1, "retry_after": "2026-10-26T01:34:32.487098+00:00"}
 {"ts": "2026-11-07T00:15:45.803421+00:00", "error": "Cloudflare", "consecutive_blocks": 4, "backoff_hours": 1, "retry_after": "2026-11-07T01:15:45.803421+00:00"}
+{"ts": "2026-11-08T01:33:29.726918+00:00", "error": "Cloudflare", "consecutive_blocks": 5, "backoff_hours": 1, "retry_after": "2026-11-08T02:33:29.726918+00:00"}
