@@ -2,11 +2,11 @@
   "agencies_monitored": 225,
   "agencies_in_inventory": 998,
   "agencies_unchecked": 773,
-  "ok": 202,
+  "ok": 201,
   "blocked": 18,
-  "error": 5,
+  "error": 6,
   "first_check": "2026-06-25T19:38:03.746729+00:00",
-  "last_check": "2026-11-08T20:47:54.418585+00:00",
+  "last_check": "2026-11-09T00:08:03.975453+00:00",
   "daily": [
     {
       "date": "2026-06-25",
@@ -230,6 +230,13 @@
       "checks": 120,
       "ok": 116,
       "error": 4,
+      "blocked": 0
+    },
+    {
+      "date": "2026-11-09",
+      "checks": 30,
+      "ok": 29,
+      "error": 1,
       "blocked": 0
     }
   ],
@@ -18750,10 +18757,10 @@
     },
     {
       "slug": "richland-wa-pd",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-11-08T16:23:13.363037+00:00",
-      "checks_recorded": 20,
+      "status": "error",
+      "detail": "http_403",
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 21,
       "series": [
         {
           "date": "2026-10-12",
@@ -18851,6 +18858,13 @@
           "checks": 2,
           "ok": 2,
           "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
           "blocked": 0
         }
       ]
@@ -18859,8 +18873,8 @@
       "slug": "richland-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T16:23:13.363037+00:00",
-      "checks_recorded": 20,
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 21,
       "series": [
         {
           "date": "2026-10-12",
@@ -18957,6 +18971,13 @@
           "date": "2026-11-08",
           "checks": 2,
           "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
           "error": 0,
           "blocked": 0
         }
@@ -18966,7 +18987,377 @@
       "slug": "seatac-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T16:23:13.363037+00:00",
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 50,
+      "series": [
+        {
+          "date": "2026-06-25",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-27",
+          "checks": 13,
+          "ok": 13,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-28",
+          "checks": 12,
+          "ok": 12,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-06-29",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-12",
+          "checks": 3,
+          "ok": 3,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-16",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-17",
+          "checks": 3,
+          "ok": 3,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-18",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-19",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-20",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-28",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-01",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-02",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-04",
+          "checks": 1,
+          "ok": 0,
+          "error": 0,
+          "blocked": 1
+        },
+        {
+          "date": "2026-11-08",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "seatac-wa-pd-",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 22,
+      "series": [
+        {
+          "date": "2026-10-12",
+          "checks": 3,
+          "ok": 3,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-16",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-17",
+          "checks": 3,
+          "ok": 3,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-18",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-19",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-28",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-01",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-02",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-04",
+          "checks": 1,
+          "ok": 0,
+          "error": 0,
+          "blocked": 1
+        },
+        {
+          "date": "2026-11-08",
+          "checks": 3,
+          "ok": 2,
+          "error": 1,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "sedro-woolley-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 20,
+      "series": [
+        {
+          "date": "2026-10-12",
+          "checks": 3,
+          "ok": 3,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-16",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-17",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-18",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-19",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-28",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-01",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-02",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-08",
+          "checks": 3,
+          "ok": 3,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "selah-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
       "checks_recorded": 49,
       "series": [
         {
@@ -19013,355 +19404,6 @@
         },
         {
           "date": "2026-10-17",
-          "checks": 3,
-          "ok": 3,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-18",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-19",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-20",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-25",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-28",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-01",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-02",
-          "checks": 1,
-          "ok": 0,
-          "error": 1,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-04",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        },
-        {
-          "date": "2026-11-08",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "seatac-wa-pd-",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-11-08T16:23:13.363037+00:00",
-      "checks_recorded": 21,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 3,
-          "ok": 3,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-16",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-17",
-          "checks": 3,
-          "ok": 3,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-18",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-19",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-25",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-28",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-01",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-02",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-04",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        },
-        {
-          "date": "2026-11-08",
-          "checks": 3,
-          "ok": 2,
-          "error": 1,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "sedro-woolley-wa-pd",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-11-08T16:23:13.363037+00:00",
-      "checks_recorded": 19,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 3,
-          "ok": 3,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-16",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-17",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-18",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-19",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-25",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-28",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-01",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-02",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-08",
-          "checks": 3,
-          "ok": 3,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "selah-wa-pd",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-11-08T16:23:13.363037+00:00",
-      "checks_recorded": 48,
-      "series": [
-        {
-          "date": "2026-06-25",
-          "checks": 1,
-          "ok": 0,
-          "error": 1,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-27",
-          "checks": 13,
-          "ok": 13,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-28",
-          "checks": 12,
-          "ok": 12,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-06-29",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-12",
-          "checks": 3,
-          "ok": 3,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-16",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-17",
           "checks": 2,
           "ok": 2,
           "error": 0,
@@ -19434,6 +19476,13 @@
           "date": "2026-11-08",
           "checks": 3,
           "ok": 3,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
           "error": 0,
           "blocked": 0
         }
@@ -19473,100 +19522,7 @@
       "slug": "shelton-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T16:23:13.363037+00:00",
-      "checks_recorded": 20,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 3,
-          "ok": 3,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-16",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-17",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-18",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-25",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-28",
-          "checks": 2,
-          "ok": 1,
-          "error": 1,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-01",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-02",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-08",
-          "checks": 3,
-          "ok": 3,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "shelton-wa-pd-",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-11-08T16:23:13.363037+00:00",
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
       "checks_recorded": 21,
       "series": [
         {
@@ -19620,6 +19576,106 @@
         },
         {
           "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-28",
+          "checks": 2,
+          "ok": 1,
+          "error": 1,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-01",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-02",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-08",
+          "checks": 3,
+          "ok": 3,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "shelton-wa-pd-",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 22,
+      "series": [
+        {
+          "date": "2026-10-12",
+          "checks": 3,
+          "ok": 3,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-16",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-17",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-18",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
           "checks": 2,
           "ok": 1,
           "error": 1,
@@ -19652,6 +19708,13 @@
           "ok": 3,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -19659,8 +19722,8 @@
       "slug": "skamania-co-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T16:23:13.363037+00:00",
-      "checks_recorded": 49,
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 50,
       "series": [
         {
           "date": "2026-06-25",
@@ -19773,6 +19836,13 @@
           "ok": 3,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -19780,93 +19850,7 @@
       "slug": "skamania-county-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T16:23:13.363037+00:00",
-      "checks_recorded": 19,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-16",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-17",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-21",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-25",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-28",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-01",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-02",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-08",
-          "checks": 3,
-          "ok": 3,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "snohomish-county-wa-911",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-11-08T16:23:13.363037+00:00",
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
       "checks_recorded": 20,
       "series": [
         {
@@ -19912,6 +19896,99 @@
           "blocked": 0
         },
         {
+          "date": "2026-10-25",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-28",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-01",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-02",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-08",
+          "checks": 3,
+          "ok": 3,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "snohomish-county-wa-911",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 21,
+      "series": [
+        {
+          "date": "2026-10-12",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-16",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-17",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-21",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-23",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
           "date": "2026-10-24",
           "checks": 1,
           "ok": 0,
@@ -19952,6 +20029,13 @@
           "ok": 3,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -19959,8 +20043,8 @@
       "slug": "snohomish-county-wa-so-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T09:35:11.395464+00:00",
-      "checks_recorded": 46,
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 47,
       "series": [
         {
           "date": "2026-06-25",
@@ -20066,6 +20150,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -20073,8 +20164,8 @@
       "slug": "snohomish-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T09:35:11.395464+00:00",
-      "checks_recorded": 17,
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 18,
       "series": [
         {
           "date": "2026-10-12",
@@ -20152,6 +20243,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -20159,86 +20257,7 @@
       "slug": "spokane-co-county-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T09:35:11.395464+00:00",
-      "checks_recorded": 17,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-16",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-17",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-24",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-25",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-28",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-01",
-          "checks": 3,
-          "ok": 2,
-          "error": 1,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-02",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-08",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "spokane-co-wa-so",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-11-08T09:35:11.395464+00:00",
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
       "checks_recorded": 18,
       "series": [
         {
@@ -20293,179 +20312,7 @@
         {
           "date": "2026-11-01",
           "checks": 3,
-          "ok": 3,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-02",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-07",
-          "checks": 1,
-          "ok": 0,
-          "error": 1,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-08",
-          "checks": 2,
           "ok": 2,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "spokane-county-sherrif-wa-pd",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-11-08T09:35:11.395464+00:00",
-      "checks_recorded": 17,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-16",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-17",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-24",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-25",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-28",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-01",
-          "checks": 3,
-          "ok": 3,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-02",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-07",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-08",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        }
-      ]
-    },
-    {
-      "slug": "spokane-county-sherrif-wa-so",
-      "status": "ok",
-      "detail": "http_200",
-      "last_checked": "2026-11-08T09:35:11.395464+00:00",
-      "checks_recorded": 17,
-      "series": [
-        {
-          "date": "2026-10-12",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-16",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-17",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-24",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-25",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-28",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-01",
-          "checks": 4,
-          "ok": 3,
           "error": 1,
           "blocked": 0
         },
@@ -20477,26 +20324,26 @@
           "blocked": 0
         },
         {
-          "date": "2026-11-07",
-          "checks": 1,
-          "ok": 1,
+          "date": "2026-11-08",
+          "checks": 2,
+          "ok": 2,
           "error": 0,
           "blocked": 0
         },
         {
-          "date": "2026-11-08",
-          "checks": 2,
-          "ok": 2,
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
           "error": 0,
           "blocked": 0
         }
       ]
     },
     {
-      "slug": "spokane-county-wa-so",
+      "slug": "spokane-co-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T09:35:11.395464+00:00",
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
       "checks_recorded": 19,
       "series": [
         {
@@ -20508,6 +20355,285 @@
         },
         {
           "date": "2026-10-16",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-17",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-28",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-01",
+          "checks": 3,
+          "ok": 3,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-02",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-07",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-08",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "spokane-county-sherrif-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 18,
+      "series": [
+        {
+          "date": "2026-10-12",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-16",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-17",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-28",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-01",
+          "checks": 3,
+          "ok": 3,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-02",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-07",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-08",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "spokane-county-sherrif-wa-so",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 18,
+      "series": [
+        {
+          "date": "2026-10-12",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-16",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-17",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-28",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-01",
+          "checks": 4,
+          "ok": 3,
+          "error": 1,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-02",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-07",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-08",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "spokane-county-wa-so",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 20,
+      "series": [
+        {
+          "date": "2026-10-12",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-16",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -20589,6 +20715,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -20596,8 +20729,8 @@
       "slug": "spokane-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T09:35:11.395464+00:00",
-      "checks_recorded": 18,
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 19,
       "series": [
         {
           "date": "2026-10-12",
@@ -20682,6 +20815,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -20689,8 +20829,8 @@
       "slug": "stanwood-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T09:35:11.395464+00:00",
-      "checks_recorded": 46,
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 47,
       "series": [
         {
           "date": "2026-06-25",
@@ -20803,6 +20943,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -20810,8 +20957,8 @@
       "slug": "sultan-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T09:35:11.395464+00:00",
-      "checks_recorded": 37,
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 38,
       "series": [
         {
           "date": "2026-06-27",
@@ -20917,6 +21064,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -20924,8 +21078,8 @@
       "slug": "sumner-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T09:35:11.395464+00:00",
-      "checks_recorded": 44,
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 45,
       "series": [
         {
           "date": "2026-06-25",
@@ -21031,6 +21185,13 @@
           "ok": 2,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -21038,8 +21199,8 @@
       "slug": "sumner-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T02:45:47.511217+00:00",
-      "checks_recorded": 15,
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 16,
       "series": [
         {
           "date": "2026-10-17",
@@ -21113,6 +21274,13 @@
         },
         {
           "date": "2026-11-08",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -21124,8 +21292,8 @@
       "slug": "sunnyside-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T02:45:47.511217+00:00",
-      "checks_recorded": 15,
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 16,
       "series": [
         {
           "date": "2026-10-19",
@@ -21203,6 +21371,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -21210,8 +21385,8 @@
       "slug": "sunnyside-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T02:45:47.511217+00:00",
-      "checks_recorded": 14,
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 15,
       "series": [
         {
           "date": "2026-10-19",
@@ -21285,6 +21460,13 @@
         },
         {
           "date": "2026-11-08",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -21296,8 +21478,8 @@
       "slug": "suquamish-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T02:45:47.511217+00:00",
-      "checks_recorded": 14,
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 15,
       "series": [
         {
           "date": "2026-10-19",
@@ -21375,6 +21557,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -21382,8 +21571,8 @@
       "slug": "the-hedges-homeowners-association-county-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T02:45:47.511217+00:00",
-      "checks_recorded": 14,
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 15,
       "series": [
         {
           "date": "2026-10-16",
@@ -21464,6 +21653,13 @@
         },
         {
           "date": "2026-11-08",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -21475,8 +21671,8 @@
       "slug": "the-hedges-homeowners-association-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T02:45:47.511217+00:00",
-      "checks_recorded": 15,
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 16,
       "series": [
         {
           "date": "2026-10-16",
@@ -21568,6 +21764,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -21575,8 +21778,8 @@
       "slug": "tieton-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T02:45:47.511217+00:00",
-      "checks_recorded": 15,
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 16,
       "series": [
         {
           "date": "2026-10-16",
@@ -21668,6 +21871,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -21675,8 +21885,8 @@
       "slug": "toppenish-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-08T02:45:47.511217+00:00",
-      "checks_recorded": 44,
+      "last_checked": "2026-11-09T00:08:03.975453+00:00",
+      "checks_recorded": 45,
       "series": [
         {
           "date": "2026-06-25",
@@ -21792,6 +22002,13 @@
         },
         {
           "date": "2026-11-08",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
           "checks": 1,
           "ok": 1,
           "error": 0,
