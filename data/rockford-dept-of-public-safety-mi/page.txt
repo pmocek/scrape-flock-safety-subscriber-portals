@@ -5,7 +5,7 @@ Visit Flock
 Rockford Dept of Public Safety MI
 Transparency Portal
 
-Last updated: Sun Nov 08 2026
+Last updated: Tue Nov 10 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-96,018
+94,380
 
 Number of Searches
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-87
+94
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -201,7 +201,6 @@ Kentwood MI PD
 Kokomo IN PD
 Lansing MI PD
 Lapeer City MI PD
-Lathrup Village MI PD
 Lenawee County MI SO
 Ligonier IN PD
 Lincoln Park MI PD
@@ -463,7 +462,6 @@ Lafayette IN PD
 Lafayette TN PD
 LaGrange County SO IN
 Lansing IL PD
-Lathrup Village MI PD
 Lawrence County District Attorney's Office PA
 Lee County IL SO
 Licking County OH SO
