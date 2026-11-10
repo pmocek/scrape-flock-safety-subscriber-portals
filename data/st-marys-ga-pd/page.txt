@@ -5,7 +5,7 @@ Visit Flock
 St. Marys GA PD
 Transparency Portal
 
-Last updated: Mon Nov 09 2026
+Last updated: Tue Nov 10 2026
 
 Overview
 
@@ -48,19 +48,19 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-8
+10
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-327
+325
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Motor Vehicle Theft/Stolen
 Larceny/Theft Offenses
+Motor Vehicle Theft/Stolen
 Drugs/Narcotics
 Hit and Run/Car Accident
 Homicide/Death Investigation
@@ -77,11 +77,13 @@ AL - Andalusia PD
 AL- Clarke County SO
 Alabama Law Enforcement Agency (ALEA)
 Alma GA PD
+Apex NC PD
 Athens-Clarke County GA PD
 Atlantic Beach FL PD
 Austell GA PD
 Austin County TX SO
 Ball Ground GA PD
+Bartow County GA SO
 Bedford County TN SO
 Bedford VA PD
 Berrien County GA SO
@@ -95,6 +97,7 @@ Burlington NC PD
 Butler Township PA PD
 Byron GA PD
 Calhoun County AL SO
+Carmel IN PD
 Carroll County GA SO
 Carrollton GA PD
 Cartersville GA PD
@@ -124,6 +127,7 @@ Davisboro GA PD
 Decatur County GA SO
 Decatur GA PD
 Decatur IN PD
+Decatur MS PD
 DeKalb County GA PD
 Department of Natural Resources - GA
 Dickson TN PD
@@ -154,10 +158,12 @@ Georgia State Patrol GA PD
 Georgia Tech GA PD
 Gilmer County GA SO
 Glynn County GA SO
+Goose Creek SC PD
 Grantville GA PD
 Greensboro GA PD
 Greenville County SC SO
 Gulf Breeze FL PD
+Guntersville AL PD
 Hamblen County TN SO
 Hancock County GA SO
 Hancock County IN SO
@@ -183,17 +189,21 @@ Johns Creek GA PD
 Jones County SO - GA
 Jonesboro AR PD
 Jonesboro GA PD
+Kemper County MS SO
+Kings Mountain NC PD
 Kingsland GA PD
 Kingston Springs TN PD
 La Follette TN PD
 Lakeland FL PD
 Lancaster SC PD
+Lee County GA SO
 Leesburg GA PD
 Lexington NC PD
 Louisburg NC PD
 Lowndes County GA SO
 Ludowici GA PD
 Lumberton NC PD
+Macon County AL SO
 Madison GA PD
 Mansfield TX PD
 Marietta GA PD
@@ -203,11 +213,14 @@ Mauldin SC PD
 McDonough GA PD
 McIntosh County GA SO
 McIntyre GA PD
+Metropolis IL PD
+Metropolitan Washington Airports Authority VA
 Metter GA PD
 Middle Tennessee State TN PD
 Milton GA PD
 Mint Hill NC PD
 Missouri Information Analysis Center
+Mitchell County NC SO
 Monroe County GA SO
 Montezuma GA PD
 Montgomery AL PD
@@ -252,12 +265,14 @@ Schuyler Co. IL SO
 Seminole County GA SO
 Senoia GA PD
 Silver Spring Township PA PD
+Sioux City IA PD
 Snellville GA PD
 Social Circle GA PD
 South Barrington IL PD
 South Carolina Law Enforcement Division - SLED
 South Fulton GA PD
 Southampton VA SO
+Southern Pines NC PD
 Spalding County GA SO
 Springfield GA PD
 St Mary Parish LA SO
@@ -269,8 +284,10 @@ Tarpon Springs FL PD
 Tattnall County GA SO
 Taylor County GA SO
 Texas Department of Public Safety
+Texas Financial Crimes Intelligence Center
 Thornton CO PD
 TN ROCIC
+Town of Bean Station PD TN
 Trousdale County TN SO
 Tulsa County OK SO
 University of West Georgia GA PD
@@ -278,6 +295,7 @@ Upson County GA SO
 Urbana OH PD
 Vance County NC SO
 Village of Clearview WV PD
+Walthall County MS SO
 Warner Robins GA PD
 Waycross GA PD
 Webster County GA SO
@@ -285,6 +303,7 @@ White House TN PD
 Whitfield County GA SO
 Wilkinson County GA SO
 Wilson NC PD
+Winder GA PD
 Woodlawn OH PD
 Yancey County NC SO
 Zebulon GA PD
