@@ -5,7 +5,7 @@ Visit Flock
 El Cajon CA PD
 Transparency Portal
 
-Last updated: Mon Nov 09 2026
+Last updated: Tue Nov 10 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-761,786
+759,836
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-489
+498
 
 Hotlists Alerted On
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-11,065
+11,101
 
 Sharing Network Data With
 
@@ -437,7 +437,6 @@ Marina CA PD
 Marion AR PD
 Marion Health PD (IN)
 Marshall TX PD
-Martin County TX SO
 Maryland Heights MO PD
 Marysville CA PD
 Marysville OH PD
@@ -617,7 +616,6 @@ Santa Rosa CA PD
 Santa Rosa County FL SO
 Sarasota FL PD
 Sarpy County NE SO
-Sauk Prairie WI PD
 Sauk Village IL PD
 Scarborough ME PD
 Schuyler Co. IL SO
