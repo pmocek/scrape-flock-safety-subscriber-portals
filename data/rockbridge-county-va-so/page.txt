@@ -1,0 +1,223 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+More Info
+Visit Flock
+Rockbridge County VA SO
+Transparency Portal
+
+Last updated: Wed Nov 11 2026
+
+Overview
+
+The Office of the Sheriff for Rockbridge County and Lexington City uses Flock Safety technology to capture objective evidence without compromising on individual privacy. The Office of the Sheriff for Rockbridge County and Lexington City utilizes retroactive search to solve crimes after they've occurred. Additionally, the Office of the Sheriff for Rockbridge County and Lexington City utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
+
+Community Impact
+In the Virginia News
+LYNCHBURG, VA
+6/19/2026
+
+HOMICIDE / MURDER
+
+Flock LPR Alert Leads to Arrest of Murder Suspect in Lynchburg, VA
+LPR
+Read full story
+GLOUCESTER, VA
+5/29/2026
+
+STOLEN VEHICLE RECOVERY
+
+Flock LPR Alert Leads to Stolen Truck Recovery in Gloucester, VA
+LPR
+Read full story
+BLACKSBURG, VA
+5/19/2026
+
+SEXUAL ASSAULT
+
+LPR Helps Virginia Deputies Locate Sexual Assault Suspect in 24 Hours
+LPR
+Read full story
+YORKTOWN, VA
+5/9/2026
+
+HIT-AND-RUN
+
+Flock LPR Helps Identify Hit-and-Run Driver in York County, VA
+LPR
+Read full story
+ROANOKE, VA
+4/16/2026
+
+MISSING PERSON
+
+Flock LPR Helps Locate Missing Man With Dementia in Roanoke
+LPR
+Read full story
+Data & Usage Summary
+Camera Alert Activity
+
+Camera alerts by source and topic over the last 30 days.
+
+24 alerts
+NCIC - SLED - Sex Offender
+6
+NCIC - VSP - Sex Offender
+6
+NCIC - SLED - Stolen Plate
+5
+NCIC - VSP - Stolen Plate
+5
+NCIC - SLED - Stolen Vehicle
+1
+NCIC - VSP - Stolen Vehicle
+1
+
+Data Retention
+
+The number of days data is retained.
+
+21 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+4
+
+Vehicles detected in the last 30 days
+
+Number of unique plate reads over the last 30 days.
+
+55,832
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+28
+Top Offense Types
+
+Offense Types used for LPR searches in the last 30 days.
+
+Wanted Person (Arrest Warrant/Fugitive)
+Drugs/Narcotics
+Burglary/Breaking & Entering
+Larceny/Theft Offenses
+Welfare Check
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by the Office of the Sheriff for Rockbridge County and Lexington City and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+System access requires a valid reason and is stored for auditing.
+
+Hit Notification Policy
+
+Hit notifications are required to be verified prior to action. Reasonable suspicion must be developed prior to stopping a vehicle based on a notification.
+SOC 2 Type II
+
+Independently audited controls covering security, availability, and confidentiality.
+
+ISO 27001
+
+Information security management aligned with international standards.
+
+Adherence to Key Privacy Principles
+
+Built to focus on data minimization, purpose limitation, and transparency.
+
+Myth vs. Fact
+Myth
+
+Flock has been hacked.
+
+Fact
+
+Flock's cloud environment has never been breached. Flock invests in a strong security posture, including adhering to NDAA, SOC2 (Type II), ISO 27001, ISO 27018 FedRAMP 20x, and Higher Education Community Vendor Assessment Tool (HECVAT) compliance. Additional security precautions include Role-Based Access Controls, data encrypted at-rest and in transit, required Multi-Factor Authentication, and regular penetration testing.
+
+Myth
+
+Flock sells and/or shares customer data.
+
+Fact
+
+Your community owns 100% of your data and it will never be sold. Only your agency decides who to share your data with, not Flock. Flock Safety does not publicly release agency search data. Flock does not operate or support any public-facing searchable database of law enforcement lookups, and we do not provide license plate search histories to websites or third parties without the agency's knowledge and authorization. Other agencies who you share footage with have been responding to FOIA requests and sharing this search data.
+
+Myth
+
+My data is fed into a national database.
+
+Fact
+
+Each agency controls access to its own data. Agencies may choose to share information through a broader network, but nothing is shared automatically. Participation is opt-in, governed by defined agreements, and limited to lawful investigative purposes.
+
+Myth
+
+Flock cameras use facial recognition.
+
+Fact
+
+Flock cameras do not use facial recognition technology. Searches are based on vehicle characteristics, and not identity. Flock cannot recognize, identify, or track individuals. It is purpose built for specific public safety investigations, not to monitor people.
+
+More Info
+
+RBSO Automated License Plate Readers (ALPRs) Policy
+
+423.1 PURPOSE AND SCOPE
+The purpose of this policy is to provide guidance for the capture, storage and use of digital data obtained through the use of Automated License Plate Reader (ALPR) technology.
+
+423.2 POLICY
+The policy of the Rockbridge County Sheriff's Office is to utilize ALPR technology to capture and store digital license plate data and images while recognizing the established privacy rights of the public.
+All data and images gathered by the ALPR are for the official use of this agency. Because such data may contain confidential information, it is not open to public review.
+
+423.3 ADMINISTRATION
+The ALPR technology, also known as License Plate Recognition (LPR), allows for the automated detection of license plates. It is used by the Rockbridge County Sheriff's Office to convert data associated with vehicle license plates for official law enforcement purposes, including identifying stolen or wanted vehicles, stolen license plates and missing persons. It may also be used to gather information related to active warrants, homeland security, electronic surveillance, suspect interdiction and stolen property recovery.
+All installation and maintenance of ALPR equipment, as well as ALPR data retention and access, shall be managed by the Chief of Special Operations. The Chief of Special Operations will assign members under his/her command to administer the day-to-day operation of the ALPR equipment and data.
+
+423.4 OPERATIONS
+Use of an ALPR is restricted to the purposes outlined below. Agency members shall not use, or allow others to use, the equipment or database records for any unauthorized purpose.
+a. An ALPR shall only be used for official law enforcement business.
+b. An ALPR may be used in conjunction with any routine patrol operation or criminal investigation. Reasonable suspicion or probable cause is not required before using an ALPR.
+c. While an ALPR may be used to canvass license plates around any crime scene, particular consideration should be given to using ALPR-equipped vehicles to canvass areas around homicides, shootings and other major incidents. Partial license plates reported during major crimes should be entered into the ALPR system in an attempt to identify suspect vehicles.
+d. No member of this agency shall operate ALPR equipment or access ALPR data without first completing agency-approved training.
+e. No ALPR operator may access confidential agency, state or federal data unless authorized to do so.
+f. If practicable, the deputy should verify an ALPR response through the appropriate official law enforcement database before taking enforcement action that is based solely on an ALPR alert.
+
+423.5 DATA COLLECTION AND RETENTION
+The Chief of Special Operations is responsible for ensuring systems and processes are in place for the proper collection and retention of ALPR data. Data will be transferred from vehicles to the designated storage in accordance with agency procedures.
+All stored ALPR data should be retained in accordance with the established records retention schedule. Thereafter, ALPR data should be purged unless it has become, or it is reasonable to believe it will become, evidence in a criminal or civil action or is subject to a discovery request or other lawful action to produce records. In those circumstances, the applicable data should be downloaded onto portable media and booked into evidence.
+
+423.6 ACCOUNTABILITY
+All data will be closely safeguarded and protected by both procedural and technological means. The Rockbridge County Sheriff's Office will observe the following safeguards regarding access to and use of stored data:
+a. All ALPR data downloaded to the mobile workstation and in storage shall be accessible only through a login/password-protected system capable of documenting all access of information by name, date and time.
+b. Members approved to access ALPR data under these guidelines are permitted to access the data for legitimate law enforcement purposes only, such as when the data relate to a specific criminal investigation or agency-related civil or administrative action.
+c. ALPR system audits should be conducted on a regular basis.
+
+423.7 RELEASING ALPR DATA
+The ALPR data may be shared only with other law enforcement or prosecutorial agencies for official law enforcement purposes or as otherwise permitted by law, using the following procedures:
+a. The agency makes a written request for the ALPR data that includes:
+1. The name of the agency.
+2. The name of the person requesting.
+3. The intended purpose of obtaining the information.
+b. The request is reviewed by the Chief of Special Operations or the authorized designee and approved before the request is fulfilled.
+c. The approved request is retained on file.
+Requests for ALPR data by non-law enforcement or non-prosecutorial agencies will be processed as provided in the Records Maintenance and Release Policy.
+
+
+Provided by Flock Safety
