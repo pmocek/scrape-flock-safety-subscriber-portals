@@ -5,7 +5,7 @@ Visit Flock
 East Wenatchee WA PD
 Transparency Portal
 
-Last updated: Sun Nov 08 2026
+Last updated: Tue Nov 10 2026
 
 Overview
 
@@ -36,7 +36,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-92,428
+79,200
 
 Number of Searches
 
@@ -54,7 +54,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-179
+159
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
