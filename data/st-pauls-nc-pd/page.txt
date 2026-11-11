@@ -5,7 +5,7 @@ Visit Flock
 St Pauls NC PD
 Transparency Portal
 
-Last updated: Tue Nov 10 2026
+Last updated: Wed Nov 11 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-56,534
+56,479
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-40
+41
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-298
+285
 
 Sharing Network Data With
 
