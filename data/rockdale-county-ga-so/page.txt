@@ -5,7 +5,7 @@ Visit Flock
 Rockdale County GA SO
 Transparency Portal
 
-Last updated: Tue Nov 10 2026
+Last updated: Wed Nov 11 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-569,040
+567,629
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-201
+203
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-67,009
+65,523
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
