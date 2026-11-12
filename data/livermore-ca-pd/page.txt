@@ -5,7 +5,7 @@ Visit Flock
 Livermore CA PD
 Transparency Portal
 
-Last updated: Mon Nov 09 2026
+Last updated: Wed Nov 11 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-1,150,107
+1,121,122
 
 Livermore PD searches in the last 30 days
 
 Total user search sessions over the last 30 days.
 
-271
+284
 
 Hotlists Alerted On
 
@@ -48,16 +48,16 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-10,131
+9,660
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
-Motor Vehicle Theft/Stolen
-Drugs/Narcotics
 Larceny/Theft Offenses
+Drugs/Narcotics
 Burglary/Breaking & Entering
-Other
+Motor Vehicle Theft/Stolen
+Child Abuse/Neglect
 
 Sharing Network Data With
 
