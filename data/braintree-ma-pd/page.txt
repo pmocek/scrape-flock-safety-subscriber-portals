@@ -1,0 +1,266 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+Braintree MA PD
+Transparency Portal
+
+Last updated: Wed Nov 11 2026
+
+Overview
+
+Braintree Police Department uses Flock Safety technology to capture objective evidence without compromising on individual privacy. The Braintree Police Department utilizes retroactive search capabilities to assist in solving crimes after they've occurred. Additionally, the Braintree Police Department utilizes real time alerting to support officers to vehicles associated with an amber alert, silver alert, missing person, kidnapping, wanted criminal, or criminal investigation passing a flock license plate reader. Alerts are verified by Braintree Police Officers prior to any enforcement action being taken.
+
+In an effort to ensure proper usage and guardrails are in place, the Braintree Police Department has made the below policies and usage statistics available to the public. This portal aims to provide transparency to the community as it relates to how BPD uses this technology.
+
+Community Impact
+Featured Success Stories
+
+Success Story - Shots Fired
+
+ALPR technology played a key role in a recent shots-fired investigation, helping detectives identify a vehicle associated with the suspect who had been following the victim’s habits. This information provided detectives with a valuable lead, demonstrating how ALPR can support timely investigations and help connect critical details to advance cases.
+
+Success Story - Overdue Motorist
+
+A woman reported that her elderly father had gone out to run errands earlier in the day but had not returned home. Officers were able to locate the gentlemen’s vehicle on Flock cameras in another state. The woman eventually made contact with her father and she travelled to his location so that he could follow her home.
+
+Success Story - Sexual Assault Investigation
+
+A victim, who worked at a local hotel, reported that a man touched her inappropriately and attempted to drag her into a room she was cleaning. The suspect fled when a co-worker responded to the victim’s screams. Using Flock, we were able to identify a vehicle of interest within 30 minutes. Additional research into the owner of the vehicle identified that this person had been charged with similar crimes before. Officers went to the suspect’s house where he confessed to this crime.
+
+Success Story - Hotel Stabbing
+
+A search warrant of the hotel room located a receipt from Target at the South Shore Plaza. Pulling video at Target led to a vehicle, which enabled Detectives to get a plate of the vehicle off Flock. This led to us going to Western MA and getting information from the driver that helped identify the three suspects. One suspect has been arrested and two fled out of the country.
+
+Success Story - Homicide
+
+A neighboring agency put out a broadcast of a suspect vehicle wanted in connection with a homicide. A search of Flock showed the vehicle had entered the SSP property shortly after the broadcast. Units responded and encountered the suspect exiting the mall and the suspect was taken into custody without incident. Evidence was recovered from the vehicle parked at the SSP.
+
+Success Story - Well-being check
+
+A woman called stating that her boyfriend had fled their home after saying he was going to kill himself. The boyfriend has had multiple suicide attempts in the past. Police units were able to intercept the boyfriend and get him to the hospital.
+
+Success Story - Homicide Investigation
+
+Another agency put out a suspect vehicle related to a homicide. Flock showed the vehicle coming to the SSP during relevant times. Investigators reviewed various video footage within the SSP and were ablet to identify who was operating the suspect vehicle for use in their investigation.
+
+Success Story - ID theft
+
+A suspect twice used an elderly woman's information to spend almost $15K at a store in Braintree. Distant video of the suspect vehicle led to a review of Flock cameras, which ultimately identified a vehicle registered to the suspect involved. The suspect was tied to other ID theft incidents throughout MA.
+
+Success Story - Human Trafficking
+
+Flock alerted detectives that a vehicle, that was the subject of an investigation into trafficking young female drugs addicts to commit credit card fraud, had entered Braintree. Detectives were able to locate the vehicle and the male operator was arrested on an outstanding warrant for credit card fraud.
+In the Massachusetts News
+WEYMOUTH, MA
+6/17/2026
+
+STOLEN VEHICLE RECOVERY
+
+Flock LPR Alert Leads to Stolen SUV Recovery and Arrest in Weymouth
+LPR
+Read full story
+EVERETT, MA
+6/15/2026
+
+STOLEN VEHICLE RECOVERY
+
+Flock LPR Helps Everett Police Arrest Four, Recover Firearms and Drugs
+LPR
+Read full story
+WALTHAM, MA
+5/27/2026
+
+OTHER
+
+Flock Cameras Help Identify Suspect in Fatal Waltham Road Rage Case
+VIDEO
+Read full story
+DOUGLAS, MA
+5/5/2026
+
+BURGLARY / BREAKING & ENTERING
+
+Flock LPR Helps Recover Stolen Dirt Bike and Lead to Arrest in Douglas, MA
+LPR
+Read full story
+BEVERLY, MA
+3/28/2026
+
+ARMED ROBBERY
+
+Flock LPR Helps Track Stolen Porsche After Beverly Mansion Invasion
+LPR
+Read full story
+Data & Usage Summary
+Camera Alert Activity
+
+Camera alerts by source and topic over the last 30 days.
+
+478 alerts
+NCIC - Stolen Plate
+324
+NCIC - Sex Offender
+95
+NCIC - Stolen Vehicle
+38
+NCIC - Gang or Suspected Terrorist
+7
+NCIC - CPIC Data Records
+6
+NCIC - Missing Person
+6
+NCIC - Warrants
+2
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+14
+
+LPR Cameras
+
+Number of LPR cameras only.
+
+11
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+160
+
+Sharing Network Data With
+
+Organizations granted access to Braintree MA PD data.
+
+Acushnet MA PD
+Beverly MA PD
+Blackstone MA PD
+Bridgewater MA PD
+Canton MA PD
+Charlton MA PD
+Chelmsford MA PD
+Chelsea MA PD
+Dennis MA PD
+Douglas MA PD
+Easthampton MA PD
+Essex County MA SO
+Everett MA PD
+Fairhaven MA PD
+Fall River MA PD
+Franklin MA PD
+Hadley MA PD
+Hampden County MA SO
+Hanson MA PD
+Hingham MA PD
+Holbrook MA PD
+Hopkinton MA PD
+Lakeville MA PD
+Lawrence MA PD
+Ludlow MA PD
+Lynn MA PD
+Malden MA PD
+Mattapoisett MA PD
+Medway MA PD
+Melrose MA PD
+Methuen MA PD
+Middleboro MA PD
+Montgomery MA PD
+Nahant MA PD
+Norwood MA PD
+Peabody MA PD
+Pembroke MA PD
+Raynham MA PD
+Revere MA PD
+Saugus MA PD
+Seekonk MA PD
+Sharon MA PD
+Somerset MA PD
+South Hadley MA PD
+Springfield College Campus PD MA
+Springfield MA PD
+Taunton MA PD
+Wareham MA PD
+West Springfield MA PD
+Westport MA PD
+Wilmington MA PD
+Woburn MA PD
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for official and legitimate law enforcement purposes only, in accordance with agency written directives and state law. All alerts are verified before enforcement action. Data is owned by the Braintree Police Department and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, reproductive health enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), personal use.
+
+Access Policy
+
+All system access requires a Offense Type, valid reason, case number (if applicable), and is stored indefinitely. Data is not shared with Federal agencies.
+
+Hotlist Policy
+
+Hotlist hits are human verified prior by Braintree Police Officers prior to any enforcement action being taken.
+SOC 2 Type II
+
+Independently audited controls covering security, availability, and confidentiality.
+
+ISO 27001
+
+Information security management aligned with international standards.
+
+Adherence to Key Privacy Principles
+
+Built to focus on data minimization, purpose limitation, and transparency.
+
+Myth vs. Fact
+Myth
+
+Flock has been hacked.
+
+Fact
+
+Flock's cloud environment has never been breached. Flock invests in a strong security posture, including adhering to NDAA, SOC2 (Type II), ISO 27001, ISO 27018 FedRAMP 20x, and Higher Education Community Vendor Assessment Tool (HECVAT) compliance. Additional security precautions include Role-Based Access Controls, data encrypted at-rest and in transit, required Multi-Factor Authentication, and regular penetration testing.
+
+Myth
+
+Flock sells and/or shares customer data.
+
+Fact
+
+Your community owns 100% of your data and it will never be sold. Only your agency decides who to share your data with, not Flock. Flock Safety does not publicly release agency search data. Flock does not operate or support any public-facing searchable database of law enforcement lookups, and we do not provide license plate search histories to websites or third parties without the agency's knowledge and authorization. Other agencies who you share footage with have been responding to FOIA requests and sharing this search data.
+
+Myth
+
+My data is fed into a national database.
+
+Fact
+
+Each agency controls access to its own data. Agencies may choose to share information through a broader network, but nothing is shared automatically. Participation is opt-in, governed by defined agreements, and limited to lawful investigative purposes.
+
+Myth
+
+Flock cameras use facial recognition.
+
+Fact
+
+Flock cameras do not use facial recognition technology. Searches are based on vehicle characteristics, and not identity. Flock cannot recognize, identify, or track individuals. It is purpose built for specific public safety investigations, not to monitor people.
+
+Provided by Flock Safety
