@@ -5,7 +5,7 @@ Visit Flock
 Montgomery TWP NJ PD
 Transparency Portal
 
-Last updated: Thu Nov 12 2026
+Last updated: Fri Nov 13 2026
 
 Overview
 
@@ -25,13 +25,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-262,708
+261,953
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-31
+32
 
 Hotlists Alerted On
 
@@ -43,7 +43,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-59,831
+57,278
 Policy & Trust
 
 What's Detected
