@@ -1,0 +1,83 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+Indian Hill OH PD
+Transparency Portal
+
+Last updated: Sat Nov 14 2026
+
+Overview
+
+The Indian Hill Rangers utilize Flock Safety technology to enhance public safety while protecting individual privacy. This technology is used to capture objective evidence that assists investigators without compromising the privacy of law-abiding citizens.
+
+The system is not continuously monitored or used for continuous surveillance. Instead, it is primarily used as an investigative tool, with information being queried only when there is a legitimate law enforcement or public safety purpose. This includes investigating criminal activity, identifying vehicles associated with incidents, recovering stolen vehicles, locating wanted individuals, and assisting in the safe recovery of missing or endangered children and at-risk adults. The system also generates real-time alerts for vehicles associated with validated hotlists, enabling officers to respond more quickly to significant public safety threats.
+
+The Indian Hill Rangers are committed to transparency and the responsible use of technology. As part of that commitment, this Transparency Portal provides the public with information about our use of the Flock Safety system, including usage statistics and other relevant data, reinforcing our dedication to accountability while safeguarding both public safety and individual privacy.
+
+Community Impact
+Featured Success Stories
+
+Recent Success Story - Missing/Runaway Juvenile Located
+
+In June, 2026, the Rangers were contacted by the Cincinnati Police Department about a juvenile who was reported Missing/Runaway, and was operating a vehicle without a parent's permission. In less than 10 minutes, the Ranger was able to safely stop the vehicle, and reunite the juvenile with parents, without incident. Flock has also assisted the Rangers in identifying vehicles (and later suspects) involved in burglaries, felony thefts, motor vehicle thefts, and property damage. It is vital to understand that Flock is a REACTIVE tool, used by law enforcement after an incident is reported. Flock is not constantly monitored. Flock has added another layer of safety to the Village, and for our residents.
+
+Chief Mike Dressell
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+34
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+26
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCIC, NCMEC Amber Alert
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+962
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Flock data is used for official law enforcement purposes only.
+
+Prohibited Uses
+
+The following uses of Flock Safety software are strictly prohibited; Immigration enforcement, proactive traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, gender, religion, political affiliation, nationality, ethnicity, sexual orientation, disability, veteran status), or other classification protected by law, or personal use of any nature.
+
+Access Policy
+
+System access is limited to authorized department personnel only, using their personal log-in credentials. Users must complete all mandated fields in the search page, and comply with Flock regulations.
+
+Hotlist Policy
+
+A Hotlist entry must be approved by the on-duty supervisor, and in compliance with department policies and directives. Officers shall take proactive steps to verify the validity of vehicles on the hot list before attempting to stop these vehicles.
+
+Provided by Flock Safety
