@@ -1,4 +1,7 @@
 id,userId,searchDate,networkCount,reason
+6056ddb2-d830-45d4-aad2-63eb9fa9c010,***,2026-11-13T19:39:56.633Z,98,vehicle theft
+7f301ab2-4381-40fe-a475-3f6ccf5e24f0,***,2026-11-13T15:58:21.870Z,8,vehicle theft
+eceb8b67-c32f-47fb-9f75-0095c8714b0e,***,2026-11-13T13:43:00.602Z,98,vehicle theft
 74e7b39c-0c9d-4d74-bfc6-fb5a79f804f2,***,2026-11-09T16:00:19.811Z,97,Theft
 15c90585-cda0-47e9-9b83-e1016a40ceca,***,2026-11-09T15:37:01.119Z,2,Theft
 4d782c43-c97b-43be-84d9-94deef947073,***,2026-11-06T18:32:54.681Z,2,confirming identities and activities of coordinated shoplifters
