@@ -6,7 +6,7 @@ Visit Flock
 Rockbridge County VA SO
 Transparency Portal
 
-Last updated: Sat Nov 14 2026
+Last updated: Sun Nov 15 2026
 
 Overview
 
@@ -59,7 +59,7 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-20 alerts
+18 alerts
 NCIC - SLED - Sex Offender
 6
 NCIC - VSP - Sex Offender
@@ -68,10 +68,6 @@ NCIC - SLED - Stolen Plate
 3
 NCIC - VSP - Stolen Plate
 3
-NCIC - SLED - Stolen Vehicle
-1
-NCIC - VSP - Stolen Vehicle
-1
 
 Data Retention
 
@@ -89,22 +85,22 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-54,859
+54,269
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-29
+27
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Drugs/Narcotics
 Wanted Person (Arrest Warrant/Fugitive)
-Burglary/Breaking & Entering
 Larceny/Theft Offenses
 Welfare Check
+Motor Vehicle Theft/Stolen
 Policy & Trust
 
 What's Detected
