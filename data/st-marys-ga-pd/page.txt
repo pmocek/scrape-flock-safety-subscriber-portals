@@ -5,7 +5,7 @@ Visit Flock
 St. Marys GA PD
 Transparency Portal
 
-Last updated: Sat Nov 14 2026
+Last updated: Sun Nov 15 2026
 
 Overview
 
@@ -54,7 +54,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-282
+266
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
