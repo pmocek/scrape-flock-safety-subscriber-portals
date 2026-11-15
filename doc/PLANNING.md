@@ -70,3 +70,10 @@ The following is the complete dump of all tasks migrated from the Beads local Do
      * Reset counter to 0 upon successful scrape.
      * Never permanently drop slugs to ensure long-term longitudinal tracking.
   3. Integrated backoff filtering into `scrape-flock.py` batching and added `--ignore-backoff` flag.
+
+### Milestone 5: Commit Log Hygiene & Analysis Decoupling
+* **Status:** Completed (See [`decouple-commit-summaries.md`](decouple-commit-summaries.md))
+* **Delivered:**
+  1. Decoupled global audit outlier reports and NCIC contradiction summaries from routine 2-hour batch scraper commits in `.github/workflows/scrape.yml`.
+  2. Batch data commits are now scoped strictly to actual agency deltas via `scripts/describe-diff.py`, eliminating repetitive 25-line global blocks and unstripped `COMMIT_BODY:` protocol markers.
+  3. Preserved global analysis generation in `pages.yml` and artifact generation (`conflict-matrix.md`, `health.json`).

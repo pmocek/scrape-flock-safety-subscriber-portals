@@ -4,7 +4,7 @@
 
 - **Atomic commits**: one logical change per commit
 - **Conventional Commits**: `feat:`, `fix:`, `chore:`, `docs:`, `refactor:`, etc.
-- **Commit body** includes audit outlier findings and health check error details when present
+- **Commit body**: includes health check error details when present; routine batch scraper commits are scoped strictly to data deltas via `describe-diff.py` (global audit and NCIC analysis are decoupled from batch commits)
 - Update README for user-facing changes; update AGENTS.md for things not obvious from repo structure
 
 ## Committed features
@@ -52,6 +52,7 @@
 - `scrape-flock.py`: **Camoufox engine fixed.** `launch_browser()` passed `os=["windows","macos","linux"]`, but current `fpgen` expects a single OS string, so it raised `InvalidConstraints` before launching a browser — the `--engine=camoufox` path had never actually run. Worse, `scrape.sh` only checks `import camoufox`, which succeeds, so it printed "Camoufox available" and then produced nothing. Use the `CAMOUFOX_OS` env var to pin the OS; unset is preferred. Verified: 8/8 headless in 94s with no xvfb, stats identical to Playwright, and a CI dispatch succeeds.
 - `scrape-flock.py` / `scripts/health-check.py`: **HTTP 403 with fully-rendered page content is normal for Flock portals and is NOT a Cloudflare block.** Both engines see it. Block detection must key on interstitial text ("Just a moment" / "Error 1015"), never status code alone. Content also takes ~4s to render, so probes must wait before calling `inner_text`.
 - `scrape-flock.py`: Added exponential rate-limit backoff and consecutive block tracking in `blocked.jsonl`. Replaced static skipping of blocked slugs with dynamic backoff evaluation (`should_attempt_slug` and `record_blocked`). Never-succeeded slugs back off exponentially ($2^N$ hours, capped at 30 days) while previously scraped slugs back off for 1 hour. Added `--ignore-backoff` flag. Counter resets to 0 upon successful scrape. Never permanently drops slugs.
+- `.github/workflows/scrape.yml` / `AGENTS.md`: Decoupled global audit analysis (`scripts/analyze-audit.py`) and NCIC contradiction detection (`scripts/ncic-contradiction.py`) summaries from routine 2-hour batch scraper commits. Global summaries previously appended 25+ lines of identical static outliers and nationwide counts to every commit regardless of which agencies changed. Batch commits now derive their commit subject and body solely from `scripts/describe-diff.py`. Global analysis continues in site builds (`pages.yml`) and artifact exports.
 
 ## Agency list source
 

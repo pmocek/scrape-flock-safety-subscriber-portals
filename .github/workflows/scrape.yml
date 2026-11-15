@@ -102,32 +102,6 @@ jobs:
         ENGINE="${{ github.event_name == 'workflow_dispatch' && inputs.engine || 'playwright' }}"
         ./scrape.sh --batch ${{ steps.batch.outputs.batch }} --total-batches 12 --engine "$ENGINE"
 
-    - name: Analyze audit CSVs
-      id: audit
-      continue-on-error: true
-      run: |
-        OUTPUT=$(python3 scripts/analyze-audit.py --commit-body 2>&1)
-        echo "$OUTPUT"
-        COMMIT_BODY=$(echo "$OUTPUT" | grep "^COMMIT_BODY:" || true)
-        if [ -n "$COMMIT_BODY" ]; then
-          echo "commit_body<<EOF" >> "$GITHUB_OUTPUT"
-          echo "$COMMIT_BODY" >> "$GITHUB_OUTPUT"
-          echo "EOF" >> "$GITHUB_OUTPUT"
-        fi
-
-    - name: Detect NCIC contradictions
-      id: ncic
-      continue-on-error: true
-      run: |
-        OUTPUT=$(python3 scripts/ncic-contradiction.py --commit-body 2>&1)
-        echo "$OUTPUT"
-        COMMIT_BODY=$(echo "$OUTPUT" | grep "^COMMIT_BODY:" || true)
-        if [ -n "$COMMIT_BODY" ]; then
-          echo "commit_body<<EOF" >> "$GITHUB_OUTPUT"
-          echo "$COMMIT_BODY" >> "$GITHUB_OUTPUT"
-          echo "EOF" >> "$GITHUB_OUTPUT"
-        fi
-
     - name: Refresh NCIC conflict matrix
       continue-on-error: true
       run: |
@@ -152,25 +126,8 @@ jobs:
           echo "Nothing meaningful changed — skipping commit"
           exit 0
         fi
-        AUDIT_BODY="${{ steps.audit.outputs.commit_body }}"
-        NCIC_BODY="${{ steps.ncic.outputs.commit_body }}"
         echo "Commit message:"
         echo "$MSG"
-        BODY=""
-        if [ -n "$AUDIT_BODY" ]; then
-          echo "Audit findings:"
-          echo "$AUDIT_BODY"
-          BODY="$BODY"$'\n'"Audit findings:"$'\n'"$AUDIT_BODY"
-        fi
-        if [ -n "$NCIC_BODY" ]; then
-          echo "NCIC findings:"
-          echo "$NCIC_BODY"
-          BODY="$BODY"$'\n'"NCIC findings:"$'\n'"$NCIC_BODY"
-        fi
-        if [ -n "$BODY" ]; then
-          printf '%s\n' "$MSG" "$BODY" | git commit -F -
-        else
-          git commit -m "$MSG"
-        fi
+        git commit -m "$MSG"
         git pull --rebase
         git push
