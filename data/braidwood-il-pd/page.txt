@@ -5,7 +5,7 @@ Visit Flock
 Braidwood IL PD
 Transparency Portal
 
-Last updated: Fri Nov 13 2026
+Last updated: Sun Nov 15 2026
 
 Overview
 
@@ -46,9 +46,9 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-94 alerts
+90 alerts
 NCIC - Violent Person
-42
+38
 NCIC - Sex Offender
 24
 NCIC - Stolen Plate
@@ -82,14 +82,14 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-2,384
+2,195
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Larceny/Theft Offenses
-Financial Crime (Embezzlement/Fraud)
 Wanted Person (Arrest Warrant/Fugitive)
+Financial Crime (Embezzlement/Fraud)
 Traffic Infraction
 Burglary/Breaking & Entering
 
@@ -97,7 +97,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-107
+114
 Policy & Trust
 
 What's Detected
