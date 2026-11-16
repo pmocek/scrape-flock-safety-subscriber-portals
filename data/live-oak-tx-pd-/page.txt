@@ -5,7 +5,7 @@ Visit Flock
 Live Oak TX PD
 Transparency Portal
 
-Last updated: Sat Nov 14 2026
+Last updated: Mon Nov 16 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-362,571
+363,147
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-25
+23
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-942
+874
 Policy & Trust
 
 What's Detected
