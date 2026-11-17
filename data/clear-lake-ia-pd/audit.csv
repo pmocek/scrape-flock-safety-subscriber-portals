@@ -1,35 +1,56 @@
-"id","userId","searchDate","networkCount","reason"
-"84ec9969-5b2b-4410-bde6-bfd69281e637","***","2026-07-05T06:02:41.086Z","71","search for possible stolen vehicle"
-"bede0b0b-54fa-4ec4-90ae-0fcf43d53b57","***","2026-07-05T19:21:33.015Z","71","Gun offense"
-"247d613c-ba4f-44d8-9e03-ad1f4da96609","***","2026-07-06T15:33:39.703Z","1","Search for Theft Suspect"
-"7e8c7bd2-927d-4822-8e36-f75e3f2895d5","***","2026-07-07T18:50:55.758Z","71","suspect vehicle"
-"6086b572-acb9-4afd-b380-903de1b3e321","***","2026-07-08T16:48:38.923Z","71","suspect vehicle"
-"3f594392-e58c-4d46-b1c2-832fa4c2aa39","***","2026-07-08T16:51:35.508Z","1","locate vehicle entering/leaving town"
-"523e710c-67e7-4a61-a3fa-4b5256d09122","***","2026-07-08T21:37:05.581Z","71","located wanted subj"
-"d8ef39b1-6617-470a-b397-e644499b3691","***","2026-07-09T20:22:38.233Z","1","Identify Run Vehicle"
-"87d64adf-2e7f-4ea0-a6c8-d31df27dfcbe","***","2026-07-10T01:28:05.168Z","71","Missing Suicidal Subject"
-"33c7a2bd-a518-439e-9713-e903860b780f","***","2026-07-17T02:13:50.108Z","71","Search for Impaired Driver"
-"f9f4b5a3-3030-4027-8b82-ea3aec9decc8","***","2026-07-18T02:30:46.839Z","1","CRASH REPORT"
-"d309ffd0-65b4-4f09-9729-d830a59801d3","***","2026-07-21T15:06:01.866Z","1","CRASH REPORT"
-"f87746ca-d73a-4efa-9fe9-f3aabc65bcb1","***","2026-07-23T16:16:38.996Z","71","Locate stolen veh."
-"d96e6aee-de6e-428d-b845-0bc345cde4c6","***","2026-07-24T03:44:08.185Z","1","Hit and Run Suspect"
-"7ab42804-afa0-43c3-b55e-42bbcfdf4d77","***","2026-07-24T15:05:10.690Z","71","verify location/time and locate run vehicle"
-"9d46c815-5627-4481-b0a6-3ddfecff1e63","***","2026-07-25T03:11:07.136Z","71","Drug activity/Para"
-"520f81ab-4b6e-44d6-93c6-aefcf218cbe5","***","2026-07-25T11:09:17.554Z","71","locate hit and run vehicle that went south on I35"
-"f3e4b1da-464d-4ada-9696-437f55fda21a","***","2026-07-25T22:51:53.244Z","71","missing person agency assist"
-"ccf97d73-90fe-4cce-b946-86a830008afb","***","2026-07-26T16:36:43.285Z","71","locate vehicle entering/leaving town"
-"9bcde61c-3a0f-4968-8ca2-008a539da7bd","***","2026-07-27T04:36:09.552Z","1","Hit and Run"
-"b072d4d4-6a4a-4302-8e1b-6bd321346943","***","2026-07-27T05:08:53.232Z","1","Hit and Run"
-"a74bda94-1dc7-4e45-99cd-2cac7f609566","***","2026-07-28T20:37:54.064Z","69","Hit and Run Suspect"
-"7834c2f3-5353-41bc-976e-2ebdf8989be9","***","2026-07-29T18:23:08.995Z","71","locate stolen license plate"
-"8e0dc819-397b-4a16-b7a4-9df14b4df227","***","2026-07-29T20:48:49.719Z","71","Driving in a manic state, possibly suicidal as well"
-"fdb16513-f47e-4c5e-941d-b69f7b808dcb","***","2026-07-30T22:41:30.627Z","71","suspect in driving complaint"
-"5e39d623-8cac-4063-81f2-bab220c49b52","***","2026-08-02T00:19:31.275Z","70","Armed Subj out of MC"
-"d32028a7-86da-41eb-951f-dc01c5b456bf","***","2026-08-02T02:41:22.480Z","70","Armed Subj out of MC"
-"e6dd6505-0628-40c5-a203-5f6a054f93be","***","2026-08-02T02:43:11.767Z","1","Criminal - Suspect veh"
-"c4d34dc1-3d45-4bbd-8afc-80aef360b153","***","2026-08-02T03:00:08.266Z","70","Criminal - Suspect veh"
-"0a5e0a98-e5a4-48fa-822c-dde804e86b1f","***","2026-08-02T21:05:17.199Z","70","Criminal Hit and run suspect vehicle"
-"f041a425-64af-43c2-a38d-9acdf311f8de","***","2026-08-02T22:08:01.221Z","70","Criminal Hit and run suspect vehicle"
-"28b0d73a-3df7-4b25-8bd9-c74e5be0601b","***","2026-08-02T23:06:48.674Z","70","Criminal Hit and run suspect vehicle"
-"cde3207a-33ff-43ad-ae65-381dae442f34","***","2026-08-03T00:42:04.098Z","70","Criminal Hit and run suspect vehicle"
-"d1708fee-df47-4d0a-93d3-8dfa610a4c3c","***","2026-08-03T03:22:05.848Z","70","Criminal Hit and run suspect vehicle"
+id,userId,searchDate,networkCount,reason
+3878ea11-0737-465d-884b-a2e48b56fd2f,***,2026-11-12T20:00:52.394Z,1,Fraudulent plates
+455a0684-977c-4728-a6c4-ed09effe0476,***,2026-11-12T09:17:09.209Z,1,counterfeit plates
+3f899b09-275d-43d1-8375-494a4622294f,***,2026-11-10T20:40:54.224Z,1,Locate Wanted Person
+580b08e5-9bb2-40e9-bada-3ff05e3f66ae,***,2026-11-08T09:30:30.278Z,1,Welfare check ref mental health concerns
+e3b3d1cc-0642-42df-9ec8-56c52e0368d6,***,2026-11-06T21:52:19.202Z,62,Vehicle associated with vehicle burglary suspects
+d52016fc-e493-4485-ad6d-eacbbfbe73fa,***,2026-11-06T20:08:18.096Z,1,Vehicle associated with vehicle burglary suspects
+57ce33b5-cce1-43e2-88fd-72ec913a023d,***,2026-11-05T18:49:22.465Z,1,Locate possible burglary suspects and identify suspect's vehicle
+eb891d81-8eea-4643-9ae4-72616a9261a7,***,2026-11-04T16:11:18.506Z,1,Identify a possible suspect in a multiple vehicle burglary investigation.
+bad14f62-6c4d-44ac-bdca-bd3e0d3619aa,***,2026-11-04T14:36:16.237Z,1,Identify a possible suspect in a multiple vehicle burglary investigation.
+5b673e25-b162-4826-865b-d0653d164a71,***,2026-11-03T21:11:42.641Z,1,Identify a possible suspect in a multiple vehicle burglary investigation.
+0ba80faa-2d56-43af-be64-d64fd13497be,***,2026-11-03T20:00:01.765Z,1,indentify run vehicle
+62ea9593-6343-4b99-870c-786279e0e297,***,2026-11-03T19:38:39.805Z,1,indentify run vehicle
+2849dc89-3f5d-4818-8acb-7de434c260e4,***,2026-11-03T19:10:10.544Z,1,Identify a possible suspect in a multiple vehicle burglary investigation.
+4204a0de-fb31-4f34-8c91-2af2bc15871d,***,2026-10-30T16:53:04.002Z,1,Vehicles associated with possible burglary suspects
+704c7014-c9cd-4b76-b085-86d11460b443,***,2026-10-30T15:11:50.998Z,1,Vehicles associated with possible burglary suspects
+37e67c80-b8b3-438f-ac73-8d7daa207d14,***,2026-10-29T19:47:16.570Z,1,Theft from MV invest
+94ae5a65-7543-45a7-b5dd-9737bcfbbe95,***,2026-10-29T15:58:56.761Z,1,Suspect Vehicle
+a9a10178-df8f-4c4a-91cf-27d528a3ed83,***,2026-10-29T03:12:00.227Z,1,Suicidal Subject
+9fe6a279-510b-4c0c-ade7-98aed77ef0bd,***,2026-10-22T09:50:51.592Z,1,Run Vehicle
+fdfe66db-bddf-4701-93e2-b930192fdf12,***,2026-10-18T19:15:41.970Z,1,Vandalism Suspect
+1dcad444-ba8f-4f5b-9603-df18330d4709,***,2026-10-18T17:21:30.280Z,1,Vandalism Suspect
+d1708fee-df47-4d0a-93d3-8dfa610a4c3c,***,2026-08-03T03:22:05.848Z,70,Criminal Hit and run suspect vehicle
+cde3207a-33ff-43ad-ae65-381dae442f34,***,2026-08-03T00:42:04.098Z,70,Criminal Hit and run suspect vehicle
+28b0d73a-3df7-4b25-8bd9-c74e5be0601b,***,2026-08-02T23:06:48.674Z,70,Criminal Hit and run suspect vehicle
+f041a425-64af-43c2-a38d-9acdf311f8de,***,2026-08-02T22:08:01.221Z,70,Criminal Hit and run suspect vehicle
+0a5e0a98-e5a4-48fa-822c-dde804e86b1f,***,2026-08-02T21:05:17.199Z,70,Criminal Hit and run suspect vehicle
+c4d34dc1-3d45-4bbd-8afc-80aef360b153,***,2026-08-02T03:00:08.266Z,70,Criminal - Suspect veh
+e6dd6505-0628-40c5-a203-5f6a054f93be,***,2026-08-02T02:43:11.767Z,1,Criminal - Suspect veh
+d32028a7-86da-41eb-951f-dc01c5b456bf,***,2026-08-02T02:41:22.480Z,70,Armed Subj out of MC
+5e39d623-8cac-4063-81f2-bab220c49b52,***,2026-08-02T00:19:31.275Z,70,Armed Subj out of MC
+fdb16513-f47e-4c5e-941d-b69f7b808dcb,***,2026-07-30T22:41:30.627Z,71,suspect in driving complaint
+8e0dc819-397b-4a16-b7a4-9df14b4df227,***,2026-07-29T20:48:49.719Z,71,"Driving in a manic state, possibly suicidal as well"
+7834c2f3-5353-41bc-976e-2ebdf8989be9,***,2026-07-29T18:23:08.995Z,71,locate stolen license plate
+a74bda94-1dc7-4e45-99cd-2cac7f609566,***,2026-07-28T20:37:54.064Z,69,Hit and Run Suspect
+b072d4d4-6a4a-4302-8e1b-6bd321346943,***,2026-07-27T05:08:53.232Z,1,Hit and Run
+9bcde61c-3a0f-4968-8ca2-008a539da7bd,***,2026-07-27T04:36:09.552Z,1,Hit and Run
+ccf97d73-90fe-4cce-b946-86a830008afb,***,2026-07-26T16:36:43.285Z,71,locate vehicle entering/leaving town
+f3e4b1da-464d-4ada-9696-437f55fda21a,***,2026-07-25T22:51:53.244Z,71,missing person agency assist
+520f81ab-4b6e-44d6-93c6-aefcf218cbe5,***,2026-07-25T11:09:17.554Z,71,locate hit and run vehicle that went south on I35
+9d46c815-5627-4481-b0a6-3ddfecff1e63,***,2026-07-25T03:11:07.136Z,71,Drug activity/Para
+7ab42804-afa0-43c3-b55e-42bbcfdf4d77,***,2026-07-24T15:05:10.690Z,71,verify location/time and locate run vehicle
+d96e6aee-de6e-428d-b845-0bc345cde4c6,***,2026-07-24T03:44:08.185Z,1,Hit and Run Suspect
+f87746ca-d73a-4efa-9fe9-f3aabc65bcb1,***,2026-07-23T16:16:38.996Z,71,Locate stolen veh.
+d309ffd0-65b4-4f09-9729-d830a59801d3,***,2026-07-21T15:06:01.866Z,1,CRASH REPORT
+f9f4b5a3-3030-4027-8b82-ea3aec9decc8,***,2026-07-18T02:30:46.839Z,1,CRASH REPORT
+33c7a2bd-a518-439e-9713-e903860b780f,***,2026-07-17T02:13:50.108Z,71,Search for Impaired Driver
+87d64adf-2e7f-4ea0-a6c8-d31df27dfcbe,***,2026-07-10T01:28:05.168Z,71,Missing Suicidal Subject
+d8ef39b1-6617-470a-b397-e644499b3691,***,2026-07-09T20:22:38.233Z,1,Identify Run Vehicle
+523e710c-67e7-4a61-a3fa-4b5256d09122,***,2026-07-08T21:37:05.581Z,71,located wanted subj
+3f594392-e58c-4d46-b1c2-832fa4c2aa39,***,2026-07-08T16:51:35.508Z,1,locate vehicle entering/leaving town
+6086b572-acb9-4afd-b380-903de1b3e321,***,2026-07-08T16:48:38.923Z,71,suspect vehicle
+7e8c7bd2-927d-4822-8e36-f75e3f2895d5,***,2026-07-07T18:50:55.758Z,71,suspect vehicle
+247d613c-ba4f-44d8-9e03-ad1f4da96609,***,2026-07-06T15:33:39.703Z,1,Search for Theft Suspect
+bede0b0b-54fa-4ec4-90ae-0fcf43d53b57,***,2026-07-05T19:21:33.015Z,71,Gun offense
+84ec9969-5b2b-4410-bde6-bfd69281e637,***,2026-07-05T06:02:41.086Z,71,search for possible stolen vehicle

@@ -5,7 +5,7 @@ Visit Flock
 Clear Lake IA PD
 Transparency Portal
 
-Last updated: Tue Aug 04 2026
+Last updated: Mon Nov 16 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-90,941
+66,622
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-34
+21
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-620
+309
 
 Sharing Network Data With
 
@@ -57,10 +57,8 @@ Organizations granted access to Clear Lake IA PD data.
 Altoona IA PD
 Ankeny IA PD
 Arnolds Park IA PD
-Bettendorf IA PD
 Burlington IA PD
 Carlisle IA PD
-Cedar County IA SO
 Cedar Rapids IA PD
 Cherokee County IA SO
 Clinton County IA SO
@@ -80,7 +78,7 @@ Jasper County Sheriff IA
 Johnston IA PD
 Mar Mac IA PD
 Marshalltown IA PD
-North Liberty IA PD
+Newton IA PD
 Oelwein IA PD
 Pleasant Hill IA PD
 Pottawattamie County IA SO
@@ -101,30 +99,26 @@ Organizations sharing their data with Clear Lake IA PD.
 
 Altoona IA PD
 Ankeny IA PD
-Anoka County MN SO
+Arnold MO PD
 Barron County WI SO
-Bettendorf IA PD
-Buffalo County WI SO
 Burlington IA PD
 Camanche IA PD
 Cambridge City IN PD
 Carlisle IA PD
 Carter Lake IA PD
-Cedar County IA SO
 Cedar Rapids IA PD
 Chanute KS PD
 Clarke County IA SO
 Clinton IA PD
 Clive IA PD
-Columbia County WI SO
 Council Bluffs IA PD
 Crawford County WI SO
 Crawfordsville IN PD
 Dakota County NE SO
 Davenport IA PD
 DeWitt IA PD
+Douglas County NE SO
 Dubuque IA PD
-Dunn County WI SO
 Earlham IA PD
 Fort Worth TX PD
 Fremont County IA SO
@@ -134,15 +128,15 @@ Holmen WI PD
 Hudson WI PD
 IA - Eldridge PD
 IA - Storm Lake PD
-Indianola IA PD
 Iowa Department of Corrections
+Iowa Department of Public Safety (IA)
 Jasper County Sheriff IA
 Johnston IA PD
 Juneau County WI SO
 Lake City MN PD
 Lake Delton WI PD
 Le Mars IA PD
-Lodi WI PD
+Liberty MO PD
 Mar Mac IA PD
 Marcus IA PD
 Marshalltown IA PD
@@ -153,7 +147,6 @@ MOCIC
 Monroe County WI SO
 Mount Morris Township PD MI
 Newton IA PD
-North Liberty IA PD
 North Sioux City SD PD
 Norwalk IA PD
 Nottawaseppi Huron Band of the Potawatomi Tribal Police MI
@@ -171,7 +164,8 @@ Sarpy County NE SO
 Sergeant Bluff IA PD
 Sikeston MO DPS
 Sioux City IA PD
-Stillwater MN PD
+South Sioux City NE PD
+Tipton IA PD
 University of Iowa PD (IA)
 Urbandale IA PD
 Vernon County WI SO
@@ -179,7 +173,6 @@ Village of French Island WI PD
 Wapello County IA SO
 Warren County IA SO
 Washington IA PD
-Waukee IA PD
 Waukon IA PD
 West Des Moines IA PD
 Policy & Trust
@@ -198,7 +191,7 @@ Data is used for law enforcement purposes only. Data is owned by Clear Lake IA P
 
 Prohibited Uses
 
-Traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+Traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), personal use.
 
 Access Policy
 
