@@ -5,7 +5,7 @@ Visit Flock
 St Pauls NC PD
 Transparency Portal
 
-Last updated: Sun Nov 15 2026
+Last updated: Tue Nov 17 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-55,393
+53,797
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-46
+49
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-243
+226
 
 Sharing Network Data With
 
@@ -190,7 +190,6 @@ North Myrtle Beach SC PD
 North Wilkesboro NC PD
 Norwood NC PD
 Oakboro NC PD
-Ocean Isle Beach NC PD
 Old Fort NC PD
 Pembroke NC PD
 Pender County NC SO
