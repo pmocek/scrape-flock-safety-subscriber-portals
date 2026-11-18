@@ -6,7 +6,7 @@ Visit Flock
 Rockbridge County VA SO
 Transparency Portal
 
-Last updated: Tue Nov 17 2026
+Last updated: Wed Nov 18 2026
 
 Overview
 
@@ -85,7 +85,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-53,714
+53,497
 
 Number of Searches
 
