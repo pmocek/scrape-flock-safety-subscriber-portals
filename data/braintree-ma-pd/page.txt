@@ -5,7 +5,7 @@ Visit Flock
 Braintree MA PD
 Transparency Portal
 
-Last updated: Mon Nov 16 2026
+Last updated: Tue Nov 17 2026
 
 Overview
 
@@ -97,9 +97,9 @@ Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-410 alerts
+398 alerts
 NCIC - Stolen Plate
-269
+257
 NCIC - Sex Offender
 87
 NCIC - Stolen Vehicle
@@ -135,7 +135,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-152
+151
 
 Sharing Network Data With
 
