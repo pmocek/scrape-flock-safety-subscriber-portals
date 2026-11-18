@@ -1,4 +1,9 @@
 id,userId,searchDate,networkCount,reason
+c3cd0696-1b93-4530-9a20-3f773d462d53,***,2026-11-15T22:21:32.847Z,4,Hit and Run
+4ad4af84-6906-42ff-b3dd-a2031f8f16ee,***,2026-11-15T05:46:22.322Z,1,Stolen Vehicle
+dca1ae69-d8af-4d8c-ae44-10d09864b6c2,***,2026-11-14T22:22:55.855Z,1,Hit and Run
+1037e9da-7411-4dc7-8268-17c4e80307b0,***,2026-11-14T21:47:11.106Z,4,Hit and Run
+7abbb374-29d5-4467-955c-2bb2c9180044,***,2026-11-14T18:43:09.355Z,3,Hit and Run
 38232ae4-23a1-443b-b0cd-7e00286efbf8,***,2026-11-13T13:48:26.946Z,1,Hit and Run
 f923f9ed-08ad-4377-97dd-e66b37b084cb,***,2026-11-13T00:19:49.293Z,2,Hit and Run
 1633f1ec-9fb6-4701-a672-d15072e1e952,***,2026-11-12T20:39:36.410Z,3,Hit and Run
