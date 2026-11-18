@@ -5,7 +5,7 @@ Visit Flock
 El Cajon CA PD
 Transparency Portal
 
-Last updated: Mon Nov 16 2026
+Last updated: Tue Nov 17 2026
 
 Overview
 
@@ -71,7 +71,7 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-784,141
+778,890
 
 Number of Searches
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-8,989
+8,668
 
 Sharing Network Data With
 
