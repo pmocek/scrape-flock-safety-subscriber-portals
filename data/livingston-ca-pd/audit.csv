@@ -1,4 +1,10 @@
 id,userId,searchDate,networkCount,reason
+25a7ee76-9491-47c3-8a90-f503a454fde3,***,2026-11-14T02:43:36.803Z,7,wanted vehicle
+61c6964c-acfb-453d-9cc4-463ab2abf865,***,2026-11-09T23:21:15.891Z,1,Search
+235f166b-9793-4a5c-a723-996f0514e184,***,2026-11-09T11:01:58.446Z,1,INVEST
+40f403b6-7737-427a-a878-5bc8ef42bd2e,***,2026-11-09T10:44:54.976Z,1,INVEST
+689a4453-4f6a-498a-b65c-70381f544076,***,2026-11-09T05:23:32.080Z,1,INVEST
+44d4025a-3f3f-4682-8de4-1ba31265cba1,***,2026-11-09T03:21:33.381Z,1,INVEST
 cc21c408-08d5-451e-b8e5-67ad4c7c74ac,***,2026-11-07T09:13:59.997Z,1,stolen vehicle
 637a1192-8b17-45a1-b25f-53f9de976dcc,***,2026-11-05T20:54:20.977Z,1,Attempting to determine vehicles last known direction/location
 0103f25a-edb9-404c-b93f-e60cf3338de4,***,2026-11-05T20:43:24.887Z,7,Attempting to determine vehicles last known location
