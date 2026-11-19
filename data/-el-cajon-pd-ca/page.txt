@@ -5,7 +5,7 @@ Visit Flock
 El Cajon CA PD
 Transparency Portal
 
-Last updated: Tue Nov 17 2026
+Last updated: Wed Nov 18 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-778,890
+775,702
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-486
+497
 
 Hotlists Alerted On
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-8,668
+8,399
 
 Sharing Network Data With
 
@@ -238,7 +238,6 @@ Covington LA PD
 Crowley TX PD
 CSU Long Beach PD (CA)
 Cullman County AL SO
-Culver City CA PD
 Cumberland Metro IN PD
 CVG Airport KY PD
 Cypress CA PD
@@ -692,7 +691,6 @@ UT - Cedar City PD
 Vacaville CA PD
 Vallejo CA PD
 Vandalia OH PD
-Ventura CA PD
 Ventura County CA SO
 Ventura County District Attorney's Office CA
 Vernon CA PD
