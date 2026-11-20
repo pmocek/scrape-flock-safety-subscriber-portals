@@ -5,7 +5,7 @@ Visit Flock
 Rockingham County VA SO
 Transparency Portal
 
-Last updated: Wed Nov 18 2026
+Last updated: Thu Nov 19 2026
 
 Overview
 
@@ -36,13 +36,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-128,955
+128,606
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-35
+38
 
 Hotlists Alerted On
 
