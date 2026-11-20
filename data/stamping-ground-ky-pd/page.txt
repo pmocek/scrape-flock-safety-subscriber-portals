@@ -6,7 +6,7 @@ Visit Flock
 Stamping Ground KY PD
 Transparency Portal
 
-Last updated: Thu Nov 19 2026
+Last updated: Fri Nov 20 2026
 
 Overview
 
@@ -80,7 +80,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-14,521
+14,494
 
 Number of Searches
 
@@ -403,7 +403,6 @@ Carrollton GA PD
 Cartersville GA PD
 Carthage MS PD
 Cary IL PD
-Casey IL PD
 Cass County IN SO
 Cass County MI SO
 Catawba Nation Tribal SC PD
@@ -438,7 +437,6 @@ Clarksville IN PD
 Clawson MI PD
 Clayton County GA PD
 Clayton NC PD
-Clearwater FL PD
 Cleveland County NC SO
 Cleveland Metro Parks OH PD
 Clinton TN PD
@@ -703,7 +701,6 @@ Joliet IL PD
 Jonesboro AR PD
 Kalamazoo Township MI PD
 Kankakee County IL SO
-Kenmore Village NY PD
 Kenosha County WI SO
 Kentwood MI PD
 Kernersville NC PD
