@@ -5,7 +5,7 @@ Visit Flock
 Livermore CA PD
 Transparency Portal
 
-Last updated: Mon Nov 16 2026
+Last updated: Thu Nov 19 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-1,134,570
+1,094,068
 
 Livermore PD searches in the last 30 days
 
 Total user search sessions over the last 30 days.
 
-283
+291
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-7,922
+6,881
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
@@ -146,7 +146,6 @@ Costa Mesa CA PD
 Cotati CA PD
 Covina CA PD
 CSU Long Beach PD (CA)
-Culver City CA PD
 Cypress CA PD
 Daly City CA PD
 Danville CA PD
@@ -382,7 +381,6 @@ Berkeley PD
 Upland CA PD
 Vacaville CA PD
 Vallejo CA PD
-Ventura CA PD
 Ventura County CA SO
 Ventura County District Attorney's Office CA
 Vernon CA PD
