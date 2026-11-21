@@ -1,4 +1,7 @@
 id,userId,searchDate,networkCount,reason
+b72710d5-8b54-4e1a-8d37-52fa261b6ded,***,2026-11-20T06:24:02.037Z,7,stolen vehicle search
+999f14cc-d0a5-4329-bbc3-4a160f6e3d44,***,2026-11-20T06:19:56.485Z,7,locate bumper
+6d51e2af-b254-4b74-b6c8-9b5b50ec88f1,***,2026-11-20T06:17:12.578Z,1,invest
 25a7ee76-9491-47c3-8a90-f503a454fde3,***,2026-11-14T02:43:36.803Z,7,wanted vehicle
 61c6964c-acfb-453d-9cc4-463ab2abf865,***,2026-11-09T23:21:15.891Z,1,Search
 235f166b-9793-4a5c-a723-996f0514e184,***,2026-11-09T11:01:58.446Z,1,INVEST
