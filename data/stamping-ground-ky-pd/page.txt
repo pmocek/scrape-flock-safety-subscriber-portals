@@ -6,56 +6,57 @@ Visit Flock
 Stamping Ground KY PD
 Transparency Portal
 
-Last updated: Fri Nov 20 2026
+Last updated: Sat Nov 21 2026
 
 Overview
 
 Stamping Ground KY PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Stamping Ground KY PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Stamping Ground KY PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
 
 Community Impact
-82
+121
 KENTUCKY SUCCESS STORIES IN THE NEWS
 In the Kentucky News
-NICHOLASVILLE, KY
-6/18/2026
+SHELBYVILLE, KY
+10/29/2026
 
 STOLEN VEHICLE RECOVERY
 
-Flock LPR Aids Arrest of Armed Fugitive in Nicholasville, KY
+Flock Cameras Help Shelbyville Police Recover Stolen Lexington Car
 LPR
 Read full story
-MAMMOTH CAVE, KY
-6/1/2026
+GLASGOW, KY
+10/25/2026
 
 STOLEN VEHICLE RECOVERY
 
-Flock LPR Aids Stolen Van Recovery and Arrest in Kentucky
+Flock LPR Alert Leads to Stolen Vehicle Arrest in Glasgow, Kentucky
 LPR
 Read full story
 PADUCAH, KY
-5/15/2026
+10/13/2026
 
 FUGITIVE / WARRANT APPREHENSION
 
-Flock LPR Alert Leads to Fugitive's Arrest in Paducah, KY
+Flock LPR Helps Deputies Find Wanted Georgia Man in McCracken County, KY
 LPR
 Read full story
-NEWPORT, KY
-5/9/2026
+HENDERSON, KY
+10/5/2026
 
-HOMICIDE / MURDER
+BURGLARY / BREAKING & ENTERING
 
-Flock LPR Helps Newport Detectives Locate Shooting Suspects' Vehicle
+Flock LPR Helps Arrest Stalking Suspect Before Reaching Victim in Henderson, KY
 LPR
 Read full story
-LOUISVILLE, KY
-5/2/2026
+PADUCAH, KY
+10/1/2026
 
-ASSAULT / AGGRAVATED ASSAULT
+STOLEN VEHICLE RECOVERY
 
-Flock LPR Helps Louisville Police Identify Road Rage Shooting Suspect
-VIDEO
+Flock LPR Alert Leads to Stolen Vehicle Recovery and Arrest in Paducah
+LPR
 Read full story
+See more solved stories
 Data & Usage Summary
 
 Data Retention
@@ -80,7 +81,7 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-14,494
+14,452
 
 Number of Searches
 
