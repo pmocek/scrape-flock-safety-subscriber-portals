@@ -1,4 +1,7 @@
 id,userId,searchDate,networkCount,reason,offenseType
+4a77a9f6-03c9-4680-8d06-226c39c70db5,***,2026-11-10T20:09:28.208Z,14,Susp Veh,Larceny/Theft Offenses
+7f297525-dcf8-435d-9d3d-d5b20d441bc3,***,2026-11-10T07:05:49.282Z,163,ATL,Assault/Battery Offenses (Domestic)
+e7065cd1-8ce7-4075-935f-7c7236f38fe8,***,2026-11-09T19:07:35.789Z,1,Susp Veh,Larceny/Theft Offenses
 2971d9e3-3c36-46f5-ac3c-64046b9aea41,***,2026-11-06T22:15:52.798Z,1,theft,Burglary/Breaking & Entering
 6e5800e9-0426-4fba-bbc6-3d9c7f29110c,***,2026-11-06T21:18:43.628Z,190,theft,Burglary/Breaking & Entering
 f1e2e113-dad8-4986-bdcf-4f084d5dea3b,***,2026-11-06T00:51:36.064Z,164,Drugs,Drugs/Narcotics
