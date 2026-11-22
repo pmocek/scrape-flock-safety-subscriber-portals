@@ -1,4 +1,11 @@
 id,userId,searchDate,networkCount,reason
+dd9c947a-2acb-416f-bd72-1564802f1f1d,***,2026-11-19T21:03:07.369Z,118,suspect vehicle
+a7bc5593-1c76-43f3-87d0-d92ce5e4e592,***,2026-11-19T20:41:19.932Z,118,suspect vehicle
+010f9f49-aeb6-4d63-a35c-77fc5e707754,***,2026-11-19T18:22:21.303Z,118,suspect vehicle
+2edb7cf7-df2a-42af-86ef-b468da10111e,***,2026-11-19T15:24:14.209Z,98,suspect vehicle
+a17ed14a-96e8-40eb-8271-34df7315ad22,***,2026-11-19T15:14:05.256Z,98,vehicle theft
+92b9b4fc-50f3-4584-9309-b37e7cc983e6,***,2026-11-19T14:50:57.654Z,98,suspect vehicle
+1b5a1d17-4132-464d-b3b1-f9e8cf87fc60,***,2026-11-17T14:53:11.641Z,98,
 6056ddb2-d830-45d4-aad2-63eb9fa9c010,***,2026-11-13T19:39:56.633Z,98,vehicle theft
 7f301ab2-4381-40fe-a475-3f6ccf5e24f0,***,2026-11-13T15:58:21.870Z,8,vehicle theft
 eceb8b67-c32f-47fb-9f75-0095c8714b0e,***,2026-11-13T13:43:00.602Z,98,vehicle theft

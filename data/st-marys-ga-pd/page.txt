@@ -5,7 +5,7 @@ Visit Flock
 St. Marys GA PD
 Transparency Portal
 
-Last updated: Tue Nov 17 2026
+Last updated: Sun Nov 22 2026
 
 Overview
 
@@ -48,20 +48,20 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-12
+15
 
 Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-236
+161
 Top Offense Types
 
 Offense Types used for LPR searches in the last 30 days.
 
 Larceny/Theft Offenses
+Wanted Person (Arrest Warrant/Fugitive)
 Motor Vehicle Theft/Stolen
-Drugs/Narcotics
 Hit and Run/Car Accident
 Homicide/Death Investigation
 
@@ -105,6 +105,7 @@ Caswell County NC SO
 Cedartown GA PD
 Chadbourn NC PD
 Chambers County AL SO
+Charlton County GA SO
 Chatham-Savannah Counter Narcotics Team
 Cherokee County GA DA
 Clinton SC PD
@@ -136,10 +137,12 @@ Dodge County GA SO
 Douglasville GA PD
 Dunn NC PD
 DuPage Co IL Prosecutor Office
+East Point GA PD
 Eau Claire County WI SO
 ECU Health NC PD
 Effingham County GA SO
 El Cajon CA PD
+Elyria OH PD
 Evans County GA SO
 Fannin County GA SO
 Fishkill Town NY PD
@@ -248,6 +251,7 @@ Perry GA PD
 Pinellas County FL SO
 Pitt County NC SO
 Plymouth Township MI PD
+Pontotoc MS PD
 Port Wentworth GA PD
 Raleigh NC PD
 Richland County SC SO
@@ -272,6 +276,7 @@ South Barrington IL PD
 South Carolina Law Enforcement Division - SLED
 South Fulton GA PD
 Southampton VA SO
+Southern Ohio Drug Task Force (OH)
 Southern Pines NC PD
 Spalding County GA SO
 Springfield GA PD
@@ -280,6 +285,7 @@ Sumner County TN SO
 Sumter County GA SO
 Suwanee GA PD
 Tampa FL PD
+Tarboro NC PD
 Tarpon Springs FL PD
 Tattnall County GA SO
 Taylor County GA SO
@@ -294,6 +300,7 @@ University of West Georgia GA PD
 Upson County GA SO
 Urbana OH PD
 Vance County NC SO
+Villa Rica GA PD
 Village of Clearview WV PD
 Walthall County MS SO
 Warner Robins GA PD
