@@ -5,7 +5,7 @@ Visit Flock
 Braintree MA PD
 Transparency Portal
 
-Last updated: Fri Nov 20 2026
+Last updated: Sat Nov 21 2026
 
 Overview
 
@@ -52,63 +52,64 @@ Success Story - Human Trafficking
 
 Flock alerted detectives that a vehicle, that was the subject of an investigation into trafficking young female drugs addicts to commit credit card fraud, had entered Braintree. Detectives were able to locate the vehicle and the male operator was arrested on an outstanding warrant for credit card fraud.
 In the Massachusetts News
+LYNN, MA
+10/26/2026
+
+AMBER ALERT / CHILD ENDANGERMENT
+
+Flock Cameras Help Lynn Police Recover Child in Stolen Car Within 39 Minutes
+LPR
+Read full story
 WEYMOUTH, MA
-6/17/2026
-
-STOLEN VEHICLE RECOVERY
-
-Flock LPR Alert Leads to Stolen SUV Recovery and Arrest in Weymouth
-LPR
-Read full story
-EVERETT, MA
-6/15/2026
-
-STOLEN VEHICLE RECOVERY
-
-Flock LPR Helps Everett Police Arrest Four, Recover Firearms and Drugs
-LPR
-Read full story
-WALTHAM, MA
-5/27/2026
-
-OTHER
-
-Flock Cameras Help Identify Suspect in Fatal Waltham Road Rage Case
-VIDEO
-Read full story
-DOUGLAS, MA
-5/5/2026
-
-BURGLARY / BREAKING & ENTERING
-
-Flock LPR Helps Recover Stolen Dirt Bike and Lead to Arrest in Douglas, MA
-LPR
-Read full story
-BEVERLY, MA
-3/28/2026
+10/18/2026
 
 ARMED ROBBERY
 
-Flock LPR Helps Track Stolen Porsche After Beverly Mansion Invasion
+Flock LPR Helps Weymouth Police Identify Walmart Robbery Suspect
 LPR
 Read full story
+PEMBROKE, MA
+10/17/2026
+
+BURGLARY / BREAKING & ENTERING
+
+Flock Cameras Help Pembroke Police Solve Country Club Thefts in Massachusetts
+LPR
+Read full story
+LUDLOW, MA
+9/10/2026
+
+ASSAULT / AGGRAVATED ASSAULT
+
+Flock LPR Helps Identify Vehicle in Armed Home Invasion in Ludlow, MA
+LPR
+Read full story
+SPRINGFIELD, MA
+8/16/2026
+
+HOMICIDE / MURDER
+
+Flock LPR Helps Identify Suspect in Fatal Drive-By Shooting in Springfield
+LPR
+Read full story
+See more solved stories
 Data & Usage Summary
 Camera Alert Activity
 
 Camera alerts by source and topic over the last 30 days.
 
-354 alerts
+337 alerts
 NCIC - Stolen Plate
-218
+206
 NCIC - Sex Offender
-82
+80
 NCIC - Stolen Vehicle
-34
-NCIC - Gang or Suspected Terrorist
-7
+33
 NCIC - Missing Person
 6
 NCIC - CPIC Data Records
+5
+NCIC - Gang or Suspected Terrorist
 5
 NCIC - Warrants
 2
@@ -135,7 +136,7 @@ Number of Searches
 
 Total user search sessions over the last 30 days.
 
-149
+160
 
 Sharing Network Data With
 
