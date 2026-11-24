@@ -5,7 +5,7 @@ Visit Flock
 Clear Lake IA PD
 Transparency Portal
 
-Last updated: Mon Nov 16 2026
+Last updated: Mon Nov 23 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-66,622
+65,476
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-21
+27
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-309
+226
 
 Sharing Network Data With
 
@@ -151,7 +151,6 @@ North Sioux City SD PD
 Norwalk IA PD
 Nottawaseppi Huron Band of the Potawatomi Tribal Police MI
 Oelwein IA PD
-Osceola IA PD
 Pleasant Hill IA PD
 Polk City IA PD
 Portage WI PD
@@ -173,7 +172,6 @@ Village of French Island WI PD
 Wapello County IA SO
 Warren County IA SO
 Washington IA PD
-Waukon IA PD
 West Des Moines IA PD
 Policy & Trust
 
