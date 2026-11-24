@@ -5,7 +5,7 @@ Visit Flock
 Livingston CA PD
 Transparency Portal
 
-Last updated: Sat Nov 21 2026
+Last updated: Tue Nov 24 2026
 
 Overview
 
@@ -30,13 +30,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-115,228
+113,706
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-30
+38
 
 Hotlists Alerted On
 
@@ -48,7 +48,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-355
+574
 
 Sharing Network Data With
 

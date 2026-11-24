@@ -1,4 +1,15 @@
 id,userId,searchDate,networkCount,reason
+2a7c6637-e6ca-4477-9d42-96263b71917e,***,2026-11-23T04:53:34.904Z,1,investigations
+eaa706d2-cd21-42fc-ae1c-bab2b4c0d865,***,2026-11-23T03:46:29.626Z,1,investigations
+87f8383d-cc14-4a99-aceb-84b2b24fda9d,***,2026-11-22T05:06:56.152Z,1,suspect id
+f1ac9779-b08d-483b-9b55-043f8cd0abce,***,2026-11-21T08:20:31.515Z,1,Flock camera tampering
+83a8b8db-642b-441b-bb19-267ee47ad656,***,2026-11-21T07:39:10.596Z,1,investigation
+f8461fb3-5a7d-4f9f-90c1-ef239186c01b,***,2026-11-21T07:09:50.758Z,1,Flock camera tampering
+0cbaefe8-c396-4931-9b28-a1c986a758cc,***,2026-11-21T06:42:17.829Z,1,INVEST
+d36f8a1b-660d-4d05-8888-39e3f644825c,***,2026-11-21T05:35:39.781Z,1,stolen vehicle search
+e8443b2a-c226-45ca-b687-9df80efca56b,***,2026-11-21T05:29:35.012Z,7,Investigation
+79c37504-7de5-4a91-9eeb-d3ddd52b688e,***,2026-11-21T05:26:44.507Z,1,INVEST
+ec6dc2c5-2e11-4e3c-8a72-56e24fcec4b4,***,2026-11-21T05:26:27.002Z,7,Stolen
 b72710d5-8b54-4e1a-8d37-52fa261b6ded,***,2026-11-20T06:24:02.037Z,7,stolen vehicle search
 999f14cc-d0a5-4329-bbc3-4a160f6e3d44,***,2026-11-20T06:19:56.485Z,7,locate bumper
 6d51e2af-b254-4b74-b6c8-9b5b50ec88f1,***,2026-11-20T06:17:12.578Z,1,invest
