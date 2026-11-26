@@ -2,11 +2,11 @@
   "agencies_monitored": 225,
   "agencies_in_inventory": 1046,
   "agencies_unchecked": 821,
-  "ok": 169,
-  "blocked": 50,
+  "ok": 188,
+  "blocked": 31,
   "error": 6,
   "first_check": "2026-06-25T19:38:03.746729+00:00",
-  "last_check": "2026-11-25T23:48:34.273223+00:00",
+  "last_check": "2026-11-26T05:30:56.507624+00:00",
   "daily": [
     {
       "date": "2026-06-25",
@@ -349,6 +349,13 @@
       "checks": 90,
       "ok": 87,
       "error": 3,
+      "blocked": 0
+    },
+    {
+      "date": "2026-11-26",
+      "checks": 30,
+      "ok": 29,
+      "error": 1,
       "blocked": 0
     }
   ],
@@ -27327,10 +27334,10 @@
     },
     {
       "slug": "spokane-co-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-24T01:18:22.624245+00:00",
-      "checks_recorded": 32,
+      "status": "error",
+      "detail": "http_403",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 33,
       "series": [
         {
           "date": "2026-10-12",
@@ -27471,15 +27478,22 @@
           "ok": 0,
           "error": 0,
           "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "spokane-county-sherrif-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-24T01:18:22.624245+00:00",
-      "checks_recorded": 31,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 32,
       "series": [
         {
           "date": "2026-10-12",
@@ -27620,15 +27634,22 @@
           "ok": 0,
           "error": 0,
           "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "spokane-county-sherrif-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-24T01:18:22.624245+00:00",
-      "checks_recorded": 30,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 31,
       "series": [
         {
           "date": "2026-10-12",
@@ -27762,15 +27783,22 @@
           "ok": 0,
           "error": 0,
           "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "spokane-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-24T01:18:22.624245+00:00",
-      "checks_recorded": 32,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 33,
       "series": [
         {
           "date": "2026-10-12",
@@ -27918,15 +27946,22 @@
           "ok": 0,
           "error": 0,
           "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "spokane-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-24T01:18:22.624245+00:00",
-      "checks_recorded": 31,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 32,
       "series": [
         {
           "date": "2026-10-12",
@@ -28074,15 +28109,22 @@
           "ok": 0,
           "error": 0,
           "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "stanwood-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-24T01:18:22.624245+00:00",
-      "checks_recorded": 59,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 60,
       "series": [
         {
           "date": "2026-06-25",
@@ -28265,15 +28307,22 @@
           "ok": 0,
           "error": 0,
           "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "sultan-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-24T01:18:22.624245+00:00",
-      "checks_recorded": 49,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 50,
       "series": [
         {
           "date": "2026-06-27",
@@ -28449,15 +28498,22 @@
           "ok": 0,
           "error": 0,
           "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "sumner-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-24T01:18:22.624245+00:00",
-      "checks_recorded": 56,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 57,
       "series": [
         {
           "date": "2026-06-25",
@@ -28626,15 +28682,22 @@
           "ok": 0,
           "error": 0,
           "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "sumner-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-24T01:18:22.624245+00:00",
-      "checks_recorded": 27,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-10-17",
@@ -28775,15 +28838,22 @@
           "ok": 0,
           "error": 0,
           "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "sunnyside-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-24T01:18:22.624245+00:00",
-      "checks_recorded": 27,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-10-19",
@@ -28924,15 +28994,22 @@
           "ok": 0,
           "error": 0,
           "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "sunnyside-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-24T01:18:22.624245+00:00",
-      "checks_recorded": 26,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 27,
       "series": [
         {
           "date": "2026-10-19",
@@ -29080,15 +29157,22 @@
           "ok": 0,
           "error": 0,
           "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "suquamish-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-24T01:18:22.624245+00:00",
-      "checks_recorded": 26,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 27,
       "series": [
         {
           "date": "2026-10-19",
@@ -29236,15 +29320,22 @@
           "ok": 0,
           "error": 0,
           "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "the-hedges-homeowners-association-county-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-24T01:18:22.624245+00:00",
-      "checks_recorded": 26,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 27,
       "series": [
         {
           "date": "2026-10-16",
@@ -29399,14 +29490,198 @@
           "ok": 0,
           "error": 0,
           "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "the-hedges-homeowners-association-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-24T01:18:22.624245+00:00",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 28,
+      "series": [
+        {
+          "date": "2026-10-16",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-19",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-22",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-24",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-28",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-10-31",
+          "checks": 1,
+          "ok": 0,
+          "error": 1,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-01",
+          "checks": 3,
+          "ok": 3,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-02",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-06",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-07",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-08",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-09",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-10",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-12",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-15",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-17",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-18",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-20",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-21",
+          "checks": 2,
+          "ok": 2,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-23",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-24",
+          "checks": 1,
+          "ok": 0,
+          "error": 0,
+          "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        }
+      ]
+    },
+    {
+      "slug": "tieton-wa-pd",
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
       "checks_recorded": 27,
       "series": [
         {
@@ -29461,176 +29736,6 @@
         {
           "date": "2026-10-31",
           "checks": 1,
-          "ok": 0,
-          "error": 1,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-01",
-          "checks": 3,
-          "ok": 3,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-02",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-06",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-07",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-08",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-09",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-10",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-12",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-15",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-17",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-18",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-20",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-21",
-          "checks": 2,
-          "ok": 2,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-23",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-11-24",
-          "checks": 1,
-          "ok": 0,
-          "error": 0,
-          "blocked": 1
-        }
-      ]
-    },
-    {
-      "slug": "tieton-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-24T01:18:22.624245+00:00",
-      "checks_recorded": 26,
-      "series": [
-        {
-          "date": "2026-10-16",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-19",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-22",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-24",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-25",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-26",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-28",
-          "checks": 1,
-          "ok": 1,
-          "error": 0,
-          "blocked": 0
-        },
-        {
-          "date": "2026-10-31",
-          "checks": 1,
           "ok": 1,
           "error": 0,
           "blocked": 0
@@ -29739,15 +29844,22 @@
           "ok": 0,
           "error": 0,
           "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "toppenish-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-24T01:18:22.624245+00:00",
-      "checks_recorded": 56,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 57,
       "series": [
         {
           "date": "2026-06-25",
@@ -29937,15 +30049,22 @@
           "ok": 0,
           "error": 0,
           "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "toppenish-wa-pd-",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-24T01:18:22.624245+00:00",
-      "checks_recorded": 27,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-10-16",
@@ -30100,6 +30219,13 @@
           "ok": 0,
           "error": 0,
           "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -30107,8 +30233,8 @@
       "slug": "tukwila-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-23T03:17:17.365235+00:00",
-      "checks_recorded": 56,
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 57,
       "series": [
         {
           "date": "2026-06-25",
@@ -30294,6 +30420,13 @@
         },
         {
           "date": "2026-11-23",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-26",
           "checks": 1,
           "ok": 1,
           "error": 0,
@@ -30305,8 +30438,8 @@
       "slug": "tukwila-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-23T03:17:17.365235+00:00",
-      "checks_recorded": 28,
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 29,
       "series": [
         {
           "date": "2026-10-16",
@@ -30461,6 +30594,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -30468,8 +30608,8 @@
       "slug": "tuscany-homeowners-association-county-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-23T03:17:17.365235+00:00",
-      "checks_recorded": 28,
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 29,
       "series": [
         {
           "date": "2026-10-16",
@@ -30624,15 +30764,22 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "tuscany-homeowners-association-wa-so",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-21T15:40:11.761461+00:00",
-      "checks_recorded": 28,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 29,
       "series": [
         {
           "date": "2026-10-16",
@@ -30787,15 +30934,22 @@
           "ok": 2,
           "error": 0,
           "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "union-gap-wa-pd",
-      "status": "blocked",
-      "detail": "cloudflare",
-      "last_checked": "2026-11-21T15:40:11.761461+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 30,
       "series": [
         {
           "date": "2026-10-13",
@@ -30964,15 +31118,22 @@
           "ok": 2,
           "error": 0,
           "blocked": 1
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
     {
       "slug": "united-states-postal-service-wa-pd",
-      "status": "error",
-      "detail": "http_403",
-      "last_checked": "2026-11-25T15:01:44.061545+00:00",
-      "checks_recorded": 29,
+      "status": "ok",
+      "detail": "http_200",
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 30,
       "series": [
         {
           "date": "2026-10-13",
@@ -31141,6 +31302,13 @@
           "ok": 0,
           "error": 1,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -31148,8 +31316,8 @@
       "slug": "united-states-postal-service-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-25T15:01:44.061545+00:00",
-      "checks_recorded": 28,
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 29,
       "series": [
         {
           "date": "2026-10-13",
@@ -31318,6 +31486,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -31325,8 +31500,8 @@
       "slug": "valley-medical-center-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-25T15:01:44.061545+00:00",
-      "checks_recorded": 28,
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 29,
       "series": [
         {
           "date": "2026-10-13",
@@ -31488,6 +31663,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -31495,8 +31677,8 @@
       "slug": "valley-medical-center-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-25T15:01:44.061545+00:00",
-      "checks_recorded": 29,
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 30,
       "series": [
         {
           "date": "2026-10-13",
@@ -31651,6 +31833,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -31658,8 +31847,8 @@
       "slug": "walla-walla-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-25T15:01:44.061545+00:00",
-      "checks_recorded": 56,
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 57,
       "series": [
         {
           "date": "2026-06-25",
@@ -31849,6 +32038,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -31856,8 +32052,8 @@
       "slug": "walla-walla-wa-pd-",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-25T15:01:44.061545+00:00",
-      "checks_recorded": 27,
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 28,
       "series": [
         {
           "date": "2026-10-13",
@@ -32012,6 +32208,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -32019,8 +32222,8 @@
       "slug": "walla-walla-wa-so",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-25T15:01:44.061545+00:00",
-      "checks_recorded": 29,
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 30,
       "series": [
         {
           "date": "2026-10-13",
@@ -32189,6 +32392,13 @@
           "ok": 1,
           "error": 0,
           "blocked": 0
+        },
+        {
+          "date": "2026-11-26",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
         }
       ]
     },
@@ -32196,8 +32406,8 @@
       "slug": "wapato-wa-pd",
       "status": "ok",
       "detail": "http_200",
-      "last_checked": "2026-11-25T15:01:44.061545+00:00",
-      "checks_recorded": 28,
+      "last_checked": "2026-11-26T05:30:56.507624+00:00",
+      "checks_recorded": 29,
       "series": [
         {
           "date": "2026-10-13",
@@ -32362,6 +32572,13 @@
         },
         {
           "date": "2026-11-25",
+          "checks": 1,
+          "ok": 1,
+          "error": 0,
+          "blocked": 0
+        },
+        {
+          "date": "2026-11-26",
           "checks": 1,
           "ok": 1,
           "error": 0,
