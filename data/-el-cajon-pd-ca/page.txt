@@ -5,7 +5,7 @@ Visit Flock
 El Cajon CA PD
 Transparency Portal
 
-Last updated: Mon Nov 23 2026
+Last updated: Wed Nov 25 2026
 
 Overview
 
@@ -71,13 +71,13 @@ Vehicles detected in the last 30 days
 
 Number of unique plate reads over the last 30 days.
 
-786,439
+789,591
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-495
+494
 
 Hotlists Alerted On
 
@@ -89,7 +89,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-7,315
+12,059
 
 Sharing Network Data With
 
@@ -579,12 +579,10 @@ San Antonio TX PD
 San Augustine County TX SO
 San Benito County SO CA
 San Bernardino CA PD
-San Bernardino Community College CA PD
 San Bernardino County CA FD
 San Bernardino County CA Human Services [Law Enforcement]
 San Bernardino County CA SD
 San Bruno CA PD
-San Diego CA PD
 San Diego County CA SO
 San Diego County District Attorney
 San Diego Harbor CA PD
