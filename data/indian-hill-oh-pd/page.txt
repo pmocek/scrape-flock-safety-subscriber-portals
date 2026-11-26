@@ -5,7 +5,7 @@ Visit Flock
 Indian Hill OH PD
 Transparency Portal
 
-Last updated: Wed Nov 25 2026
+Last updated: Thu Nov 26 2026
 
 Overview
 
@@ -53,7 +53,7 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,139
+1,137
 Policy & Trust
 
 What's Detected
