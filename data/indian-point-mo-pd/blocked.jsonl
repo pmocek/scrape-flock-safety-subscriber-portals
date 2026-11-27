@@ -1,1 +1,2 @@
 {"ts": "2026-11-11T12:03:52.714364+00:00", "error": "Cloudflare", "consecutive_blocks": 1, "backoff_hours": 1, "retry_after": "2026-11-11T13:03:52.714364+00:00"}
+{"ts": "2026-11-27T11:00:37.309717+00:00", "error": "Cloudflare", "consecutive_blocks": 2, "backoff_hours": 1, "retry_after": "2026-11-27T12:00:37.309717+00:00"}
