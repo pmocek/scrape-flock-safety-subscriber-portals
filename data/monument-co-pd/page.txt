@@ -1,21 +1,84 @@
-Bad gateway Error code 502
-Visit cloudflare.com for more information.
-2026-11-27 14:07:51 UTC
-You
-Browser
-Working
-Minneapolis
-Cloudflare
-Working
-transparency.flocksafety.com
-Host
-Error
-What happened?
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+Monument CO PD
+Transparency Portal
 
-The web server reported a bad gateway error.
+Last updated: Sat Nov 28 2026
 
-What can I do?
+Overview
 
-Please try again in a few minutes.
+Monument CO PD uses Flock Safety technology to capture objective evidence without compromising on individual privacy. Monument CO PD utilizes retroactive search to solve crimes after they've occurred. Additionally, Monument CO PD utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, they have made the below policies and usage statistics available to the public.
 
-Cloudflare Ray ID: a611b39b4fb9a200 • Your IP: Click to reveal • Performance & security by Cloudflare
+Community Impact
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+6
+
+LPR Cameras
+
+Number of LPR cameras only.
+
+6
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+166,421
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+19
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCIC, NCMEC Amber Alert, Colorado Crime Information Center (CCIC)
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+772
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by Monument CO PD and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+
+Provided by Flock Safety
